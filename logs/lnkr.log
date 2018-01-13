@@ -1,0 +1,213 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/Linktastic-0.1.0.egg-info'...
+Listing './lib/python3.5/site-packages/blessings'...
+Listing './lib/python3.5/site-packages/blessings-1.6.1.dist-info'...
+Listing './lib/python3.5/site-packages/formic'...
+Compiling './lib/python3.5/site-packages/formic/command.py'...
+***   File "./lib/python3.5/site-packages/formic/command.py", line 199
+    print """Ant Globs
+=========
+
+Apache Ant fileset is documented at the Apache Ant project:
+
+* http://ant.apache.org/manual/dirtasks.html#patterns
+
+Examples
+--------
+
+Ant Globs are like simple file globs (they use ? and * in the same way), but
+include powerful ways for selecting directories. The examples below use the
+Ant glob naming, so a leading slash represents the top of the search, *not* the
+root of the file system.
+
+    *.py
+            Selects every matching file anywhere in the whole tree
+                Matches /foo.py and /bar/foo.py
+                but not /foo.pyc or /bar/foo.pyc/
+
+    /*.py
+            Selects every matching file in the root of the directory (but no
+            deeper).
+
+            Matches /foo.py but not /bar/foo.py
+
+    /myapp/**
+            Matches all files under /myapp and below.
+
+    /myapp/**/__init__.py
+            Matches all __init__.py files /myapp and below.
+
+    dir1/__init__.py
+            Selects every __init__.py in directory dir1. dir1
+            directory can be anywhere in the directory tree
+
+            Matches /dir1/file.py, /dir3/dir1/file.py and
+            /dir3/dir2/dir1/file.py but not /dir1/another/__init__.py.
+
+    **/dir1/__init__.py
+            Same as above.
+
+    /**/dir1/__init__.py
+            Same as above.
+
+    /myapp/**/dir1/__init__.py
+            Selects every __init__.py in dir1 in the directory tree
+            /myapp under the root.
+
+            Matches /myapp/dir1/__init__.py and /myapp/dir2/dir1/__init__.py
+            but not /myapp/file.txt and /dir1/file.txt
+
+Default excludes
+----------------
+
+Ant FileSet (and Formic) has built-in patterns to screen out a lot of
+development 'noise', such as hidden VCS files and directories. The full list is
+at:
+
+    * http://www.aviser.asia/formic/api.html#formic.formic.get_initial_default_excludes
+
+Default excludes can be simply switched off on both the command line and the
+API, for example::
+
+    $ formic -i "*.py" -e "__init__.py" "**/*test*/" "test_*" --no-default-excludes
+"""
+                      
+         
+
+                                                           
+
+                                                     
+
+        
+        
+
+                                                                            
+                                                                           
+                                                                               
+                        
+
+        
+                                                                  
+                                               
+                                                 
+
+         
+                                                                            
+                    
+
+                                               
+
+             
+                                                     
+
+                         
+                                                           
+
+                    
+                                                             
+                                                           
+
+                                                         
+                                                                      
+
+                       
+                          
+
+                        
+                          
+
+                              
+                                                                   
+                                  
+
+                                                                            
+                                                      
+
+                
+                
+
+                                                                     
+                                                                               
+   
+
+                                                                                       
+
+                                                                            
+                  
+
+                                                                                   
+  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/formic/test_formic.py'...
+***   File "./lib/python3.5/site-packages/formic/test_formic.py", line 103
+    print "find", directory, "-type f -name", pattern, ": found", lines, "files"
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/formic-0.9b8.egg-info'...
+Listing './lib/python3.5/site-packages/lnkr'...
+Compiling './lib/python3.5/site-packages/lnkr/processor.py'...
+***   File "./lib/python3.5/site-packages/lnkr/processor.py", line 138
+    os.makedirs(parent_path, 0755)
+                                ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/lnkr/term.py'...
+***   File "./lib/python3.5/site-packages/lnkr/term.py", line 35
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/lnkr-0.1.5.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/pytoml'...
+Listing './lib/python3.5/site-packages/pytoml-0.1.14.egg-info'...
+Listing './lib/python3.5/site-packages/pytz'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/Africa'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/America'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/America/Argentina'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/America/Indiana'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/America/Kentucky'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/America/North_Dakota'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/Antarctica'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/Arctic'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/Asia'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/Atlantic'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/Australia'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/Brazil'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/Canada'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/Chile'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/Etc'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/Europe'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/Indian'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/Mexico'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/Pacific'...
+Listing './lib/python3.5/site-packages/pytz/zoneinfo/US'...
+Listing './lib/python3.5/site-packages/pytz-2017.3.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

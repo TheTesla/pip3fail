@@ -1,0 +1,369 @@
+Listing '.'...
+Listing './bin'...
+Compiling './bin/pymir3-cl.py'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/mir3'...
+Listing './lib/python3.5/site-packages/mir3/data'...
+Listing './lib/python3.5/site-packages/mir3/lib'...
+Listing './lib/python3.5/site-packages/mir3/lib/midi'...
+Compiling './lib/python3.5/site-packages/mir3/lib/midi/DataTypeConverters.py'...
+***   File "./lib/python3.5/site-packages/mir3/lib/midi/DataTypeConverters.py", line 164
+    print 'readVar', readVar('@')
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/mir3/lib/midi/EventDispatcher.py'...
+***   File "./lib/python3.5/site-packages/mir3/lib/midi/EventDispatcher.py", line 135
+    raise ValueError, 'Illegal channel message!'
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/mir3/lib/midi/MidiFileParser.py'...
+***   File "./lib/python3.5/site-packages/mir3/lib/midi/MidiFileParser.py", line 48
+    raise TypeError, "It is not a valid midi file!"
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/mir3/lib/midi/MidiToText.py'...
+***   File "./lib/python3.5/site-packages/mir3/lib/midi/MidiToText.py", line 17
+    print 'message_type:%X, channel:%X, data size:%X' % (message_type, channel, len(data))
+                                                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/mir3/lib/midi/RawInstreamFile.py'...
+***   File "./lib/python3.5/site-packages/mir3/lib/midi/RawInstreamFile.py", line 102
+    print fis.nextSlice(len(fis.data))
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/mir3/lib/midi/example_print_channel_0.py'...
+***   File "./lib/python3.5/site-packages/mir3/lib/midi/example_print_channel_0.py", line 15
+    print channel, note, velocity, self.rel_time()
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/mir3/lib/midi/midi_test.py'...
+***   File "./lib/python3.5/site-packages/mir3/lib/midi/midi_test.py", line 16
+    print "Found a header!"
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/mir3/lib/mir'...
+Listing './lib/python3.5/site-packages/mir3/modules'...
+Listing './lib/python3.5/site-packages/mir3/modules/classification'...
+Compiling './lib/python3.5/site-packages/mir3/modules/classification/featurematrix.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/classification/featurematrix.py", line 92
+    print "Accuracy:", 50*(C1+C2), "%"
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/mir3/modules/evaluation'...
+Listing './lib/python3.5/site-packages/mir3/modules/features'...
+Compiling './lib/python3.5/site-packages/mir3/modules/features/join.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/features/join.py", line 46
+    print "Joining features"
+                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/features/stats.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/features/stats.py", line 238
+    print "Calculating stats..."
+                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/mir3/modules/info'...
+Compiling './lib/python3.5/site-packages/mir3/modules/info/activation_histogram.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/info/activation_histogram.py", line 50
+    print bins[k], n[k]
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/info/any.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/info/any.py", line 36
+    print "Wrong number for spacing: %d" % args.spacing
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/info/evaluation_csv.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/info/evaluation_csv.py", line 25
+    print "Info,N_estimated,N_reference,N_Correct,Recall,Precision,"\
+                                                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/info/evaluation_statistics.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/info/evaluation_statistics.py", line 27
+    print "Recall:    mean=%f, std_dev=%f" % (numpy.mean(r), numpy.std(r))
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/mir3/modules/info/features.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/info/features.py", line 27
+    print "Stored ", len(a.metadata.filename), " files"
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/mir3/modules/info/spectrogram.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/info/spectrogram.py", line 17
+    print '%e' % s.data[i,j],
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/info/track.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/info/track.py", line 28
+    print "Stored ", len(a.metadata.filename), " files"
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/mir3/modules/recommendation'...
+Compiling './lib/python3.5/site-packages/mir3/modules/recommendation/groupmutualproximity.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/recommendation/groupmutualproximity.py", line 37
+    print "Error: missing files!", missing_files
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/recommendation/mindist.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/recommendation/mindist.py", line 35
+    print "Error: missing files!", missing_files
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/recommendation/minmutualdist.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/recommendation/minmutualdist.py", line 35
+    print "Error: missing files!", missing_files
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/recommendation/mutualproximity.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/recommendation/mutualproximity.py", line 36
+    print "Error: missing files!", missing_files
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/recommendation/mutualrangedist.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/recommendation/mutualrangedist.py", line 35
+    print "Error: missing files!", missing_files
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/recommendation/naivebayes.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/recommendation/naivebayes.py", line 35
+    print "Error: missing files!", missing_files
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/recommendation/opn.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/recommendation/opn.py", line 35
+    print "Error: missing files!", missing_files
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/recommendation/pcabayes.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/recommendation/pcabayes.py", line 37
+    print "Error: missing files!", missing_files
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/recommendation/pcamutualrangedist.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/recommendation/pcamutualrangedist.py", line 37
+    print "Error: missing files!", missing_files
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/recommendation/pcarangedist.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/recommendation/pcarangedist.py", line 38
+    print "Error: missing files!", missing_files
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/recommendation/random.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/recommendation/random.py", line 35
+    print "Error: missing files!", missing_files
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/recommendation/rangedist.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/recommendation/rangedist.py", line 35
+    print "Error: missing files!", missing_files
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/recommendation/selectpcabayes.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/recommendation/selectpcabayes.py", line 38
+    print "Error: missing files!", missing_files
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/mir3/modules/structure'...
+Compiling './lib/python3.5/site-packages/mir3/modules/structure/naivebayes.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/structure/naivebayes.py", line 58
+    print T0/float(fs), " ", output[T0]
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/mir3/modules/structure/pcabayes.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/structure/pcabayes.py", line 63
+    print T0/float(fs), " ", output[T0]
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/mir3/modules/structure/texture.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/structure/texture.py", line 53
+    print T0/float(fs), " ", distance
+           ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/mir3/modules/supervised'...
+Listing './lib/python3.5/site-packages/mir3/modules/supervised/linear'...
+Listing './lib/python3.5/site-packages/mir3/modules/supervised/linear/decomposer'...
+Compiling './lib/python3.5/site-packages/mir3/modules/supervised/linear/decomposer/beta_nmf.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/supervised/linear/decomposer/beta_nmf.py", line 48
+    print "Basis doesn't have empty right side. Ignoring it."
+                                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/mir3/modules/supervised/linear/normalize'...
+Listing './lib/python3.5/site-packages/mir3/modules/symbolic'...
+Compiling './lib/python3.5/site-packages/mir3/modules/symbolic/density.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/symbolic/density.py", line 23
+    print dMean, dDev, dMin, dMax
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/symbolic/intervals.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/symbolic/intervals.py", line 40
+    print histogram[i],
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/symbolic/pitchclass.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/symbolic/pitchclass.py", line 34
+    print tone,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/symbolic/range.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/symbolic/range.py", line 22
+    print min_note, max_note
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/symbolic/relativerange.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/symbolic/relativerange.py", line 34
+    print maxRange, meanRange, devRange
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/symbolic/rhythm.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/symbolic/rhythm.py", line 27
+    print histogram[i],
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/mir3/modules/tool'...
+Compiling './lib/python3.5/site-packages/mir3/modules/tool/label2score.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/tool/label2score.py", line 65
+    except ValueError, TypeError:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/mir3/modules/tool/mergecsv2weka.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/tool/mergecsv2weka.py", line 50
+    print output
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/tool/midi2score.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/tool/midi2score.py", line 97
+    raise IOError, \
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/mir3/modules/tool/score2midi.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/tool/score2midi.py", line 93
+    raise ValueError, 'Invalid note.'
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/mir3/modules/unsupervised'...
+Listing './lib/python3.5/site-packages/mir3/modules/unsupervised/detection'...
+Listing './lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold'...
+Compiling './lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/best_f.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/best_f.py", line 67
+    print best_file_name
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/best_note_distribution.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/best_note_distribution.py", line 45
+    print best_file_name
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/best_periodicity.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/best_periodicity.py", line 49
+    print best_file_name
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/elbow.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/elbow.py", line 57
+    print best_file_name
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/lower_pitchclass_entropy.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/lower_pitchclass_entropy.py", line 46
+    print best_file_name
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/lower_rhythm_entropy.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/lower_rhythm_entropy.py", line 47
+    print best_file_name
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/select_best.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/select_best.py", line 18
+    print best_th
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/tests.py'...
+***   File "./lib/python3.5/site-packages/mir3/modules/unsupervised/detection/threshold/tests.py", line 33
+    print level
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/mir3/modules/unsupervised/filtering'...
+Compiling './lib/python3.5/site-packages/mir3/subparser.py'...
+***   File "./lib/python3.5/site-packages/mir3/subparser.py", line 74
+    print "No class with method 'get_arguments' found while " \
+                                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/pymir3-1.0.egg-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

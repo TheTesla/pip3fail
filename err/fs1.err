@@ -1,0 +1,295 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/fs1'...
+Compiling './lib/python3.5/site-packages/fs1/appdirfs.py'...
+***   File "./lib/python3.5/site-packages/fs1/appdirfs.py", line 87
+    print udfs
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fs1/base.py'...
+***   File "./lib/python3.5/site-packages/fs1/base.py", line 903
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/browsewin.py'...
+***   File "./lib/python3.5/site-packages/fs1/browsewin.py", line 108
+    except FSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/fs1/commands'...
+Compiling './lib/python3.5/site-packages/fs1/commands/fscp.py'...
+***   File "./lib/python3.5/site-packages/fs1/commands/fscp.py", line 34
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/commands/fsserve.py'...
+***   File "./lib/python3.5/site-packages/fs1/commands/fsserve.py", line 85
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/commands/runner.py'...
+***   File "./lib/python3.5/site-packages/fs1/commands/runner.py", line 353
+    except FSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/fs1/contrib'...
+Listing './lib/python3.5/site-packages/fs1/contrib/bigfs'...
+Listing './lib/python3.5/site-packages/fs1/contrib/davfs'...
+Compiling './lib/python3.5/site-packages/fs1/contrib/davfs/__init__.py'...
+***   File "./lib/python3.5/site-packages/fs1/contrib/davfs/__init__.py", line 335
+    except socket.error, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/contrib/sqlitefs.py'...
+***   File "./lib/python3.5/site-packages/fs1/contrib/sqlitefs.py", line 441
+    info['st_mode'] = 0755
+                         ^
+SyntaxError: invalid token
+
+Listing './lib/python3.5/site-packages/fs1/contrib/tahoelafs'...
+Compiling './lib/python3.5/site-packages/fs1/contrib/tahoelafs/__init__.py'...
+***   File "./lib/python3.5/site-packages/fs1/contrib/tahoelafs/__init__.py", line 272
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/contrib/tahoelafs/connection.py'...
+***   File "./lib/python3.5/site-packages/fs1/contrib/tahoelafs/connection.py", line 66
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/contrib/tahoelafs/util.py'...
+***   File "./lib/python3.5/site-packages/fs1/contrib/tahoelafs/util.py", line 22
+    print "simplejson (http://pypi.python.org/pypi/simplejson/) required"
+                                                                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/errors.py'...
+***   File "./lib/python3.5/site-packages/fs1/errors.py", line 220
+    except ResourceNotFoundError, e:
+                                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/fs1/expose'...
+Listing './lib/python3.5/site-packages/fs1/expose/dokan'...
+Compiling './lib/python3.5/site-packages/fs1/expose/dokan/__init__.py'...
+***   File "./lib/python3.5/site-packages/fs1/expose/dokan/__init__.py", line 174
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/expose/ftp.py'...
+***   File "./lib/python3.5/site-packages/fs1/expose/ftp.py", line 193
+    mode = 0660
+              ^
+SyntaxError: invalid token
+
+Listing './lib/python3.5/site-packages/fs1/expose/fuse'...
+Compiling './lib/python3.5/site-packages/fs1/expose/fuse/__init__.py'...
+***   File "./lib/python3.5/site-packages/fs1/expose/fuse/__init__.py", line 407
+    info['st_mode'] = 0755
+                         ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/fs1/expose/fuse/fuse.py'...
+***   File "./lib/python3.5/site-packages/fs1/expose/fuse/fuse.py", line 334
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/expose/fuse/fuse_ctypes.py'...
+***   File "./lib/python3.5/site-packages/fs1/expose/fuse/fuse_ctypes.py", line 334
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/expose/http.py'...
+***   File "./lib/python3.5/site-packages/fs1/expose/http.py", line 72
+    except FSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/expose/importhook.py'...
+***   File "./lib/python3.5/site-packages/fs1/expose/importhook.py", line 185
+    exec code in mod.__dict__
+            ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/fs1/expose/sftp.py'...
+***   File "./lib/python3.5/site-packages/fs1/expose/sftp.py", line 76
+    except ResourceNotFoundError, e:
+                                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/fs1/expose/wsgi'...
+Compiling './lib/python3.5/site-packages/fs1/expose/wsgi/serve_home.py'...
+***   File "./lib/python3.5/site-packages/fs1/expose/wsgi/serve_home.py", line 9
+    print "Serving on http://127.0.0.1:8000"
+                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fs1/expose/wsgi/wsgi.py'...
+***   File "./lib/python3.5/site-packages/fs1/expose/wsgi/wsgi.py", line 13
+    print "Requires mako templates http://www.makotemplates.org/"
+                                                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fs1/ftpfs.py'...
+***   File "./lib/python3.5/site-packages/fs1/ftpfs.py", line 608
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/httpfs.py'...
+***   File "./lib/python3.5/site-packages/fs1/httpfs.py", line 53
+    except URLError, e:
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/memoryfs.py'...
+***   File "./lib/python3.5/site-packages/fs1/memoryfs.py", line 581
+    info['st_mode'] = 0755 | stat.S_IFDIR
+                         ^
+SyntaxError: invalid token
+
+Listing './lib/python3.5/site-packages/fs1/osfs'...
+Compiling './lib/python3.5/site-packages/fs1/osfs/__init__.py'...
+***   File "./lib/python3.5/site-packages/fs1/osfs/__init__.py", line 51
+    def _os_mkdir(name, mode=0777):
+                                ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/fs1/osfs/watch_inotify.py'...
+***   File "./lib/python3.5/site-packages/fs1/osfs/watch_inotify.py", line 21
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/osfs/watch_win32.py'...
+***   File "./lib/python3.5/site-packages/fs1/osfs/watch_win32.py", line 229
+    except WindowsError, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/path.py'...
+***   File "./lib/python3.5/site-packages/fs1/path.py", line 654
+    print recursepath('a/b/c')
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/remote.py'...
+***   File "./lib/python3.5/site-packages/fs1/remote.py", line 425
+    info = {"info" : 0700 | statinfo.S_IFREG}
+                        ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/fs1/remotefs.py'...
+***   File "./lib/python3.5/site-packages/fs1/remotefs.py", line 38
+    print "No data"
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fs1/rpcfs.py'...
+***   File "./lib/python3.5/site-packages/fs1/rpcfs.py", line 31
+    except (xmlrpclib.Fault), f:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/s3fs.py'...
+***   File "./lib/python3.5/site-packages/fs1/s3fs.py", line 44
+    raise AttributeError, attr
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/sftpfs.py'...
+***   File "./lib/python3.5/site-packages/fs1/sftpfs.py", line 186
+    except paramiko.BadAuthenticationType, e:
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/tempfs.py'...
+***   File "./lib/python3.5/site-packages/fs1/tempfs.py", line 32
+    def __init__(self, identifier=None, temp_dir=None, dir_mode=0700, thread_synchronize=_thread_synchronize_default):
+                                                                   ^
+SyntaxError: invalid token
+
+Listing './lib/python3.5/site-packages/fs1/tests'...
+Compiling './lib/python3.5/site-packages/fs1/tests/__init__.py'...
+***   File "./lib/python3.5/site-packages/fs1/tests/__init__.py", line 972
+    raise e, None, t
+           ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/fs1/tests/data'...
+Compiling './lib/python3.5/site-packages/fs1/tests/test_rpcfs.py'...
+***   File "./lib/python3.5/site-packages/fs1/tests/test_rpcfs.py", line 51
+    except socket.error, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/utils.py'...
+***   File "./lib/python3.5/site-packages/fs1/utils.py", line 596
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/fs1/wrapfs'...
+Compiling './lib/python3.5/site-packages/fs1/wrapfs/__init__.py'...
+***   File "./lib/python3.5/site-packages/fs1/wrapfs/__init__.py", line 35
+    except ResourceError, e:
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/wrapfs/debugfs.py'...
+***   File "./lib/python3.5/site-packages/fs1/wrapfs/debugfs.py", line 108
+    except AttributeError, e:
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/xattrs.py'...
+***   File "./lib/python3.5/site-packages/fs1/xattrs.py", line 192
+    except ResourceNotFoundError,e:
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fs1/zipfs.py'...
+***   File "./lib/python3.5/site-packages/fs1/zipfs.py", line 129
+    except BadZipfile, bzf:
+                     ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/fs1-0.6.0.dist-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './lib/python3.5/site-packages/six-1.11.0.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

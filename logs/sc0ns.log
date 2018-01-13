@@ -1,0 +1,285 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/SCons'...
+Compiling './lib/python3.5/site-packages/SCons/Action.py'...
+***   File "./lib/python3.5/site-packages/SCons/Action.py", line 675
+    except EnvironmentError, e:
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Builder.py'...
+***   File "./lib/python3.5/site-packages/SCons/Builder.py", line 170
+    except KeyError, e:
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Defaults.py'...
+***   File "./lib/python3.5/site-packages/SCons/Defaults.py", line 224
+    except os.error, e:
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Job.py'...
+***   File "./lib/python3.5/site-packages/SCons/Job.py", line 281
+    except AttributeError, e:
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Memoize.py'...
+***   File "./lib/python3.5/site-packages/SCons/Memoize.py", line 146
+    print fmt % (self.hit, self.miss, self.name)
+            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/SCons/Node'...
+Compiling './lib/python3.5/site-packages/SCons/Node/FS.py'...
+***   File "./lib/python3.5/site-packages/SCons/Node/FS.py", line 553
+    except AttributeError, e:
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Node/__init__.py'...
+***   File "./lib/python3.5/site-packages/SCons/Node/__init__.py", line 374
+    except SCons.Errors.BuildError, e:
+                                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/SCons/Options'...
+Listing './lib/python3.5/site-packages/SCons/Platform'...
+Compiling './lib/python3.5/site-packages/SCons/Platform/posix.py'...
+***   File "./lib/python3.5/site-packages/SCons/Platform/posix.py", line 80
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Platform/win32.py'...
+***   File "./lib/python3.5/site-packages/SCons/Platform/win32.py", line 127
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/SConf.py'...
+***   File "./lib/python3.5/site-packages/SCons/SConf.py", line 242
+    print type, value
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/SCons/SConsign.py'...
+***   File "./lib/python3.5/site-packages/SCons/SConsign.py", line 87
+    print "DataBase =", DataBase
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/SCons/Scanner'...
+Compiling './lib/python3.5/site-packages/SCons/Scanner/C.py'...
+***   File "./lib/python3.5/site-packages/SCons/Scanner/C.py", line 62
+    except EnvironmentError, e:
+                           ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/SCons/Script'...
+Compiling './lib/python3.5/site-packages/SCons/Script/Interactive.py'...
+***   File "./lib/python3.5/site-packages/SCons/Script/Interactive.py", line 132
+    print "*** Unknown command: %s" % argv[0]
+                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/SCons/Script/Main.py'...
+***   File "./lib/python3.5/site-packages/SCons/Script/Main.py", line 227
+    print "scons: Nothing to be done for `%s'." % t
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/SCons/Script/SConsOptions.py'...
+***   File "./lib/python3.5/site-packages/SCons/Script/SConsOptions.py", line 164
+    except ValueError, v:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Script/SConscript.py'...
+***   File "./lib/python3.5/site-packages/SCons/Script/SConscript.py", line 116
+    except KeyError, x:
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Script/__init__.py'...
+***   File "./lib/python3.5/site-packages/SCons/Script/__init__.py", line 367
+    exec "%s = _SConscript.DefaultEnvironmentCall(%s)" % (name, repr(name))
+                                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Subst.py'...
+***   File "./lib/python3.5/site-packages/SCons/Subst.py", line 441
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Taskmaster.py'...
+***   File "./lib/python3.5/site-packages/SCons/Taskmaster.py", line 192
+    print "Preparing target %s..."%t
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/SCons/Tool'...
+Compiling './lib/python3.5/site-packages/SCons/Tool/FortranCommon.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/FortranCommon.py", line 64
+    print "Could not locate " + str(node.name)
+                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/SCons/Tool/MSCommon'...
+Compiling './lib/python3.5/site-packages/SCons/Tool/MSCommon/common.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/MSCommon/common.py", line 41
+    print x
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/MSCommon/netframework.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/MSCommon/netframework.py", line 43
+    except WindowsError, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/MSCommon/sdk.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/MSCommon/sdk.py", line 83
+    except WindowsError, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/MSCommon/vc.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/MSCommon/vc.py", line 120
+    except KeyError, e:
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/MSCommon/vs.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/MSCommon/vs.py", line 88
+    except WindowsError, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/__init__.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/__init__.py", line 113
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/filesystem.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/filesystem.py", line 69
+    except KeyError, e:
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/install.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/install.py", line 84
+    except (IOError, os.error), why:
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/intelc.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/intelc.py", line 208
+    except MissingRegistryError, e:
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/mslink.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/mslink.py", line 198
+    print "Registered %s sucessfully" % target[0]
+                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/msvs.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/msvs.py", line 354
+    print "Adding '" + self.name + ' - ' + config.variant + '|' + config.platform + "' to '" + str(dspfile) + "'"
+                   ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/SCons/Tool/packaging'...
+Compiling './lib/python3.5/site-packages/SCons/Tool/packaging/__init__.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/packaging/__init__.py", line 123
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/packaging/msi.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/packaging/msi.py", line 219
+    except KeyError, e:
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/packaging/rpm.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/packaging/rpm.py", line 118
+    except KeyError, e:
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/qt.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/qt.py", line 133
+    print "scons: qt: '%s' seems to be a binary. Discarded." % str(obj)
+                                                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/tex.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/tex.py", line 156
+    print " searching for '%s' with extensions: " % name,suffixes
+                                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/SCons/Tool/textfile.py'...
+***   File "./lib/python3.5/site-packages/SCons/Tool/textfile.py", line 110
+    except (OSError,IOError), e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/Util.py'...
+***   File "./lib/python3.5/site-packages/SCons/Util.py", line 721
+    if stat.S_IMODE(st[stat.ST_MODE]) & 0111:
+                                           ^
+SyntaxError: invalid token
+
+Listing './lib/python3.5/site-packages/SCons/Variables'...
+Compiling './lib/python3.5/site-packages/SCons/Variables/__init__.py'...
+***   File "./lib/python3.5/site-packages/SCons/Variables/__init__.py", line 173
+    exec open(filename, 'rU').read() in {}, values
+            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/SCons/compat'...
+Compiling './lib/python3.5/site-packages/SCons/compat/_scons_subprocess.py'...
+***   File "./lib/python3.5/site-packages/SCons/compat/_scons_subprocess.py", line 442
+    return type(obj) in (type(1), type(1L))
+                                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/SCons/dblite.py'...
+***   File "./lib/python3.5/site-packages/SCons/dblite.py", line 17
+    print "Warning: Discarding corrupt database:", filename
+                                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/sc0ns-2.2.0.post1.egg-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

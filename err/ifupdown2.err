@@ -1,0 +1,263 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/addons'...
+Compiling './lib/python3.5/site-packages/addons/address.py'...
+***   File "./lib/python3.5/site-packages/addons/address.py", line 25
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/addons/addressvirtual.py'...
+***   File "./lib/python3.5/site-packages/addons/addressvirtual.py", line 22
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/addons/bond.py'...
+***   File "./lib/python3.5/site-packages/addons/bond.py", line 25
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/addons/bridge.py'...
+***   File "./lib/python3.5/site-packages/addons/bridge.py", line 29
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/addons/bridgevlan.py'...
+***   File "./lib/python3.5/site-packages/addons/bridgevlan.py", line 14
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/addons/dhcp.py'...
+***   File "./lib/python3.5/site-packages/addons/dhcp.py", line 20
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/addons/ethtool.py'...
+***   File "./lib/python3.5/site-packages/addons/ethtool.py", line 20
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/addons/link.py'...
+***   File "./lib/python3.5/site-packages/addons/link.py", line 20
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/addons/mstpctl.py'...
+***   File "./lib/python3.5/site-packages/addons/mstpctl.py", line 23
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/addons/usercmds.py'...
+***   File "./lib/python3.5/site-packages/addons/usercmds.py", line 12
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/addons/vlan.py'...
+***   File "./lib/python3.5/site-packages/addons/vlan.py", line 15
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/addons/vrf.py'...
+***   File "./lib/python3.5/site-packages/addons/vrf.py", line 27
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/addons/vrrpd.py'...
+***   File "./lib/python3.5/site-packages/addons/vrrpd.py", line 19
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/addons/vxlan.py'...
+***   File "./lib/python3.5/site-packages/addons/vxlan.py", line 23
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/argcomplete'...
+Listing './lib/python3.5/site-packages/argcomplete/bash_completion.d'...
+Listing './lib/python3.5/site-packages/argcomplete-1.9.3.dist-info'...
+Listing './lib/python3.5/site-packages/ifupdown'...
+Compiling './lib/python3.5/site-packages/ifupdown/argv.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/argv.py", line 16
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdown/exceptions.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/exceptions.py", line 14
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdown/graph.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/graph.py", line 15
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdown/iface.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/iface.py", line 20
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdown/ifupdownbase.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/ifupdownbase.py", line 19
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdown/ifupdownmain.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/ifupdownmain.py", line 41
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdown/log.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/log.py", line 16
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdown/main.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/main.py", line 22
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdown/netlink.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/netlink.py", line 22
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdown/networkinterfaces.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/networkinterfaces.py", line 20
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdown/policymanager.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/policymanager.py", line 35
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdown/scheduler.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/scheduler.py", line 26
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdown/statemanager.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/statemanager.py", line 20
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdown/template.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/template.py", line 14
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdown/utils.py'...
+***   File "./lib/python3.5/site-packages/ifupdown/utils.py", line 25
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/ifupdownaddons'...
+Compiling './lib/python3.5/site-packages/ifupdownaddons/LinkUtils.py'...
+***   File "./lib/python3.5/site-packages/ifupdownaddons/LinkUtils.py", line 31
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdownaddons/cache.py'...
+***   File "./lib/python3.5/site-packages/ifupdownaddons/cache.py", line 9
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdownaddons/dhclient.py'...
+***   File "./lib/python3.5/site-packages/ifupdownaddons/dhclient.py", line 13
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdownaddons/modulebase.py'...
+***   File "./lib/python3.5/site-packages/ifupdownaddons/modulebase.py", line 18
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdownaddons/mstpctlutil.py'...
+***   File "./lib/python3.5/site-packages/ifupdownaddons/mstpctlutil.py", line 15
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdownaddons/systemutils.py'...
+***   File "./lib/python3.5/site-packages/ifupdownaddons/systemutils.py", line 12
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ifupdownaddons/utilsbase.py'...
+***   File "./lib/python3.5/site-packages/ifupdownaddons/utilsbase.py", line 17
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/ipaddr-2.2.0.egg-info'...
+Listing './lib/python3.5/site-packages/nlmanager'...
+Compiling './lib/python3.5/site-packages/nlmanager/nllistener.py'...
+***   File "./lib/python3.5/site-packages/nlmanager/nllistener.py", line 143
+    except socket.error, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nlmanager/nlmanager.py'...
+***   File "./lib/python3.5/site-packages/nlmanager/nlmanager.py", line 489
+    print "Prefix            Nexthop           ifindex"
+                                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

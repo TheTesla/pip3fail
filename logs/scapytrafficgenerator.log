@@ -1,0 +1,529 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/ScapyTrafficGenerator-2.18.1.egg-info'...
+Listing './lib/python3.5/site-packages/TrafficGenerator'...
+Compiling './lib/python3.5/site-packages/TrafficGenerator/AgentParser.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/AgentParser.py", line 11
+    print json.dumps(DICT, sort_keys=True, indent=4, separators=(',', ': '))
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/DHCP_TrafficGenerator.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/DHCP_TrafficGenerator.py", line 118
+    print 'failed to run error'
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/DNS_TrafficGenerator.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/DNS_TrafficGenerator.py", line 49
+    print 'failed to run error'
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/FTP_TrafficGenerator.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/FTP_TrafficGenerator.py", line 91
+    print DIPS
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/HTTPS_TrafficGenerator.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/HTTPS_TrafficGenerator.py", line 78
+    print DIPS
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/HTTP_TrafficGenerator.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/HTTP_TrafficGenerator.py", line 112
+    print DIPS
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/ICMP_TrafficGenerator.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/ICMP_TrafficGenerator.py", line 93
+    print 'failed to run error'
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/OneWeekTraffic.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/OneWeekTraffic.py", line 39
+    print 'setting time with command', settimecommand
+                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/PortScan_TrafficGenerator.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/PortScan_TrafficGenerator.py", line 58
+    print 'failed to run error', getopt.GetoptError
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/SMB2_TrafficGenerator.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/SMB2_TrafficGenerator.py", line 92
+    print 'NO ACTION TAKEN'
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/SMB_TrafficGenerator.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/SMB_TrafficGenerator.py", line 68
+    print 'set int'
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/SMTP_TrafficGenerator.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/SMTP_TrafficGenerator.py", line 50
+    print 'failed to run error'
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/ScapyPacketGenerator.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/ScapyPacketGenerator.py", line 64
+    print 'sending %i packets a sec' %Verbose
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/ScapyPacketSender.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/ScapyPacketSender.py", line 59
+    print 'sending packet on interface:', iface, '\n   ', packet.show()
+                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/Scapy_Simple_Replay.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/Scapy_Simple_Replay.py", line 39
+    print 'planing to set all src %s with src %s' %(src, src_set)
+                                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/TCP_TrafficGenerator.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/TCP_TrafficGenerator.py", line 71
+    print DIPS
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/Template_TrafficGenerator.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/Template_TrafficGenerator.py", line 62
+    print 'failed to run error'
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/TrafficGenerator/scapy'...
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/ansmachine.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/ansmachine.py", line 56
+    raise AttributeError,attr
+                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/TrafficGenerator/scapy/arch'...
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/arch/linux.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/arch/linux.py", line 122
+    except OSError,msg:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/arch/pcapdnet.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/arch/pcapdnet.py", line 28
+    except ImportError,e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/arch/unix.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/arch/unix.py", line 71
+    dest = 0L
+            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/TrafficGenerator/scapy/arch/windows'...
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/arch/windows/__init__.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/arch/windows/__init__.py", line 205
+    print "%s  %s  %s" % ("IFACE".ljust(5), "IP".ljust(15), "MAC")
+                     ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/TrafficGenerator/scapy/asn1'...
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/asn1/asn1.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/asn1/asn1.py", line 103
+    except KeyError,msg:
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/asn1/ber.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/asn1/ber.py", line 63
+    l >>= 8L
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/asn1fields.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/asn1fields.py", line 226
+    except ASN1_Error,e:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/automaton.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/automaton.py", line 267
+    v.sort(lambda (t1,f1),(t2,f2): cmp(t1,t2))
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/autorun.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/autorun.py", line 60
+    print l
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/base_classes.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/base_classes.py", line 63
+    a = (x &  (0xffL<<netmask) , max(y, (x | (0xffL>>(8-netmask))))+1)
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/config.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/config.py", line 164
+    print repr(conf.commands)
+             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/TrafficGenerator/scapy/contrib'...
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/contrib/dtp.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (dtp.py, line 97)
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/contrib/eigrp.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (eigrp.py, line 438)
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/contrib/gsm_um.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/contrib/gsm_um.py", line 70
+    print "[Error]: There was a problem when trying to transmit data.\
+               Please make sure you started the socket server."
+                                                                      
+                                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/contrib/igmp.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/contrib/igmp.py", line 149
+    print "Warning: Using invalid Group Address"
+                                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/contrib/igmpv3.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/contrib/igmpv3.py", line 29
+    print "IGMPv3  is still under development - Nov 2010"
+                                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/TrafficGenerator/scapy/crypto'...
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/crypto/cert.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/crypto/cert.py", line 40
+    print "WARNING: %s" % m
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/dadict.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/dadict.py", line 38
+    return iter(map(lambda (x,y):y,filter(lambda (x,y):x and x[0]!="_", self.__dict__.items())))
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/data.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/data.py", line 74
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/fields.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/fields.py", line 644
+    v |= val & ((1L<<self.size) - 1)
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/TrafficGenerator/scapy/layers'...
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/all.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/layers/all.py", line 24
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/bluetooth.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/layers/bluetooth.py", line 181
+    s.setsockopt(socket.SOL_HCI, socket.HCI_FILTER, struct.pack("IIIh2x", 0xffffffffL,0xffffffffL,0xffffffffL,0)) #type mask, event mask, event mask, opcode
+                                                                                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/dhcp.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/layers/dhcp.py", line 330
+    print "Reply %s to %s" % (reply.getlayer(IP).dst,reply.dst)
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/dhcp6.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/layers/dhcp6.py", line 894
+    print ord(payload[0])
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/dns.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (dns.py, line 129)
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/dot11.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (dot11.py, line 172)
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/inet.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/layers/inet.py", line 361
+    except socket.error, msg:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/inet6.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (inet6.py, line 113)
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/ir.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/layers/ir.py", line 29
+    XIntField("Destination address", 0xffffffffL),
+                                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/isakmp.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/layers/isakmp.py", line 102
+    def type2num(self, (typ,val)):
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/l2.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/layers/l2.py", line 459
+    print r.sprintf("%19s,Ether.src% %ARP.psrc%")
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/netbios.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/layers/netbios.py", line 92
+    BitEnumField("OWNER_NODE_TYPE",00,2,{00:"B node",01:"P node",02:"M node",03:"H node"}),
+                                                      ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/smb.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/layers/smb.py", line 171
+    LEIntField("ServerTimeHigh",0xD6228000L),
+                                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/snmp.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/layers/snmp.py", line 245
+    print repr(r)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/ssl_tls.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/layers/ssl_tls.py", line 180
+    except AttributeError, ae:
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/layers/ssl_tls_crypto.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/layers/ssl_tls_crypto.py", line 491
+    except ValueError, ve:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/main.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/main.py", line 31
+    except IOError,e:
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/TrafficGenerator/scapy/modules'...
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/modules/geoip.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/modules/geoip.py", line 57
+    ip = ip[3]+(ip[2]<<8L)+(ip[1]<<16L)+(ip[0]<<24L)
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/modules/p0f.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/modules/p0f.py", line 307
+    print res
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/packet.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/packet.py", line 60
+    print "%-20s  %s" % (upper.__name__, ", ".join("%-12s" % ("%s=%r"%i) for i in fval.iteritems()))
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/pipetool.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/pipetool.py", line 28
+    print "%20s: %s" % (pn, doc)
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/plist.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/plist.py", line 101
+    print self._elt2sum(r)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/route.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/route.py", line 141
+    pathes.append((0xffffffffL,(LOOPBACK_NAME,a,"0.0.0.0")))
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/route6.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (route6.py, line 42)
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/scapypipes.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/scapypipes.py", line 44
+    print "start"
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/sendrecv.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/sendrecv.py", line 87
+    print "Begin emission:"
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/supersocket.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/supersocket.py", line 103
+    except socket.error,msg:
+                       ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/TrafficGenerator/scapy/tools'...
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/tools/UTscapy.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/tools/UTscapy.py", line 85
+    return dict(map(lambda (x,y): (x, y.name),  filter(lambda (x,y): isinstance(y, File), cls.__dict__.items())))
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/tools/check_asdis.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/tools/check_asdis.py", line 42
+    except getopt.GetoptError,e:
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/utils.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/utils.py", line 72
+    print "%04x  " % i,
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/utils6.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/utils6.py", line 158
+    tmp = [[]] + map(lambda (x,y,z): (in6_getAddrType(x), x, y, z), laddr)
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy/volatile.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy/volatile.py", line 129
+    RandNum.__init__(self, 0, 2L**8-1)
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/scapy_flow_splitter.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/scapy_flow_splitter.py", line 41
+    print 'reading' , pcapfile
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/TrafficGenerator/support'...
+Compiling './lib/python3.5/site-packages/TrafficGenerator/support/FTP_Support.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/support/FTP_Support.py", line 585
+    print 'setting up command'
+                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/support/HTTP_Support.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/support/HTTP_Support.py", line 99
+    print 'http support flow contorl set vlantag', self.vlanTag, 'with tag type',self.vlanTagType
+                                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/support/SMTP_Support.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/support/SMTP_Support.py", line 64
+    print 'connectiong flow'
+                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/support/SSL_TLS_Support.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/support/SSL_TLS_Support.py", line 17
+    print 'ssl type'
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/support/TCP_flow_control.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/support/TCP_flow_control.py", line 295
+    print 'setting up ssl handshake'
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/support/TemplateSupport.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/support/TemplateSupport.py", line 138
+    print 'forming deltas'
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/TrafficGenerator/support/smb2command'...
+Compiling './lib/python3.5/site-packages/TrafficGenerator/support/smb2command/Read.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/support/smb2command/Read.py", line 11
+    print 'reading file', self.ActiveFile
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/support/smb2command/Scapy_Control.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/support/smb2command/Scapy_Control.py", line 132
+    print 'to do'
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/support/smb2command/Write.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/support/smb2command/Write.py", line 10
+    print 'writing file', self.ActiveFile
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/TrafficGenerator/support/smbcommand'...
+Compiling './lib/python3.5/site-packages/TrafficGenerator/support/smbcommand/CreateAndx.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/support/smbcommand/CreateAndx.py", line 64
+    print 'File %s does not exist locally, cant write so faking a 10000 byte file'  %self.ActiveFile
+                                                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/support/smbcommand/Scapy_Control.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/support/smbcommand/Scapy_Control.py", line 135
+    print 'to do'
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/support/smbcommand/TransAction.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/support/smbcommand/TransAction.py", line 636
+    print 'do bad stuff after query'
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/support/smbcommand/asciicodemap.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/support/smbcommand/asciicodemap.py", line 165
+    print binascii.unhexlify(''.join('C8 4F 32 4B 70 16 D3 01 12 78 5A 47 BF 6E E1 88'.split()))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/TrafficGenerator/test.py'...
+***   File "./lib/python3.5/site-packages/TrafficGenerator/test.py", line 2438
+    print 'len packets:', len(PACKETS)
+                       ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

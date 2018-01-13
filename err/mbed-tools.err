@@ -1,0 +1,239 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/mbed_tools-0.1.14.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './lib/python3.5/site-packages/workspace_tools'...
+Compiling './lib/python3.5/site-packages/workspace_tools/autotest.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/autotest.py", line 61
+    print "=== %d %s" % (len(results), label)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/workspace_tools/build.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/build.py", line 104
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/workspace_tools/build_api.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/build_api.py", line 134
+    print '\n\nLibrary "%s" is not yet supported on target %s with toolchain %s' % (lib_id, target.name, toolchain)
+                                                                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/workspace_tools/build_release.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/build_release.py", line 53
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/workspace_tools/build_travis.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/build_travis.py", line 28
+    print "Executing: " + cmdline
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/client.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/client.py", line 61
+    except KeyboardInterrupt, _:
+                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/workspace_tools/data'...
+Listing './lib/python3.5/site-packages/workspace_tools/dev'...
+Compiling './lib/python3.5/site-packages/workspace_tools/dev/dsp_fir.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/dev/dsp_fir.py", line 85
+    print "%-30s = {%s}" % (var, ', '.join(["%+.10f" % x for x in values]))
+                       ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/workspace_tools/export'...
+Compiling './lib/python3.5/site-packages/workspace_tools/export/__init__.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/export/__init__.py", line 79
+    except OldLibrariesException, e:
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/workspace_tools/export_test.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/export_test.py", line 36
+    print 'Test user project already generated...'
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/workspace_tools/host_tests'...
+Listing './lib/python3.5/site-packages/workspace_tools/host_tests/example'...
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/example/BroadcastReceive.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/example/BroadcastReceive.py", line 25
+    print s.recvfrom(256)
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/example/BroadcastSend.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/example/BroadcastSend.py", line 27
+    print "Broadcasting..."
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/example/MulticastReceive.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/example/MulticastReceive.py", line 31
+    print sock.recv(10240)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/example/MulticastSend.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/example/MulticastSend.py", line 27
+    print "Multicast to group: %s\n" % MCAST_GRP
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/example/TCPEchoClient.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/example/TCPEchoClient.py", line 28
+    print 'Received', repr(data)
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/example/TCPEchoServer.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/example/TCPEchoServer.py", line 25
+    print 'Connected by', addr
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/example/UDPEchoClient.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/example/UDPEchoClient.py", line 28
+    print response
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/example/UDPEchoServer.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/example/UDPEchoServer.py", line 26
+    print "datagram from", address
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/host_test.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/host_test.py", line 52
+    print 'Mbed: "%s" "%s"' % (self.port, self.disk)
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/mbedrpc.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/mbedrpc.py", line 84
+    print "Reset mbed"
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/rpc.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/rpc.py", line 33
+    print "Freedom Board: PTA12 <-> PTC4"
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/tcpecho_client.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/tcpecho_client.py", line 47
+    if (i % UPDATE_STEP) == 0: print '%.2f%%' % ((float(i)/float(N_PACKETS)) * 100.)
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/tcpecho_server.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/tcpecho_server.py", line 27
+    print "\nconnection received"
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/tcpecho_server_loop.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/tcpecho_server_loop.py", line 29
+    print "\nHandle connection from:", self.client_address
+                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/udpecho_client.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/udpecho_client.py", line 48
+    if (i % UPDATE_STEP) == 0: print '%.2f%%' % ((float(i)/float(N_PACKETS)) * 100.)
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/workspace_tools/host_tests/udpecho_server.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/host_tests/udpecho_server.py", line 23
+    print "client:", self.client_address
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/make.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/make.py", line 140
+    print 'The selected test is not supported on target %s with toolchain %s' % (mcu, toolchain)
+                                                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/workspace_tools/project.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/project.py", line 68
+    print "[OK]"
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/server.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/server.py", line 56
+    except Exception, _:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/workspace_tools/settings.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/settings.py", line 109
+    print '[WARNING] Using default settings. Define you settings in the file "workspace_tools/private_settings.py" or in "./mbed_settings.py"'
+                                                                                                                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/size.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/size.py", line 48
+    print "%s: (%s -> %s) %.2f%%" % (name, human_size(before) , human_size(after) , get_percentage(before , after))
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/workspace_tools/syms.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/syms.py", line 64
+    print path
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/synch.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/synch.py", line 147
+    print "No changes"
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/workspace_tools/toolchains'...
+Compiling './lib/python3.5/site-packages/workspace_tools/toolchains/__init__.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/toolchains/__init__.py", line 35
+    print event['message']
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/workspace_tools/utils.py'...
+***   File "./lib/python3.5/site-packages/workspace_tools/utils.py", line 26
+    if verbose: print text
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './share'...
+Listing './share/python-wheels'...

@@ -1,0 +1,176 @@
+Listing '.'...
+Listing './bin'...
+Compiling './bin/createDB.py'...
+***   File "./bin/createDB.py", line 84
+    except ValueError, ve:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './bin/repl-test.py'...
+Compiling './bin/web-test.py'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/Quest-0.1.1.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/quest'...
+Compiling './lib/python3.5/site-packages/quest/engine.py'...
+***   File "./lib/python3.5/site-packages/quest/engine.py", line 51
+    except MySQLdb.MySQLError, e:
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/quest/input_handler.py'...
+***   File "./lib/python3.5/site-packages/quest/input_handler.py", line 84
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/quest/prompt.py'...
+***   File "./lib/python3.5/site-packages/quest/prompt.py", line 30
+    print self.banner
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/quest/query'...
+Compiling './lib/python3.5/site-packages/quest/query/query.py'...
+***   File "./lib/python3.5/site-packages/quest/query/query.py", line 97
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/quest/query/shifter.py'...
+***   File "./lib/python3.5/site-packages/quest/query/shifter.py", line 254
+    print "End of data set! RSHIFT not performed."
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/quest/test'...
+Compiling './lib/python3.5/site-packages/quest/test/createDB.py'...
+***   File "./lib/python3.5/site-packages/quest/test/createDB.py", line 84
+    except ValueError, ve:
+                     ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/quest/web'...
+Compiling './lib/python3.5/site-packages/quest/web/quest_cgi.py'...
+***   File "./lib/python3.5/site-packages/quest/web/quest_cgi.py", line 60
+    print '''
+                <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+                <html xmlns="http://www.w3.org/1999/xhtml">
+                <head>
+                <title>Quest</title>
+                <style type="text/css">
+                    #query {
+                        width: 800px;
+                        height: 45px;
+                    }
+                </style>
+
+                <script type="text/javascript" src="jquery-1.4.4.min.js"></script>
+                <script type="text/javascript">
+                    $(document).ready(function(){
+                        $('#theForm').submit(function(e){
+                            e.preventDefault();
+                            $.get('navigator.py',
+                                {query: $('#query').val()},
+                                function(data, textStatus, xhr){
+                                    $('#mySearch').html(data);
+                                });
+                        });
+                    });
+                </script>
+                </head>
+                <body>
+
+                <table>
+                    <h1 align="center">QUEST</h1>
+                    <tr>
+                        <form id="theForm">
+                        <br/>
+                        <p align="center">
+                            Enter your Query
+                            <input id="query" name="query" size=48 />
+                            <input id="submit" type="submit" value="Submit" />
+                        </p>
+                        </form>
+                    </tr>
+
+                    <tr id="mySearch">
+                        <hr></hr>
+                    </tr>
+                </table>
+                </body>
+                </html>
+         '''.strip()
+             
+                                                                                                                                         
+                                                           
+                      
+                                    
+                                       
+                            
+                                     
+                                     
+                     
+                        
+
+                                                                                  
+                                               
+                                                 
+                                                         
+                                               
+                                                 
+                                                           
+                                                                
+                                                              
+                                   
+                           
+                       
+                         
+                       
+                      
+
+                       
+                                                 
+                        
+                                           
+                             
+                                          
+                                            
+                                                                     
+                                                                              
+                            
+                               
+                         
+
+                                      
+                                 
+                         
+                        
+                       
+                       
+           ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

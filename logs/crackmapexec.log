@@ -1,0 +1,757 @@
+Listing '.'...
+Listing './bin'...
+Compiling './bin/GetUserSPNs.py'...
+***   File "./bin/GetUserSPNs.py", line 63
+    print outputFormat.format(*header)
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './bin/atexec.py'...
+***   File "./bin/atexec.py", line 57
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/esentutl.py'...
+***   File "./bin/esentutl.py", line 39
+    print "Table: %s" % tableName
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/goldenPac.py'...
+***   File "./bin/goldenPac.py", line 314
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/ifmap.py'...
+***   File "./bin/ifmap.py", line 299
+    print "usage: ./ifmap.py <host> <port>"
+                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/karmaSMB.py'...
+***   File "./bin/karmaSMB.py", line 300
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/lookupsid.py'...
+***   File "./bin/lookupsid.py", line 71
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/loopchain.py'...
+Compiling './bin/mssqlclient.py'...
+***   File "./bin/mssqlclient.py", line 45
+    print """
+     lcd {path}                 - changes the current local directory to {path}
+     exit                       - terminates the server process (and this session)
+     enable_xp_cmdshell         - you know what it means
+     disable_xp_cmdshell        - you know what it means
+     xp_cmdshell {cmd}          - executes cmd using xp_cmdshell
+     ! {cmd}                    - executes a local shell cmd
+     """
+             
+                                                                               
+                                                                                  
+                                                        
+                                                        
+                                                                
+                                                            
+       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/mssqlinstance.py'...
+***   File "./bin/mssqlinstance.py", line 28
+    print version.BANNER
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/netview.py'...
+***   File "./bin/netview.py", line 86
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/nmapAnswerMachine.py'...
+***   File "./bin/nmapAnswerMachine.py", line 67
+    print "Initializing %s" % self.__class__.__name__
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ntfs-read.py'...
+***   File "./bin/ntfs-read.py", line 56
+    print "%04x  " % i,
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ntlmrelayx.py'...
+***   File "./bin/ntlmrelayx.py", line 94
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/opdump.py'...
+***   File "./bin/opdump.py", line 35
+    print "usage: opdump.py hostname port interface version"
+                                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/os_ident.py'...
+***   File "./bin/os_ident.py", line 33
+    return `self.value`
+           ^
+SyntaxError: invalid syntax
+
+Compiling './bin/ping.py'...
+***   File "./bin/ping.py", line 34
+    print "Use: %s <src ip> <dst ip>" % sys.argv[0]
+                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ping6.py'...
+***   File "./bin/ping6.py", line 32
+    print version.BANNER
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/psexec.py'...
+***   File "./bin/psexec.py", line 128
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/raiseChild.py'...
+***   File "./bin/raiseChild.py", line 360
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/rdp_check.py'...
+***   File "./bin/rdp_check.py", line 488
+    except Exception, err:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/registry-read.py'...
+***   File "./bin/registry-read.py", line 40
+    print hexlify(syskey)
+                ^
+SyntaxError: invalid syntax
+
+Compiling './bin/rpcdump.py'...
+***   File "./bin/rpcdump.py", line 73
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/samrdump.py'...
+***   File "./bin/samrdump.py", line 77
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/secretsdump.py'...
+***   File "./bin/secretsdump.py", line 468
+    except DCERPCException, e:
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './bin/services.py'...
+***   File "./bin/services.py", line 72
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/smbclient.py'...
+***   File "./bin/smbclient.py", line 63
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/smbexec.py'...
+***   File "./bin/smbexec.py", line 90
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/smbrelayx.py'...
+***   File "./bin/smbrelayx.py", line 120
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/smbserver.py'...
+***   File "./bin/smbserver.py", line 25
+    print version.BANNER
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/smbtorture.py'...
+***   File "./bin/smbtorture.py", line 32
+    print "SMB_COM_TRANSACTION2 ",
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/sniff.py'...
+***   File "./bin/sniff.py", line 56
+    print self.decoder.decode(data)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './bin/sniffer.py'...
+***   File "./bin/sniffer.py", line 33
+    print "Using default set of protocols. A list of protocols can be supplied from the command line, eg.: %s <proto1> [proto2] ..." % sys.argv[0]
+                                                                                                                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/split.py'...
+***   File "./bin/split.py", line 108
+    print "Found a new connection, storing into:", fn
+                                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/tracer.py'...
+***   File "./bin/tracer.py", line 122
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/uncrc32.py'...
+***   File "./bin/uncrc32.py", line 10
+    FINALXOR = 0xffffffffL
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './bin/wmiexec.py'...
+***   File "./bin/wmiexec.py", line 94
+    except  (Exception, KeyboardInterrupt), e:
+                                          ^
+SyntaxError: invalid syntax
+
+Compiling './bin/wmipersist.py'...
+***   File "./bin/wmipersist.py", line 155
+    print version.BANNER
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/wmiquery.py'...
+***   File "./bin/wmiquery.py", line 48
+    print """
+     lcd {path}                 - changes the current local directory to {path}
+     exit                       - terminates the server process (and this session)
+     describe {class}           - describes class
+     ! {cmd}                    - executes a local shell cmd
+     """
+             
+                                                                               
+                                                                                  
+                                                 
+                                                            
+       ^
+SyntaxError: invalid syntax
+
+Listing './include'...
+Listing './include/site'...
+Listing './include/site/python3.5'...
+Listing './include/site/python3.5/greenlet'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/.libs_cffi_backend'...
+Listing './lib/python3.5/site-packages/OpenSSL'...
+Listing './lib/python3.5/site-packages/asn1crypto'...
+Listing './lib/python3.5/site-packages/asn1crypto/_perf'...
+Listing './lib/python3.5/site-packages/asn1crypto-0.24.0.dist-info'...
+Listing './lib/python3.5/site-packages/cffi'...
+Listing './lib/python3.5/site-packages/cffi-1.11.3.dist-info'...
+Listing './lib/python3.5/site-packages/cryptography'...
+Listing './lib/python3.5/site-packages/cryptography/hazmat'...
+Listing './lib/python3.5/site-packages/cryptography/hazmat/backends'...
+Listing './lib/python3.5/site-packages/cryptography/hazmat/backends/openssl'...
+Listing './lib/python3.5/site-packages/cryptography/hazmat/bindings'...
+Listing './lib/python3.5/site-packages/cryptography/hazmat/bindings/openssl'...
+Listing './lib/python3.5/site-packages/cryptography/hazmat/primitives'...
+Listing './lib/python3.5/site-packages/cryptography/hazmat/primitives/asymmetric'...
+Listing './lib/python3.5/site-packages/cryptography/hazmat/primitives/ciphers'...
+Listing './lib/python3.5/site-packages/cryptography/hazmat/primitives/kdf'...
+Listing './lib/python3.5/site-packages/cryptography/hazmat/primitives/twofactor'...
+Listing './lib/python3.5/site-packages/cryptography/x509'...
+Listing './lib/python3.5/site-packages/cryptography-2.1.4.dist-info'...
+Listing './lib/python3.5/site-packages/gevent'...
+Compiling './lib/python3.5/site-packages/gevent/_util_py2.py'...
+***   File "./lib/python3.5/site-packages/gevent/_util_py2.py", line 7
+    raise type, value, tb
+              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/gevent/libev'...
+Listing './lib/python3.5/site-packages/gevent-1.2.2.dist-info'...
+Listing './lib/python3.5/site-packages/greenlet-0.4.12.dist-info'...
+Listing './lib/python3.5/site-packages/idna'...
+Listing './lib/python3.5/site-packages/idna-2.6.dist-info'...
+Listing './lib/python3.5/site-packages/impacket'...
+Compiling './lib/python3.5/site-packages/impacket/IP6_Address.py'...
+***   File "./lib/python3.5/site-packages/impacket/IP6_Address.py", line 246
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/IP6_Extension_Headers.py'...
+***   File "./lib/python3.5/site-packages/impacket/IP6_Extension_Headers.py", line 56
+    raise ImpactPacketException, "Cannot load options from truncated packet"
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/ImpactPacket.py'...
+***   File "./lib/python3.5/site-packages/impacket/ImpactPacket.py", line 37
+    return `self.value`
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/crypto.py'...
+***   File "./lib/python3.5/site-packages/impacket/crypto.py", line 384
+    print s[:8] ,
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/impacket/dcerpc'...
+Listing './lib/python3.5/site-packages/impacket/dcerpc/v5'...
+Listing './lib/python3.5/site-packages/impacket/dcerpc/v5/dcom'...
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/dcom/oaut.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/dcom/oaut.py", line 287
+    print "%s" % (msg)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/dcom/scmp.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/dcom/scmp.py", line 304
+    except DCERPCException, e:
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/dcom/vds.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/dcom/vds.py", line 201
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/dcom/wmi.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/dcom/wmi.py", line 843
+    print "[%s]" % qualifier
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/dcomrt.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/dcomrt.py", line 1015
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/drsuapi.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/drsuapi.py", line 91
+    print msg,
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/dtypes.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/dtypes.py", line 98
+    print "%s" % msg,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/epm.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/epm.py", line 1295
+    if tmp_address <> '':
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/lsad.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/lsad.py", line 153
+    print "%s" % (msg),
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/ndr.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/ndr.py", line 159
+    print "\n%s" % msg
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/rpcrt.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/rpcrt.py", line 121
+    0x00000005L : 'rpc_s_access_denied',
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/rrp.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/rrp.py", line 810
+    except DCERPCSessionError, e:
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/samr.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/samr.py", line 303
+    print "%s" % msg,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/scmr.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/scmr.py", line 1285
+    except DCERPCSessionError, e:
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/srvs.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/srvs.py", line 1756
+    print "%s" % msg,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/impacket/dcerpc/v5/transport.py'...
+***   File "./lib/python3.5/site-packages/impacket/dcerpc/v5/transport.py", line 140
+    raise RuntimeError, 'virtual function'
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/dhcp.py'...
+***   File "./lib/python3.5/site-packages/impacket/dhcp.py", line 227
+    print pp
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/impacket/dns.py'...
+***   File "./lib/python3.5/site-packages/impacket/dns.py", line 616
+    print d
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/impacket/dot11.py'...
+***   File "./lib/python3.5/site-packages/impacket/dot11.py", line 470
+    crcle=crc32(bytes)&0xffffffffL
+                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/ese.py'...
+***   File "./lib/python3.5/site-packages/impacket/ese.py", line 440
+    print "%04x  " % i,
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/impacket/examples'...
+Listing './lib/python3.5/site-packages/impacket/examples/ntlmrelayx'...
+Listing './lib/python3.5/site-packages/impacket/examples/ntlmrelayx/clients'...
+Compiling './lib/python3.5/site-packages/impacket/examples/ntlmrelayx/clients/mssqlrelayclient.py'...
+***   File "./lib/python3.5/site-packages/impacket/examples/ntlmrelayx/clients/mssqlrelayclient.py", line 97
+    print repr(self.replies)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/examples/ntlmrelayx/clients/smbrelayclient.py'...
+***   File "./lib/python3.5/site-packages/impacket/examples/ntlmrelayx/clients/smbrelayclient.py", line 141
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/impacket/examples/ntlmrelayx/servers'...
+Compiling './lib/python3.5/site-packages/impacket/examples/ntlmrelayx/servers/httprelayserver.py'...
+***   File "./lib/python3.5/site-packages/impacket/examples/ntlmrelayx/servers/httprelayserver.py", line 72
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/examples/ntlmrelayx/servers/smbrelayserver.py'...
+***   File "./lib/python3.5/site-packages/impacket/examples/ntlmrelayx/servers/smbrelayserver.py", line 127
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/impacket/examples/ntlmrelayx/utils'...
+Compiling './lib/python3.5/site-packages/impacket/examples/ntlmrelayx/utils/targetsutils.py'...
+***   File "./lib/python3.5/site-packages/impacket/examples/ntlmrelayx/utils/targetsutils.py", line 46
+    except IOError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/examples/serviceinstall.py'...
+***   File "./lib/python3.5/site-packages/impacket/examples/serviceinstall.py", line 65
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/impacket/krb5'...
+Compiling './lib/python3.5/site-packages/impacket/krb5/ccache.py'...
+***   File "./lib/python3.5/site-packages/impacket/krb5/ccache.py", line 73
+    print "%sAuth : %s" % (indent, datetime.fromtimestamp(self['authtime']).isoformat())
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/krb5/kerberosv5.py'...
+***   File "./lib/python3.5/site-packages/impacket/krb5/kerberosv5.py", line 51
+    except socket.error, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/krb5/types.py'...
+***   File "./lib/python3.5/site-packages/impacket/krb5/types.py", line 255
+    print Principal("marc")
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/impacket/ldap'...
+Compiling './lib/python3.5/site-packages/impacket/ldap/ldap.py'...
+***   File "./lib/python3.5/site-packages/impacket/ldap/ldap.py", line 82
+    except socket.error, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/nmb.py'...
+***   File "./lib/python3.5/site-packages/impacket/nmb.py", line 457
+    raise NetBIOSError, ( 'Cannot bind to a good UDP port', ERRCLASS_OS, errno.EAGAIN )
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/ntlm.py'...
+***   File "./lib/python3.5/site-packages/impacket/ntlm.py", line 239
+    print "%s: {%r}" % (i,self[i])
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/smb.py'...
+***   File "./lib/python3.5/site-packages/impacket/smb.py", line 632
+    y = t & 0xffffffffL
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/smb3.py'...
+***   File "./lib/python3.5/site-packages/impacket/smb3.py", line 234
+    print "CONNECTION"
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/impacket/smbconnection.py'...
+***   File "./lib/python3.5/site-packages/impacket/smbconnection.py", line 229
+    except (smb.SessionError, smb3.SessionError), e:
+                                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/smbserver.py'...
+***   File "./lib/python3.5/site-packages/impacket/smbserver.py", line 84
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/spnego.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (spnego.py, line 77)
+Compiling './lib/python3.5/site-packages/impacket/structure.py'...
+***   File "./lib/python3.5/site-packages/impacket/structure.py", line 100
+    print "packField( %s | %s )" % (fieldName, format)
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/tds.py'...
+***   File "./lib/python3.5/site-packages/impacket/tds.py", line 48
+    print message
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/impacket/uuid.py'...
+***   File "./lib/python3.5/site-packages/impacket/uuid.py", line 22
+    top = (1L<<31)-1
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/impacket/winregistry.py'...
+***   File "./lib/python3.5/site-packages/impacket/winregistry.py", line 321
+    print "%s%s" % (self.indent, nk['KeyName'])
+               ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/impacket-0.9.15.egg-info'...
+Listing './lib/python3.5/site-packages/netaddr'...
+Listing './lib/python3.5/site-packages/netaddr/contrib'...
+Listing './lib/python3.5/site-packages/netaddr/eui'...
+Listing './lib/python3.5/site-packages/netaddr/ip'...
+Listing './lib/python3.5/site-packages/netaddr/strategy'...
+Listing './lib/python3.5/site-packages/netaddr-0.7.19.dist-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/pyOpenSSL-17.5.0.dist-info'...
+Listing './lib/python3.5/site-packages/pycparser'...
+Listing './lib/python3.5/site-packages/pycparser/ply'...
+Listing './lib/python3.5/site-packages/pycparser-2.18.egg-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './lib/python3.5/site-packages/six-1.11.0.dist-info'...
+Listing './share'...
+Listing './share/doc'...
+Listing './share/doc/impacket'...
+Listing './share/doc/impacket/testcases'...
+Listing './share/doc/impacket/testcases/ImpactPacket'...
+Compiling './share/doc/impacket/testcases/ImpactPacket/__init__.py'...
+Compiling './share/doc/impacket/testcases/ImpactPacket/test_ICMP6.py'...
+Compiling './share/doc/impacket/testcases/ImpactPacket/test_IP6.py'...
+Compiling './share/doc/impacket/testcases/ImpactPacket/test_IP6_Address.py'...
+Compiling './share/doc/impacket/testcases/ImpactPacket/test_IP6_Extension_Headers.py'...
+Compiling './share/doc/impacket/testcases/ImpactPacket/test_TCP.py'...
+Compiling './share/doc/impacket/testcases/ImpactPacket/test_TCP_bug_issue7.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (test_TCP_bug_issue7.py, line 16)
+Compiling './share/doc/impacket/testcases/ImpactPacket/test_ethernet.py'...
+Listing './share/doc/impacket/testcases/SMB_RPC'...
+Compiling './share/doc/impacket/testcases/SMB_RPC/__init__.py'...
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_dcomrt.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_dcomrt.py", line 159
+    print "Waiting.. "
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_drsuapi.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_drsuapi.py", line 223
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_epm.py'...
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_ldap.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_ldap.py", line 27
+    print item.prettyPrint()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_lsad.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_lsad.py", line 248
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_lsat.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_lsat.py", line 89
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_mgmt.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_mgmt.py", line 84
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_ndr.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_ndr.py", line 26
+    print "ORIG: %d, REPACKED: %d" % (len(crackNamesResponse), len(output))
+                                 ^
+SyntaxError: invalid syntax
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_nrpc.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_nrpc.py", line 97
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_ntlm.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_ntlm.py", line 18
+    print "%04x  " % i,
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_rpcrt.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_rpcrt.py", line 115
+    print self.stringBinding
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_rrp.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_rrp.py", line 130
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_samr.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_samr.py", line 256
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_scmr.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_scmr.py", line 99
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_smb.py'...
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_spnego.py'...
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_srvs.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_srvs.py", line 183
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_tsch.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_tsch.py", line 210
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_wkst.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_wkst.py", line 182
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './share/doc/impacket/testcases/SMB_RPC/test_wmi.py'...
+***   File "./share/doc/impacket/testcases/SMB_RPC/test_wmi.py", line 66
+    print resp
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './share/doc/impacket/testcases/dot11'...
+Compiling './share/doc/impacket/testcases/dot11/test_Dot11Base.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_Dot11Decoder.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (test_Dot11Decoder.py, line 14)
+Compiling './share/doc/impacket/testcases/dot11/test_Dot11HierarchicalUpdate.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_FrameControlACK.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_FrameControlCFEnd.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_FrameControlCFEndCFACK.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_FrameControlCTS.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_FrameControlPSPoll.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_FrameControlRTS.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_FrameData.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_FrameManagement.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_FrameManagementAssociationRequest.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (test_FrameManagementAssociationRequest.py, line 17)
+Compiling './share/doc/impacket/testcases/dot11/test_FrameManagementAssociationResponse.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_FrameManagementAuthentication.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (test_FrameManagementAuthentication.py, line 17)
+Compiling './share/doc/impacket/testcases/dot11/test_FrameManagementDeauthentication.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_FrameManagementDisassociation.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (test_FrameManagementDisassociation.py, line 17)
+Compiling './share/doc/impacket/testcases/dot11/test_FrameManagementProbeRequest.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_FrameManagementProbeResponse.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_FrameManagementReassociationRequest.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_FrameManagementReassociationResponse.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_RadioTap.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_RadioTapDecoder.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_WEPDecoder.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_WEPEncoder.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_WPA.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_WPA2.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_helper.py'...
+Compiling './share/doc/impacket/testcases/dot11/test_wps.py'...
+Listing './share/python-wheels'...

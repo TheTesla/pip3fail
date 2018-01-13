@@ -1,0 +1,338 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/DeCiDa-1.0.5.egg-info'...
+Listing './lib/python3.5/site-packages/decida'...
+Compiling './lib/python3.5/site-packages/decida/BinarySearch.py'...
+***   File "./lib/python3.5/site-packages/decida/BinarySearch.py", line 196
+    print "error: high == low"
+                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/Contourx.py'...
+***   File "./lib/python3.5/site-packages/decida/Contourx.py", line 537
+    print len(Hlo), len(Hhi)
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/Data.py'...
+***   File "./lib/python3.5/site-packages/decida/Data.py", line 445
+    print " number of rows: ", self.nrows()
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/DataViewm.py'...
+***   File "./lib/python3.5/site-packages/decida/DataViewm.py", line 845
+    print "file " + file + " doesn't exist"
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/DataViewx.py'...
+***   File "./lib/python3.5/site-packages/decida/DataViewx.py", line 845
+    print "file " + file + " doesn't exist"
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/EquationParser.py'...
+***   File "./lib/python3.5/site-packages/decida/EquationParser.py", line 160
+    print "tokenize line:", line
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/Fitter.py'...
+***   File "./lib/python3.5/site-packages/decida/Fitter.py", line 239
+    print lines
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/ItclObjectx.py'...
+***   File "./lib/python3.5/site-packages/decida/ItclObjectx.py", line 218
+    print "  %s : %s" % (key, str(self._ConfigOption[key]))
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/LevMar.py'...
+***   File "./lib/python3.5/site-packages/decida/LevMar.py", line 478
+    print "number of parameters = ", n
+                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/NGspice.py'...
+***   File "./lib/python3.5/site-packages/decida/NGspice.py", line 686
+    print "circuit file \"" + file + "\" doesn't exist"
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/PLL.py'...
+***   File "./lib/python3.5/site-packages/decida/PLL.py", line 1153
+    print "parameter \"%s\" is not available" % (par)
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/PLLphaseNoise.py'...
+***   File "./lib/python3.5/site-packages/decida/PLLphaseNoise.py", line 773
+    print "gm=%s in=%s vn=%s" % (icp_gm, icp_in, lpf_vn)
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/Parameters.py'...
+***   File "./lib/python3.5/site-packages/decida/Parameters.py", line 310
+    print "%" * 72
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/PlotBase.py'...
+***   File "./lib/python3.5/site-packages/decida/PlotBase.py", line 2011
+    print "writing " + savefile
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/PlotBasem.py'...
+***   File "./lib/python3.5/site-packages/decida/PlotBasem.py", line 342
+    "shamrock": ur"$\u2618$",
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/Plotterm.py'...
+***   File "./lib/python3.5/site-packages/decida/Plotterm.py", line 1047
+    print "writing plot to %s" % (file)
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/Plotterx.py'...
+***   File "./lib/python3.5/site-packages/decida/Plotterx.py", line 1047
+    print "writing plot to %s" % (file)
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/Report.py'...
+***   File "./lib/python3.5/site-packages/decida/Report.py", line 156
+    if (self.verbose) : print s
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/SimulatorNetlist.py'...
+***   File "./lib/python3.5/site-packages/decida/SimulatorNetlist.py", line 647
+    print "skipping inst ", inst
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/Tckt.py'...
+***   File "./lib/python3.5/site-packages/decida/Tckt.py", line 481
+    print "copying %s" % (defparampath)
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/TextWindow.py'...
+***   File "./lib/python3.5/site-packages/decida/TextWindow.py", line 640
+    print "file " + file + " doesn't exist"
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/decida/dataview_help'...
+Compiling './lib/python3.5/site-packages/decida/grep.py'...
+***   File "./lib/python3.5/site-packages/decida/grep.py", line 94
+    print "file %s doesn't exist" % (file)
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/interpolate.py'...
+***   File "./lib/python3.5/site-packages/decida/interpolate.py", line 100
+    except KeyError, err :
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/range_sample.py'...
+***   File "./lib/python3.5/site-packages/decida/range_sample.py", line 140
+    print "range_sample: step != 0 only for lin mode"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/readfile2list.py'...
+***   File "./lib/python3.5/site-packages/decida/readfile2list.py", line 86
+    print "file \"" + file + "\" not found"
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/syscall.py'...
+***   File "./lib/python3.5/site-packages/decida/syscall.py", line 88
+    except subprocess.CalledProcessError, err:
+                                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/decida/test'...
+Compiling './lib/python3.5/site-packages/decida/test/test_BinarySearch_1.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_BinarySearch_1.py", line 19
+    print "%-10s: x=%-18s y=%-18s %-5s" % (bin.mode(), x, f, success)
+                                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/test/test_BinarySearch_2.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_BinarySearch_2.py", line 20
+    print "%-10s: x=%-18s y=%-18s %-5s" % (bin.mode(), x, f, success)
+                                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/test/test_Data_twin.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_Data_twin.py", line 8
+    print d.names()
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/test/test_EquationParser.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_EquationParser.py", line 23
+    print "=" * 72
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_Fitter.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_Fitter.py", line 31
+    print ftr.par_values()
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/test/test_Itemizer.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_Itemizer.py", line 9
+    print tag, proc, vdd, temp
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_LevMar.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_LevMar.py", line 41
+    print optobj.status()
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/test/test_Pattern_1.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_Pattern_1.py", line 7
+    print "t v"
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_Pattern_2.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_Pattern_2.py", line 27
+    print size, d, pattern
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_SelectionDialog.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_SelectionDialog.py", line 43
+    print "V[%s] = %s" % (key,  V[key])
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/test/test_SimulatorNetlist.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_SimulatorNetlist.py", line 10
+    print "subcircuits :"
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_Tckt_1.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_Tckt_1.py", line 100
+    print prefix
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_XYplotm_1.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_XYplotm_1.py", line 7
+    print "This test is not yet functional"
+                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_XYplotx_1.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_XYplotx_1.py", line 7
+    print "This test is not yet functional"
+                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_all.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_all.py", line 8
+    print "@" * 70
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_baseconvert.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_baseconvert.py", line 4
+    print decida.baseconvert(10,  2, "10")
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/test/test_dir.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_dir.py", line 9
+    print "can't locate decida test directory"
+                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_grep.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_grep.py", line 7
+    print output
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_interpolate.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_interpolate.py", line 31
+    print "lev1 ctrl = ", ctrl
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_multiline.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_multiline.py", line 10
+    print uline
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_pattern_alignment.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_pattern_alignment.py", line 14
+    print ab[1], ab[0]
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_range_sample.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_range_sample.py", line 4
+    print decida.range_sample(1, 20, step=2.4)
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decida/test/test_readfile2list.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_readfile2list.py", line 7
+    print line
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decida/test/test_spice_value.py'...
+***   File "./lib/python3.5/site-packages/decida/test/test_spice_value.py", line 7
+    print num, spice_value(num)
+            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/decida/twin_help'...
+Compiling './lib/python3.5/site-packages/decida/vtb.py'...
+***   File "./lib/python3.5/site-packages/decida/vtb.py", line 99
+    print "netlist directory \"%s\" doesn't exist" % (netlistdir)
+                                                 ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

@@ -1,0 +1,628 @@
+Listing '.'...
+Listing './bin'...
+Compiling './bin/rst2html.py'...
+Compiling './bin/rst2html4.py'...
+Compiling './bin/rst2html5.py'...
+Compiling './bin/rst2latex.py'...
+Compiling './bin/rst2man.py'...
+Compiling './bin/rst2odt.py'...
+Compiling './bin/rst2odt_prepstyles.py'...
+Compiling './bin/rst2pseudoxml.py'...
+Compiling './bin/rst2s5.py'...
+Compiling './bin/rst2xetex.py'...
+Compiling './bin/rst2xml.py'...
+Compiling './bin/rstpep2html.py'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/docutils'...
+Listing './lib/python3.5/site-packages/docutils/languages'...
+Listing './lib/python3.5/site-packages/docutils/parsers'...
+Listing './lib/python3.5/site-packages/docutils/parsers/rst'...
+Listing './lib/python3.5/site-packages/docutils/parsers/rst/directives'...
+Listing './lib/python3.5/site-packages/docutils/parsers/rst/include'...
+Listing './lib/python3.5/site-packages/docutils/parsers/rst/languages'...
+Listing './lib/python3.5/site-packages/docutils/readers'...
+Listing './lib/python3.5/site-packages/docutils/transforms'...
+Listing './lib/python3.5/site-packages/docutils/utils'...
+Listing './lib/python3.5/site-packages/docutils/utils/math'...
+Listing './lib/python3.5/site-packages/docutils/writers'...
+Listing './lib/python3.5/site-packages/docutils/writers/html4css1'...
+Listing './lib/python3.5/site-packages/docutils/writers/html5_polyglot'...
+Listing './lib/python3.5/site-packages/docutils/writers/latex2e'...
+Listing './lib/python3.5/site-packages/docutils/writers/odf_odt'...
+Listing './lib/python3.5/site-packages/docutils/writers/pep_html'...
+Listing './lib/python3.5/site-packages/docutils/writers/s5_html'...
+Listing './lib/python3.5/site-packages/docutils/writers/s5_html/themes'...
+Listing './lib/python3.5/site-packages/docutils/writers/s5_html/themes/big-black'...
+Listing './lib/python3.5/site-packages/docutils/writers/s5_html/themes/big-white'...
+Listing './lib/python3.5/site-packages/docutils/writers/s5_html/themes/default'...
+Listing './lib/python3.5/site-packages/docutils/writers/s5_html/themes/medium-black'...
+Listing './lib/python3.5/site-packages/docutils/writers/s5_html/themes/medium-white'...
+Listing './lib/python3.5/site-packages/docutils/writers/s5_html/themes/small-black'...
+Listing './lib/python3.5/site-packages/docutils/writers/s5_html/themes/small-white'...
+Listing './lib/python3.5/site-packages/docutils/writers/xetex'...
+Listing './lib/python3.5/site-packages/docutils-0.14.dist-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './lib/python3.5/site-packages/spike'...
+Listing './lib/python3.5/site-packages/spike/Algo'...
+Compiling './lib/python3.5/site-packages/spike/Algo/CS_transformations.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/CS_transformations.py", line 45
+    print i, getattr(self,i)
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/Algo/Cadzow.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/Cadzow.py", line 44
+    print "orda :", orda
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Algo/Cadzow_mpi.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/Cadzow_mpi.py", line 49
+    if debug: print "averaging on ",nbrows," rows "
+                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Algo/Cadzow_mpi2.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/Cadzow_mpi2.py", line 53
+    if debug: print "averaging on ",nbrows," rows "
+                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Algo/Laplace.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/Laplace.py", line 54
+    print "Norm of transform :",self.norm
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Algo/Linpredic.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/Linpredic.py", line 85
+    print "\n========",self.shortDescription(),'==============='
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/Algo/SL0.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/SL0.py", line 118
+    print '     sigma=%f, SNR=%f' % (sigma,estimate_SNR(s,true_s))
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/Algo/SL0_test.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/SL0_test.py", line 87
+    print np.dot(A, A.T.conj()).shape
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/Algo/maxent.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/maxent.py", line 234
+    print "%s\t:\t%s"% (i, att)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/Algo/savitzky_golay.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/savitzky_golay.py", line 66
+    except ValueError, msg:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/Algo/urQRd.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/urQRd.py", line 204
+    print "=== Running rQR algo ===",
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Algo/urQRd_matrix.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/urQRd_matrix.py", line 224
+    print "Initial Noisy Data SNR: %.2f dB - noise type : %s"%(iSNR,noisetype)
+                                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/Algo/urQRd_optk.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/urQRd_optk.py", line 52
+    print "complex fid"
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Algo/urQRd_pnas.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/urQRd_pnas.py", line 186
+    print "=== Running rQR algo ===",
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/spike/Algo/urQRd_util'...
+Compiling './lib/python3.5/site-packages/spike/Algo/urQRd_util/Config.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/urQRd_util/Config.py", line 46
+    print "------------ processing parameters ------------------"
+                                                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Algo/urQRd_util/read_mass_spec.py'...
+***   File "./lib/python3.5/site-packages/spike/Algo/urQRd_util/read_mass_spec.py", line 15
+    print "path exists? ",os.path.exists(add)
+                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/spike/Display'...
+Compiling './lib/python3.5/site-packages/spike/Display/fakeplot.py'...
+***   File "./lib/python3.5/site-packages/spike/Display/fakeplot.py", line 25
+    print "******* figure %d *****"%current
+                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/FTICR.py'...
+***   File "./lib/python3.5/site-packages/spike/FTICR.py", line 20
+    print "No matplot"
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/FTICR2.py'...
+***   File "./lib/python3.5/site-packages/spike/FTICR2.py", line 111
+    if debug>0: print "reading msh5"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/FTMS.py'...
+***   File "./lib/python3.5/site-packages/spike/FTMS.py", line 66
+    def extract(self, (start, end)):
+                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/spike/File'...
+Compiling './lib/python3.5/site-packages/spike/File/Apex.py'...
+***   File "./lib/python3.5/site-packages/spike/File/Apex.py", line 86
+    print L,len(L)
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/File/GifaFile.py'...
+***   File "./lib/python3.5/site-packages/spike/File/GifaFile.py", line 86
+    print "Dim", self.dim
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/File/HDF5File.py'...
+***   File "./lib/python3.5/site-packages/spike/File/HDF5File.py", line 86
+    print "open in read mode"
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/File/Solarix.py'...
+***   File "./lib/python3.5/site-packages/spike/File/Solarix.py", line 119
+    print "You are dealing with 2D data, you should use Import_2D"
+                                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/File/Thermo.py'...
+***   File "./lib/python3.5/site-packages/spike/File/Thermo.py", line 50
+    print l
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/File/csv.py'...
+***   File "./lib/python3.5/site-packages/spike/File/csv.py", line 56
+    print k, v
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/NPKConfigParser.py'...
+***   File "./lib/python3.5/site-packages/spike/NPKConfigParser.py", line 42
+    print "Using default value for {} : {}".format(option,default) # send message if option not in configfile
+                                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/NPKData.py'...
+***   File "./lib/python3.5/site-packages/spike/NPKData.py", line 214
+    print "WARNING"
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Orbitrap.py'...
+***   File "./lib/python3.5/site-packages/spike/Orbitrap.py", line 19
+    print "No matplot"
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Orbitrap2.py'...
+***   File "./lib/python3.5/site-packages/spike/Orbitrap2.py", line 92
+    if debug>0: print "reading msh5"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/QC.py'...
+***   File "./lib/python3.5/site-packages/spike/QC.py", line 19
+    print sep*(len(string)+4)
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/Tests.py'...
+***   File "./lib/python3.5/site-packages/spike/Tests.py", line 37
+    print s
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/spike/Visu'...
+Compiling './lib/python3.5/site-packages/spike/Visu/Load.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/Load.py", line 24
+    print "name of the msh5 to be loaded is  ", self.multresfile
+                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Visu/Pyside_PyQt4.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/Pyside_PyQt4.py", line 9
+    print "using PySide for visu2D"
+                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Visu/Saving.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/Saving.py", line 33
+    print "data saved at ", path_save                                                       # tells where it is saved.
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Visu/canvas.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/canvas.py", line 33
+    print "hello"
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Visu/canvas_event.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/canvas_event.py", line 35
+    print "in zooming.recupxy"
+                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Visu/convert.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/convert.py", line 35
+    print "d.axes(2).itomz(llx) ", d.axes(2).itomz(llx)
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/Visu/display.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/display.py", line 63
+    print "in display.set_canvasC"
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Visu/graphic_tools.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/graphic_tools.py", line 26
+    print "in GRAPHTOOLS"
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/spike/Visu/init'...
+Compiling './lib/python3.5/site-packages/spike/Visu/interface.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/interface.py", line 27
+    print "in INTERFACE"
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Visu/interface_actions.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/interface_actions.py", line 13
+    print "in INTERACT"
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Visu/label_2D.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/label_2D.py", line 44
+    print "in test_correct "
+                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Visu/move_window.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/move_window.py", line 20
+    print "in MOVE_WINDOW"
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Visu/paramzoom.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/paramzoom.py", line 30
+    print "############ report paramz"
+                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Visu/profile_popup.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/profile_popup.py", line 62
+    print "kind_saved ", kind_saved
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/spike/Visu/single'...
+Compiling './lib/python3.5/site-packages/spike/Visu/single/select_tools.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/single/select_tools.py", line 22
+    print "### change tool to ", tool
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Visu/zoom_plot.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/zoom_plot.py", line 27
+    print "in zooming.greyzoom"
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/Visu/zooming.py'...
+***   File "./lib/python3.5/site-packages/spike/Visu/zooming.py", line 21
+    print "in ZOOMING"
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/dev_setup.py'...
+***   File "./lib/python3.5/site-packages/spike/dev_setup.py", line 128
+    print " ".join(arg)
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/processing.py'...
+***   File "./lib/python3.5/site-packages/spike/processing.py", line 89
+    if debug > 0: print r, reduce(lambda x, y:x*y, r)/1024/1024, 'Mpoint'     # report if debug
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/random_sampling.py'...
+***   File "./lib/python3.5/site-packages/spike/random_sampling.py", line 188
+    print ratio, max(sampling), targetsize
+              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/spike/util'...
+Compiling './lib/python3.5/site-packages/spike/util/ReadConfig.py'...
+***   File "./lib/python3.5/site-packages/spike/util/ReadConfig.py", line 29
+    print config.keys()
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/util/ValErr.py'...
+***   File "./lib/python3.5/site-packages/spike/util/ValErr.py", line 70
+    if deb: print dig,idig
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/util/counter.py'...
+***   File "./lib/python3.5/site-packages/spike/util/counter.py", line 48
+    print "function %s called %d times"%(func_to_decorate.__name__, count.count)
+                                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/util/daemon_tests.py'...
+***   File "./lib/python3.5/site-packages/spike/util/daemon_tests.py", line 38
+    print "erasing old NPKv2"
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/util/debug_tools.py'...
+***   File "./lib/python3.5/site-packages/spike/util/debug_tools.py", line 21
+    print var + ' ', value
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/util/dynsubplot.py'...
+***   File "./lib/python3.5/site-packages/spike/util/dynsubplot.py", line 64
+    print "using injected pyplot"
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/util/hashcheck.py'...
+***   File "./lib/python3.5/site-packages/spike/util/hashcheck.py", line 53
+    print "%s created"%os.path.join(dirhash,'hashfile')
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/util/log_all.py'...
+***   File "./lib/python3.5/site-packages/spike/util/log_all.py", line 26
+    print "no __file__"
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/util/log_stderr.py'...
+***   File "./lib/python3.5/site-packages/spike/util/log_stderr.py", line 29
+    print "no __file__"
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/util/mail_error_logger.py'...
+***   File "./lib/python3.5/site-packages/spike/util/mail_error_logger.py", line 31
+    print "text ",text
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/util/mpiutil.py'...
+***   File "./lib/python3.5/site-packages/spike/util/mpiutil.py", line 56
+    print "no MPI available"
+                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/util/read_msh5.py'...
+***   File "./lib/python3.5/site-packages/spike/util/read_msh5.py", line 29
+    print "d is the FTICRDATA for the minimal resolution"
+                                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/util/readwrite_tools.py'...
+***   File "./lib/python3.5/site-packages/spike/util/readwrite_tools.py", line 29
+    print re.findall(r'\d+', l)[0] # extract this number
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/util/rem_ridge.py'...
+***   File "./lib/python3.5/site-packages/spike/util/rem_ridge.py", line 38
+    print u"""
+injection de rem_ridge()
+maintenant il suffit de faire 
+
+data.rem_ridge()
+
+pour réaliser la correction de ldb
+    """
+              
+                        
+                              
+
+                
+
+                                  
+      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/util/shift_comments.py'...
+***   File "./lib/python3.5/site-packages/spike/util/shift_comments.py", line 28
+    print self.linecorr
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/util/signal_tools.py'...
+***   File "./lib/python3.5/site-packages/spike/util/signal_tools.py", line 471
+    print findnoiselevel(e.buffer, n)
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/util/simple_logger.py'...
+***   File "./lib/python3.5/site-packages/spike/util/simple_logger.py", line 43
+    print "sending mail"
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/spike/v1'...
+Compiling './lib/python3.5/site-packages/spike/v1/Bruker.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/Bruker.py", line 41
+    print a+" not found"
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/v1/Generic.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/Generic.py", line 45
+    print fname
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/v1/GenericDosy.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/GenericDosy.py", line 107
+    print datafile
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/v1/GenericMaxEnt.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/GenericMaxEnt.py", line 18
+    def setup_filter2D(si1data,si2data,(lb1,lb2),pos_neg=0):
+                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/v1/Kore.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/Kore.py", line 74
+    print report
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/v1/Launch.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/Launch.py", line 221
+    print "\n"+report
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/v1/NPKv1.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/NPKv1.py", line 224
+    print "\n"+report
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/v1/Nucleus.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/Nucleus.py", line 204
+    print "===   NPK Spin table  at Bo = %6.2f Tesla  ======================================"%(Bo)
+                                                                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/v1/Param.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/Param.py", line 136
+    print "Error while opening file :", sys.exc_info()[0]
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/v1/Process1D.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/Process1D.py", line 311
+    print "BURG",p_in["lp_ext_size"],get_si1_1d(), get_order(), t
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/v1/Process2D.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/Process2D.py", line 242
+    if debug: print "trucation"
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/v1/Process3D.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/Process3D.py", line 101
+    print tempdata2
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/spike/v1/ProcessDosy.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/ProcessDosy.py", line 153
+    raise "Error while reading file ",inputfilename
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/v1/mflops.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/mflops.py", line 33
+    print K.get_itype_2d()
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/v1/test.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/test.py", line 18
+    print "\n========",self.shortDescription(),'==============='
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/v1/v1_Tests.py'...
+***   File "./lib/python3.5/site-packages/spike/v1/v1_Tests.py", line 18
+    print self.shortDescription()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/version.py'...
+***   File "./lib/python3.5/site-packages/spike/version.py", line 19
+    print '''
+    ========================
+          %s
+    ========================
+    Version     : %s
+    Date        : %s
+ 
+    ========================'''%(ProgramName, version, rev_date)
+             
+                            
+            
+                            
+                    
+                    
+ 
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/spike/visu2D.py'...
+***   File "./lib/python3.5/site-packages/spike/visu2D.py", line 102
+    print "using %s as configuration file" %configfile
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/spike_py-0.6.3.egg-info'...
+Listing './share'...
+Listing './share/python-wheels'...

@@ -1,0 +1,249 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/MISO'...
+Listing './lib/python3.5/site-packages/MISO/misopy'...
+Compiling './lib/python3.5/site-packages/MISO/misopy/Gene.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (Gene.py, line 15)
+Compiling './lib/python3.5/site-packages/MISO/misopy/as_events.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (as_events.py, line 18)
+Compiling './lib/python3.5/site-packages/MISO/misopy/cluster_utils.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (cluster_utils.py, line 89)
+Compiling './lib/python3.5/site-packages/MISO/misopy/compare_miso.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/compare_miso.py", line 31
+    print "MISO (Mixture of Isoforms model)"
+                                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/credible_intervals.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (credible_intervals.py, line 39)
+Compiling './lib/python3.5/site-packages/MISO/misopy/exon_utils.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/exon_utils.py", line 96
+    print "Outputting exons to file: %s" %(output_filename)
+                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/filter_events.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/filter_events.py", line 114
+    print "Filtering %s into %s" %(",".join(filter_filename),
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/gff_utils.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/gff_utils.py", line 79
+    print "Searching for %s.." %(shelve_fname)
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/hypothesis_test.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (hypothesis_test.py, line 20)
+Compiling './lib/python3.5/site-packages/MISO/misopy/index_gff.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/index_gff.py", line 77
+    print "Making directory: %s" %(chrom_dir)
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/json_utils.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (json_utils.py, line 12)
+Compiling './lib/python3.5/site-packages/MISO/misopy/kde_subclass.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/kde_subclass.py", line 47
+    raise ValueError, \
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/legacy_test_pysplicing.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/legacy_test_pysplicing.py", line 15
+    reads = pysplicing.simulateReads(gene, 0L, (0.2,0.3,0.5), 2000L, 33L)
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/misc_utils.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/misc_utils.py", line 38
+    print "Error: %s compressed file does not exist." \
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/miso.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/miso.py", line 62
+    print "MISO (Mixture of Isoforms model)"
+                                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/miso_db.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/miso_db.py", line 36
+    raise Exception, "%s does not exist." %(db_fname)
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/miso_pack.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/miso_pack.py", line 52
+    print "Processing: %s" %(miso_dirname)
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/miso_sampler.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/miso_sampler.py", line 120
+    print "Total of %d in isoform %d" %(v, k)
+                                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/miso_utils.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/miso_utils.py", line 17
+    print "Error: %s not a directory." \
+                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/miso_zip.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/miso_zip.py", line 55
+    print "Error: %s already exists. Please delete to overwrite." \
+                                                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/module_availability.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/module_availability.py", line 13
+    print "Checking availability of Python modules for MISO"
+                                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/parse_csv.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (parse_csv.py, line 22)
+Compiling './lib/python3.5/site-packages/MISO/misopy/parse_gene.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/parse_gene.py", line 11
+    raise Exception, "Error: no filename %s" %(pickle_filename)
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/pe_utils.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/pe_utils.py", line 57
+    print "Excluding values < %.2f or > %.2f" \
+                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/read_simulator.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/read_simulator.py", line 28
+    print "Iso %d (len = %d): %d unambiguous supporting reads" %(n, gene.isoforms[n].len,
+                                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/run_events_analysis.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/run_events_analysis.py", line 43
+    print "WARNING: Could not find \'genes.gff\' in %s - " \
+                                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/run_miso.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/run_miso.py", line 54
+    print "Error: No GFF %s" %(gff_index_filename)
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/sam_rpkm.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/sam_rpkm.py", line 69
+    print "Computing RPKMs..."
+                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/sam_to_bam.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/sam_to_bam.py", line 11
+    print "Converting SAM to BAM..."
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/sam_utils.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/sam_utils.py", line 147
+    print "Loading BAM filename from: %s" %(bam_filename)
+                                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/samples_utils.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/samples_utils.py", line 34
+    print "  - Loading compressed IDs mapping from: %s" \
+                                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/MISO/misopy/sashimi_plot'...
+Compiling './lib/python3.5/site-packages/MISO/misopy/sashimi_plot/Sashimi.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/sashimi_plot/Sashimi.py", line 58
+    print "Reading dimensions from settings..."
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/sashimi_plot/plot.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/sashimi_plot/plot.py", line 5
+    print "plot.py interface to Sashimi plot is now deprecated. " \
+                                                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/MISO/misopy/sashimi_plot/plot_utils'...
+Compiling './lib/python3.5/site-packages/MISO/misopy/sashimi_plot/plot_utils/plot_gene.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/sashimi_plot/plot_utils/plot_gene.py", line 60
+    print "Error retrieving files from %s: %s" %(chrom, str(e))
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/sashimi_plot/plot_utils/plot_settings.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/sashimi_plot/plot_utils/plot_settings.py", line 89
+    print "Reading settings from: %s" %(settings_filename)
+                                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/sashimi_plot/plot_utils/plotting.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (plotting.py, line 49)
+Compiling './lib/python3.5/site-packages/MISO/misopy/sashimi_plot/plot_utils/samples_plotter.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (samples_plotter.py, line 31)
+Compiling './lib/python3.5/site-packages/MISO/misopy/sashimi_plot/sashimi_plot.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/sashimi_plot/sashimi_plot.py", line 46
+    print "WARNING: %s does not end in .miso_bf, are you sure it is the " \
+                                                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/settings.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/settings.py", line 31
+    print "Using MISO settings file: %s" %(cls.settings_path)
+                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/summarize_miso.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/summarize_miso.py", line 31
+    print "MISO (Mixture of Isoforms model)"
+                                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/test_cluster.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/test_cluster.py", line 30
+    print "Testing single-end SE event interface..."
+                                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/MISO/misopy/test_miso.py'...
+***   File "./lib/python3.5/site-packages/MISO/misopy/test_miso.py", line 39
+    print "Testing conversion of SAM to BAM..."
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/rmats2sashimiplot'...
+Listing './lib/python3.5/site-packages/rmats2sashimiplot-2.0.2.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

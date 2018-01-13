@@ -1,0 +1,290 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/MetaPathways_Python-2.1.egg-info'...
+Listing './lib/python3.5/site-packages/metapathways2'...
+Compiling './lib/python3.5/site-packages/metapathways2/MetaPathways.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/MetaPathways.py", line 33
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/metapathways2/config'...
+Listing './lib/python3.5/site-packages/metapathways2/executables'...
+Listing './lib/python3.5/site-packages/metapathways2/executables/linux'...
+Listing './lib/python3.5/site-packages/metapathways2/executables/linux/bit32'...
+Listing './lib/python3.5/site-packages/metapathways2/libs'...
+Listing './lib/python3.5/site-packages/metapathways2/libs/python_modules'...
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/_metapathways.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/_metapathways.py", line 34
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/metapathways2/libs/python_modules/annotate'...
+Listing './lib/python3.5/site-packages/metapathways2/libs/python_modules/annotate/sequence'...
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/annotate/sequence/__init__.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/annotate/sequence/__init__.py", line 139
+    print qualifiers['translation']
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/metapathways2/libs/python_modules/diagnostics'...
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/diagnostics/configuration.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/diagnostics/configuration.py", line 17
+    print "Cannot load some modules"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/diagnostics/diagnoze.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/diagnostics/diagnoze.py", line 24
+    print "Cannot load some modules"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/diagnostics/parameters.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/diagnostics/parameters.py", line 23
+    print "Cannot load some modules"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/diagnostics/tools.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/diagnostics/tools.py", line 17
+    print "Cannot load some modules"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/metapathways2/libs/python_modules/grid'...
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/grid/BlastBroker.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/grid/BlastBroker.py", line 27
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/grid/BlastGrid.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/grid/BlastGrid.py", line 21
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/grid/BlastService.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/grid/BlastService.py", line 23
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/grid/blast_using_grid.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/grid/blast_using_grid.py", line 29
+    print traceback.print_exc(10)
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/metapathways2/libs/python_modules/parsers'...
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/parsers/fastareader.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/parsers/fastareader.py", line 28
+    print "Cannot open fasta file " + fasta_filename
+                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/parsers/parse.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/parsers/parse.py", line 40
+    raise QiimeParseError,\
+                         ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline'...
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline/MetaPathways_gather_run_stats.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline/MetaPathways_gather_run_stats.py", line 22
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline/commands.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline/commands.py", line 23
+    print "Cannot load some modules"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline/context.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline/context.py", line 22
+    print "Cannot load some modules"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline/jobscreator.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline/jobscreator.py", line 25
+    print "Cannot load some modules"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline/metapathways.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline/metapathways.py", line 34
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline/metapathways_pipeline.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline/metapathways_pipeline.py", line 24
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline/sampledata.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/pipeline/sampledata.py", line 24
+    print "Cannot load some modules"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/metapathways2/libs/python_modules/taxonomy'...
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/taxonomy/LCAComputation.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/taxonomy/LCAComputation.py", line 8
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/taxonomy/MeganTree.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/taxonomy/MeganTree.py", line 8
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/metapathways2/libs/python_modules/utils'...
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/utils/errormessages.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/utils/errormessages.py", line 17
+    print "Cannot load some modules"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/utils/metapathways_utils.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/utils/metapathways_utils.py", line 85
+    print "Cannot read the map file for database :" + dbname
+                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/utils/pathwaytoolsutils.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/utils/pathwaytoolsutils.py", line 190
+    print frame, slot_name
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_modules/utils/utils.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_modules/utils/utils.py", line 27
+    print "Cannot load some modules"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/metapathways2/libs/python_scripts'...
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_MLTreeMap_hits.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_MLTreeMap_hits.py", line 22
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_annotate_fast.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_annotate_fast.py", line 21
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_create_amino_sequences.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_create_amino_sequences.py", line 14
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_create_genbank_ptinput_sequin.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_create_genbank_ptinput_sequin.py", line 24
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_create_reports_fast.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_create_reports_fast.py", line 24
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_filter_input.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_filter_input.py", line 22
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_genbank_modifier.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_genbank_modifier.py", line 22
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_input_gff.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_input_gff.py", line 22
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_parse_blast.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_parse_blast.py", line 22
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_parse_genbank.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_parse_genbank.py", line 20
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_pathway_table.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_pathway_table.py", line 25
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_rRNA_stats_calculator.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_rRNA_stats_calculator.py", line 13
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_refscore.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_refscore.py", line 21
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_run_pathologic.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/MetaPathways_run_pathologic.py", line 17
+    print """ Could not load some user defined  module functions"""
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/metapathways2/libs/python_scripts/daemon.py'...
+***   File "./lib/python3.5/site-packages/metapathways2/libs/python_scripts/daemon.py", line 156
+    print str(len(samples_dictionary))
+            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

@@ -1,0 +1,213 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/rtf2xml'...
+Compiling './lib/python3.5/site-packages/rtf2xml/ParseRtf.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/ParseRtf.py", line 211
+    raise RtfInvalidCodeException, msg
+                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/body_styles.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/body_styles.py", line 95
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/char_set.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/char_set.py", line 3076
+    """
+     ^
+SyntaxError: (unicode error) 'utf-8' codec can't decode byte 0x92 in position 0: invalid start byte
+
+Compiling './lib/python3.5/site-packages/rtf2xml/check_encoding.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/check_encoding.py", line 16
+    except UnicodeError, msg:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/colors.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/colors.py", line 259
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/configure_txt.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/configure_txt.py", line 67
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/convert_to_tags.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/convert_to_tags.py", line 146
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/copy.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/copy.py", line 35
+    raise self.__bug_handler, message
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/delete_info.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/delete_info.py", line 144
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/encode_to_rtf.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/encode_to_rtf.py", line 67
+    raise self.__bug_hander, msg
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/field_strings.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/field_strings.py", line 296
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/fields_large.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/fields_large.py", line 131
+    """
+     ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2780-2784: truncated \uXXXX escape
+
+Compiling './lib/python3.5/site-packages/rtf2xml/fonts.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/fonts.py", line 251
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/footnote.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (footnote.py, line 92)
+Compiling './lib/python3.5/site-packages/rtf2xml/get_char_map.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (get_char_map.py, line 50)
+Compiling './lib/python3.5/site-packages/rtf2xml/get_options.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/get_options.py", line 141
+    except ValueError, msg:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/group_borders.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/group_borders.py", line 206
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/group_styles.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/group_styles.py", line 194
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/header.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (header.py, line 79)
+Compiling './lib/python3.5/site-packages/rtf2xml/hex_2_utf8.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/hex_2_utf8.py", line 84
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/info.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/info.py", line 289
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/inline.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/inline.py", line 435
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/line_endings.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (line_endings.py, line 50)
+Compiling './lib/python3.5/site-packages/rtf2xml/list_table.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/list_table.py", line 139
+    print self.__state
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rtf2xml/options_trem.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/options_trem.py", line 384
+    print options, the_args
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rtf2xml/override_table.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/override_table.py", line 130
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/paragraph_def.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/paragraph_def.py", line 484
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/pict.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/pict.py", line 82
+    except OSError, msg:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/preamble_div.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/preamble_div.py", line 466
+    print 'woops!'
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rtf2xml/process_tokens.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/process_tokens.py", line 688
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/sections.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/sections.py", line 395
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/styles.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/styles.py", line 369
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rtf2xml/table.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (table.py, line 302)
+Compiling './lib/python3.5/site-packages/rtf2xml/table_info.py'...
+***   File "./lib/python3.5/site-packages/rtf2xml/table_info.py", line 97
+    raise self.__bug_handler, msg
+                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rtf2xml-1.33.egg-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

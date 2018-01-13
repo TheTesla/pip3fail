@@ -1,0 +1,179 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/Dejavu-1.5.0.egg-info'...
+Listing './lib/python3.5/site-packages/dejavu'...
+Compiling './lib/python3.5/site-packages/dejavu/arenas.py'...
+***   File "./lib/python3.5/site-packages/dejavu/arenas.py", line 48
+    print message.encode('utf8')
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dejavu/codewalk.py'...
+***   File "./lib/python3.5/site-packages/dejavu/codewalk.py", line 151
+    print term,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/dejavu/recur.py'...
+***   File "./lib/python3.5/site-packages/dejavu/recur.py", line 740
+    except TypeError, x:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/dejavu/storage'...
+Compiling './lib/python3.5/site-packages/dejavu/storage/db.py'...
+***   File "./lib/python3.5/site-packages/dejavu/storage/db.py", line 142
+    except UnicodeDecodeError, x:
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dejavu/storage/msaccessthreads.py'...
+***   File "./lib/python3.5/site-packages/dejavu/storage/msaccessthreads.py", line 49
+    print data[0][0],
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/dejavu/storage/sockets.py'...
+***   File "./lib/python3.5/site-packages/dejavu/storage/sockets.py", line 101
+    except Exception, x:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dejavu/storage/storeado.py'...
+***   File "./lib/python3.5/site-packages/dejavu/storage/storeado.py", line 188
+    return ((value[1] & 0xFFFFFFFFL) | (value[0] << 32)) / 1e4
+                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dejavu/storage/storefirebird.py'...
+***   File "./lib/python3.5/site-packages/dejavu/storage/storefirebird.py", line 460
+    except Exception, x:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dejavu/storage/storefs.py'...
+***   File "./lib/python3.5/site-packages/dejavu/storage/storefs.py", line 87
+    except IOError, exc:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dejavu/storage/storemysql.py'...
+***   File "./lib/python3.5/site-packages/dejavu/storage/storemysql.py", line 365
+    except _mysql.ProgrammingError, x:
+                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dejavu/storage/storepsycopg.py'...
+***   File "./lib/python3.5/site-packages/dejavu/storage/storepsycopg.py", line 162
+    except _psycopg.DatabaseError, x:
+                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dejavu/storage/storepypgsql.py'...
+***   File "./lib/python3.5/site-packages/dejavu/storage/storepypgsql.py", line 147
+    except libpq.DatabaseError, x:
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dejavu/storage/storeshelve.py'...
+***   File "./lib/python3.5/site-packages/dejavu/storage/storeshelve.py", line 58
+    except anydbm.error, x:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dejavu/storage/storesqlite.py'...
+***   File "./lib/python3.5/site-packages/dejavu/storage/storesqlite.py", line 740
+    except (_sqlite.OperationalError, _sqlite.DatabaseError), x:
+                                                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/dejavu/test'...
+Compiling './lib/python3.5/site-packages/dejavu/test/test.py'...
+***   File "./lib/python3.5/site-packages/dejavu/test/test.py", line 57
+    print """
+Dejavu Test Program
+    Usage:
+        test.py --<testname>
+        
+        tests:"""
+             
+                   
+          
+                            
+        
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/dejavu/test/test_dejavu.py'...
+***   File "./lib/python3.5/site-packages/dejavu/test/test_dejavu.py", line 198
+    print "JSON funtionality requires the simplejson package."
+                                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/dejavu/test/test_storemsaccess.py'...
+***   File "./lib/python3.5/site-packages/dejavu/test/test_storemsaccess.py", line 63
+    print "Standard MSAccess test."
+                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/dejavu/test/test_storemysql.py'...
+***   File "./lib/python3.5/site-packages/dejavu/test/test_storemysql.py", line 23
+    print "Testing MySQL with 'latin1' encoding..."
+                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/dejavu/test/test_storepsycopg.py'...
+***   File "./lib/python3.5/site-packages/dejavu/test/test_storepsycopg.py", line 32
+    print "Testing PostgreSQL with 'SQL_ASCII' encoding..."
+                                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/dejavu/test/test_storepypgsql.py'...
+***   File "./lib/python3.5/site-packages/dejavu/test/test_storepypgsql.py", line 27
+    print "Testing PostgreSQL with 'SQL_ASCII' encoding..."
+                                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/dejavu/test/test_storesqlite.py'...
+***   File "./lib/python3.5/site-packages/dejavu/test/test_storesqlite.py", line 34
+    print "Testing SQLite with 'Perfect Dates'"
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/dejavu/test/zoo_fixture.py'...
+***   File "./lib/python3.5/site-packages/dejavu/test/zoo_fixture.py", line 857
+    print "not a db (skipped) ",
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dejavu/units.py'...
+***   File "./lib/python3.5/site-packages/dejavu/units.py", line 386
+    except Exception, x:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

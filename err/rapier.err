@@ -1,0 +1,117 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/PyYAML-3.11.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/rapier-0.0.4.egg-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './lib/python3.5/site-packages/util'...
+Compiling './lib/python3.5/site-packages/util/gen_html.py'...
+***   File "./lib/python3.5/site-packages/util/gen_html.py", line 233
+    print rslt
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/util/gen_js_sdk.py'...
+***   File "./lib/python3.5/site-packages/util/gen_js_sdk.py", line 36
+    print '''var baseAPI = require('rapier')
+
+var exports = function() {
+            
+    function API() {}
+    
+    API.prototype = Object.create(baseAPI.BaseAPI.prototype);
+    API.prototype.well_known_URLs = function() {
+        return %s
+    }
+    API.prototype.resourceClass = function(type_name) {
+        return  type_name in classToKindMap ? classToKindMap[type_name] : baseAPI.BaseResource      
+    }
+    
+    var api = new API();
+
+    var api_function = function() {
+        return api
+    }''' % well_known_urls
+                                            
+
+                          
+            
+                     
+    
+                                                             
+                                                
+                 
+     
+                                                       
+                                                                                                    
+     
+    
+                        
+
+                                   
+                  
+       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/util/gen_openapispec.py'...
+***   File "./lib/python3.5/site-packages/util/gen_openapispec.py", line 588
+    print 'internal error - failed to resolve reference %s' % key
+                                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/util/gen_py_sdk.py'...
+***   File "./lib/python3.5/site-packages/util/gen_py_sdk.py", line 31
+    print '''
+from rapier.py.base_api import BaseAPI, BaseResource, BaseEntity, BaseCollection
+
+class API(BaseAPI):
+    def well_known_URLs(self):
+        return %s
+    def resource_class(self, type_name):
+        return classToKindMap.get(type_name, BaseResource)
+
+api = API()
+
+class APIClass(object):
+    def api(self):
+        return api''' % well_known_urls
+             
+                                                                                
+
+                   
+                              
+                 
+                                        
+                                                          
+
+           
+
+                       
+                  
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/yaml'...
+Listing './share'...
+Listing './share/python-wheels'...

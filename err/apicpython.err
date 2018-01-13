@@ -1,0 +1,401 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/apicPython'...
+Compiling './lib/python3.5/site-packages/apicPython/addFabricNode.py'...
+***   File "./lib/python3.5/site-packages/apicPython/addFabricNode.py", line 7
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/addMgmtProvidedOutOfBandContract.py'...
+***   File "./lib/python3.5/site-packages/apicPython/addMgmtProvidedOutOfBandContract.py", line 12
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/addSecurityDomain.py'...
+***   File "./lib/python3.5/site-packages/apicPython/addSecurityDomain.py", line 7
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/addUserDomain.py'...
+***   File "./lib/python3.5/site-packages/apicPython/addUserDomain.py", line 8
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/addVmmDomainAssociation.py'...
+***   File "./lib/python3.5/site-packages/apicPython/addVmmDomainAssociation.py", line 13
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/associateL3OutsideNetworkToBD.py'...
+***   File "./lib/python3.5/site-packages/apicPython/associateL3OutsideNetworkToBD.py", line 10
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/changeCatalogFirmwarePolicy.py'...
+***   File "./lib/python3.5/site-packages/apicPython/changeCatalogFirmwarePolicy.py", line 7
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/changeClusterSize.py'...
+***   File "./lib/python3.5/site-packages/apicPython/changeClusterSize.py", line 7
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/chooseRoleForUser.py'...
+***   File "./lib/python3.5/site-packages/apicPython/chooseRoleForUser.py", line 11
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/configureInBandEpgDefault.py'...
+***   File "./lib/python3.5/site-packages/apicPython/configureInBandEpgDefault.py", line 18
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/configureInterfacePcAndVpc.py'...
+***   File "./lib/python3.5/site-packages/apicPython/configureInterfacePcAndVpc.py", line 12
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/connectEpgContract.py'...
+***   File "./lib/python3.5/site-packages/apicPython/connectEpgContract.py", line 11
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createAccessPortPolicyGroup.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createAccessPortPolicyGroup.py", line 11
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createApplicationEpg.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createApplicationEpg.py", line 19
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createAttachableAccessEntityprofile.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createAttachableAccessEntityprofile.py", line 11
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createBgpRouteReflector.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createBgpRouteReflector.py", line 11
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createBridgeDomain.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createBridgeDomain.py", line 8
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createCdpInterfacePolicy.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createCdpInterfacePolicy.py", line 11
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createContract.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createContract.py", line 16
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createDhcpRelayLabel.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createDhcpRelayLabel.py", line 12
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createDhcpRelayPolicy.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createDhcpRelayPolicy.py", line 10
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createDnsProfile.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createDnsProfile.py", line 13
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createExternalManagementEntityInstance.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createExternalManagementEntityInstance.py", line 12
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createExternalNetwork.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createExternalNetwork.py", line 13
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createFilter.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createFilter.py", line 24
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createFirmwareGroup.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createFirmwareGroup.py", line 13
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createInterfaceProfile.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createInterfaceProfile.py", line 14
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createL3EpgProviderOrConsumerContract.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createL3EpgProviderOrConsumerContract.py", line 18
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createLacpPolicy.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createLacpPolicy.py", line 15
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createLinkLevelPolicy.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createLinkLevelPolicy.py", line 14
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createLldpInterfacePolicy.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createLldpInterfacePolicy.py", line 11
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createLocalUser.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createLocalUser.py", line 17
+    print 'password must be minimum 8 characters'
+                                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createMaintenanceGroup.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createMaintenanceGroup.py", line 12
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createMo.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createMo.py", line 114
+    print 'Not appropriate argument, please try again.'
+                                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createMulticastAddressBlock.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createMulticastAddressBlock.py", line 7
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createNodeManagementAddress.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createNodeManagementAddress.py", line 18
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createNodes.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createNodes.py", line 9
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createNodesAndInterfacesProfile.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createNodesAndInterfacesProfile.py", line 11
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createOutOfBandContract.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createOutOfBandContract.py", line 14
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createOutsideFirmwareSource.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createOutsideFirmwareSource.py", line 12
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createPcInterfacePolicyGroup.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createPcInterfacePolicyGroup.py", line 13
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createPhysicalDomain.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createPhysicalDomain.py", line 13
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createPodPolicyGroup.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createPodPolicyGroup.py", line 12
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createPrivateNetwork.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createPrivateNetwork.py", line 12
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createRadiusProvider.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createRadiusProvider.py", line 17
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createRoutedInterfaceProfile.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createRoutedInterfaceProfile.py", line 15
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createRoutedOutside.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createRoutedOutside.py", line 17
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createStaticRoute.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createStaticRoute.py", line 10
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createSubnet.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createSubnet.py", line 11
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createTenant.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createTenant.py", line 5
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createVcenterController.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createVcenterController.py", line 16
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createVcenterCredential.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createVcenterCredential.py", line 11
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createVcenterDomain.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createVcenterDomain.py", line 16
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createVlanPool.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createVlanPool.py", line 9
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createVshieldController.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createVshieldController.py", line 17
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/createVxlanPool.py'...
+***   File "./lib/python3.5/site-packages/apicPython/createVxlanPool.py", line 7
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/dynamicallyCreateApplication.py'...
+***   File "./lib/python3.5/site-packages/apicPython/dynamicallyCreateApplication.py", line 43
+    print 'Wizard mode is not supported in this method. Please try Yaml mode.'
+                                                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/labScript.py'...
+***   File "./lib/python3.5/site-packages/apicPython/labScript.py", line 35
+    print 'CLI mode is not supported in this method. Please try Yaml mode.'
+                                                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/selectPodPolicy.py'...
+***   File "./lib/python3.5/site-packages/apicPython/selectPodPolicy.py", line 7
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/setAutonomousSystemNumber.py'...
+***   File "./lib/python3.5/site-packages/apicPython/setAutonomousSystemNumber.py", line 7
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/setDefaultSettingForPrivateNetwork.py'...
+***   File "./lib/python3.5/site-packages/apicPython/setDefaultSettingForPrivateNetwork.py", line 11
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/apicPython/upgradeControllerFirmwarePolicy.py'...
+***   File "./lib/python3.5/site-packages/apicPython/upgradeControllerFirmwarePolicy.py", line 49
+    print 'Reset.'
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/apicPython-0.3.1.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

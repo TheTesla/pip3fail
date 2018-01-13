@@ -1,0 +1,267 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/pyremotevbox'...
+Compiling './lib/python3.5/site-packages/pyremotevbox/VirtualBox_client.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/VirtualBox_client.py", line 36
+    raise TypeError, "%s incorrect request type" % (request.__class__)
+                   ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyremotevbox/ZSI'...
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/ServiceContainer.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/ServiceContainer.py", line 79
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/ServiceProxy.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/ServiceProxy.py", line 163
+    raise RuntimeError, 'Unsupported: XML must be string'
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/TC.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/TC.py", line 314
+    raise TypeError,\
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/TCapache.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/TCapache.py", line 75
+    if __name__ == '__main__': print _copyright
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/TCcompound.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/TCcompound.py", line 266
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/TCnumbers.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/TCnumbers.py", line 184
+    if __name__ == '__main__': print _copyright
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/TCtimes.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/TCtimes.py", line 162
+    except ValueError, e:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/__init__.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/__init__.py", line 253
+    raise EvaluateException, 'cant resolve xmlns:%s' %prefix
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/address.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/address.py", line 42
+    raise EvaluateException,\
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/auth.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/auth.py", line 65
+    if __name__ == '__main__': print _copyright
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/client.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/client.py", line 263
+    raise WSActionException, 'soapAction(%s) and WS-Action(%s) must match'\
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/digest_auth.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/digest_auth.py", line 88
+    raise RuntimeError, 'expecting "WWW-Authenticate header [Basic,Digest]"'
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/dispatch.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/dispatch.py", line 60
+    raise TypeError("Multiple implementations found: " + `handlers`)
+                                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/fault.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/fault.py", line 262
+    if __name__ == '__main__': print _copyright
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyremotevbox/ZSI/generate'...
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/generate/commands.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/generate/commands.py", line 136
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/generate/containers.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/generate/containers.py", line 47
+    raise TypeError, 'IsRPC takes 1 argument of type WSDLTools.OperationBinding'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/generate/pyclass.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/generate/pyclass.py", line 14
+    raise RuntimeError,\
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/generate/utility.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/generate/utility.py", line 59
+    raise WsdlGeneratorError, msg
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/generate/wsdl2dispatch.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/generate/wsdl2dispatch.py", line 113
+    raise WsdlGeneratorError, 'could not determine a service name'
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/generate/wsdl2python.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/generate/wsdl2python.py", line 79
+    raise WsdlGeneratorError, 'could not determine a service name'
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/parse.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/parse.py", line 65
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/resolvers.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/resolvers.py", line 147
+    if __name__ == '__main__': print _copyright
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/schema.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/schema.py", line 116
+    raise AttributeError, 'ElementDeclaration must define schema and literal attributes'
+                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyremotevbox/ZSI/twisted'...
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/twisted/WSresource.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/twisted/WSresource.py", line 86
+    except TypeError, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/twisted/WSsecurity.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/twisted/WSsecurity.py", line 41
+    raise ImportError, 'required global element(s) unavailable: %s ' %({
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/twisted/client.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/twisted/client.py", line 53
+    raise RuntimeError, 'must provide a contextFactory'
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/twisted/interfaces.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/twisted/interfaces.py", line 29
+    if l > i: raise TypeError, 'arg %s does not implement %s' %(args[i], interfaces[i])
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/twisted/reverse.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/twisted/reverse.py", line 50
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/twisted/wsgi.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/twisted/wsgi.py", line 66
+    raise RuntimeError, 'Missing soap callback method for root "%s"' %root
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/typeinterpreter.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/typeinterpreter.py", line 129
+    raise EvaluateException,\
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/writer.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/writer.py", line 39
+    raise TypeError, 'outputclass must subclass MessageInterface'
+                   ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyremotevbox/ZSI/wstools'...
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/wstools/TimeoutSocket.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/wstools/TimeoutSocket.py", line 49
+    except socket.error,why:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/wstools/Utility.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/wstools/Utility.py", line 166
+    raise RuntimeError, 'no built-in SSL Support'
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/wstools/WSDLTools.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/wstools/WSDLTools.py", line 1560
+    raise ValueError, 'Unsupported binding type.'
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/wstools/XMLSchema.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/wstools/XMLSchema.py", line 174
+    raise NotImplementedError, 'adapter method not implemented'
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/wstools/XMLname.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/wstools/XMLname.py", line 41
+    else: raise Exception, "Illegal Value returned from hex(ord(x))"
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/wstools/c14n.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/wstools/c14n.py", line 177
+    raise TypeError, str(node)
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyremotevbox/ZSI/wstools/logging.py'...
+***   File "./lib/python3.5/site-packages/pyremotevbox/ZSI/wstools/logging.py", line 208
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyremotevbox-0.5.0.egg-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

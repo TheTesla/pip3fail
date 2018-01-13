@@ -1,0 +1,355 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/Products'...
+Listing './lib/python3.5/site-packages/Products/AdvancedQuery'...
+Compiling './lib/python3.5/site-packages/Products/AdvancedQuery/__init__.py'...
+***   File "./lib/python3.5/site-packages/Products/AdvancedQuery/__init__.py", line 44
+    raise ValueError, 'unsupported usage spec: %s' % usage
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Products/AdvancedQuery/doc'...
+Compiling './lib/python3.5/site-packages/Products/AdvancedQuery/sorting.py'...
+***   File "./lib/python3.5/site-packages/Products/AdvancedQuery/sorting.py", line 98
+    _load = lambda (x1, x2): x2
+                   ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Products/AdvancedQuery/tests'...
+Compiling './lib/python3.5/site-packages/Products/AdvancedQuery/tests/TestBase.py'...
+***   File "./lib/python3.5/site-packages/Products/AdvancedQuery/tests/TestBase.py", line 48
+    id = `id`
+         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Products/AdvancedQuery/tests/framework.py'...
+***   File "./lib/python3.5/site-packages/Products/AdvancedQuery/tests/framework.py", line 72
+    print 'Unable to locate Testing package.',
+                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Products/AdvancedQuery/tests/testAdvancedQuery.py'...
+***   File "./lib/python3.5/site-packages/Products/AdvancedQuery/tests/testAdvancedQuery.py", line 76
+    for i in range(7,100): self._addObject(folder, i, `i`, None)
+                                                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Products/CalendarX'...
+Listing './lib/python3.5/site-packages/Products/CalendarX/docs'...
+Listing './lib/python3.5/site-packages/Products/CalendarX/i18n'...
+Listing './lib/python3.5/site-packages/Products/CalendarX/model'...
+Listing './lib/python3.5/site-packages/Products/CalendarX/profiles'...
+Listing './lib/python3.5/site-packages/Products/CalendarX/profiles/default'...
+Listing './lib/python3.5/site-packages/Products/CalendarX/profiles/default/types'...
+Listing './lib/python3.5/site-packages/Products/CalendarX/skins'...
+Listing './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX'...
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getAddNewEventURL.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getAddNewEventURL.py", line 51
+    return ANEUrl
+                ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getCXAttribute.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getCXAttribute.py", line 21
+    return getattr(context, 'get%s%s' % (key[0].upper(), key[1:]))()
+    ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getCXEventsBefore.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getCXEventsBefore.py", line 21
+    return context.getEventsBeforeZC(start, xmy, xsub, xpub, xcrt, end)
+    ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getCXEventsBetween.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getCXEventsBetween.py", line 21
+    return context.getEventsBetweenZC(start, end, xmy, xsub, xpub, xcrt)
+    ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getCXMacro.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getCXMacro.py", line 29
+    return pathy
+    ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getCXSheetlist.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getCXSheetlist.py", line 24
+    return CXsheetlist
+                     ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getContLaterEventsWBH.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getContLaterEventsWBH.py", line 61
+    return continuingEvents
+    ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDaysOfMonth.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDaysOfMonth.py", line 14
+    return mdays[month] + (month == 2 and dateTime.isLeapYear())
+                                                               ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDaysOfTheWeek.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDaysOfTheWeek.py", line 42
+    return newDayList
+                    ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDictCommon.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDictCommon.py", line 219
+    return cdict
+               ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDictDay.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDictDay.py", line 52
+    return dict
+              ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDictMonth.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDictMonth.py", line 76
+    return dict
+              ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDictMultiMonth.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDictMultiMonth.py", line 99
+    return dict
+              ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDictWeekbyday.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDictWeekbyday.py", line 38
+    return dict
+              ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDictWeekbyhour.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getDictWeekbyhour.py", line 52
+    return dict
+              ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEndOfDay.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEndOfDay.py", line 34
+    return dT
+            ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEndOfMonth.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEndOfMonth.py", line 18
+    return DateTime(str(dateTime.year())+'/'+str(month)+'/'+ str(mdays[month] + (month == 2 and dateTime.isLeapYear()))+' 11:59:59PM')
+                                                                                                                                     ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEndOfWeek.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEndOfWeek.py", line 37
+    return theDay
+                ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventDictDay.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventDictDay.py", line 136
+    return eddict
+                ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventDictMMonth.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventDictMMonth.py", line 166
+    return emdict
+                ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventDictMonth.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventDictMonth.py", line 130
+    return emdict
+                ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventDictWeekbyday.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventDictWeekbyday.py", line 110
+    return ewbddict
+                  ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventDictWeekbyhour.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventDictWeekbyhour.py", line 154
+    return ewbhdict
+                  ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventIcons.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventIcons.py", line 55
+    return icon
+              ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventTypeCSSClasses.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventTypeCSSClasses.py", line 33
+    return classdict[type]
+    ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventsBeforeAQ.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventsBeforeAQ.py", line 172
+    return context.portal_catalog.evalAdvancedQuery(query,(('start','asc'),))
+                                                                            ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventsBeforeZC.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventsBeforeZC.py", line 155
+    return context.portal_catalog(qdict)
+                                       ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventsBetweenAQ.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventsBetweenAQ.py", line 163
+    return context.portal_catalog.evalAdvancedQuery(query,(('start','asc'),))
+                                                                            ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventsBetweenZC.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getEventsBetweenZC.py", line 144
+    return context.portal_catalog(qdict)
+                                       ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getListOfSubjectTitles.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getListOfSubjectTitles.py", line 28
+    return stlist
+                ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getMonthName.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getMonthName.py", line 25
+    return m
+           ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getNumOfDays.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getNumOfDays.py", line 45
+    return dayDiff
+    ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getNumOfHours.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getNumOfHours.py", line 41
+    return hours
+               ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getNumOfPeriods.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getNumOfPeriods.py", line 51
+    return periods
+                 ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getNumWeeksInMonthToShow.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getNumWeeksInMonthToShow.py", line 34
+    return weeksToShow
+                     ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getStartOfDay.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getStartOfDay.py", line 31
+    return dT
+            ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getStartOfMonth.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getStartOfMonth.py", line 16
+    return DateTime(str(dateTime.year())+'/'+str(dateTime.month())+'/01 12:00:00AM')
+                                                                                   ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getStartOfMonthToShow.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getStartOfMonthToShow.py", line 39
+    return maybeDay
+                  ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getStartOfWeek.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getStartOfWeek.py", line 39
+    return theDay
+                ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getSubjectCSSClasses.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/getSubjectCSSClasses.py", line 46
+    return classy
+    ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/isCalendarManager.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/isCalendarManager.py", line 21
+    return 1
+    ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/listSortByStart.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/listSortByStart.py", line 26
+    return list
+              ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/listUnique.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/listUnique.py", line 35
+    return results
+                 ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/makeCSV.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/makeCSV.py", line 22
+    return csvstring
+                   ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/queriesSubtract.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/queriesSubtract.py", line 24
+    return q1new
+               ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/queriesUnique.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/queriesUnique.py", line 39
+    return results
+                 ^
+SyntaxError: 'return' outside function
+
+Compiling './lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/showDefaultView.py'...
+***   File "./lib/python3.5/site-packages/Products/CalendarX/skins/CalendarX/showDefaultView.py", line 17
+    return context.REQUEST.RESPONSE.redirect('%s/%s' % (context.absolute_url(), dest))
+                                                                                     ^
+SyntaxError: 'return' outside function
+
+Listing './lib/python3.5/site-packages/Products/CalendarX/tests'...
+Listing './lib/python3.5/site-packages/Products.AdvancedQuery-3.0.4.egg-info'...
+Listing './lib/python3.5/site-packages/Products.CalendarX-1.0.4.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

@@ -1,0 +1,273 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/decodes'...
+Compiling './lib/python3.5/site-packages/decodes/__init__.py'...
+***   File "./lib/python3.5/site-packages/decodes/__init__.py", line 1
+    print "http://decod.es"
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/decodes/core'...
+Compiling './lib/python3.5/site-packages/decodes/core/__init__.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/__init__.py", line 1
+    print "decodes core loaded"
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_base.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_base.py", line 2
+    if VERBOSE_FS: print "base.py loaded"
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_circle.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_circle.py", line 3
+    if VERBOSE_FS: print "dc_circle.py loaded"
+                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_color.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_color.py", line 460
+    print "saving image to ",os.path.join(path, filename)
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_cs.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_cs.py", line 3
+    if VERBOSE_FS: print "cs.py loaded"
+                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_curve.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_curve.py", line 3
+    if VERBOSE_FS: print "curve.py loaded"
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_has_pts.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_has_pts.py", line 4
+    if VERBOSE_FS: print "has_pts.py loaded"
+                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_intersection.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_intersection.py", line 3
+    if VERBOSE_FS: print "intersection.py loaded"
+                                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_line.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_line.py", line 4
+    if VERBOSE_FS: print "line.py loaded"
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_mesh.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_mesh.py", line 3
+    if VERBOSE_FS: print "mesh.py loaded"
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_pgon.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_pgon.py", line 3
+    if VERBOSE_FS: print "polygon.py loaded"
+                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_plane.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_plane.py", line 3
+    if VERBOSE_FS: print "plane.py loaded"
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_pline.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_pline.py", line 3
+    if VERBOSE_FS: print "pline.py loaded"
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_point.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_point.py", line 4
+    if VERBOSE_FS: print "point.py loaded"
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_surface.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_surface.py", line 3
+    if VERBOSE_FS: print "surface.py loaded"
+                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_vec.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_vec.py", line 5
+    if VERBOSE_FS: print "vec.py loaded"
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/core/dc_xform.py'...
+***   File "./lib/python3.5/site-packages/decodes/core/dc_xform.py", line 5
+    if VERBOSE_FS: print "xform.py loaded"
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/decodes/extensions'...
+Compiling './lib/python3.5/site-packages/decodes/extensions/__init__.py'...
+***   File "./lib/python3.5/site-packages/decodes/extensions/__init__.py", line 1
+    print "extensions loaded"
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/extensions/cellular_automata.py'...
+***   File "./lib/python3.5/site-packages/decodes/extensions/cellular_automata.py", line 4
+    print "cellular_automata.py loaded"
+                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/extensions/lsystem.py'...
+***   File "./lib/python3.5/site-packages/decodes/extensions/lsystem.py", line 5
+    print "lsystem.py loaded"
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/extensions/packing.py'...
+***   File "./lib/python3.5/site-packages/decodes/extensions/packing.py", line 53
+    if r <> [] : result.extend(r)
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decodes/extensions/reaction_diffusion.py'...
+***   File "./lib/python3.5/site-packages/decodes/extensions/reaction_diffusion.py", line 4
+    print "reaction_diffusion.py loaded"
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/decodes/io'...
+Compiling './lib/python3.5/site-packages/decodes/io/__init__.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/__init__.py", line 1
+    print "io loaded"
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/io/autocad_out.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/autocad_out.py", line 5
+    if VERBOSE_FS: print "autocad-out loaded"
+                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/io/dynamo_in.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/dynamo_in.py", line 4
+    if VERBOSE_FS: print "dynamo_in loaded"
+                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/io/dynamo_out.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/dynamo_out.py", line 5
+    if VERBOSE_FS: print "dynamo_out loaded"
+                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/io/gh_in.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/gh_in.py", line 5
+    if VERBOSE_FS: print "gh_in loaded"
+                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/io/gh_out.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/gh_out.py", line 6
+    if VERBOSE_FS: print "gh_out loaded"
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/io/outie.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/outie.py", line 5
+    if VERBOSE_FS: print "outie loaded"
+                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/io/processing_out.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/processing_out.py", line 5
+    if VERBOSE_FS: print "processing_out loaded"
+                                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/io/rhino_in.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/rhino_in.py", line 5
+    if VERBOSE_FS: print "rhino_in loaded"
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/decodes/io/rhino_out.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/rhino_out.py", line 5
+    if VERBOSE_FS: print "rhino_out loaded"
+                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/decodes/io/rhinoscript'...
+Compiling './lib/python3.5/site-packages/decodes/io/rhinoscript/curve.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/rhinoscript/curve.py", line 639
+    attr.ObjectDecoration = Rhino.DocObjects.ObjectDecoration.None
+                                                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decodes/io/rhinoscript/light.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/rhinoscript/light.py", line 49
+    if units!=Rhino.UnitSystem.None:
+                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decodes/io/rhinoscript/line.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/rhinoscript/line.py", line 30
+    if rc==Rhino.Geometry.Intersect.LineCylinderIntersection.None:
+                                                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decodes/io/rhinoscript/mesh.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/rhinoscript/mesh.py", line 673
+    def MeshVolume(object_ids, True):
+                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decodes/io/rhinoscript/selection.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/rhinoscript/selection.py", line 68
+    geometry_filter = Rhino.DocObjects.ObjectType.None
+                                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decodes/io/rhinoscript/userinterface.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/rhinoscript/userinterface.py", line 453
+    icon = System.Windows.Forms.MessageBoxIcon.None
+                                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/decodes/io/svg_out.py'...
+***   File "./lib/python3.5/site-packages/decodes/io/svg_out.py", line 5
+    if VERBOSE_FS: print "svg_out loaded"
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/decodes-0.1.0.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

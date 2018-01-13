@@ -1,0 +1,136 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/Baskit-0.2.99.50.egg-info'...
+Listing './lib/python3.5/site-packages/baskit'...
+Compiling './lib/python3.5/site-packages/baskit/cli.py'...
+***   File "./lib/python3.5/site-packages/baskit/cli.py", line 92
+    print '''Welcome to the Baskit Minecraft Server Manager!
+        
+        Baskit is designed to be a minimalistic, yet powerful server management
+        system.  Baskit uses GNU-Screen at the heart of the application and
+        simply wrap around that.  This means that you can perform in-place
+        upgrades of Baskit, or even remove it completely without worry of it
+        impacting the running server. There are a lot of functions available to 
+        help assist you in managing the server as well, below is a high-level
+        list of what is available.  For further detail (including avalable
+        options) for any command, type help [COMMAND].
+
+        start                       Starts the server.
+        
+        stop                        Stops the server.
+
+        restart                     Restarts the server.
+
+        server                      Returns the running state & server binary
+                                    information that we have on-hand about
+                                    the running server.
+
+        cmd [COMMAND]               Sends the command specified to the server.
+                                    There is no limit as to what can be sent
+                                    here, and it is quite easy to script
+                                    commands into the server with this.
+
+        players                     Returns the list of players currently logged
+                                    into the server.
+
+        console                     Will drop you directly into the server
+                                    console.  From here you are directly
+                                    interacting with the server.  To detach from
+                                    the server console, hit CNTRL+A,D to exit.
+
+        update                      Allows you to update the server binary based
+                                    on the conditions you had specified.  It's 
+                                    highly recommended you run help update to
+                                    get some more detail.
+
+        backup                      All backup related functions are housed
+                                    within the backup command.  Running "backup"
+                                    will present it's help.
+
+        snapshot                    All snapshot related functions are housed
+                                    within the snapshot command.  Running
+                                    "snapshot" will present it's help.
+
+        sync                        Handles syncing to/from ramdisk and
+                                    persistent storage if ramdisk support is
+                                    enabled (disabled by default)
+        '''
+                                                            
+        
+                                                                               
+                                                                           
+                                                                          
+                                                                            
+                                                                                
+                                                                             
+                                                                          
+                                                      
+
+                                                      
+        
+                                                     
+
+                                                        
+
+                                                                             
+                                                                          
+                                                       
+
+                                                                              
+                                                                            
+                                                                        
+                                                                       
+
+                                                                                
+                                                    
+
+                                                                          
+                                                                        
+                                                                                
+                                                                              
+
+                                                                                
+                                                                               
+                                                                             
+                                                         
+
+                                                                           
+                                                                                
+                                                           
+
+                                                                             
+                                                                         
+                                                                      
+
+                                                                       
+                                                                            
+                                                                 
+          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/baskit/mc'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

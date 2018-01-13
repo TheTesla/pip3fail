@@ -1,0 +1,615 @@
+Listing '.'...
+Listing './bin'...
+Compiling './bin/ais_5report.py'...
+***   File "./bin/ais_5report.py", line 114
+    print linenum
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_bin_msgs.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (ais_bin_msgs.py, line 55)
+Compiling './bin/ais_build_postgis.py'...
+***   File "./bin/ais_build_postgis.py", line 89
+    if verbose: print str(ais.ais_msg_1.sqlCreate())
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './bin/ais_build_sqlite.py'...
+***   File "./bin/ais_build_sqlite.py", line 147
+    if verbose: print str(ais.ais_msg_1_handcoded.sqlCreate(dbType='sqlite'))
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './bin/ais_build_sqlite3.py'...
+***   File "./bin/ais_build_sqlite3.py", line 72
+    if verbose: print str(ais.ais_msg_1.sqlCreate(dbType='sqlite'))
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './bin/ais_decimate_traffic.py'...
+***   File "./bin/ais_decimate_traffic.py", line 120
+    print 'mmsi_list:',mmsi_list
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_distance.py'...
+***   File "./bin/ais_distance.py", line 120
+    print 'WARNING: not saving the station name'
+                                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_dump_mmsi.py'...
+***   File "./bin/ais_dump_mmsi.py", line 52
+    print args
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_dumpnames.py'...
+*** Sorry: TabError: Missing parentheses in call to 'print' (ais_dumpnames.py, line 56)
+Compiling './bin/ais_filter.py'...
+***   File "./bin/ais_filter.py", line 38
+    print lineList[0],
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_info.py'...
+***   File "./bin/ais_info.py", line 82
+    print 'hist:',min_val,max_val, num_bins,self.extent,self.bin_size
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_liststations.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (ais_liststations.py, line 32)
+Compiling './bin/ais_names.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (ais_names.py, line 37)
+Compiling './bin/ais_nmea_find_matches.py'...
+***   File "./bin/ais_nmea_find_matches.py", line 34
+    print 'ignoring line:',line.strip()
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './bin/ais_nmea_info.py'...
+***   File "./bin/ais_nmea_info.py", line 63
+    print '%s:' % (filename, )
+              ^
+SyntaxError: invalid syntax
+
+Compiling './bin/ais_nmea_remove_dups.py'...
+Compiling './bin/ais_nmea_uptime.py'...
+***   File "./bin/ais_nmea_uptime.py", line 38
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/ais_nmea_uptime2.py'...
+***   File "./bin/ais_nmea_uptime2.py", line 66
+    print julian_day, up.total_gap(), sys.argv[1]
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './bin/ais_nmea_uscg_timeshift.py'...
+***   File "./bin/ais_nmea_uscg_timeshift.py", line 32
+    print '* emacs org-mode table'
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_normalize.py'...
+*** Sorry: TabError: Missing parentheses in call to 'print' (ais_normalize.py, line 67)
+Compiling './bin/ais_oldlog2newlog.py'...
+***   File "./bin/ais_oldlog2newlog.py", line 73
+    print 'WARNING: unknown line...',line,
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_pg_create_transit_table.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (ais_pg_create_transit_table.py, line 35)
+Compiling './bin/ais_pg_grid.py'...
+***   File "./bin/ais_pg_grid.py", line 161
+    print 'CONNECT:',connectStr
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_pg_grid_transits.py'...
+***   File "./bin/ais_pg_grid_transits.py", line 95
+    print 'CONNECT:',connectStr
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_pg_transitlines.py'...
+***   File "./bin/ais_pg_transitlines.py", line 88
+    print 'CONNECT:',connectStr
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_pg_transitlines_noMakeLine.py'...
+***   File "./bin/ais_pg_transitlines_noMakeLine.py", line 92
+    print 'CONNECT:',connectStr
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_position_in_polygon.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (ais_position_in_polygon.py, line 314)
+Compiling './bin/ais_positions.py'...
+***   File "./bin/ais_positions.py", line 122
+    print 'outfilename=', options.outputFileName
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_sqlite_bsreport_analysis.py'...
+***   File "./bin/ais_sqlite_bsreport_analysis.py", line 49
+    print 'Total stations:',len(bs_list)
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './bin/ais_towersplit.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (ais_towersplit.py, line 45)
+Compiling './bin/ais_traffic_analysis.py'...
+***   File "./bin/ais_traffic_analysis.py", line 130
+    print '  ',line,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_transits.py'...
+***   File "./bin/ais_transits.py", line 86
+    print 'utm_zone:',utm_zone
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ais_uniq.py'...
+Compiling './bin/ais_uscg_splitstations.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (ais_uscg_splitstations.py, line 28)
+Compiling './bin/aisuser_monitor.py'...
+***   File "./bin/aisuser_monitor.py", line 33
+    except socket.error, inst:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/aisxml2wxpy.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (aisxml2wxpy.py, line 58)
+Compiling './bin/aisxmlbinmsg2py.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (aisxmlbinmsg2py.py, line 65)
+Compiling './bin/dump_wl.py'...
+***   File "./bin/dump_wl.py", line 62
+    import os; print os.path.basename(sys.argv[0]), 'doctests ...',
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './bin/find_missing_logs.py'...
+***   File "./bin/find_missing_logs.py", line 41
+    print 'missing',filename
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/jpegexif2kml.py'...
+***   File "./bin/jpegexif2kml.py", line 103
+    print '\t<Folder>'
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/log_udp.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (log_udp.py, line 22)
+Compiling './bin/logger_handlers.py'...
+***   File "./bin/logger_handlers.py", line 40
+    except OSError, detail:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './bin/nais2postgis.py'...
+***   File "./bin/nais2postgis.py", line 132
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/nais_pg_realtime_reaper.py'...
+***   File "./bin/nais_pg_realtime_reaper.py", line 60
+    print 'Deleting from track_lines:',cu.fetchone()[0]
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './bin/port_server.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (port_server.py, line 80)
+Compiling './bin/serial-logger2.py'...
+Compiling './bin/serial_send.py'...
+***   File "./bin/serial_send.py", line 61
+    print 'NOTHING TO SEND'
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/serial_send2.py'...
+***   File "./bin/serial_send2.py", line 64
+    print 'sending "%s"' % line.strip()
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/socket_logger.py'...
+***   File "./bin/socket_logger.py", line 43
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/socket_send.py'...
+***   File "./bin/socket_send.py", line 75
+    if verbose: print 'connecting to',options.host+':'+str(options.port)
+                                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/test_ais_server.py'...
+***   File "./bin/test_ais_server.py", line 61
+    print data.strip()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './bin/tide4_process_logs.py'...
+***   File "./bin/tide4_process_logs.py", line 54
+    print output_format
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/ais'...
+Compiling './lib/python3.5/site-packages/ais/ais_msg_1.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_1.py", line 583
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_10.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_10.py", line 266
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_11.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_11.py", line 575
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_12.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_12.py", line 286
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_14.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_14.py", line 228
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_15.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_15.py", line 418
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_17.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_17.py", line 312
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_18.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_18.py", line 650
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_19.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_19.py", line 682
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_1_handcoded.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_1_handcoded.py", line 54
+    print decode(bv)
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_2.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_2.py", line 583
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_20.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_20.py", line 606
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_21.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_21.py", line 634
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_21_handcoded.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (ais_msg_21_handcoded.py, line 150)
+Compiling './lib/python3.5/site-packages/ais/ais_msg_22.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_22.py", line 516
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_23.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_23.py", line 475
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_24_handcoded.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (ais_msg_24_handcoded.py, line 93)
+Compiling './lib/python3.5/site-packages/ais/ais_msg_2_handcoded.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_2_handcoded.py", line 54
+    print decode(bv)
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_3.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_3.py", line 583
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_3_handcoded.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_3_handcoded.py", line 54
+    print decode(bv)
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_4.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_4.py", line 575
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_4_handcoded.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_4_handcoded.py", line 54
+    print decode(bv)
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_5.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_5.py", line 622
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_6.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_6.py", line 343
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_7.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_7.py", line 380
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_7_handcoded.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (ais_msg_7_handcoded.py, line 134)
+Compiling './lib/python3.5/site-packages/ais/ais_msg_8.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_8.py", line 285
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/ais_msg_9.py'...
+***   File "./lib/python3.5/site-packages/ais/ais_msg_9.py", line 602
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/aisfield.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (aisfield.py, line 101)
+Compiling './lib/python3.5/site-packages/ais/aisstring.py'...
+***   File "./lib/python3.5/site-packages/ais/aisstring.py", line 141
+    print 'characterDict={'
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/allaistypes.py'...
+***   File "./lib/python3.5/site-packages/ais/allaistypes.py", line 340
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/binary.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (binary.py, line 77)
+Compiling './lib/python3.5/site-packages/ais/exampleParser.py'...
+***   File "./lib/python3.5/site-packages/ais/exampleParser.py", line 90
+    print waterlevelEncode()
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ais/expandais.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (expandais.py, line 36)
+Compiling './lib/python3.5/site-packages/ais/imo_001_11.py'...
+***   File "./lib/python3.5/site-packages/ais/imo_001_11.py", line 1154
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/imo_001_11_handcoded.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (imo_001_11_handcoded.py, line 216)
+Compiling './lib/python3.5/site-packages/ais/imo_001_13.py'...
+***   File "./lib/python3.5/site-packages/ais/imo_001_13.py", line 548
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/imo_001_14.py'...
+***   File "./lib/python3.5/site-packages/ais/imo_001_14.py", line 964
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/nmea.py'...
+***   File "./lib/python3.5/site-packages/ais/nmea.py", line 81
+    if verbose: print 'checking on:',start,end,data
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/sqlhelp.py'...
+***   File "./lib/python3.5/site-packages/ais/sqlhelp.py", line 98
+    if str != type(field): print "ERROR: fix throw type exception"
+                                                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ais/test.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (test.py, line 17)
+Compiling './lib/python3.5/site-packages/ais/test_sls_waterlevel.py'...
+***   File "./lib/python3.5/site-packages/ais/test_sls_waterlevel.py", line 16
+    print 'FIX: broken'
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/timed_circular_notice.py'...
+***   File "./lib/python3.5/site-packages/ais/timed_circular_notice.py", line 497
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/translators.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (translators.py, line 140)
+Compiling './lib/python3.5/site-packages/ais/waterlevel.py'...
+***   File "./lib/python3.5/site-packages/ais/waterlevel.py", line 716
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/waterlevel2.py'...
+***   File "./lib/python3.5/site-packages/ais/waterlevel2.py", line 460
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/whalenotice.py'...
+***   File "./lib/python3.5/site-packages/ais/whalenotice.py", line 529
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/whalenotice1.py'...
+***   File "./lib/python3.5/site-packages/ais/whalenotice1.py", line 472
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ais/whalenotice2.py'...
+***   File "./lib/python3.5/site-packages/ais/whalenotice2.py", line 889
+    print "ERROR: unknown format:",format
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/aisutils'...
+Compiling './lib/python3.5/site-packages/aisutils/daemon.py'...
+***   File "./lib/python3.5/site-packages/aisutils/daemon.py", line 67
+    except OSError, except_params:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aisutils/database.py'...
+***   File "./lib/python3.5/site-packages/aisutils/database.py", line 35
+    print '%s:%d: Function %s CHECKPOINT' % (__file__,f.f_lineno,f.f_code.co_name)
+                                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aisutils/grid.py'...
+***   File "./lib/python3.5/site-packages/aisutils/grid.py", line 130
+    print '     == IN Params =='
+                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aisutils/nmea_ait.py'...
+***   File "./lib/python3.5/site-packages/aisutils/nmea_ait.py", line 75
+    print 'no match!',nmea_str
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aisutils/nmea_cnc.py'...
+***   File "./lib/python3.5/site-packages/aisutils/nmea_cnc.py", line 37
+    print 'no match!',nmea_str
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aisutils/server.py'...
+***   File "./lib/python3.5/site-packages/aisutils/server.py", line 42
+    except OSError, except_params:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aisutils/uscg.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (uscg.py, line 197)
+Listing './lib/python3.5/site-packages/nmea'...
+Compiling './lib/python3.5/site-packages/nmea/checksum.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (checksum.py, line 79)
+Compiling './lib/python3.5/site-packages/nmea/gga.py'...
+***   File "./lib/python3.5/site-packages/nmea/gga.py", line 43
+    print z
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nmea/rmc.py'...
+***   File "./lib/python3.5/site-packages/nmea/rmc.py", line 50
+    print 'prefix     ', match_obj.group('prefix')
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nmea/znt.py'...
+***   File "./lib/python3.5/site-packages/nmea/znt.py", line 141
+    print 'results are wrong???'
+                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/noaadata'...
+Compiling './lib/python3.5/site-packages/noaadata/dumpallwl.py'...
+***   File "./lib/python3.5/site-packages/noaadata/dumpallwl.py", line 118
+    if verbose: print 'water level dict:',wl
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/noaadata/stations.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (stations.py, line 99)
+Compiling './lib/python3.5/site-packages/noaadata/tideserver.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (tideserver.py, line 34)
+Compiling './lib/python3.5/site-packages/noaadata/waterlevel_dap.py'...
+***   File "./lib/python3.5/site-packages/noaadata/waterlevel_dap.py", line 93
+    print 'range: %s -> %s' % (str(beginDate),str(endDate))
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/noaadata/waterlevelraw.py'...
+***   File "./lib/python3.5/site-packages/noaadata/waterlevelraw.py", line 46
+    print 'FIX: do this in seconds space!!!!  This is crap!'
+                                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/noaadata_py-0.45.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

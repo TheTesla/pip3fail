@@ -1,0 +1,526 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/html5'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/pyjd'...
+Listing './lib/python3.5/site-packages/pyjs'...
+Listing './lib/python3.5/site-packages/pyjs/boilerplate'...
+Compiling './lib/python3.5/site-packages/pyjs/browser.py'...
+***   File "./lib/python3.5/site-packages/pyjs/browser.py", line 427
+    print "Building: %s\nPYJSPATH: %s" % (top_module, pformat(pyjs.path))
+                                     ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyjs/builtin'...
+Compiling './lib/python3.5/site-packages/pyjs/builtin/__builtin__.py'...
+***   File "./lib/python3.5/site-packages/pyjs/builtin/__builtin__.py", line 20942
+    raise AttributeError, "unreadable attribute"
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/builtin/mkbuiltin.py'...
+***   File "./lib/python3.5/site-packages/pyjs/builtin/mkbuiltin.py", line 47
+    print 'repl name:', name, args
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyjs/builtin/public'...
+Compiling './lib/python3.5/site-packages/pyjs/builtin/pyjslib.py'...
+***   File "./lib/python3.5/site-packages/pyjs/builtin/pyjslib.py", line 5594
+    raise AttributeError, "unreadable attribute"
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/builtin/pyjslib.pyv8.py'...
+***   File "./lib/python3.5/site-packages/pyjs/builtin/pyjslib.pyv8.py", line 21
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyjs/jsonrpc'...
+Compiling './lib/python3.5/site-packages/pyjs/jsonrpc/__init__.py'...
+***   File "./lib/python3.5/site-packages/pyjs/jsonrpc/__init__.py", line 7
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyjs/jsonrpc/cgihandler'...
+Listing './lib/python3.5/site-packages/pyjs/jsonrpc/cherrypy'...
+Listing './lib/python3.5/site-packages/pyjs/jsonrpc/django'...
+Compiling './lib/python3.5/site-packages/pyjs/jsonrpc/django/jsonformprocessor.py'...
+***   File "./lib/python3.5/site-packages/pyjs/jsonrpc/django/jsonformprocessor.py", line 58
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyjs/jsonrpc/mongrel2'...
+Compiling './lib/python3.5/site-packages/pyjs/jsonrpc/mongrel2/__init__.py'...
+***   File "./lib/python3.5/site-packages/pyjs/jsonrpc/mongrel2/__init__.py", line 29
+    print "call"
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjs/jsonrpc/mongrel2/example.py'...
+***   File "./lib/python3.5/site-packages/pyjs/jsonrpc/mongrel2/example.py", line 38
+    print "WAITING FOR REQUEST"
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjs/jsonrpc/mongrel2/testjsonrpc.py'...
+***   File "./lib/python3.5/site-packages/pyjs/jsonrpc/mongrel2/testjsonrpc.py", line 9
+    print reply
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyjs/jsonrpc/web2py'...
+Listing './lib/python3.5/site-packages/pyjs/lib'...
+Compiling './lib/python3.5/site-packages/pyjs/lib/StringIO.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/StringIO.py", line 37
+    raise ValueError, "I/O operation on closed file"
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/lib/base64.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/base64.py", line 84
+    except binascii.Error, msg:
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/lib/binascii.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/binascii.py", line 89
+    return chr(ord(' ') + (length & 077)) + ''.join(result) + '\n'
+                                      ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/pyjs/lib/codecs.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/codecs.py", line 473
+    except UnicodeDecodeError, exc:
+                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyjs/lib/logging'...
+Compiling './lib/python3.5/site-packages/pyjs/lib/logging/__init__.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/logging/__init__.py", line 589
+    raise NotImplementedError, 'emit must be implemented '\
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/lib/logging/handlers.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/logging/handlers.py", line 66
+    raise ValueError, "method must be GET or POST"
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyjs/lib/os'...
+Compiling './lib/python3.5/site-packages/pyjs/lib/random.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/random.py", line 74
+    except ValueError, e:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/lib/re.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/re.py", line 248
+    raise TypeError, "cannot copy this pattern object"
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/lib/stat.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/stat.py", line 22
+    return mode & 07777
+                      ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/pyjs/lib/string.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/string.py", line 70
+    raise ValueError, "maketrans arguments must have same length"
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/lib/struct.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/struct.py", line 52
+    number = 0L
+              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyjs/lib/test'...
+Compiling './lib/python3.5/site-packages/pyjs/lib/test/UnitTest.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/test/UnitTest.py", line 38
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/lib/test/test_operator.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/test/test_operator.py", line 209
+    self.assertTrue(operator.isNumberType(8L))
+                                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/lib/test/write.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/test/write.py", line 31
+    print text,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjs/lib/textwrap.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/textwrap.py", line 420
+    print dedent("Hello there.\n  This is indented.")
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/lib/traceback.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib/traceback.py", line 7
+    print sys._get_traceback_list(value, tb, None)
+            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyjs/lib_trans'...
+Listing './lib/python3.5/site-packages/pyjs/lib_trans/pycompiler'...
+Compiling './lib/python3.5/site-packages/pyjs/lib_trans/pycompiler/astpprint.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib_trans/pycompiler/astpprint.py", line 86
+    except SyntaxError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/lib_trans/pycompiler/pycodegen.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib_trans/pycompiler/pycodegen.py", line 237
+    except AssertionError, msg:
+                         ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyjs/lib_trans/pyparser'...
+Listing './lib/python3.5/site-packages/pyjs/lib_trans/test'...
+Compiling './lib/python3.5/site-packages/pyjs/lib_trans/test/UnitTest.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib_trans/test/UnitTest.py", line 38
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/lib_trans/test/write.py'...
+***   File "./lib/python3.5/site-packages/pyjs/lib_trans/test/write.py", line 31
+    print text,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjs/linker.py'...
+***   File "./lib/python3.5/site-packages/pyjs/linker.py", line 108
+    print "Translating file %s:" % platform, file_name
+                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjs/pyjampiler.py'...
+***   File "./lib/python3.5/site-packages/pyjs/pyjampiler.py", line 11
+    print 'pyjampiler loaded'
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjs/pyjstest.py'...
+***   File "./lib/python3.5/site-packages/pyjs/pyjstest.py", line 153
+    print "Output will be produced in %s" % self.tmpdir
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyjs/pysm'...
+Compiling './lib/python3.5/site-packages/pyjs/pysm/pysmrun.py'...
+***   File "./lib/python3.5/site-packages/pyjs/pysm/pysmrun.py", line 31
+    print arg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjs/pysm/test.py'...
+***   File "./lib/python3.5/site-packages/pyjs/pysm/test.py", line 3
+    print "hello", x, x / 2
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyjs/pyv8'...
+Compiling './lib/python3.5/site-packages/pyjs/pyv8/depstest.py'...
+***   File "./lib/python3.5/site-packages/pyjs/pyv8/depstest.py", line 143
+    print "Not found {} depended by {}".format(nf, list(rdeps))
+                                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/pyv8/jsglobal.py'...
+***   File "./lib/python3.5/site-packages/pyjs/pyv8/jsglobal.py", line 63
+    exec "import " + module_name
+                 ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/pyjs/pyv8/pyv8run.py'...
+***   File "./lib/python3.5/site-packages/pyjs/pyv8/pyv8run.py", line 134
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/pyv8/repl.py'...
+***   File "./lib/python3.5/site-packages/pyjs/pyv8/repl.py", line 49
+    print res
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyjs/runners'...
+Compiling './lib/python3.5/site-packages/pyjs/runners/giwebkit.py'...
+***   File "./lib/python3.5/site-packages/pyjs/runners/giwebkit.py", line 574
+    print 'JSONRPC!'
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjs/runners/idlparser.py'...
+***   File "./lib/python3.5/site-packages/pyjs/runners/idlparser.py", line 17
+    print self.name, self.uuid
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjs/runners/importers.py'...
+***   File "./lib/python3.5/site-packages/pyjs/runners/importers.py", line 145
+    except IOError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/runners/imputil.py'...
+***   File "./lib/python3.5/site-packages/pyjs/runners/imputil.py", line 171
+    raise ImportError, 'No module named ' + fqname
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/runners/modcompile.py'...
+***   File "./lib/python3.5/site-packages/pyjs/runners/modcompile.py", line 66
+    print "platform", platform_file_name
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjs/runners/mshtml.py'...
+***   File "./lib/python3.5/site-packages/pyjs/runners/mshtml.py", line 134
+    print "OnVisible", args
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjs/runners/mshtmlevents.py'...
+***   File "./lib/python3.5/site-packages/pyjs/runners/mshtmlevents.py", line 210
+    except WindowsError, details:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/runners/pyqt4.py'...
+***   File "./lib/python3.5/site-packages/pyjs/runners/pyqt4.py", line 24
+    print "cells %d length" % self._idx, self._element, l
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjs/runners/windows.py'...
+***   File "./lib/python3.5/site-packages/pyjs/runners/windows.py", line 251
+    MFT_RIGHTORDER= 0x2000L
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/translator.py'...
+***   File "./lib/python3.5/site-packages/pyjs/translator.py", line 59
+    print '/*'
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjs/translator_dict.py'...
+***   File "./lib/python3.5/site-packages/pyjs/translator_dict.py", line 709
+    print _name.name, _name.reflineno, _name.glob, _name.depth, len(self.names) - 1
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/translator_proto.py'...
+***   File "./lib/python3.5/site-packages/pyjs/translator_proto.py", line 542
+    except IOError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjs/util.py'...
+***   File "./lib/python3.5/site-packages/pyjs/util.py", line 41
+    except (IOError, os.error), why:
+                              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyjswidgets'...
+Compiling './lib/python3.5/site-packages/pyjswidgets/__pyjamas__.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/__pyjamas__.py", line 57
+    print "code", code
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyjswidgets/pyjamas'...
+Listing './lib/python3.5/site-packages/pyjswidgets/pyjamas/Canvas'...
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/Canvas/SVGCanvas.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/Canvas/SVGCanvas.py", line 1107
+    print "transform NOT IMPLEMENTED YET"
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/Cookies.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/Cookies.py", line 19
+    print "getCookie2", cookiestr, "name", cookie_name, "val", cs
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/HTTPRequest.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/HTTPRequest.py", line 76
+    print "HACK ALERT! webkit wrapper returns 0 not 200!"
+                                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/History.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/History.py", line 41
+    print "add listener", listener
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/JSONService.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/JSONService.py", line 165
+    exec "from %s import %s as kls" % (modulename, clsname) in vars
+                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/Timer.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/Timer.py", line 102
+    raise ValueError, 'Programming error: notify must be callable'
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/Timer.pywebkitgtk.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/Timer.pywebkitgtk.py", line 26
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyjswidgets/pyjamas/builder'...
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/builder/Builder.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/builder/Builder.py", line 131
+    print "childitem", childitem
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/builder/XMLFile.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/builder/XMLFile.py", line 269
+    print "component:", component[0], component[1]
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyjswidgets/pyjamas/chart'...
+Listing './lib/python3.5/site-packages/pyjswidgets/pyjamas/django'...
+Listing './lib/python3.5/site-packages/pyjswidgets/pyjamas/dnd'...
+Listing './lib/python3.5/site-packages/pyjswidgets/pyjamas/feed'...
+Listing './lib/python3.5/site-packages/pyjswidgets/pyjamas/logging'...
+Listing './lib/python3.5/site-packages/pyjswidgets/pyjamas/media'...
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/media/Audio.ie6.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/media/Audio.ie6.py", line 4
+    print "create object"
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/media/Media.ie6.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/media/Media.ie6.py", line 5
+    print "setSrc", src
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/media/Video.ie6.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/media/Video.ie6.py", line 4
+    print "create object"
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyjswidgets/pyjamas/selection'...
+Listing './lib/python3.5/site-packages/pyjswidgets/pyjamas/ui'...
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/Calendar.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/Calendar.py", line 146
+    if yy <> self.todayYear or mm <> self.todayMonth:
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/Control.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/Control.py", line 111
+    print "mouse wheel", sender, velocity
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/Controls.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/Controls.py", line 16
+    print "WARNING: Controls.py is deprecated and split into AreaSlider, Control, etc."
+                                                                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/DoubleControl.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/DoubleControl.py", line 81
+    def setValue(self, (new_value_x,new_value_y), notify=1):
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/FormPanel.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/FormPanel.py", line 118
+    print form, event, something
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/MenuBar.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/MenuBar.py", line 83
+    print prop
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/RichTextAreaImpl.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/RichTextAreaImpl.py", line 85
+    print self, "hook events"
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/RichTextAreaImplStandard.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/RichTextAreaImplStandard.py", line 73
+    print "initialise timer done", tid
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/RichTextToolbar.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/RichTextToolbar.py", line 476
+    print "focus"
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/Sink.py'...
+***   File "./lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/Sink.py", line 30
+    if self.selectedSink <> -1:
+                          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/public'...
+Listing './lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/public/css.d'...
+Listing './lib/python3.5/site-packages/pyjswidgets/pyjamas/ui/public/images'...
+Listing './lib/python3.5/site-packages/pyjx'...
+Listing './lib/python3.5/site-packages/pyjx/test'...
+Listing './lib/python3.5/site-packages/pyjx/translate'...
+Compiling './lib/python3.5/site-packages/pyjx/translate/translator.py'...
+***   File "./lib/python3.5/site-packages/pyjx/translate/translator.py", line 11
+    print builddir
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyjx-0.1.3.egg-info'...
+Listing './lib/python3.5/site-packages/pyjx_html5-0.1.0.egg-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

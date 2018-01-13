@@ -1,0 +1,259 @@
+Listing '.'...
+Listing './bin'...
+Compiling './bin/SelectMyParent.py'...
+***   File "./bin/SelectMyParent.py", line 46
+    print "SelectMyParent: Start a program with a selected parent process"
+                                                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/crash_logger.py'...
+***   File "./bin/crash_logger.py", line 320
+    except ValueError, e:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './bin/crash_report.py'...
+***   File "./bin/crash_report.py", line 72
+    print "Skipping duplicate file: %s" % filename
+                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/hexdump.py'...
+***   File "./bin/hexdump.py", line 49
+    print "Hex dumper using WinAppDbg"
+                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/pdebug.py'...
+***   File "./bin/pdebug.py", line 104
+    print "WinAppDbg %s console debugger" % winappdbg.version
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/pfind.py'...
+***   File "./bin/pfind.py", line 285
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/pinject.py'...
+***   File "./bin/pinject.py", line 44
+    print "Process DLL injector"
+                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/pkill.py'...
+***   File "./bin/pkill.py", line 48
+    print "Process killer"
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/plist.py'...
+***   File "./bin/plist.py", line 85
+    print "Process enumerator"
+                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/pmap.py'...
+***   File "./bin/pmap.py", line 51
+    print "Process memory map"
+                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/pread.py'...
+***   File "./bin/pread.py", line 44
+    print "Process memory reader"
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/pstrings.py'...
+***   File "./bin/pstrings.py", line 44
+    print "Process string extractor"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/ptrace.py'...
+***   File "./bin/ptrace.py", line 92
+    print label
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/pwrite.py'...
+***   File "./bin/pwrite.py", line 45
+    print "Process memory writer"
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/service.py'...
+***   File "./bin/service.py", line 42
+    print "Service tool"
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './lib/python3.5/site-packages/winappdbg'...
+Compiling './lib/python3.5/site-packages/winappdbg/breakpoint.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/breakpoint.py", line 346
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/crash.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/crash.py", line 530
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/debug.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/debug.py", line 613
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/disasm.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/disasm.py", line 698
+    except NotImplementedError, e:
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/event.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/event.py", line 1851
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/interactive.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/interactive.py", line 384
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/module.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/module.py", line 134
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/winappdbg/plugins'...
+Compiling './lib/python3.5/site-packages/winappdbg/plugins/do_example.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/plugins/do_example.py", line 37
+    print "This is an example command."
+                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/winappdbg/plugins/do_exchain.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/plugins/do_exchain.py", line 40
+    print "Exception handlers for thread %d" % thread.get_tid()
+                                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/plugins/do_exploitable.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/plugins/do_exploitable.py", line 46
+    print "-" * 79
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/winappdbg/process.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/process.py", line 208
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/registry.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/registry.py", line 151
+    except WindowsError, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/search.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/search.py", line 272
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/system.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/system.py", line 235
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/textio.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/textio.py", line 227
+    except ValueError, e:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/thread.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/thread.py", line 425
+    except WindowsError, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/util.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/util.py", line 307
+    except WindowsError, e:
+                       ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/winappdbg/win32'...
+Compiling './lib/python3.5/site-packages/winappdbg/win32/advapi32.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/win32/advapi32.py", line 2219
+    qwData = QWORD(0L)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/win32/context_amd64.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/win32/context_amd64.py", line 58
+    CONTEXT_CONTROL         = (CONTEXT_AMD64 | 0x1L)
+                                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/win32/context_i386.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/win32/context_i386.py", line 58
+    CONTEXT_CONTROL             = (CONTEXT_i386 | 0x00000001L) # SS:SP, CS:IP, FLAGS, BP
+                                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/win32/defines.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/win32/defines.py", line 108
+    print "-"*10
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/winappdbg/win32/kernel32.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/win32/kernel32.py", line 143
+    DELETE                      = (0x00010000L)
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/winappdbg/win32/user32.py'...
+***   File "./lib/python3.5/site-packages/winappdbg/win32/user32.py", line 550
+    raise IndexError, "index out of range"
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/winappdbg-1.5.egg-info'...
+Listing './share'...
+Listing './share/python-wheels'...

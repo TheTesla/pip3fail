@@ -1,0 +1,225 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/htsint'...
+Compiling './lib/python3.5/site-packages/htsint/AssembleDistances.py'...
+***   File "./lib/python3.5/site-packages/htsint/AssembleDistances.py", line 76
+    print '...assembling results - %s jobs with %s distances'%(len(stopPoints),self.totalDistances)
+                                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/htsint/Configure.py'...
+***   File "./lib/python3.5/site-packages/htsint/Configure.py", line 76
+    print "ERROR: invalid model logfile specified",logPathName
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/GeneDistances.py'...
+***   File "./lib/python3.5/site-packages/htsint/GeneDistances.py", line 104
+    print "%s/%s"%(i,int(self.totalGenes))
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/htsint/GeneOntology.py'...
+***   File "./lib/python3.5/site-packages/htsint/GeneOntology.py", line 170
+    print '...creating gograph'
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/GeneSet.py'...
+***   File "./lib/python3.5/site-packages/htsint/GeneSet.py", line 171
+    print "percentile threshold: %s (%s)"%(threshold,percentile)
+                                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/htsint/GeneSetCollection.py'...
+***   File "./lib/python3.5/site-packages/htsint/GeneSetCollection.py", line 185
+    print "Running..."
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/InnerJoinExample.py'...
+***   File "./lib/python3.5/site-packages/htsint/InnerJoinExample.py", line 29
+    print geneQuery.ncbi_id
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/RunSubprocess.py'...
+***   File "./lib/python3.5/site-packages/htsint/RunSubprocess.py", line 44
+    print 'The subprocess was auto-terminated due to timeout'
+                                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/TaxaSummary.py'...
+***   File "./lib/python3.5/site-packages/htsint/TaxaSummary.py", line 223
+    print "Running..."
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/TermDistances.py'...
+***   File "./lib/python3.5/site-packages/htsint/TermDistances.py", line 14
+    def mp_worker((source,sink,graphPath)):
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/htsint/blast'...
+Compiling './lib/python3.5/site-packages/htsint/blast/Blast.py'...
+***   File "./lib/python3.5/site-packages/htsint/blast/Blast.py", line 123
+    print 'Running blast'
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/blast/BlastMapper.py'...
+***   File "./lib/python3.5/site-packages/htsint/blast/BlastMapper.py", line 168
+    print 'Were in! but taxaId2Ncbi does not have', upEntry2Taxa[hitId]
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/blast/BlastTools.py'...
+***   File "./lib/python3.5/site-packages/htsint/blast/BlastTools.py", line 48
+    print header
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/blast/ParallelBlast.py'...
+***   File "./lib/python3.5/site-packages/htsint/blast/ParallelBlast.py", line 64
+    print '... submitting %s jobs'%(len(stopPoints))
+                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/htsint/blast/ParseBlast.py'...
+***   File "./lib/python3.5/site-packages/htsint/blast/ParseBlast.py", line 71
+    print line
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/blast/ParseParallelBlast.py'...
+***   File "./lib/python3.5/site-packages/htsint/blast/ParseParallelBlast.py", line 36
+    print '...parsing', resultsFilePath
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/htsint/database'...
+Compiling './lib/python3.5/site-packages/htsint/database/ConversionTools.py'...
+***   File "./lib/python3.5/site-packages/htsint/database/ConversionTools.py", line 73
+    print "convert_gene_ids: %s/%s genes found."%(found,len(toReturn))
+                                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/htsint/database/DatabaseCreate.py'...
+***   File "./lib/python3.5/site-packages/htsint/database/DatabaseCreate.py", line 117
+    print "Running..."
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/database/DatabaseFetch.py'...
+***   File "./lib/python3.5/site-packages/htsint/database/DatabaseFetch.py", line 151
+    print "Running..."
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/database/DatabaseTools.py'...
+***   File "./lib/python3.5/site-packages/htsint/database/DatabaseTools.py", line 23
+    print "ERROR: SQLAlchemy version is less than required version"
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/database/GeneOntologyLib.py'...
+***   File "./lib/python3.5/site-packages/htsint/database/GeneOntologyLib.py", line 438
+    print "could not find", uquery['gene_id'], 'but we have', uniprotAc
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/database/PrintAnnotationInfo.py'...
+***   File "./lib/python3.5/site-packages/htsint/database/PrintAnnotationInfo.py", line 33
+    print record[1]
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/database/TestDatabase.py'...
+***   File "./lib/python3.5/site-packages/htsint/database/TestDatabase.py", line 28
+    print "ERROR: init taxon not found."
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/database/fetchTimeExperiment.py'...
+***   File "./lib/python3.5/site-packages/htsint/database/fetchTimeExperiment.py", line 38
+    print result[:5]
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/htsint/stats'...
+Compiling './lib/python3.5/site-packages/htsint/stats/EnrichmentTests.py'...
+***   File "./lib/python3.5/site-packages/htsint/stats/EnrichmentTests.py", line 81
+    print "Running..."
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/stats/SilValueGenerator.py'...
+***   File "./lib/python3.5/site-packages/htsint/stats/SilValueGenerator.py", line 19
+    print "INPUT ERROR: SilValueGenerator must have matching matrix and labels"
+                                                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/stats/SpectralClusterParamSearch.py'...
+***   File "./lib/python3.5/site-packages/htsint/stats/SpectralClusterParamSearch.py", line 19
+    def mp_worker((k,sigma,distancePath,dtype)):
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/htsint/stats/SpectralClusterResults.py'...
+***   File "./lib/python3.5/site-packages/htsint/stats/SpectralClusterResults.py", line 167
+    print "Running..."
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/stats/SpectralClustering.py'...
+***   File "./lib/python3.5/site-packages/htsint/stats/SpectralClustering.py", line 112
+    print "\tsimilarity to affinity matrix..."
+                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/htsint/tools'...
+Compiling './lib/python3.5/site-packages/htsint/tools/ExpressionLib.py'...
+***   File "./lib/python3.5/site-packages/htsint/tools/ExpressionLib.py", line 64
+    print 'reading', matFilePath
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/tools/Heatmap.py'...
+***   File "./lib/python3.5/site-packages/htsint/tools/Heatmap.py", line 284
+    print "Running..."
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/htsint/tools/LatexLib.py'...
+***   File "./lib/python3.5/site-packages/htsint/tools/LatexLib.py", line 20
+    print "INPUT ERROR: extra packages must be in list form"
+                                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/htsint-0.5.2.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

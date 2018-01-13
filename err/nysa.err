@@ -1,0 +1,411 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/nysa'...
+Listing './lib/python3.5/site-packages/nysa/cbuilder'...
+Compiling './lib/python3.5/site-packages/nysa/cbuilder/device_manager.py'...
+***   File "./lib/python3.5/site-packages/nysa/cbuilder/device_manager.py", line 58
+    print "JSON Error: %s" % str(err)
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/cbuilder/sdb_object_model.py'...
+***   File "./lib/python3.5/site-packages/nysa/cbuilder/sdb_object_model.py", line 696
+    for t in range (depth): print "\t",
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/cbuilder/sdb_rom.py'...
+***   File "./lib/python3.5/site-packages/nysa/cbuilder/sdb_rom.py", line 79
+    print "SDB Error: %s" % str(err)
+                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/nysa/common'...
+Compiling './lib/python3.5/site-packages/nysa/common/site_manager.py'...
+***   File "./lib/python3.5/site-packages/nysa/common/site_manager.py", line 273
+    print "list: %s" % name
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/common/status.py'...
+***   File "./lib/python3.5/site-packages/nysa/common/status.py", line 132
+    print "%s%s%s" % (color, text, white),
+                 ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/nysa/data'...
+Listing './lib/python3.5/site-packages/nysa/data/local_devices'...
+Listing './lib/python3.5/site-packages/nysa/data/template'...
+Listing './lib/python3.5/site-packages/nysa/data/template/axi'...
+Listing './lib/python3.5/site-packages/nysa/data/template/axi/slave'...
+Listing './lib/python3.5/site-packages/nysa/data/template/axi/slave/memory'...
+Listing './lib/python3.5/site-packages/nysa/data/template/axi/slave/memory/rtl'...
+Listing './lib/python3.5/site-packages/nysa/data/template/axi/slave/peripheral'...
+Listing './lib/python3.5/site-packages/nysa/data/template/axi/slave/peripheral/rtl'...
+Listing './lib/python3.5/site-packages/nysa/data/template/cocotb'...
+Compiling './lib/python3.5/site-packages/nysa/data/template/cocotb/dut_driver.py'...
+***   File "./lib/python3.5/site-packages/nysa/data/template/cocotb/dut_driver.py", line 24
+    SDB_ABI_VERSION_MINOR   = ${SDB_ABI_VERSION_MINOR}
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/data/template/cocotb/test_dut.py'...
+***   File "./lib/python3.5/site-packages/nysa/data/template/cocotb/test_dut.py", line 11
+    from dut_driver import ${SDB_NAME}Driver
+                           ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/nysa/data/template/top'...
+Listing './lib/python3.5/site-packages/nysa/data/template/wishbone'...
+Listing './lib/python3.5/site-packages/nysa/data/template/wishbone/rtl'...
+Listing './lib/python3.5/site-packages/nysa/data/template/wishbone/sim'...
+Listing './lib/python3.5/site-packages/nysa/data/template/wishbone/site_scons'...
+Compiling './lib/python3.5/site-packages/nysa/data/template/wishbone/site_scons/utils.py'...
+***   File "./lib/python3.5/site-packages/nysa/data/template/wishbone/site_scons/utils.py", line 127
+    print "Windows box... TODO :("
+                                 ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/nysa/docs'...
+Listing './lib/python3.5/site-packages/nysa/host'...
+Listing './lib/python3.5/site-packages/nysa/host/driver'...
+Compiling './lib/python3.5/site-packages/nysa/host/driver/driver.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/driver/driver.py", line 531
+    print "Register Dump"
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/host/driver/gpio.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/driver/gpio.py", line 104
+    print "Writing GPIO Direction"
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/host/driver/i2c.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/driver/i2c.py", line 373
+    print "Control (0x%X): " % control
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/host/driver/lcd_SSD1963.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/driver/lcd_SSD1963.py", line 451
+    if self.debug: print "Enable the LCD"
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/host/driver/lcd_ST7781R.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/driver/lcd_ST7781R.py", line 104
+    print "LCDST7781R_ LCD Device ID: %d" % self.dev_id
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/host/driver/logic_analyzer.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/driver/logic_analyzer.py", line 167
+    print "Start Pos: 0x%04X" % start_pos
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/host/driver/sata_driver.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/driver/sata_driver.py", line 669
+    print "Ultra DMA Mode 0 is Supported"
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/host/driver/sd_host_driver.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/driver/sd_host_driver.py", line 338
+    if self.debug: print ".",
+                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/host/driver/sdio_device_driver.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/driver/sdio_device_driver.py", line 156
+    print yellow,
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/host/driver/spi.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/driver/spi.py", line 535
+    if self.debug: print "SPI Divider: %d" % divider
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/host/driver/stepper.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/driver/stepper.py", line 120
+    print "steps: 0x%08X" % steps
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/host/driver/uart.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/driver/uart.py", line 305
+    print "Writing a string"
+                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/host/nysa.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/nysa.py", line 87
+    except SDBError, e:
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/host/nysa_sdb_manager.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/nysa_sdb_manager.py", line 1034
+    print "ROM"
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/host/platform_scanner.py'...
+***   File "./lib/python3.5/site-packages/nysa/host/platform_scanner.py", line 268
+    print "Pretty print:"
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/nysa/host/sim'...
+Listing './lib/python3.5/site-packages/nysa/ibuilder'...
+Listing './lib/python3.5/site-packages/nysa/ibuilder/bus'...
+Listing './lib/python3.5/site-packages/nysa/ibuilder/lib'...
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/arbiter.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/arbiter.py", line 64
+    print "Module Name: %s" % (module_tags["module"])
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/constraint_utils.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/constraint_utils.py", line 92
+    if debug:print "Opened up the UCF file"
+                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts'...
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen.py", line 16
+    print "gen"
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen_interconnect.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen_interconnect.py", line 21
+    print "wishbone_interconnect.py"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen_mem_interconnect.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen_mem_interconnect.py", line 21
+    print "wishbone_mem_interconnect.py"
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen_project_config.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen_project_config.py", line 93
+    print "Generate Project Configuration"
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen_project_defines.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen_project_defines.py", line 44
+    print "Generate the project defines"
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen_sdb.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen_sdb.py", line 329
+    print "generate a ROM"
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen_top.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen_top.py", line 28
+    print "generate top!"
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen_xilinx.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/gen_scripts/gen_xilinx.py", line 47
+    print "generate a Xilnx Generate project"
+                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/ibuilder.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/ibuilder.py", line 619
+    print "ModuleFactoryError: %s" % str(err)
+                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/module_processor.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/module_processor.py", line 133
+    print "Value Error with the Buffer (shown below): %s" % str(err)
+                                                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/preprocessor.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/preprocessor.py", line 65
+    if debug: print "Working on: %s" % item
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/nysa/ibuilder/lib/tags'...
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/utils.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/utils.py", line 165
+    print "buf:\n" + buf
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/verilog_utils.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/verilog_utils.py", line 66
+    print "didn't find substring for " + key
+                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/wishbone_utils.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/wishbone_utils.py", line 435
+    if debug: print "Checking: %s" % bname
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/lib/xilinx_utils.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/lib/xilinx_utils.py", line 55
+    print "searching in %s..." % (bd)
+                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/nysa/ibuilder/sim'...
+Listing './lib/python3.5/site-packages/nysa/ibuilder/templates'...
+Listing './lib/python3.5/site-packages/nysa/ibuilder/xilinx_builder'...
+Listing './lib/python3.5/site-packages/nysa/ibuilder/xilinx_builder/site_scons'...
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/xilinx_builder/site_scons/bitgen_utils.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (bitgen_utils.py, line 186)
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/xilinx_builder/site_scons/init_site.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/xilinx_builder/site_scons/init_site.py", line 13
+    print "Directories to remove:"
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/nysa/ibuilder/xilinx_builder/site_scons/site_tools'...
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/xilinx_builder/site_scons/utils.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/xilinx_builder/site_scons/utils.py", line 289
+    print "Windows box... TODO :("
+                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/xilinx_builder/site_scons/xilinx.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/xilinx_builder/site_scons/xilinx.py", line 56
+    print "Hello"
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/ibuilder/xilinx_builder/update_xilinx_build.py'...
+***   File "./lib/python3.5/site-packages/nysa/ibuilder/xilinx_builder/update_xilinx_build.py", line 42
+    print "Path: %s Doesn't exists!" % arg.path
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/nysa/tools'...
+Compiling './lib/python3.5/site-packages/nysa/tools/board_programmed.py'...
+***   File "./lib/python3.5/site-packages/nysa/tools/board_programmed.py", line 70
+    print "Board Programmed: %s" % str(p)
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/tools/completer_extractor.py'...
+***   File "./lib/python3.5/site-packages/nysa/tools/completer_extractor.py", line 48
+    print "parser dict: %s" % str(cdict)
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/tools/device_list.py'...
+***   File "./lib/python3.5/site-packages/nysa/tools/device_list.py", line 51
+    print "Getting device list"
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/tools/generate_slave.py'...
+***   File "./lib/python3.5/site-packages/nysa/tools/generate_slave.py", line 120
+    print "Debug Enable"
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/nysa/tools/install_examples.py'...
+***   File "./lib/python3.5/site-packages/nysa/tools/install_examples.py", line 61
+    print "%sError: %s%s" % (sts.red, str(ex), sts.white)
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/tools/install_platform.py'...
+***   File "./lib/python3.5/site-packages/nysa/tools/install_platform.py", line 63
+    print "%sPlatforms:%s" % (sts.purple, sts.white)
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/tools/install_verilog_modules.py'...
+***   File "./lib/python3.5/site-packages/nysa/tools/install_verilog_modules.py", line 63
+    print "%sVerilog Repositories:%s" % (sts.purple, sts.white)
+                                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/tools/list_boards.py'...
+***   File "./lib/python3.5/site-packages/nysa/tools/list_boards.py", line 70
+    print "Scanning %s%s%s..." % (blue, platform, white),
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/tools/list_platforms.py'...
+***   File "./lib/python3.5/site-packages/nysa/tools/list_platforms.py", line 63
+    print "%sPlatforms:%s" % (purple, white)
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/tools/nysa_paths.py'...
+***   File "./lib/python3.5/site-packages/nysa/tools/nysa_paths.py", line 109
+    print "{0:<16}:{1}".format("Xilinx", xutils.find_xilinx_path())
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/tools/nysa_status.py'...
+***   File "./lib/python3.5/site-packages/nysa/tools/nysa_status.py", line 51
+    print "%scbuilder:%s" % (st.yellow, st.white)
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/tools/nysa_tools.py'...
+***   File "./lib/python3.5/site-packages/nysa/tools/nysa_tools.py", line 46
+    print "%sPlatforms:%s" % (purple, white)
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/tools/nysa_utils.py'...
+***   File "./lib/python3.5/site-packages/nysa/tools/nysa_utils.py", line 60
+    print "%sVerilog Packages%s" % (st.purple, st.white)
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/nysa/tools/ping_board.py'...
+***   File "./lib/python3.5/site-packages/nysa/tools/ping_board.py", line 72
+    print "Pinging board...",
+                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/nysa-0.8.6.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

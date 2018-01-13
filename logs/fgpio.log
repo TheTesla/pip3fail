@@ -1,0 +1,221 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/FGPIO'...
+Compiling './lib/python3.5/site-packages/FGPIO/RFtest.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/RFtest.py", line 22
+    print "De "+ str(etat0) + " a " + str(etat) + " en " + str((now0-now)*1000000) + " microsecondes"
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/FGPIO/SCT013_v_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/SCT013_v_io.py", line 105
+    print "Puissance mesurée : %.0f" % circuit.read()
+                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/FGPIO/UltraSonic_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/UltraSonic_io.py", line 114
+    print 'distance modifiee'
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/bt_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/bt_io.py", line 79
+    print "bt2 Pushed."
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/device_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/device_io.py", line 121
+    exec self.on_changed
+            ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/FGPIO/dht11_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/dht11_io.py", line 168
+    print "La température est de %s °C. L'humidité est de %s" % (reponse['T'], reponse['RH']), '%.'
+                                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/FGPIO/f_menu.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/f_menu.py", line 200
+    exec self.cmd
+            ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/FGPIO/f_thread.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/f_thread.py", line 65
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/FGPIO/font_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/font_io.py", line 68
+    print"toto"
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/FGPIO/gaz_sensor_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/gaz_sensor_io.py", line 97
+    print 'ALERTE : %CO is too high. Open the windows!'
+                                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/hcsr501_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/hcsr501_io.py", line 71
+    print "Detection."
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/hrlv_max_sonar_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/hrlv_max_sonar_io.py", line 123
+    print sonar.read()
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/FGPIO/ir_detect_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/ir_detect_io.py", line 84
+    print "Detection!!."
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/lcd_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/lcd_io.py", line 111
+    print 'destruction de %s' % self
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/led_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/led_io.py", line 73
+    print "la LED est " + str(LED.get())
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/FGPIO/lum_capteur_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/lum_capteur_io.py", line 86
+    print capteur.read()
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/FGPIO/mcp23017_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/mcp23017_io.py", line 121
+    print mcp.pin[0]
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/mcp300x_hspi_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/mcp300x_hspi_io.py", line 118
+    print 'Voltage : %.2f Volts' % ch0.get_voltage()
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/FGPIO/mcp300x_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/mcp300x_io.py", line 148
+    print 'Voltage : %.2f Volts' % ch0.get_voltage()
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/FGPIO/mpu_6050_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/mpu_6050_io.py", line 94
+    print 'Gyroscope :'
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/pca9555_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/pca9555_io.py", line 103
+    print io_ext.pin[0]
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/qrd1114_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/qrd1114_io.py", line 118
+    print compteur
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/rain_sensor_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/rain_sensor_io.py", line 75
+    print "It is raining!"
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/rcSwitch_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/rcSwitch_io.py", line 89
+    print "Syntaxe : python rcSwitch pin code prise onoff"
+                                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/relay_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/relay_io.py", line 60
+    print "Eteint"
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/rf_recept_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/rf_recept_io.py", line 244
+    print rf.read()
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/FGPIO/rotary_encoder_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/rotary_encoder_io.py", line 287
+    print "Appuyer sur le bouton"
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/rpiduino_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/rpiduino_io.py", line 72
+    print self.pin[k]
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/sen0018_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/sen0018_io.py", line 90
+    print 'Alerte %s ' % time.time()
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/FGPIO/servo_motor_io.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/servo_motor_io.py", line 61
+    print 'angle : %s - duty_cycle : %s' % (angle, duty_cycle)
+                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/FGPIO/test_gyro.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/test_gyro.py", line 43
+    print "gyro data"
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/FGPIO/test_servo.py'...
+***   File "./lib/python3.5/site-packages/FGPIO/test_servo.py", line 47
+    print "Fermeture en cours"
+                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/FGPIO-0.6.4.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

@@ -1,0 +1,2054 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/_pytest'...
+Listing './lib/python3.5/site-packages/_pytest/_code'...
+Listing './lib/python3.5/site-packages/_pytest/assertion'...
+Listing './lib/python3.5/site-packages/_pytest/vendored_packages'...
+Listing './lib/python3.5/site-packages/dotviewer'...
+Compiling './lib/python3.5/site-packages/dotviewer/drawgraph.py'...
+***   File "./lib/python3.5/site-packages/dotviewer/drawgraph.py", line 866
+    def beziercurve((x0,y0), (x1,y1), (x2,y2), (x3,y3), resolution=8):
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dotviewer/graphclient.py'...
+***   File "./lib/python3.5/site-packages/dotviewer/graphclient.py", line 72
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dotviewer/graphdisplay.py'...
+***   File "./lib/python3.5/site-packages/dotviewer/graphdisplay.py", line 49
+    def __init__(self, (w,h)=(800,680)):
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dotviewer/graphpage.py'...
+***   File "./lib/python3.5/site-packages/dotviewer/graphpage.py", line 33
+    except msgstruct.RemoteError, e:
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dotviewer/graphparse.py'...
+***   File "./lib/python3.5/site-packages/dotviewer/graphparse.py", line 155
+    except PlainParseError, e:
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dotviewer/graphserver.py'...
+***   File "./lib/python3.5/site-packages/dotviewer/graphserver.py", line 126
+    print 'listening on %r...' % (s1.getsockname(),)
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dotviewer/sshgraphserver.py'...
+***   File "./lib/python3.5/site-packages/dotviewer/sshgraphserver.py", line 36
+    print ' '.join(args)
+            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/dotviewer/test'...
+Compiling './lib/python3.5/site-packages/dotviewer/test/test_interactive.py'...
+***   File "./lib/python3.5/site-packages/dotviewer/test/test_interactive.py", line 71
+    print "=== dotviewer.py graph1.dot"
+                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/dotviewer/test/test_interactive_unicode.py'...
+***   File "./lib/python3.5/site-packages/dotviewer/test/test_interactive_unicode.py", line 36
+    print "=== dotviewer.py %s" % FILENAME
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/py'...
+Listing './lib/python3.5/site-packages/py/_code'...
+Listing './lib/python3.5/site-packages/py/_io'...
+Listing './lib/python3.5/site-packages/py/_log'...
+Listing './lib/python3.5/site-packages/py/_path'...
+Listing './lib/python3.5/site-packages/py/_process'...
+Listing './lib/python3.5/site-packages/py/_vendored_packages'...
+Listing './lib/python3.5/site-packages/py-1.5.2.dist-info'...
+Listing './lib/python3.5/site-packages/pytest-2.9.2.dist-info'...
+Listing './lib/python3.5/site-packages/rpython'...
+Compiling './lib/python3.5/site-packages/rpython/__main__.py'...
+***   File "./lib/python3.5/site-packages/rpython/__main__.py", line 12
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/annotator'...
+Compiling './lib/python3.5/site-packages/rpython/annotator/binaryop.py'...
+***   File "./lib/python3.5/site-packages/rpython/annotator/binaryop.py", line 92
+    def union((obj1, obj2)):
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/annotator/specialize.py'...
+***   File "./lib/python3.5/site-packages/rpython/annotator/specialize.py", line 151
+    exec source.compile() in miniglobals
+              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/annotator/test'...
+Compiling './lib/python3.5/site-packages/rpython/annotator/test/test_annrpython.py'...
+***   File "./lib/python3.5/site-packages/rpython/annotator/test/test_annrpython.py", line 990
+    print all_vars
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/config'...
+Listing './lib/python3.5/site-packages/rpython/flowspace'...
+Compiling './lib/python3.5/site-packages/rpython/flowspace/argument.py'...
+***   File "./lib/python3.5/site-packages/rpython/flowspace/argument.py", line 116
+    def fromshape(cls, (shape_cnt, shape_keys, shape_star), data_w):
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/flowspace/operation.py'...
+***   File "./lib/python3.5/site-packages/rpython/flowspace/operation.py", line 323
+    exec compile2("""
+                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/flowspace/test'...
+Compiling './lib/python3.5/site-packages/rpython/flowspace/test/test_objspace.py'...
+***   File "./lib/python3.5/site-packages/rpython/flowspace/test/test_objspace.py", line 113
+    print i
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/jit'...
+Listing './lib/python3.5/site-packages/rpython/jit/backend'...
+Listing './lib/python3.5/site-packages/rpython/jit/backend/arm'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/arm/assembler.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/arm/assembler.py", line 1599
+    print "[ARM/asm] %s not implemented" % op.getopname()
+                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/arm/detect.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/arm/detect.py", line 35
+    fd = os.open(filename, os.O_RDONLY, 0644)
+                                           ^
+SyntaxError: invalid token
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/arm/helper'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/arm/instruction_builder.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/arm/instruction_builder.py", line 415
+    print 'No instr generator for %s instructions' % name
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/arm/regalloc.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/arm/regalloc.py", line 1179
+    print "[ARM/regalloc] %s not implemented" % op.getopname()
+                                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/arm/test'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/arm/test/test_instr_codebuilder.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/arm/test/test_instr_codebuilder.py", line 347
+    print 'No test generator for %s instructions' % name
+                                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/arm/test/test_jump.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/arm/test/test_jump.py", line 26
+    print '------------------------ comparing ---------------------------'
+                                                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/arm/tool'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/detect_cpu.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/detect_cpu.py", line 155
+    print 'autodetect:     ', x[0]
+                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/llgraph'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/llgraph/runner.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/llgraph/runner.py", line 894
+    exec py.code.Source(vector_arith_code.format('int','add','+')).compile()
+          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/llgraph/test'...
+Listing './lib/python3.5/site-packages/rpython/jit/backend/llsupport'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/llsupport/codemap.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/llsupport/codemap.py", line 93
+    def register_codemap(self, (start, size, l)):
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/llsupport/descr.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/llsupport/descr.py", line 607
+    exec source.compile() in d
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/llsupport/llmodel.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/llsupport/llmodel.py", line 146
+    print "Unhandled exception", e, "in realloc_frame"
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/llsupport/src'...
+Listing './lib/python3.5/site-packages/rpython/jit/backend/llsupport/test'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/llsupport/test/test_asmmemmgr.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/llsupport/test/test_asmmemmgr.py", line 151
+    print real_use, new_total
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/llsupport/test/test_gc_integration.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/llsupport/test/test_gc_integration.py", line 685
+    print '"Collecting" moved the frame from %d to %d' % (
+                                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/llsupport/test/test_zrpy_gc_direct.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/llsupport/test/test_zrpy_gc_direct.py", line 124
+    print 'match'
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/llsupport/test/zrpy_gc_test.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/llsupport/test/zrpy_gc_test.py", line 59
+    print freed
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/llsupport/test/zrpy_vmprof_test.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/llsupport/test/zrpy_vmprof_test.py", line 67
+    fd = os.open(tmpfilename, os.O_WRONLY | os.O_CREAT, 0666)
+                                                           ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/llsupport/test/ztranslation_test.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/llsupport/test/ztranslation_test.py", line 222
+    print hex(res)
+            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/ppc'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/ppc/detect_feature.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/ppc/detect_feature.py", line 18
+    fd = os.open("/proc/self/auxv", os.O_RDONLY, 0644)
+                                                    ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/ppc/field.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/ppc/field.py", line 46
+    if value & 0x80000000L:
+                         ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/ppc/helper'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/ppc/rassemblermaker.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/ppc/rassemblermaker.py", line 69
+    exec compile2(src) in d
+                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/ppc/test'...
+Listing './lib/python3.5/site-packages/rpython/jit/backend/ppc/tool'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/ppc/tool/viewcode.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/ppc/tool/viewcode.py", line 85
+    print 'loading symbols from %s...' % (filename,)
+                                     ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/test'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/test/runner_test.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/test/runner_test.py", line 439
+    print opnum
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/test/support.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/test/support.py", line 56
+    exec src.compile() in locals()
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/test/test_ll_random.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/test/test_ll_random.py", line 575
+    exec code in d
+            ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/test/test_random.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/test/test_random.py", line 618
+    print 'Random seed value is %d.' % (seed,)
+                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/test/zll_stress.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/test/zll_stress.py", line 24
+    print "        i = %d; r.setstate(%s)" % (i, r.getstate())
+                                         ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/tool'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/tool/viewcode.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/tool/viewcode.py", line 113
+    print 'loading symbols from %s...' % (filename,)
+                                     ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/x86'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/x86/detect_feature.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/x86/detect_feature.py", line 67
+    print 'Processor supports sse2'
+                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/x86/regloc.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/x86/regloc.py", line 570
+    def _fix_static_offset_64_m(self, (basereg, static_offset)):
+                                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/x86/runner.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/x86/runner.py", line 92
+    print ''.join(lines)
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/x86/rx86.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/x86/rx86.py", line 187
+    def encode_mem_reg_plus_const(mc, (reg, offset), _, orbyte):
+                                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/x86/test'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/x86/test/test_jump.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/x86/test/test_jump.py", line 35
+    print '------------------------ comparing ---------------------------'
+                                                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/x86/test/test_rx86_32_auto_encoding.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/x86/test/test_rx86_32_auto_encoding.py", line 27
+    print self.op
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/x86/test/test_zmath.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/x86/test/test_zmath.py", line 13
+    def get_test_case((fnname, args, expected)):
+                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/x86/tool'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/x86/tool/jumpto.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/x86/tool/jumpto.py", line 14
+    if not ((jtarg - target) & 0xFFFFFFFFL):
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/x86/vector_ext.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/x86/vector_ext.py", line 298
+    exec py.code.Source(_source).compile()
+          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/zarch'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/zarch/detect_feature.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/zarch/detect_feature.py", line 21
+    print 'The following extensions are supported:'
+                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/zarch/helper'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/zarch/instruction_builder.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/zarch/instruction_builder.py", line 113
+    def build_e(mnemonic, (opcode1,opcode2)):
+                          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/zarch/test'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/zarch/test/test_assembler.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/zarch/test/test_assembler.py", line 406
+    print hex(run_asm(self.a))
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/zarch/test/test_auto_encoding.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/zarch/test/test_auto_encoding.py", line 265
+    print "Skipping %s" % methname
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/jit/backend/zarch/tool'...
+Compiling './lib/python3.5/site-packages/rpython/jit/backend/zarch/tool/viewcode.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/backend/zarch/tool/viewcode.py", line 83
+    print 'loading symbols from %s...' % (filename,)
+                                     ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/codewriter'...
+Compiling './lib/python3.5/site-packages/rpython/jit/codewriter/call.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/codewriter/call.py", line 68
+    print graph
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/codewriter/codewriter.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/codewriter/codewriter.py", line 97
+    print '%s:' % (ssarepr.name,)
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/codewriter/effectinfo.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/codewriter/effectinfo.py", line 296
+    def add_struct(descrs_fields, (_, T, fieldname)):
+                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/codewriter/flatten.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/codewriter/flatten.py", line 312
+    lst.sort(key=lambda(v, w): w.index)
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/codewriter/jitcode.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/codewriter/jitcode.py", line 81
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/codewriter/jtransform.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/codewriter/jtransform.py", line 1456
+    exec py.code.Source('''
+          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/codewriter/test'...
+Compiling './lib/python3.5/site-packages/rpython/jit/codewriter/test/test_codewriter.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/codewriter/test/test_codewriter.py", line 97
+    print jitcode.dump()
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/codewriter/test/test_regalloc.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/codewriter/test/test_regalloc.py", line 266
+    print "hello"
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/jit/metainterp'...
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/blackhole.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/blackhole.py", line 160
+    print '\tbh:', name, list(args),
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/history.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/history.py", line 578
+    print '%r: inputargs =' % self, self._dump_args(self.inputargs)
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/opencoder.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/opencoder.py", line 334
+    def cut_trace_from(self, (start, count, index), inputargs):
+                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt'...
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/__init__.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/__init__.py", line 74
+    print ALL_OPTS_NAMES
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/dependency.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/dependency.py", line 113
+    print "path:"
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test'...
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test/test_costmodel.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test/test_costmodel.py", line 41
+    print " CM %s (%d -> %d, diff: %d) " % (orig_func.__name__,
+                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test/test_dependency.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test/test_dependency.py", line 232
+    print "[",i,"]",op,
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test/test_multilabel.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test/test_multilabel.py", line 60
+    print "Optimized:"
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test/test_optimizeopt.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test/test_optimizeopt.py", line 68
+    print "Preamble:"
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test/test_vecopt.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test/test_vecopt.py", line 128
+    print ""
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test/test_virtualstate.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test/test_virtualstate.py", line 908
+    print '\n'.join([str(o) for o in bridge.operations])
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test/test_zdisable_opts.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/test/test_zdisable_opts.py", line 46
+    exec "TestNo%sLLtype = TestLLtype" % (opt[0].upper() + opt[1:])
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/util.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/util.py", line 118
+    print ' Comparing lists '.center(totwidth, '-')
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/vector.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/optimizeopt/vector.py", line 500
+    print "packs:"
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/pyjitpl.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/pyjitpl.py", line 213
+    exec py.code.Source('''
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/resoperation.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/resoperation.py", line 1626
+    print '%30s = %d' % (cls_name, i)
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/metainterp/test'...
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/test/test_ajit.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/test/test_ajit.py", line 788
+    exec py.code.Source("""
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/test/test_bridgeopt.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/test/test_bridgeopt.py", line 80
+    lambda (box, known_class): isinstance(box, InputArgRef) or not known_class)
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/test/test_del.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/test/test_del.py", line 120
+    print 'ERROR:', err
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/test/test_history.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/test/test_history.py", line 81
+    print "ok!"
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/test/test_immutable.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/test/test_immutable.py", line 160
+    print n
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/test/test_loop.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/test/test_loop.py", line 360
+    print res
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/test/test_loop_unroll_disopt.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/test/test_loop_unroll_disopt.py", line 22
+    exec "TestLoopNo%sLLtype = TestLLtype" % (opt[0].upper() + opt[1:])
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/test/test_memmgr.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/test/test_memmgr.py", line 68
+    print 'record tokens[%d]' % i
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/test/test_recursive.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/test/test_recursive.py", line 78
+    print '%3d %9d' % (i, f(i))
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/test/test_virtualizable.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/test/test_virtualizable.py", line 1490
+    print hex(res)
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/test/test_virtualref.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/test/test_virtualref.py", line 536
+    print 'escapexy:', xy.n
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/test/test_warmspot.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/test/test_warmspot.py", line 208
+    print "f2: no loop generated for i2==%d" % i2
+                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/test/test_zvector.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/test/test_zvector.py", line 661
+    exec py.code.Source(formatted).compile()
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/metainterp/warmspot.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/metainterp/warmspot.py", line 130
+    print '~~~ return value:', repr(res)
+                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/tl'...
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/jittest.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/jittest.py", line 41
+    print 'warmspot.jittify_and_run() started...'
+                                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/targettiny1.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/targettiny1.py", line 14
+    print "Usage: %s bytecode x y" % (args[0],)
+                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/targettiny2.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/targettiny2.py", line 14
+    print "Invalid command line arguments."
+                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/targettiny2hotpath.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/targettiny2hotpath.py", line 7
+    print err
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/targettiny3hotpath.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/targettiny3hotpath.py", line 6
+    print err
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/targettlc.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/targettlc.py", line 18
+    print "Usage: %s [--onlyjit] filename x" % (exe,)
+                                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/targettlr.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/targettlr.py", line 15
+    print "Usage: %s filename x" % (args[0],)
+                               ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/tl/test'...
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/test/jitcrashers.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/test/jitcrashers.py", line 2
+    print "simple loop"
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/test/test_pypyjit.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/test/test_pypyjit.py", line 25
+    print "stderr"
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/test/test_tl.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/test/test_tl.py", line 269
+    print ','.join([str(ord(c)) for c in code])
+            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/tl/tinyframe'...
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/tinyframe/tinyframe.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/tinyframe/tinyframe.py", line 262
+    print arg.repr()
+            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/tl/tla'...
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/tla/targettla.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/tla/targettla.py", line 10
+    print "missing argument after --jit"
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/tla/tla_assembler.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/tla/tla_assembler.py", line 27
+    print '%s successfully assembled' % outname
+                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/tlc.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/tlc.py", line 434
+    print a.to_string()
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tl/tlr.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tl/tlr.py", line 91
+    print SQUARE
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/jit/tool'...
+Compiling './lib/python3.5/site-packages/rpython/jit/tool/findadrinlog.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tool/findadrinlog.py", line 7
+    print "Usage: %s <log file> <address>" % sys.argv[0]
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tool/gen-trace-mode-keywords.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tool/gen-trace-mode-keywords.py", line 6
+    print '"%s"' % name,
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tool/loopcounter.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tool/loopcounter.py", line 39
+    print 'timestamp,total,loops,bridges'
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tool/loopviewer.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tool/loopviewer.py", line 12
+    print 'Loading file:'
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/jit/tool/showstats.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tool/showstats.py", line 25
+    print "Loop #%d, length: %d, opcodes: %d, guards: %d" % (i, num_ops, num_dmp, num_guards)
+                                                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/jit/tool/test'...
+Compiling './lib/python3.5/site-packages/rpython/jit/tool/traceviewer.py'...
+***   File "./lib/python3.5/site-packages/rpython/jit/tool/traceviewer.py", line 354
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/memory'...
+Listing './lib/python3.5/site-packages/rpython/memory/gc'...
+Compiling './lib/python3.5/site-packages/rpython/memory/gc/env.py'...
+***   File "./lib/python3.5/site-packages/rpython/memory/gc/env.py", line 73
+    fd = os.open(filename, os.O_RDONLY, 0644)
+                                           ^
+SyntaxError: invalid token
+
+Listing './lib/python3.5/site-packages/rpython/memory/gc/test'...
+Compiling './lib/python3.5/site-packages/rpython/memory/gc/test/test_direct.py'...
+***   File "./lib/python3.5/site-packages/rpython/memory/gc/test/test_direct.py", line 222
+    print 'ADDED TO STACKROOTS:', llmemory.cast_adr_to_int(
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/memory/gc/test/test_minimarkpage.py'...
+***   File "./lib/python3.5/site-packages/rpython/memory/gc/test/test_minimarkpage.py", line 99
+    exec '%s = holeaddr' % prev in globals(), locals()
+                       ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/memory/gctransform'...
+Compiling './lib/python3.5/site-packages/rpython/memory/gctransform/framework.py'...
+***   File "./lib/python3.5/site-packages/rpython/memory/gctransform/framework.py", line 739
+    print '!'*79
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/memory/gctransform/refcounting.py'...
+***   File "./lib/python3.5/site-packages/rpython/memory/gctransform/refcounting.py", line 237
+    exec src in d
+           ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/rpython/memory/gctransform/shadowcolor.py'...
+***   File "./lib/python3.5/site-packages/rpython/memory/gctransform/shadowcolor.py", line 360
+    def heuristic((index, P, gcsaveroots)):
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/memory/gctransform/test'...
+Compiling './lib/python3.5/site-packages/rpython/memory/gctransform/test/test_framework.py'...
+***   File "./lib/python3.5/site-packages/rpython/memory/gctransform/test/test_framework.py", line 195
+    print spaceop, '======>'
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/memory/gctransform/test/test_shadowcolor.py'...
+***   File "./lib/python3.5/site-packages/rpython/memory/gctransform/test/test_shadowcolor.py", line 30
+    print block.inputargs
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/memory/gctransform/test/test_statistics.py'...
+***   File "./lib/python3.5/site-packages/rpython/memory/gctransform/test/test_statistics.py", line 27
+    print rel
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/memory/gctransform/transform.py'...
+***   File "./lib/python3.5/site-packages/rpython/memory/gctransform/transform.py", line 132
+    print 'CANNOT INLINE:', e
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/memory/test'...
+Compiling './lib/python3.5/site-packages/rpython/memory/test/gc_test_base.py'...
+***   File "./lib/python3.5/site-packages/rpython/memory/test/gc_test_base.py", line 731
+    print b.num_deleted_c
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/memory/test/snippet.py'...
+***   File "./lib/python3.5/site-packages/rpython/memory/test/snippet.py", line 145
+    print 'Example:'
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/memory/test/test_support.py'...
+***   File "./lib/python3.5/site-packages/rpython/memory/test/test_support.py", line 51
+    print i
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/memory/test/test_transformed_gc.py'...
+***   File "./lib/python3.5/site-packages/rpython/memory/test/test_transformed_gc.py", line 1510
+    print res
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/rlib'...
+Compiling './lib/python3.5/site-packages/rpython/rlib/_jit_vref.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/_jit_vref.py", line 35
+    def union((vref1, vref2)):
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/debug.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/debug.py", line 528
+    print "AttachToVS is disabled at the moment (compilation failure)"
+                                                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/entrypoint.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/entrypoint.py", line 89
+    exec source.compile() in d
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/jit.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/jit.py", line 193
+    exec py.code.Source("\n".join(code)).compile() in d
+          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rlib/parsing'...
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/codebuilder.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/codebuilder.py", line 16
+    exec py.code.Source(self.get_code()).compile() in m
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/deterministic.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/deterministic.py", line 32
+    real_result.sort(key=lambda (l,c): (-c,l))
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/ebnfparse.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/ebnfparse.py", line 322
+    print code
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/main.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/main.py", line 11
+    print e.nice_error_message(filename=filename, source=t)
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/makepackrat.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/makepackrat.py", line 314
+    exec py.code.Source(self.get_code()).compile() in m
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/parsing.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/parsing.py", line 207
+    print "nonterminal %s is in its own follow %s" % (nonterminal, follow)
+                                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/regexparse.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/regexparse.py", line 2003
+    print content
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/rlib/parsing/test'...
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/test/test_ebnfparse.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/test/test_ebnfparse.py", line 150
+    print s
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/test/test_lexer.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/test/test_lexer.py", line 65
+    print dir(info)
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/test/test_parse.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/test/test_parse.py", line 50
+    print p.parse([Token(c, c, SourcePos(i, 0, i)) for i, c in enumerate("2*(3+4)")])
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/test/test_parseerrors.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/test/test_parseerrors.py", line 32
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/test/test_pcre_regtest.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/test/test_pcre_regtest.py", line 122
+    exec text in d
+            ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/test/test_pypackrat.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/test/test_pypackrat.py", line 14
+    print parser._code
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/test/test_pythonlexer.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/test/test_pythonlexer.py", line 220
+    print tokens
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/parsing/test/test_translate.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/parsing/test/test_translate.py", line 55
+    print tree
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rbigint.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rbigint.py", line 1235
+    l = 0L
+         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rdynload.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rdynload.py", line 127
+    ldscript = os.open(fullpath, os.O_RDONLY, 0777)
+                                                 ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rgil.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rgil.py", line 55
+    print "NOTE: invoke_after_thread_switch() is meant to be translated "
+                                                                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rlib/rjitlog'...
+Compiling './lib/python3.5/site-packages/rpython/rlib/rjitlog/rjitlog.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rjitlog/rjitlog.py", line 265
+    print '%s = struct.pack("b", %s)' % ('MARK_' + mark, h)
+                                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rlib/rjitlog/src'...
+Compiling './lib/python3.5/site-packages/rpython/rlib/rmarshal.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rmarshal.py", line 362
+    def install_marshaller((tag, s_obj)):
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rmd5.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rmd5.py", line 148
+    self.A = r_uint(0x67452301L)
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rope.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rope.py", line 16
+    HIGHEST_BIT_SET = intmask(1L << (NBITS - 1))
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/ropenssl.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/ropenssl.py", line 272
+    HAS_ALPN = OPENSSL_VERSION_NUMBER >= 0x1000200fL and not OPENSSL_NO_TLSEXT
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rposix.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rposix.py", line 1155
+    if mode & 0200: # _S_IWRITE
+                 ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rposix_stat.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rposix_stat.py", line 169
+    def getitem((s_sta, s_int)):
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rsha.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rsha.py", line 85
+    0x5A827999L, # ( 0 <= t <= 19)
+              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rlib/rsre'...
+Listing './lib/python3.5/site-packages/rpython/rlib/rsre/rpy'...
+Compiling './lib/python3.5/site-packages/rpython/rlib/rsre/rpy/sre_compile.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rsre/rpy/sre_compile.py", line 23
+    MAXCODE = 0xFFFFFFFFL
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rsre/rpy/sre_constants.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rsre/rpy/sre_constants.py", line 258
+    print "done"
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rsre/rpy/sre_parse.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rsre/rpy/sre_parse.py", line 101
+    print level*"  " + op,
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/rlib/rsre/test'...
+Compiling './lib/python3.5/site-packages/rpython/rlib/rsre/test/targetrsre.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rsre/test/targetrsre.py", line 17
+    fd = os.open(filename, os.O_RDONLY, 0666)
+                                           ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rsre/test/test_match.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rsre/test/test_match.py", line 266
+    print r
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rsre/test/test_zexternal.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rsre/test/test_zexternal.py", line 23
+    print 'trying:', t
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rsre/test/test_zinterp.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rsre/test/test_zinterp.py", line 46
+    print rsre_re.match("(a|b)aa", s)
+                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rlib/rstrategies'...
+Compiling './lib/python3.5/site-packages/rpython/rlib/rstrategies/logger.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rstrategies/logger.py", line 58
+    print str
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rstrategies/logparser.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rstrategies/logparser.py", line 55
+    print "Using VM configuration %s" % vm_name
+                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rstring.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rstring.py", line 714
+    def union((obj1, obj2)):
+              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rlib/rstruct'...
+Compiling './lib/python3.5/site-packages/rpython/rlib/rstruct/runpack.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rstruct/runpack.py", line 107
+    exec source.compile() in miniglobals
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/runicode.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/runicode.py", line 832
+    ch -= 0x10000L
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rurandom.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rurandom.py", line 159
+    fd = os.open("/dev/urandom", os.O_RDONLY, 0777)
+                                                 ^
+SyntaxError: invalid token
+
+Listing './lib/python3.5/site-packages/rpython/rlib/rvmprof'...
+Listing './lib/python3.5/site-packages/rpython/rlib/rvmprof/src'...
+Listing './lib/python3.5/site-packages/rpython/rlib/rvmprof/src/shared'...
+Listing './lib/python3.5/site-packages/rpython/rlib/rvmprof/src/shared/libbacktrace'...
+Listing './lib/python3.5/site-packages/rpython/rlib/rvmprof/src/shared/msiinttypes'...
+Listing './lib/python3.5/site-packages/rpython/rlib/rvmprof/src/shared/unwind'...
+Listing './lib/python3.5/site-packages/rpython/rlib/rvmprof/test'...
+Compiling './lib/python3.5/site-packages/rpython/rlib/rvmprof/test/test_rvmprof.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rvmprof/test/test_rvmprof.py", line 22
+    print num
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rvmprof/test/test_traceback.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rvmprof/test/test_traceback.py", line 54
+    print code, loc, arg
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rvmprof/test/test_ztranslation.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rvmprof/test/test_ztranslation.py", line 46
+    fd = os.open(PROF_FILE, os.O_WRONLY | os.O_CREAT | os.O_TRUNC, 0666)
+                                                                      ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rweakref.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rweakref.py", line 134
+    def union((s_wvd1, s_wvd2)):
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/rzipfile.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/rzipfile.py", line 71
+    crc = ~crc & r_uint(0xffffffffL)
+                                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rlib/src'...
+Compiling './lib/python3.5/site-packages/rpython/rlib/streamio.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/streamio.py", line 116
+    fd = rposix.open(path, os_flags, 0666)
+                                        ^
+SyntaxError: invalid token
+
+Listing './lib/python3.5/site-packages/rpython/rlib/test'...
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_clibffi.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_clibffi.py", line 439
+    print get_libc_name()
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_compilerinfo.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_compilerinfo.py", line 25
+    print s
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_libffi.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_libffi.py", line 500
+    exec s in glob, loc
+         ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_objectmodel.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_objectmodel.py", line 799
+    exec """class M(object):
+                @staticmethod
+                def f(): pass
+    """ in d
+                            
+                             
+                             
+      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_posix.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_posix.py", line 8
+    exec 'import %s as posix' % os.name
+                            ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rStringIO.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rStringIO.py", line 154
+    print 'seek', p, mode
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rarithmetic.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rarithmetic.py", line 12
+    l = 1L
+         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rawrefcount.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rawrefcount.py", line 252
+    print "OB COLLECTED REALLY TOO SOON"
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rawrefcount_boehm.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rawrefcount_boehm.py", line 286
+    print "next_dead().ob_refcnt != 1"
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rbigint.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rbigint.py", line 23
+    123456789123456789000000L,
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rfile.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rfile.py", line 67
+    fd = os.open('.', os.O_RDONLY, 0777)
+                                      ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rfloat.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rfloat.py", line 280
+    print repr(s)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rgc.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rgc.py", line 297
+    print "OK!"
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rgil.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rgil.py", line 13
+    print "OK"   # there is also a release/acquire pair here
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rmarshal.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rmarshal.py", line 101
+    assert get_unmarshaller(r_longlong)(buf) == -7566046822028738560L
+                                                                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rope.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rope.py", line 9
+    print seed
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rposix.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rposix.py", line 113
+    rposix.mkdir(filename, 0777)
+                              ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rsocket.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rsocket.py", line 246
+    print 'binding to port %d:' % (port,),
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rstacklet.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rstacklet.py", line 36
+    print 'start'
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rtermios.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rtermios.py", line 50
+    fd = os.open('.', 0, 0777)
+                            ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rthread.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rthread.py", line 164
+    print "waitting %d more iterations" % willing_to_wait_more
+                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rwin32.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rwin32.py", line 45
+    print proc.pid
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_rzlib.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_rzlib.py", line 137
+    print len(expanded), '=>', len(compressed)
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rlib/test/test_streamio.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/test/test_streamio.py", line 696
+    print "can't remove %s: %s" % (tfn, msg)
+                              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rlib/unicodedata'...
+Compiling './lib/python3.5/site-packages/rpython/rlib/unicodedata/unicodedb_5_2_0.py'...
+***   File "./lib/python3.5/site-packages/rpython/rlib/unicodedata/unicodedb_5_2_0.py", line 42
+    raise KeyError, name
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rtyper'...
+Compiling './lib/python3.5/site-packages/rpython/rtyper/controllerentry.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/controllerentry.py", line 192
+    def getitem((s_cin, s_key)):
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/llannotation.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/llannotation.py", line 16
+    def union((s_addr1, s_addr2)):
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/llinterp.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/llinterp.py", line 463
+    raise original[0], original[1], original[2]     # re-raise it
+                     ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rtyper/lltypesystem'...
+Compiling './lib/python3.5/site-packages/rpython/rtyper/lltypesystem/ll2ctypes.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/lltypesystem/ll2ctypes.py", line 1328
+    raise etype, evalue, etb
+               ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rtyper/lltypesystem/module'...
+Listing './lib/python3.5/site-packages/rpython/rtyper/lltypesystem/module/test'...
+Compiling './lib/python3.5/site-packages/rpython/rtyper/lltypesystem/module/test/test_ll_math.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/lltypesystem/module/test/test_ll_math.py", line 82
+    def make_test_case((fnname, args, expected), dict):
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/lltypesystem/rdict.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/lltypesystem/rdict.py", line 344
+    def rtype_getitem((r_dict, r_key), hop):
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/lltypesystem/rffi.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/lltypesystem/rffi.py", line 200
+    exec source.compile() in miniglobals
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/lltypesystem/rlist.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/lltypesystem/rlist.py", line 98
+    def rtype_is_((r_lst1, r_lst2), hop):
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/lltypesystem/rordereddict.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/lltypesystem/rordereddict.py", line 427
+    def rtype_getitem((r_dict, r_key), hop):
+                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rtyper/lltypesystem/test'...
+Compiling './lib/python3.5/site-packages/rpython/rtyper/lltypesystem/test/test_ll2ctypes.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/lltypesystem/test/test_ll2ctypes.py", line 542
+    print 'my_compar:', p1[0], p2[0]
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/lltypesystem/test/test_llarena.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/lltypesystem/test/test_llarena.py", line 341
+    print p.x       # segfault
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/lltypesystem/test/test_lltype.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/lltypesystem/test/test_lltype.py", line 22
+    print s0
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/normalizecalls.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/normalizecalls.py", line 362
+    print '==>',
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/raddress.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/raddress.py", line 74
+    def rtype_getitem((r_acc, r_int), hop):
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/rbool.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/rbool.py", line 50
+    def convert_from_to((r_from, r_to), v, llops):
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/rbuiltin.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/rbuiltin.py", line 145
+    def convert_from_to((r_from, r_to), v, llops):
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/rbytearray.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/rbytearray.py", line 12
+    def rtype_add((r_b1, r_b2), hop):
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/rclass.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/rclass.py", line 1009
+    def convert_from_to((r_ins1, r_ins2), v, llops):
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/rint.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/rint.py", line 194
+    def convert_from_to((r_from, r_to), v, llops):
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/rlist.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/rlist.py", line 242
+    def rtype_contains((r_lst, _), hop):
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/rmodel.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/rmodel.py", line 301
+    def rtype_is_((robj1, robj2), hop):
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/rnone.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/rnone.py", line 48
+    def convert_from_to((r_from, _), v, llops):
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/rpbc.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/rpbc.py", line 374
+    def convert_from_to((r_fpbc1, r_fpbc2), v, llops):
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/rptr.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/rptr.py", line 121
+    def convert_from_to((r_ptr1, r_ptr2), v, llop):
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/rrange.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/rrange.py", line 34
+    def rtype_getitem((r_rng, r_int), hop):
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/rstr.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/rstr.py", line 524
+    def rtype_mod((r_str, _), hop):
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/rtuple.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/rtuple.py", line 268
+    def rtype_getitem((r_tup, r_int), hop):
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/rtyper.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/rtyper.py", line 502
+    exec py.code.compile("""
+          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rtyper/test'...
+Compiling './lib/python3.5/site-packages/rpython/rtyper/test/test_llinterp.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/test/test_llinterp.py", line 254
+    print res
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/test/test_rbuiltin.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/test/test_rbuiltin.py", line 197
+    fd = os.open(fname, os.O_WRONLY|os.O_CREAT, 0777)
+                                                   ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/test/test_rclass.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/test/test_rclass.py", line 1094
+    print e.value
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/test/test_rint.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/test/test_rint.py", line 359
+    print func
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/test/test_rlist.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/test/test_rlist.py", line 29
+    exec """if 1:
+            def %s(*args):
+                return _%s(dum_checkidx, %s*args)
+""" % (name, name, extraarg)
+                 
+                          
+                                                 
+  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rtyper/tool'...
+Compiling './lib/python3.5/site-packages/rpython/rtyper/tool/gcstat.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/tool/gcstat.py", line 22
+    print i
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/tool/genrffi.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/tool/genrffi.py", line 112
+    print "genrffi: skipped:", key, value, e
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/tool/mkrffi.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/tool/mkrffi.py", line 148
+    exec src.compile() in globs
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/rtyper/tool/rffi_platform.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/tool/rffi_platform.py", line 904
+    print name, getattr(S, name)
+             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/rtyper/tool/test'...
+Compiling './lib/python3.5/site-packages/rpython/rtyper/tool/test/test_rffi_platform.py'...
+***   File "./lib/python3.5/site-packages/rpython/rtyper/tool/test/test_rffi_platform.py", line 330
+    print a
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/tool'...
+Listing './lib/python3.5/site-packages/rpython/tool/algo'...
+Compiling './lib/python3.5/site-packages/rpython/tool/algo/regalloc.py'...
+***   File "./lib/python3.5/site-packages/rpython/tool/algo/regalloc.py", line 116
+    print block
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/tool/algo/sparsemat.py'...
+***   File "./lib/python3.5/site-packages/rpython/tool/algo/sparsemat.py", line 11
+    def __getitem__(self, (row, col)):
+                          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/tool/algo/test'...
+Compiling './lib/python3.5/site-packages/rpython/tool/algo/test/test_graphlib.py'...
+***   File "./lib/python3.5/site-packages/rpython/tool/algo/test/test_graphlib.py", line 217
+    print len(result)
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/tool/algo/test/test_regalloc.py'...
+***   File "./lib/python3.5/site-packages/rpython/tool/algo/test/test_regalloc.py", line 18
+    print inputs, ':', colors
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/tool/ansi_mandelbrot.py'...
+***   File "./lib/python3.5/site-packages/rpython/tool/ansi_mandelbrot.py", line 147
+    print "Colour range", self.colour_range
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/tool/ansicolor.py'...
+***   File "./lib/python3.5/site-packages/rpython/tool/ansicolor.py", line 28
+    exec """
+def %s(s):
+    return setcolor(s, colors.%s)
+""" % (name, name)
+            
+          
+                                 
+  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/tool/gcanalyze.py'...
+***   File "./lib/python3.5/site-packages/rpython/tool/gcanalyze.py", line 26
+    print "AVG:", "%.1fms" % avg, "MAX:", "%.1fms" % max_t, "TOTAL:" , "%.1fms" % sum(all)
+               ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/tool/jitlogparser'...
+Compiling './lib/python3.5/site-packages/rpython/tool/jitlogparser/logparser2json.py'...
+***   File "./lib/python3.5/site-packages/rpython/tool/jitlogparser/logparser2json.py", line 42
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/tool/jitlogparser/test'...
+Compiling './lib/python3.5/site-packages/rpython/tool/logparser.py'...
+***   File "./lib/python3.5/site-packages/rpython/tool/logparser.py", line 76
+    print "Line", i
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/tool/pytest'...
+Compiling './lib/python3.5/site-packages/rpython/tool/sourcetools.py'...
+***   File "./lib/python3.5/site-packages/rpython/tool/sourcetools.py", line 211
+    exec source.compile() in caller.f_globals, d
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/tool/terminal.py'...
+***   File "./lib/python3.5/site-packages/rpython/tool/terminal.py", line 82
+    print 'Warning: %s' % e
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/tool/version.py'...
+***   File "./lib/python3.5/site-packages/rpython/tool/version.py", line 140
+    print get_repo_version_info()
+                              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/translator'...
+Listing './lib/python3.5/site-packages/rpython/translator/backendopt'...
+Compiling './lib/python3.5/site-packages/rpython/translator/backendopt/all.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/backendopt/all.py", line 51
+    print "before optimizations:"
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/backendopt/graphanalyze.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/backendopt/graphanalyze.py", line 116
+    print '[%s] %s' % (self.__class__.__name__, info)
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/backendopt/malloc.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/backendopt/malloc.py", line 11
+    def __init__(self, (block, var)):
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/backendopt/tailrecursion.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/backendopt/tailrecursion.py", line 6
+    print "removing tail call"
+                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/translator/backendopt/test'...
+Compiling './lib/python3.5/site-packages/rpython/translator/backendopt/test/test_mallocprediction.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/backendopt/test/test_mallocprediction.py", line 79
+    print callgraph
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/backendopt/test/test_removenoops.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/backendopt/test/test_removenoops.py", line 142
+    print len(ops['cast_pointer']), num_cast_pointer
+            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/translator/c'...
+Compiling './lib/python3.5/site-packages/rpython/translator/c/gc.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/gc.py", line 446
+    def enter_roots_frame(self, funcgen, (c_gcdata, c_numcolors)):
+                                         ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/translator/c/gcc'...
+Listing './lib/python3.5/site-packages/rpython/translator/c/gcc/test'...
+Listing './lib/python3.5/site-packages/rpython/translator/c/gcc/test/elf64'...
+Compiling './lib/python3.5/site-packages/rpython/translator/c/gcc/test/test_asmgcroot.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/gcc/test/test_asmgcroot.py", line 45
+    print 'Result: MemoryError'
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/c/gcc/test/test_trackgcroot.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/gcc/test/test_trackgcroot.py", line 47
+    print bytes
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/c/gcc/trackgcroot.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/gcc/trackgcroot.py", line 1706
+    print 'raw table'
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/translator/c/src'...
+Listing './lib/python3.5/site-packages/rpython/translator/c/src/libffi_msvc'...
+Listing './lib/python3.5/site-packages/rpython/translator/c/src/stacklet'...
+Listing './lib/python3.5/site-packages/rpython/translator/c/test'...
+Compiling './lib/python3.5/site-packages/rpython/translator/c/test/test_boehm.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/test/test_boehm.py", line 138
+    print res1, res2
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/c/test/test_database.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/test/test_database.py", line 12
+    print '/*********************************/'
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/c/test/test_extfunc.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/test/test_extfunc.py", line 34
+    fd = os.open(tmpfile, os.O_WRONLY | os.O_CREAT, 0777)
+                                                       ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/translator/c/test/test_genc.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/test/test_genc.py", line 101
+    print "THE RESULT IS:", llrepr_out(res), ";"
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/c/test/test_lladdresses.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/test/test_lladdresses.py", line 214
+    print "hello world"     # prevent constant-folding
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/c/test/test_lltyped.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/test/test_lltyped.py", line 475
+    print res
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/c/test/test_math.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/test/test_math.py", line 8
+    def get_test_case((fnname, args, expected)):
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/c/test/test_newgc.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/test/test_newgc.py", line 40
+    print "MEMORY-ERROR"
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/c/test/test_standalone.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/test/test_standalone.py", line 136
+    print "hello simpler world"
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/c/test/test_support.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/test/test_support.py", line 22
+    print 'input:', dst, src
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/c/test/test_typed.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/c/test/test_typed.py", line 658
+    print key, h
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/translator/goal'...
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/_test_thread.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/_test_thread.py", line 6
+    print "running grown to %r\n" % self,
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/app_example.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/app_example.py", line 1
+    print '--- beginning of PyPy run of app_example.py ---'
+                                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/bpnn.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/bpnn.py", line 145
+    print p[0], '->', self.update(p[0])
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/gcbench.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/gcbench.py", line 96
+    print "Creating %d trees of depth %d" % (niters, depth)
+                                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/query.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/query.py", line 103
+    print s
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/richards.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/richards.py", line 140
+    print a,
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targetbigintbenchmark.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targetbigintbenchmark.py", line 89
+    print "mod by 2: ", _time
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targetjitstandalone.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targetjitstandalone.py", line 30
+    print "Usage: jitstandalone <count1> <count2>"
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targetlbench.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targetlbench.py", line 27
+    print longername(a, b, size)
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targetnopstandalone.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targetnopstandalone.py", line 11
+    print "debug:", msg
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targetosreadbench.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targetosreadbench.py", line 17
+    f = os.open(fname, 0666, os.O_RDONLY)
+                          ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targetreadlines.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targetreadlines.py", line 16
+    print next_line
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targetrichards.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targetrichards.py", line 15
+    print "Translated:"
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targetrpystonex.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targetrpystonex.py", line 27
+    print "translated rpystone.pystones time for %d passes = %g" % \
+                                                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targetsha1sum.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targetsha1sum.py", line 17
+    print sha.hexdigest(), filename
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targetsimpleread.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targetsimpleread.py", line 4
+    source = os.open('/dev/zero', os.O_RDWR, 0777)
+                                                ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targetsimplewrite.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targetsimplewrite.py", line 4
+    dest = os.open('/dev/null', os.O_RDWR, 0777)
+                                              ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targettestdicts.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targettestdicts.py", line 18
+    reverse_dict = dict(map(lambda (x,y): (y,x), test_dict.items()))
+                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targettestlistvsdict.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targettestlistvsdict.py", line 23
+    print test_dict[int(argv[2])]
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targetvarsized.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targetvarsized.py", line 57
+    exec source in d
+              ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/targetwarningalone.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/targetwarningalone.py", line 32
+    print f(int(argv[1]))
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/translate.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/translate.py", line 186
+    print "\n\nDefault target: %s" % translateconfig.targetspec
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/goal/unixcheckpoint.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/goal/unixcheckpoint.py", line 11
+    print extra_msg
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/translator/platform'...
+Listing './lib/python3.5/site-packages/rpython/translator/platform/arch'...
+Compiling './lib/python3.5/site-packages/rpython/translator/platform/arch/s390x.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/platform/arch/s390x.py", line 45
+    fd = os.open("/proc/cpuinfo", os.O_RDONLY, 0644)
+                                                  ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/translator/platform/darwin.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/platform/darwin.py", line 30
+    print 'in get_rpath_flags, rel_libdirs is not fixed up',rel_libdirs
+                                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/rpython/translator/platform/test'...
+Listing './lib/python3.5/site-packages/rpython/translator/platform/test/include'...
+Compiling './lib/python3.5/site-packages/rpython/translator/platform/test/test_makefile.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/platform/test/test_makefile.py", line 141
+    print "precompiled haeder 'make' time %.2f, non-precompiled header time %.2f" %(t_precompiled, t_normal)
+                                                                                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/translator/sandbox'...
+Compiling './lib/python3.5/site-packages/rpython/translator/sandbox/sandlib.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/sandbox/sandlib.py", line 93
+    raise exception.__class__, exception, tb
+                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/translator/sandbox/test'...
+Compiling './lib/python3.5/site-packages/rpython/translator/sandbox/test/test_sandbox.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/sandbox/test/test_sandbox.py", line 53
+    fd = os.open("/tmp/foobar", os.O_RDONLY, 0777)
+                                                ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/rpython/translator/sandbox/test/test_sandlib.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/sandbox/test/test_sandlib.py", line 23
+    print "decoded from subprocess: %s%r" % (name, input)
+                                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/translator/test'...
+Compiling './lib/python3.5/site-packages/rpython/translator/test/rpystone.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/test/rpystone.py", line 69
+    print "Pystone(%s) time for %d passes = %g" % \
+                                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/test/rpystone_newstyle.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/test/rpystone_newstyle.py", line 69
+    print "Pystone(%s) time for %d passes = %g" % \
+                                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/test/snippet.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/test/snippet.py", line 581
+    def default_args(x, y=2, z=3L):
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/test/test_simplify.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/test/test_simplify.py", line 174
+    print op
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/test/test_unsimplify.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/test/test_unsimplify.py", line 80
+    fd = os.open(tmpfile, os.O_WRONLY | os.O_CREAT, 0644)
+                                                       ^
+SyntaxError: invalid token
+
+Listing './lib/python3.5/site-packages/rpython/translator/tool'...
+Compiling './lib/python3.5/site-packages/rpython/translator/tool/graphpage.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/tool/graphpage.py", line 96
+    gs.sort(lambda (_, g), (__ ,h): cmp(g.tag, h.tag))
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/tool/pdbplus.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/tool/pdbplus.py", line 64
+    print '*** %s' % errmsg, "\t[%s: %s]" % (exc_type_name, v)
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/rpython/translator/tool/reftracker.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/tool/reftracker.py", line 81
+    print '*** NOTE: object not found'
+                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/tool/staticsizereport.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/tool/staticsizereport.py", line 79
+    print "couldn't find size of", ptr
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rpython/translator/tool/stdoutcapture.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/tool/stdoutcapture.py", line 73
+    print 'Output:', `fout.read()`
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython/translator/tool/test'...
+Compiling './lib/python3.5/site-packages/rpython/translator/tool/test/test_staticsizereport.py'...
+***   File "./lib/python3.5/site-packages/rpython/translator/tool/test/test_staticsizereport.py", line 32
+    reverse_dict = dict(map(lambda (x,y): (y,x), test_dict.items()))
+                                   ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/rpython-0.2.1.egg-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

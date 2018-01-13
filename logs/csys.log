@@ -1,0 +1,526 @@
+Listing '.'...
+Listing './bin'...
+Compiling './bin/Xelm.py'...
+Compiling './bin/backupfile.py'...
+Compiling './bin/bigtmp.py'...
+***   File "./bin/bigtmp.py", line 49
+    print bigtmp()
+               ^
+SyntaxError: invalid syntax
+
+Compiling './bin/chgnetworkinfo.py'...
+***   File "./bin/chgnetworkinfo.py", line 55
+    print p
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/chkrpms.py'...
+***   File "./bin/chkrpms.py", line 76
+    if verbose: print 'rpmcmd = ', rpmcmd
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/csgetcfg.py'...
+***   File "./bin/csgetcfg.py", line 61
+    if options.eval: print '%s=%s' % (arg, repr(val))
+                                 ^
+SyntaxError: invalid syntax
+
+Compiling './bin/csinsertcopyright.py'...
+***   File "./bin/csinsertcopyright.py", line 110
+    print genCopyright(fname)
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './bin/csmain.py'...
+Compiling './bin/csmenu.py'...
+Compiling './bin/cssecscan.py'...
+***   File "./bin/cssecscan.py", line 177
+    btree	= bsddb.btopen(configFiles.dbmold, 'n', 0600)
+         	                                           ^
+SyntaxError: invalid token
+
+Compiling './bin/csstatmap.py'...
+Compiling './bin/deliver_post.py'...
+***   File "./bin/deliver_post.py", line 84
+    except Csys.Maildir.DropMessage, err: #{
+                                   ^
+SyntaxError: invalid syntax
+
+Compiling './bin/djbdhcpgen.py'...
+***   File "./bin/djbdhcpgen.py", line 67
+    print '# start dhcp range %s -> %s' % (loaddr, hiaddr)
+                                      ^
+SyntaxError: invalid syntax
+
+Compiling './bin/dnsmap.py'...
+***   File "./bin/dnsmap.py", line 73
+    print '%-16s %s\t%s' % (
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/dnsnextip.py'...
+***   File "./bin/dnsnextip.py", line 56
+    print ip
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/emailcheck.py'...
+***   File "./bin/emailcheck.py", line 138
+    print newmsg
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/findcritical.py'...
+***   File "./bin/findcritical.py", line 68
+    if verbose: print 'tripwiredir >%s<' % tripwiredir
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/gdfspace.py'...
+***   File "./bin/gdfspace.py", line 81
+    print line
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/getglobals.py'...
+***   File "./bin/getglobals.py", line 153
+    print libdirs
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/imap2maildir.py'...
+***   File "./bin/imap2maildir.py", line 79
+    print c, d
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/mapnics.py'...
+***   File "./bin/mapnics.py", line 40
+    print line
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/mbox2maildir.py'...
+***   File "./bin/mbox2maildir.py", line 148
+    except Csys.Maildir.DropMessage, err: #{
+                                   ^
+SyntaxError: invalid syntax
+
+Compiling './bin/mkUserRsyncConfs.py'...
+***   File "./bin/mkUserRsyncConfs.py", line 86
+    print rsyncFmt % pw.__dict__
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/mounted.py'...
+***   File "./bin/mounted.py", line 49
+    print ' '.join(mounted())
+            ^
+SyntaxError: invalid syntax
+
+Compiling './bin/nfpipe.py'...
+***   File "./bin/nfpipe.py", line 66
+    print options.sleeptime
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/pflogsumm_cleanup.py'...
+***   File "./bin/pflogsumm_cleanup.py", line 83
+    print header
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/psmailq.py'...
+***   File "./bin/psmailq.py", line 24
+    print os.path.join(dname, fname)
+           ^
+SyntaxError: invalid syntax
+
+Compiling './bin/putty2sshpub.py'...
+***   File "./bin/putty2sshpub.py", line 66
+    print excmds
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/rmopkgenv.py'...
+***   File "./bin/rmopkgenv.py", line 86
+    print '\n'.join(rmopkgenv())
+             ^
+SyntaxError: invalid syntax
+
+Compiling './bin/rpmgetopts.py'...
+***   File "./bin/rpmgetopts.py", line 99
+    if not line.startswith('-D '): print line[:-1]
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './bin/stripcomments.py'...
+***   File "./bin/stripcomments.py", line 66
+    print Csys.rmComments(input,
+             ^
+SyntaxError: invalid syntax
+
+Compiling './bin/termcapcmp.py'...
+***   File "./bin/termcapcmp.py", line 416
+    except IndexError, e: #{
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './bin/tw.djbdns_files.py'...
+Compiling './bin/twgenconfig.py'...
+***   File "./bin/twgenconfig.py", line 123
+    print 'search_dirs = ', sorted(search_dirs)
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './bin/undelsend.py'...
+Compiling './bin/uniqlines.py'...
+***   File "./bin/uniqlines.py", line 36
+    print line
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './bin/whlserver.py'...
+***   File "./bin/whlserver.py", line 66
+    print '%s: install directory >%s< exists' % (
+                                            ^
+SyntaxError: invalid syntax
+
+Listing './images'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/Csys'...
+Compiling './lib/python3.5/site-packages/Csys/Curses.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (Curses.py, line 225)
+Listing './lib/python3.5/site-packages/Csys/DNS'...
+Compiling './lib/python3.5/site-packages/Csys/DNS/__init__.py'...
+***   File "./lib/python3.5/site-packages/Csys/DNS/__init__.py", line 62
+    if printflag : print '\n'.join(lines)
+                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Csys/DateTime'...
+Compiling './lib/python3.5/site-packages/Csys/DateTime/DateTime.py'...
+***   File "./lib/python3.5/site-packages/Csys/DateTime/DateTime.py", line 71
+    jd1901 =2415385L
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/Dates.py'...
+***   File "./lib/python3.5/site-packages/Csys/Dates.py", line 383
+    print 'OK'
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/Edits.py'...
+***   File "./lib/python3.5/site-packages/Csys/Edits.py", line 154
+    if n < 1000000L :
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/Fields.py'...
+***   File "./lib/python3.5/site-packages/Csys/Fields.py", line 453
+    if __name__ == '__main__': print 'OK'
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/FixedPoint.py'...
+***   File "./lib/python3.5/site-packages/Csys/FixedPoint.py", line 147
+    if isinstance(value, type(42)) or isinstance(value, type(42L)):
+                                                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/Getopts.py'...
+***   File "./lib/python3.5/site-packages/Csys/Getopts.py", line 117
+    print options.dumpAttrs()
+                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Csys/LDAP'...
+Compiling './lib/python3.5/site-packages/Csys/LDAP/Passwd.py'...
+***   File "./lib/python3.5/site-packages/Csys/LDAP/Passwd.py", line 233
+    except ldap.INVALID_SYNTAX, err: #{
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/LDAP/__init__.py'...
+***   File "./lib/python3.5/site-packages/Csys/LDAP/__init__.py", line 116
+    print dir(self.connection.unbind_s)
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/LockFile.py'...
+***   File "./lib/python3.5/site-packages/Csys/LockFile.py", line 155
+    mask = os.umask(0333)
+                       ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/Csys/MailInternet.py'...
+***   File "./lib/python3.5/site-packages/Csys/MailInternet.py", line 580
+    if self.verbose: print 'sendmail: trying >%s<' % host
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Csys/Maildir'...
+Compiling './lib/python3.5/site-packages/Csys/Maildir/__init__.py'...
+***   File "./lib/python3.5/site-packages/Csys/Maildir/__init__.py", line 275
+    '_permsdir'		: 0700,		# Mail directory perms
+               		     ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/Csys/Maildir/imap2maildir.py'...
+***   File "./lib/python3.5/site-packages/Csys/Maildir/imap2maildir.py", line 79
+    print c, d
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/Maildir/mbox2maildir.py'...
+***   File "./lib/python3.5/site-packages/Csys/Maildir/mbox2maildir.py", line 148
+    except Csys.Maildir.DropMessage, err: #{
+                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/Netparams.py'...
+***   File "./lib/python3.5/site-packages/Csys/Netparams.py", line 37
+    bits = 0L
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/Parsebraces.py'...
+***   File "./lib/python3.5/site-packages/Csys/Parsebraces.py", line 144
+    print 'OK'
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/Passwd.py'...
+***   File "./lib/python3.5/site-packages/Csys/Passwd.py", line 106
+    'pw_mode':			0644,
+              			   ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/Csys/ReportPrint.py'...
+***   File "./lib/python3.5/site-packages/Csys/ReportPrint.py", line 171
+    print 'OK'
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Csys/Spamassassin'...
+Compiling './lib/python3.5/site-packages/Csys/Spamassassin/__init__.py'...
+***   File "./lib/python3.5/site-packages/Csys/Spamassassin/__init__.py", line 32
+    print configFiles
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/SysUtils.py'...
+***   File "./lib/python3.5/site-packages/Csys/SysUtils.py", line 277
+    avail = int(rec.get('avail', 0L))
+                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/Syslog.py'...
+***   File "./lib/python3.5/site-packages/Csys/Syslog.py", line 35
+    _last_utime	= 0L
+               	   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/Termcap.py'...
+***   File "./lib/python3.5/site-packages/Csys/Termcap.py", line 88
+    except IndexError, e: #{
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/__init__.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (__init__.py, line 50)
+Compiling './lib/python3.5/site-packages/Csys/bigtmp.py'...
+***   File "./lib/python3.5/site-packages/Csys/bigtmp.py", line 49
+    print bigtmp()
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/chgnetworkinfo.py'...
+***   File "./lib/python3.5/site-packages/Csys/chgnetworkinfo.py", line 55
+    print p
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/chkrpms.py'...
+***   File "./lib/python3.5/site-packages/Csys/chkrpms.py", line 76
+    if verbose: print 'rpmcmd = ', rpmcmd
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/csgetcfg.py'...
+***   File "./lib/python3.5/site-packages/Csys/csgetcfg.py", line 61
+    if options.eval: print '%s=%s' % (arg, repr(val))
+                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/csinsertcopyright.py'...
+***   File "./lib/python3.5/site-packages/Csys/csinsertcopyright.py", line 110
+    print genCopyright(fname)
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/cssecscan.py'...
+***   File "./lib/python3.5/site-packages/Csys/cssecscan.py", line 177
+    btree	= bsddb.btopen(configFiles.dbmold, 'n', 0600)
+         	                                           ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/Csys/deliver_post.py'...
+***   File "./lib/python3.5/site-packages/Csys/deliver_post.py", line 84
+    except Csys.Maildir.DropMessage, err: #{
+                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/djbdhcpgen.py'...
+***   File "./lib/python3.5/site-packages/Csys/djbdhcpgen.py", line 67
+    print '# start dhcp range %s -> %s' % (loaddr, hiaddr)
+                                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/dnsmap.py'...
+***   File "./lib/python3.5/site-packages/Csys/dnsmap.py", line 73
+    print '%-16s %s\t%s' % (
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/dnsnextip.py'...
+***   File "./lib/python3.5/site-packages/Csys/dnsnextip.py", line 56
+    print ip
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/emailcheck.py'...
+***   File "./lib/python3.5/site-packages/Csys/emailcheck.py", line 138
+    print newmsg
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/findcritical.py'...
+***   File "./lib/python3.5/site-packages/Csys/findcritical.py", line 68
+    if verbose: print 'tripwiredir >%s<' % tripwiredir
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/gdfspace.py'...
+***   File "./lib/python3.5/site-packages/Csys/gdfspace.py", line 81
+    print line
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/getglobals.py'...
+***   File "./lib/python3.5/site-packages/Csys/getglobals.py", line 153
+    print libdirs
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/mapnics.py'...
+***   File "./lib/python3.5/site-packages/Csys/mapnics.py", line 40
+    print line
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/mkUserRsyncConfs.py'...
+***   File "./lib/python3.5/site-packages/Csys/mkUserRsyncConfs.py", line 86
+    print rsyncFmt % pw.__dict__
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/mounted.py'...
+***   File "./lib/python3.5/site-packages/Csys/mounted.py", line 49
+    print ' '.join(mounted())
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/nfpipe.py'...
+***   File "./lib/python3.5/site-packages/Csys/nfpipe.py", line 66
+    print options.sleeptime
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/pflogsumm_cleanup.py'...
+***   File "./lib/python3.5/site-packages/Csys/pflogsumm_cleanup.py", line 83
+    print header
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/psmailq.py'...
+***   File "./lib/python3.5/site-packages/Csys/psmailq.py", line 24
+    print os.path.join(dname, fname)
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/putty2sshpub.py'...
+***   File "./lib/python3.5/site-packages/Csys/putty2sshpub.py", line 66
+    print excmds
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/rmopkgenv.py'...
+***   File "./lib/python3.5/site-packages/Csys/rmopkgenv.py", line 86
+    print '\n'.join(rmopkgenv())
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/rpmgetopts.py'...
+***   File "./lib/python3.5/site-packages/Csys/rpmgetopts.py", line 99
+    if not line.startswith('-D '): print line[:-1]
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/stripcomments.py'...
+***   File "./lib/python3.5/site-packages/Csys/stripcomments.py", line 66
+    print Csys.rmComments(input,
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/termcapcmp.py'...
+***   File "./lib/python3.5/site-packages/Csys/termcapcmp.py", line 416
+    except IndexError, e: #{
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/twgenconfig.py'...
+***   File "./lib/python3.5/site-packages/Csys/twgenconfig.py", line 123
+    print 'search_dirs = ', sorted(search_dirs)
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Csys/uniqlines.py'...
+***   File "./lib/python3.5/site-packages/Csys/uniqlines.py", line 36
+    print line
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Csys/whlserver.py'...
+***   File "./lib/python3.5/site-packages/Csys/whlserver.py", line 66
+    print '%s: install directory >%s< exists' % (
+                                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Csys-1.23.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

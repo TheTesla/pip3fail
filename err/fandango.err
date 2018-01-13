@@ -1,0 +1,239 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/fandango'...
+Compiling './lib/python3.5/site-packages/fandango/__init__.py'...
+***   File "./lib/python3.5/site-packages/fandango/__init__.py", line 59
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/arrays.py'...
+***   File "./lib/python3.5/site-packages/fandango/arrays.py", line 233
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/callbacks.py'...
+***   File "./lib/python3.5/site-packages/fandango/callbacks.py", line 349
+    except Queue.Empty,e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/db.py'...
+***   File "./lib/python3.5/site-packages/fandango/db.py", line 87
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/debug.py'...
+***   File "./lib/python3.5/site-packages/fandango/debug.py", line 73
+    print '%s.read_attribute(%s) failed after %d retries' % (device,attribute,i)
+                                                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/fandango/device'...
+Compiling './lib/python3.5/site-packages/fandango/device/Dev4Tango.py'...
+***   File "./lib/python3.5/site-packages/fandango/device/Dev4Tango.py", line 190
+    print 'In %s.init_my_Logger ...'%name
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fandango/device/FolderDS.py'...
+***   File "./lib/python3.5/site-packages/fandango/device/FolderDS.py", line 229
+    print "[Device delete_device method] for device",self.get_name()
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/device/WorkerDS.py'...
+***   File "./lib/python3.5/site-packages/fandango/device/WorkerDS.py", line 188
+    print "[Device delete_device method] for device",self.get_name()
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/devslist.py'...
+***   File "./lib/python3.5/site-packages/fandango/devslist.py", line 149
+    print '*'*80
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fandango/dicts.py'...
+***   File "./lib/python3.5/site-packages/fandango/dicts.py", line 77
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/doc.py'...
+***   File "./lib/python3.5/site-packages/fandango/doc.py", line 61
+    print '\n'*5
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fandango/dynamic.py'...
+***   File "./lib/python3.5/site-packages/fandango/dynamic.py", line 294
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/excepts.py'...
+***   File "./lib/python3.5/site-packages/fandango/excepts.py", line 102
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/functional.py'...
+***   File "./lib/python3.5/site-packages/fandango/functional.py", line 78
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/fandango/interface'...
+Compiling './lib/python3.5/site-packages/fandango/interface/CopyCatDS.py'...
+***   File "./lib/python3.5/site-packages/fandango/interface/CopyCatDS.py", line 73
+    print 'TANGO_HOST=%s'%thost
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fandango/interface/__init__.py'...
+***   File "./lib/python3.5/site-packages/fandango/interface/__init__.py", line 8
+    print 'Unable to import fandango.interface.CopyCatDS'
+                                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fandango/interface/inheritance.py'...
+***   File "./lib/python3.5/site-packages/fandango/interface/inheritance.py", line 175
+    raise Exception,'TangoInterface_ArgumentIsNotTuple'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/linos.py'...
+***   File "./lib/python3.5/site-packages/fandango/linos.py", line 80
+    if trace: print 'Sending mail to %s'%receivers
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fandango/log.py'...
+***   File "./lib/python3.5/site-packages/fandango/log.py", line 382
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/objects.py'...
+***   File "./lib/python3.5/site-packages/fandango/objects.py", line 123
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/qt.py'...
+***   File "./lib/python3.5/site-packages/fandango/qt.py", line 81
+    print 'In TaurusStateLed.setModel(%s)'%model
+                                         ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/fandango/scripts'...
+Compiling './lib/python3.5/site-packages/fandango/scripts/servers_lite.py'...
+***   File "./lib/python3.5/site-packages/fandango/scripts/servers_lite.py", line 59
+    print device,property
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fandango/scripts/tango_create_device.py'...
+***   File "./lib/python3.5/site-packages/fandango/scripts/tango_create_device.py", line 18
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fandango/scripts/tango_create_starter.py'...
+***   File "./lib/python3.5/site-packages/fandango/scripts/tango_create_starter.py", line 67
+    print 'Initial values for properties of ',dname,' are ', \
+                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fandango/servers.py'...
+***   File "./lib/python3.5/site-packages/fandango/servers.py", line 59
+    if not name or '/' not in name: raise Exception,'TServer_WrongServerName_%s' % name
+                                                   ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/fandango/tango'...
+Compiling './lib/python3.5/site-packages/fandango/tango/command.py'...
+***   File "./lib/python3.5/site-packages/fandango/tango/command.py", line 112
+    print '%s %s fandango.TangoCommand: %s'%(severity,time.ctime(),msg)
+                                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/tango/defaults.py'...
+***   File "./lib/python3.5/site-packages/fandango/tango/defaults.py", line 462
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/tango/export.py'...
+***   File "./lib/python3.5/site-packages/fandango/tango/export.py", line 147
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/tango/methods.py'...
+***   File "./lib/python3.5/site-packages/fandango/tango/methods.py", line 56
+    raise Exception,"CharacterNotAllowed('%s')"%c
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/tango/search.py'...
+***   File "./lib/python3.5/site-packages/fandango/tango/search.py", line 63
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/tango/tangoeval.py'...
+***   File "./lib/python3.5/site-packages/fandango/tango/tangoeval.py", line 119
+    print traceback.format_exc()
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/fandango/test'...
+Compiling './lib/python3.5/site-packages/fandango/test/test.py'...
+***   File "./lib/python3.5/site-packages/fandango/test/test.py", line 9
+    print 'Loading fandango ...'
+                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fandango/test/testmodule.py'...
+***   File "./lib/python3.5/site-packages/fandango/test/testmodule.py", line 54
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fandango/threads.py'...
+***   File "./lib/python3.5/site-packages/fandango/threads.py", line 76
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/fandango/widget'...
+Listing './lib/python3.5/site-packages/fandango-13.2.5.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

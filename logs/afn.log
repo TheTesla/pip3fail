@@ -1,0 +1,334 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/activehomed'...
+Compiling './lib/python3.5/site-packages/activehomed/__init__.py'...
+***   File "./lib/python3.5/site-packages/activehomed/__init__.py", line 16
+    print "You need to be on a Windows machine to use activehomed, and you"
+                                                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/afn'...
+Listing './lib/python3.5/site-packages/afn/backports'...
+Listing './lib/python3.5/site-packages/afn/bf'...
+Listing './lib/python3.5/site-packages/afn/dnsd'...
+Listing './lib/python3.5/site-packages/afn/dnsd/examples'...
+Compiling './lib/python3.5/site-packages/afn/dnsd/examples/test1.py'...
+***   File "./lib/python3.5/site-packages/afn/dnsd/examples/test1.py", line 7
+    print "Question: ", source, question, name
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/afn/dnsd/server.py'...
+***   File "./lib/python3.5/site-packages/afn/dnsd/server.py", line 33
+    print "DNSD: Message is " + repr(message_content)
+                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/afn/landfill'...
+Compiling './lib/python3.5/site-packages/afn/landfill/testdnsserver.py'...
+***   File "./lib/python3.5/site-packages/afn/landfill/testdnsserver.py", line 10
+    print repr(from_wire(message))
+             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/afn/tools'...
+Listing './lib/python3.5/site-packages/afn/ucreditu'...
+Compiling './lib/python3.5/site-packages/afn/ucreditu/client.py'...
+***   File "./lib/python3.5/site-packages/afn/ucreditu/client.py", line 10
+    print "Testing out the University Federal Credit Union client..."
+                                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/afn/utils'...
+Compiling './lib/python3.5/site-packages/afn/utils/__init__.py'...
+***   File "./lib/python3.5/site-packages/afn/utils/__init__.py", line 235
+    print args, kwargs
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/afn/utils/cad'...
+Compiling './lib/python3.5/site-packages/afn/utils/concurrent.py'...
+***   File "./lib/python3.5/site-packages/afn/utils/concurrent.py", line 226
+    print "*** STACK TRACES OF ALL LIVE THREADS ***"
+                                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/afn-0.1.2012.5.17.22.8.egg-info'...
+Listing './lib/python3.5/site-packages/afntest'...
+Compiling './lib/python3.5/site-packages/afntest/autobus1.py'...
+***   File "./lib/python3.5/site-packages/afntest/autobus1.py", line 17
+    print "We're about to say hi to " + name
+                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/afntest/autobus2.py'...
+***   File "./lib/python3.5/site-packages/afntest/autobus2.py", line 8
+    print interface.say_hello("Alex")
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/afntest/autobus3.py'...
+***   File "./lib/python3.5/site-packages/afntest/autobus3.py", line 14
+    print "Started up. pid is " + str(getpid()) + " which you can use to kill"
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/afntest/autobus4.py'...
+***   File "./lib/python3.5/site-packages/afntest/autobus4.py", line 9
+    print "Starting for " + str(index) + "..."
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/afntest/json1.py'...
+***   File "./lib/python3.5/site-packages/afntest/json1.py", line 14
+    print serial.serialize(e)
+               ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/autobus'...
+Compiling './lib/python3.5/site-packages/autobus/__init__.py'...
+***   File "./lib/python3.5/site-packages/autobus/__init__.py", line 27
+    print """\
+Autobus, a message bus that's kind of a cross of D-Bus and RPC, written
+by Alexander Boyd (a.k.a. javawizard or jcp)
+"""
+              
+                                                                       
+                                            
+  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/autobus/processors.py'...
+***   File "./lib/python3.5/site-packages/autobus/processors.py", line 10
+    print "Registering interface with name " + name
+                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/autobus2'...
+Compiling './lib/python3.5/site-packages/autobus2/discovery.py'...
+***   File "./lib/python3.5/site-packages/autobus2/discovery.py", line 91
+    print "Couldn't read message"
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/autobus2/examples'...
+Compiling './lib/python3.5/site-packages/autobus2/examples/chat1.py'...
+***   File "./lib/python3.5/site-packages/autobus2/examples/chat1.py", line 7
+    print sender + ": " + message
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/autobus2/examples/hello_client.py'...
+***   File "./lib/python3.5/site-packages/autobus2/examples/hello_client.py", line 7
+    print service["hi"]("great big round world")
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/autobus2/examples/hello_server.py'...
+***   File "./lib/python3.5/site-packages/autobus2/examples/hello_server.py", line 6
+    print "Saying hi to " + str(text)
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/autobus2/examples/testobjectclient1.py'...
+***   File "./lib/python3.5/site-packages/autobus2/examples/testobjectclient1.py", line 6
+    print "CHANGED: " + str(args)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/autobus2/examples/testobjectclient2.py'...
+***   File "./lib/python3.5/site-packages/autobus2/examples/testobjectclient2.py", line 5
+    print "CHANGED: " + str(args)
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/autobus2/landfill'...
+Compiling './lib/python3.5/site-packages/autobus2/landfill/listeners.py'...
+***   File "./lib/python3.5/site-packages/autobus2/landfill/listeners.py", line 6
+    print time.ctime(time.time()) + ": SERVICE " + str(event).rpartition(".")[2] + ": " + service_id + " on " + host + ":" + str(port) + " -- " + str(info)
+             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/autobus2/proxy'...
+Compiling './lib/python3.5/site-packages/autobus2/remote.py'...
+***   File "./lib/python3.5/site-packages/autobus2/remote.py", line 289
+    print "Invalid message received and ignored. Command: %s" % message["_command"]
+                                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/autobus2/tools'...
+Compiling './lib/python3.5/site-packages/autobus2/tools/autosend.py'...
+***   File "./lib/python3.5/site-packages/autobus2/tools/autosend.py", line 56
+    print "Use autosend2 --help for more information."
+                                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/autosend.py'...
+***   File "./lib/python3.5/site-packages/autosend.py", line 78
+    print "Use autosend --help for more information.\n"
+                                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/doorbell.py'...
+***   File "./lib/python3.5/site-packages/doorbell.py", line 20
+    print "Doorbell was pressed"
+                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/keyeditor.py'...
+***   File "./lib/python3.5/site-packages/keyeditor.py", line 38
+    print "Syntax: keyeditor <config-filename> <output-filename> <name> <desc>"
+                                                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/libautobus'...
+Compiling './lib/python3.5/site-packages/libautobus/__init__.py'...
+***   File "./lib/python3.5/site-packages/libautobus/__init__.py", line 1019
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/librtk'...
+Compiling './lib/python3.5/site-packages/librtk/__init__.py'...
+***   File "./lib/python3.5/site-packages/librtk/__init__.py", line 215
+    print "FATAL CONNECTION ERROR: " + message
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/librtk/examples'...
+Compiling './lib/python3.5/site-packages/librtk/examples/__init__.py'...
+***   File "./lib/python3.5/site-packages/librtk/examples/__init__.py", line 44
+    print "You need to specify a port and an example name."
+                                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/librtk/protocols.py'...
+***   File "./lib/python3.5/site-packages/librtk/protocols.py", line 144
+    except Empty, AttributeError:
+                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/librtk/schema'...
+Compiling './lib/python3.5/site-packages/librtkclient.py'...
+***   File "./lib/python3.5/site-packages/librtkclient.py", line 84
+    print "FATAL CONNECTION ERROR: " + message
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/monitord.py'...
+***   File "./lib/python3.5/site-packages/monitord.py", line 32
+    print "Interrupted, shutting down"
+                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Compiling './lib/python3.5/site-packages/ravenswood.py'...
+***   File "./lib/python3.5/site-packages/ravenswood.py", line 107
+    print "You need to specify the url of the application to display."
+                                                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/record.py'...
+***   File "./lib/python3.5/site-packages/record.py", line 9
+    print "You need to specify two arguments, the wordlist file to use and "
+                                                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/rtkinter.py'...
+***   File "./lib/python3.5/site-packages/rtkinter.py", line 17
+    print "You need to specify the url of the application to display."
+                                                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/saytime.py'...
+***   File "./lib/python3.5/site-packages/saytime.py", line 60
+    print "Waiting " + str(time_to_next) + " seconds"
+                   ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Compiling './lib/python3.5/site-packages/simpleproto.py'...
+***   File "./lib/python3.5/site-packages/simpleproto.py", line 134
+    print "usage: simpleproto some_file.proto outputfolder"
+                                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/speakd.py'...
+***   File "./lib/python3.5/site-packages/speakd.py", line 27
+    print "Speakd version 9.0.0.1, starting up..."
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/svnweb.py'...
+***   File "./lib/python3.5/site-packages/svnweb.py", line 59
+    print "Initial path: " + path
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/testrtkserver.py'...
+***   File "./lib/python3.5/site-packages/testrtkserver.py", line 6
+    print "Listening on port 6785 for a RTK connection."
+                                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/timerd.py'...
+***   File "./lib/python3.5/site-packages/timerd.py", line 82
+    print "Timer " + str(self.number) + " is beeping"
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/timernotify.py'...
+***   File "./lib/python3.5/site-packages/timernotify.py", line 11
+    print "You don't have the Python libnotify binding installed."
+                                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/tkthread.py'...
+***   File "./lib/python3.5/site-packages/tkthread.py", line 59
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/traytimer'...
+Compiling './lib/python3.5/site-packages/traytimer/display.py'...
+***   File "./lib/python3.5/site-packages/traytimer/display.py", line 79
+    print "Switch to timer " + str(timer_number) + ": no such timer"
+                           ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/uofu'...
+Compiling './lib/python3.5/site-packages/uofu/schedule.py'...
+***   File "./lib/python3.5/site-packages/uofu/schedule.py", line 39
+    print "Downloading the department list..."
+                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/usermessaged.py'...
+***   File "./lib/python3.5/site-packages/usermessaged.py", line 15
+    print "You need to specify the name for this usermessage daemon."
+                                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './share'...
+Listing './share/python-wheels'...

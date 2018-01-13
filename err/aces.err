@@ -1,0 +1,409 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/aces'...
+Listing './lib/python3.5/site-packages/aces/algorithm'...
+Compiling './lib/python3.5/site-packages/aces/algorithm/cs1.py'...
+***   File "./lib/python3.5/site-packages/aces/algorithm/cs1.py", line 21
+    print "getting compressive matrix"
+                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/algorithm/smooth.py'...
+***   File "./lib/python3.5/site-packages/aces/algorithm/smooth.py", line 36
+    raise ValueError, "smooth only accepts 1 dimension arrays."
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/aces/binary'...
+Listing './lib/python3.5/site-packages/aces/graph'...
+Listing './lib/python3.5/site-packages/aces/io'...
+Listing './lib/python3.5/site-packages/aces/io/lammps'...
+Compiling './lib/python3.5/site-packages/aces/io/lammps/velocity.py'...
+***   File "./lib/python3.5/site-packages/aces/io/lammps/velocity.py", line 19
+    print "Atom Number=",self.natom
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/io/lammps/velocityh5.py'...
+***   File "./lib/python3.5/site-packages/aces/io/lammps/velocityh5.py", line 13
+    print "Atom Number=",self.natom
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/aces/io/phonopy'...
+Compiling './lib/python3.5/site-packages/aces/io/phonopy/bandplot.py'...
+***   File "./lib/python3.5/site-packages/aces/io/phonopy/bandplot.py", line 44
+    print "You need to install python-yaml."
+                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/aces/io/vasp'...
+Listing './lib/python3.5/site-packages/aces/libs'...
+Listing './lib/python3.5/site-packages/aces/libs/ElectronicDOS'...
+Compiling './lib/python3.5/site-packages/aces/libs/ElectronicDOS/bands.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/ElectronicDOS/bands.py", line 29
+    print i+offset,gaps[i][j][k]
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/libs/ElectronicDOS/bands_along_z.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/ElectronicDOS/bands_along_z.py", line 28
+    print i+offset,gaps[i][j][k]
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/libs/ElectronicDOS/d_band_alignment.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/ElectronicDOS/d_band_alignment.py", line 27
+    print "$E_{d-band}^{pure} (eV)$","$E_{d-band}^{def} (eV)$","$\Delta E_{d-band} (eV)$"
+                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/ElectronicDOS/dos_diff.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/ElectronicDOS/dos_diff.py", line 21
+    print dos2.energy[i],spline2(dos2.energy[i]),spline1(dos2.energy[i]),difference[i]
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/ElectronicDOS/efermi.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/ElectronicDOS/efermi.py", line 8
+    print dos.e_fermi
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/libs/ElectronicDOS/electronicdos.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/ElectronicDOS/electronicdos.py", line 74
+    print "Error reading OUTCAR file."
+                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/libs/ElectronicDOS/plot_atomic_orbital_edos.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/ElectronicDOS/plot_atomic_orbital_edos.py", line 22
+    print doscar.write_dos(doscar.site_dos)
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/ElectronicDOS/plot_partial_edos.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/ElectronicDOS/plot_partial_edos.py", line 39
+    print doscar.write_doses([doscar.tot_dos,partial_dos])
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/ElectronicDOS/plot_partial_orbital_edos.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/ElectronicDOS/plot_partial_orbital_edos.py", line 39
+    print doscar.write_doses([doscar.tot_dos,partial_dos])
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/ElectronicDOS/plot_single_atom_edos.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/ElectronicDOS/plot_single_atom_edos.py", line 25
+    print atom_list
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/libs/ElectronicDOS/plot_tot_dos.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/ElectronicDOS/plot_tot_dos.py", line 20
+    print doscar.write_dos(doscar.tot_dos)
+               ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/aces/libs/pizza'...
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/POSCAR.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (POSCAR.py, line 83)
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/animate.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/animate.py", line 71
+    if self.nframes == 0: raise StandardError, "No files to load"
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/bdump.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/bdump.py", line 95
+    raise StandardError,"no bdump file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/cdata.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/cdata.py", line 191
+    raise StandardError,"no data file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/cfg.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/cfg.py", line 89
+    print time,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/chain.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/chain.py", line 95
+    print "Simulation box: %g by %g by %g" % (self.xprd,self.yprd,self.zprd)
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/clog.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/clog.py", line 77
+    raise StandardError,"no log file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/data.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/data.py", line 133
+    raise StandardError, \
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/dump.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/dump.py", line 228
+    raise StandardError,"no dump file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/ensight.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/ensight.py", line 76
+    raise StandardError,"unrecognized object passed to ensight"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/gl.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/gl.py", line 151
+    else: raise StandardError,"invalid args to gl tool"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/gnu.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/gnu.py", line 136
+    if len(vectors) % 2: raise StandardError,"vectors must come in pairs"
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/histo.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/histo.py", line 46
+    else: raise StandardError,"illegal dim value"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/image.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/image.py", line 80
+    if len(files) == 0: raise StandardError, "no image files to load"
+                                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/latgen.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (latgen.py, line 82)
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/ldump.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/ldump.py", line 102
+    raise StandardError,"no ldump file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/log.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/log.py", line 79
+    raise StandardError,"no log file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/matlab.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/matlab.py", line 143
+    if len(vectors) % 2: raise StandardError,"vectors must come in pairs"
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/mdump.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/mdump.py", line 163
+    raise StandardError,"no dump file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/pair.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/pair.py", line 71
+    raise StandardError, "this pair style not yet supported"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/patch.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/patch.py", line 122
+    exec cmd
+           ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/pdbfile.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/pdbfile.py", line 86
+    else: raise StandardError, "invalid args for pdb()"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/pizza.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/pizza.py", line 63
+    except ImportError, exception:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/plotview.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/plotview.py", line 151
+    if n == 0: raise StandardError,"no plot selected"
+                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/rasmol.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/rasmol.py", line 166
+    print time,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/raster.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/raster.py", line 225
+    print output
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/svg.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (svg.py, line 251)
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/tdump.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/tdump.py", line 103
+    raise StandardError,"no ldump file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/vcr.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/vcr.py", line 91
+    if len(views) == 0: raise StandardError,"must have at least one GL viewer"
+                                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/vec.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/vec.py", line 66
+    raise StandardError,"lists are not all same length"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/vmd.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/vmd.py", line 59
+    print "pexpect from http://pypi.python.org/pypi/pexpect", \
+                                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/vtk.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/vtk.py", line 58
+    print time,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/libs/pizza/xyz.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/pizza/xyz.py", line 65
+    print time,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/libs/vasp2boltz.py'...
+***   File "./lib/python3.5/site-packages/aces/libs/vasp2boltz.py", line 39
+    print 'get_vasp_bandstructure(): could not find OUTCAR file <%s>' % outcarfile
+                                                                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/aces/materials'...
+Compiling './lib/python3.5/site-packages/aces/materials/BP.py'...
+***   File "./lib/python3.5/site-packages/aces/materials/BP.py", line 24
+    print "BP potential chosen:P.sw"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/materials/Bi4I4_computed.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (Bi4I4_computed.py, line 43)
+Compiling './lib/python3.5/site-packages/aces/materials/CNnp.py'...
+***   File "./lib/python3.5/site-packages/aces/materials/CNnp.py", line 77
+    print 'read_data structure'
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/materials/InSe.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (InSe.py, line 4)
+Compiling './lib/python3.5/site-packages/aces/materials/InSe_sl.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (InSe_sl.py, line 4)
+Compiling './lib/python3.5/site-packages/aces/materials/Sn4Se4_nacl_modulation_minimize.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (Sn4Se4_nacl_modulation_minimize.py, line 4)
+Compiling './lib/python3.5/site-packages/aces/materials/SnSe_monolayer_minimize.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (SnSe_monolayer_minimize.py, line 4)
+Listing './lib/python3.5/site-packages/aces/materials/multi_silicene'...
+Listing './lib/python3.5/site-packages/aces/pbs'...
+Compiling './lib/python3.5/site-packages/aces/pbs/toolsub.py'...
+***   File "./lib/python3.5/site-packages/aces/pbs/toolsub.py", line 115
+    print "submit: %s\t%s/%s"%(pid,PROJHOME,index);
+                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/aces/runners'...
+Listing './lib/python3.5/site-packages/aces/runners/mdTc'...
+Listing './lib/python3.5/site-packages/aces/runners/mdTc/devices'...
+Compiling './lib/python3.5/site-packages/aces/runners/mdTc/devices/gkDevice.py'...
+***   File "./lib/python3.5/site-packages/aces/runners/mdTc/devices/gkDevice.py", line 10
+    print "fix getEqu  all  nvt temp %f %f %f"%(self.T,self.T,self.dtime)
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/runners/mdTc/devices/mpDevice.py'...
+***   File "./lib/python3.5/site-packages/aces/runners/mdTc/devices/mpDevice.py", line 10
+    print "upP is too large!"
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/runners/mdTc/devices/nvtDevice.py'...
+***   File "./lib/python3.5/site-packages/aces/runners/mdTc/devices/nvtDevice.py", line 8
+    print "upP is too large!"
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/aces/runners/negf'...
+Listing './lib/python3.5/site-packages/aces/runners/negf/device'...
+Listing './lib/python3.5/site-packages/aces/script'...
+Compiling './lib/python3.5/site-packages/aces/script/__init__.py'...
+***   File "./lib/python3.5/site-packages/aces/script/__init__.py", line 25
+    print "You need to install python-lxml."
+                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/aces/script/kill.py'...
+***   File "./lib/python3.5/site-packages/aces/script/kill.py", line 8
+    print sys.argv
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/aces/specific'...
+Compiling './lib/python3.5/site-packages/aces/specific/lj2metal.py'...
+***   File "./lib/python3.5/site-packages/aces/specific/lj2metal.py", line 3
+    print units.lj.L()
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/aces/specific/strain.py'...
+***   File "./lib/python3.5/site-packages/aces/specific/strain.py", line 8
+    print i
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/aces/templates'...
+Listing './lib/python3.5/site-packages/aces/tools'...
+Listing './lib/python3.5/site-packages/aces-0.17.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

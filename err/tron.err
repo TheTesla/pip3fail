@@ -1,0 +1,1212 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/PyYAML-3.12.egg-info'...
+Listing './lib/python3.5/site-packages/Twisted-12.3.0.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/pyasn1'...
+Listing './lib/python3.5/site-packages/pyasn1/codec'...
+Listing './lib/python3.5/site-packages/pyasn1/codec/ber'...
+Listing './lib/python3.5/site-packages/pyasn1/codec/cer'...
+Listing './lib/python3.5/site-packages/pyasn1/codec/der'...
+Listing './lib/python3.5/site-packages/pyasn1/codec/native'...
+Listing './lib/python3.5/site-packages/pyasn1/compat'...
+Listing './lib/python3.5/site-packages/pyasn1/type'...
+Listing './lib/python3.5/site-packages/pyasn1-0.4.2.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './lib/python3.5/site-packages/twisted'...
+Listing './lib/python3.5/site-packages/twisted/application'...
+Compiling './lib/python3.5/site-packages/twisted/application/app.py'...
+***   File "./lib/python3.5/site-packages/twisted/application/app.py", line 67
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/application/test'...
+Listing './lib/python3.5/site-packages/twisted/conch'...
+Compiling './lib/python3.5/site-packages/twisted/conch/checkers.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/checkers.py", line 209
+    except IOError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/conch/client'...
+Compiling './lib/python3.5/site-packages/twisted/conch/client/default.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/client/default.py", line 89
+    print 'Creating ~/.ssh directory...'
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/conch/client/direct.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/client/direct.py", line 82
+    print message
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/twisted/conch/insults'...
+Compiling './lib/python3.5/site-packages/twisted/conch/insults/client.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/insults/client.py", line 127
+    print command
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/conch/insults/helper.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/insults/helper.py", line 101
+    exec '%s = object()' % (keyID,)
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/insults/insults.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/insults/insults.py", line 941
+    exec ch + " = _makeSimple(ch, fName)"
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/insults/window.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/insults/window.py", line 389
+    def __getitem__(self, (x, y)):
+                          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/conch/openssh_compat'...
+Compiling './lib/python3.5/site-packages/twisted/conch/openssh_compat/factory.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/openssh_compat/factory.py", line 38
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/recvline.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/recvline.py", line 61
+    exec '%s = object()' % (keyID,)
+                       ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/conch/scripts'...
+Compiling './lib/python3.5/site-packages/twisted/conch/scripts/cftp.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/scripts/cftp.py", line 60
+    except usage.UsageError, u:
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/scripts/ckeygen.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/scripts/ckeygen.py", line 50
+    except usage.UsageError, u:
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/scripts/conch.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/scripts/conch.py", line 107
+    except usage.UsageError, u:
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/scripts/tkconch.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/scripts/tkconch.py", line 302
+    except usage.UsageError, u:
+                           ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/conch/ssh'...
+Compiling './lib/python3.5/site-packages/twisted/conch/ssh/connection.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/ssh/connection.py", line 146
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/ssh/filetransfer.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/ssh/filetransfer.py", line 157
+    raise KeyError, 'id already open'
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/ssh/forwarding.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/ssh/forwarding.py", line 133
+    def packOpen_direct_tcpip((connHost, connPort), (origHost, origPort)):
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/ssh/keys.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/ssh/keys.py", line 784
+    numbers = [Util.number.bytes_to_long(n) for n in signature[:20],
+                                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/ssh/session.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/ssh/session.py", line 325
+    def packRequest_pty_req(term, (rows, cols, xpixel, ypixel), modes):
+                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/ssh/transport.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/ssh/transport.py", line 1569
+    DH_GENERATOR = 2L
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/ssh/userauth.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/ssh/userauth.py", line 191
+    def _cbFinishedAuth(self, (interface, avatar, logout)):
+                              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/conch/test'...
+Compiling './lib/python3.5/site-packages/twisted/conch/test/keydata.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/test/keydata.py", line 13
+    'e':35L,
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/test/test_cftp.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/test/test_cftp.py", line 21
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/test/test_checkers.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/test/test_checkers.py", line 244
+    self.addCleanup(keyFile.chmod, 0777)
+                                      ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/conch/test/test_conch.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/test/test_conch.py", line 22
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/test/test_connection.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/test/test_connection.py", line 357
+    self._lookupChannelErrorTest(123L)
+                                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/test/test_filetransfer.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/test/test_filetransfer.py", line 101
+    os.chmod(os.path.join(self.testDir, 'testfile1'), 0644)
+                                                         ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/conch/test/test_insults.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/test/test_insults.py", line 93
+    exec _byteGroupingTestTemplate % {'groupName': word, 'bytesPer': n}
+                                 ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/twisted/conch/test/test_keys.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/test/test_keys.py", line 111
+    self.rsaObj = Crypto.PublicKey.RSA.construct((1L, 2L, 3L, 4L, 5L))
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/conch/test/test_openssh_compat.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/test/test_openssh_compat.py", line 90
+    self.addCleanup(keyFile.chmod, 0777)
+                                      ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/conch/test/test_scripts.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/test/test_scripts.py", line 36
+    except Tkinter.TclError, e:
+                           ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/conch/topfiles'...
+Listing './lib/python3.5/site-packages/twisted/conch/ui'...
+Compiling './lib/python3.5/site-packages/twisted/conch/unix.py'...
+***   File "./lib/python3.5/site-packages/twisted/conch/unix.py", line 406
+    mode = 0777
+              ^
+SyntaxError: invalid token
+
+Listing './lib/python3.5/site-packages/twisted/cred'...
+Compiling './lib/python3.5/site-packages/twisted/cred/pamauth.py'...
+***   File "./lib/python3.5/site-packages/twisted/cred/pamauth.py", line 37
+    raise done[1].type, done[1].value
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/cred/strcred.py'...
+***   File "./lib/python3.5/site-packages/twisted/cred/strcred.py", line 209
+    except UnsupportedInterfaces, e:
+                                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/enterprise'...
+Compiling './lib/python3.5/site-packages/twisted/enterprise/adbapi.py'...
+***   File "./lib/python3.5/site-packages/twisted/enterprise/adbapi.py", line 297
+    raise excType, excValue, excTraceback
+                 ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/internet'...
+Compiling './lib/python3.5/site-packages/twisted/internet/_dumbwin32proc.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/_dumbwin32proc.py", line 38
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/internet/_oldtls.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/_oldtls.py", line 91
+    except SSL.SysCallError, (retval, desc):
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/internet/_threadedselect.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/_threadedselect.py", line 160
+    except ValueError, ve:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/internet/endpoints.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/endpoints.py", line 70
+    def __init__(self, reactor, address, backlog=50, mode=0666, wantPID=0):
+                                                             ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/internet/gtkreactor.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/gtkreactor.py", line 22
+    except ImportError, AttributeError:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/internet/inotify.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/inotify.py", line 42
+    IN_ACCESS = 0x00000001L         # File was accessed
+                          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/internet/iocpreactor'...
+Listing './lib/python3.5/site-packages/twisted/internet/iocpreactor/iocpsupport'...
+Compiling './lib/python3.5/site-packages/twisted/internet/iocpreactor/tcp.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/iocpreactor/tcp.py", line 431
+    except socket.error, le:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/internet/iocpreactor/udp.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/iocpreactor/udp.py", line 97
+    except socket.error, le:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/internet/kqreactor.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/kqreactor.py", line 240
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/internet/process.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/process.py", line 301
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/internet/test'...
+Listing './lib/python3.5/site-packages/twisted/internet/test/fake_CAs'...
+Compiling './lib/python3.5/site-packages/twisted/internet/test/test_endpoints.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/test/test_endpoints.py", line 176
+    return {'backlog': 100, 'mode': 0600, 'wantPID': 1}
+                                       ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/internet/test/test_inotify.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/test/test_inotify.py", line 74
+    def cbNotified((watch, filename, events)):
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/internet/test/test_iocp.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/test/test_iocp.py", line 30
+    except error, e:
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/internet/test/test_posixprocess.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/test/test_posixprocess.py", line 293
+    except IOError, err:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/internet/test/test_process.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/test/test_process.py", line 270
+    def cbExited((failure,)):
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/internet/test/test_qtreactor.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/test/test_qtreactor.py", line 34
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/internet/test/test_unix.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/test/test_unix.py", line 61
+    mode = 0600
+              ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/internet/unix.py'...
+***   File "./lib/python3.5/site-packages/twisted/internet/unix.py", line 129
+    except socket.error, se:
+                       ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/lore'...
+Compiling './lib/python3.5/site-packages/twisted/lore/default.py'...
+***   File "./lib/python3.5/site-packages/twisted/lore/default.py", line 27
+    except IOError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/lore/lint.py'...
+***   File "./lib/python3.5/site-packages/twisted/lore/lint.py", line 33
+    print "%s:%s:%s: %s" % ((filename,)+pos+(error,))
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/lore/process.py'...
+***   File "./lib/python3.5/site-packages/twisted/lore/process.py", line 54
+    except ProcessingFailure, e:
+                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/lore/scripts'...
+Compiling './lib/python3.5/site-packages/twisted/lore/scripts/lore.py'...
+***   File "./lib/python3.5/site-packages/twisted/lore/scripts/lore.py", line 74
+    print '%s: no such input: %s' % (sys.argv[0], input)
+                                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/lore/test'...
+Compiling './lib/python3.5/site-packages/twisted/lore/test/test_lint.py'...
+***   File "./lib/python3.5/site-packages/twisted/lore/test/test_lint.py", line 123
+    except ProcessingFailure, e:
+                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/lore/topfiles'...
+Compiling './lib/python3.5/site-packages/twisted/lore/tree.py'...
+***   File "./lib/python3.5/site-packages/twisted/lore/tree.py", line 1041
+    except IOError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/mail'...
+Compiling './lib/python3.5/site-packages/twisted/mail/imap4.py'...
+***   File "./lib/python3.5/site-packages/twisted/mail/imap4.py", line 590
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/mail/maildir.py'...
+***   File "./lib/python3.5/site-packages/twisted/mail/maildir.py", line 76
+    os.mkdir(dir, 0700)
+                     ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/mail/pop3.py'...
+***   File "./lib/python3.5/site-packages/twisted/mail/pop3.py", line 344
+    except (ValueError, AttributeError, POP3Error, TypeError), e:
+                                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/mail/pop3client.py'...
+***   File "./lib/python3.5/site-packages/twisted/mail/pop3client.py", line 68
+    def setitem(self, (item, value)):
+                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/mail/scripts'...
+Compiling './lib/python3.5/site-packages/twisted/mail/scripts/mailmail.py'...
+***   File "./lib/python3.5/site-packages/twisted/mail/scripts/mailmail.py", line 73
+    print 'mailmail version:', version
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/mail/smtp.py'...
+***   File "./lib/python3.5/site-packages/twisted/mail/smtp.py", line 320
+    rand = random.randrange(2**31L-1)
+                                 ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/mail/test'...
+Compiling './lib/python3.5/site-packages/twisted/mail/test/pop3testserver.py'...
+***   File "./lib/python3.5/site-packages/twisted/mail/test/pop3testserver.py", line 230
+    print "Server Starting in %s mode" % msg
+                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/mail/test/test_mail.py'...
+***   File "./lib/python3.5/site-packages/twisted/mail/test/test_mail.py", line 1835
+    os.chmod(sh.path, 0700)
+                         ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/mail/test/test_options.py'...
+***   File "./lib/python3.5/site-packages/twisted/mail/test/test_options.py", line 19
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/mail/test/test_pop3.py'...
+***   File "./lib/python3.5/site-packages/twisted/mail/test/test_pop3.py", line 194
+    print parts
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/mail/test/test_pop3client.py'...
+***   File "./lib/python3.5/site-packages/twisted/mail/test/test_pop3client.py", line 177
+    def consume(self, (item, value)):
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/mail/test/test_smtp.py'...
+***   File "./lib/python3.5/site-packages/twisted/mail/test/test_smtp.py", line 500
+    raise AssertionError, (send, expect, data)
+                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/mail/topfiles'...
+Listing './lib/python3.5/site-packages/twisted/manhole'...
+Compiling './lib/python3.5/site-packages/twisted/manhole/_inspectro.py'...
+***   File "./lib/python3.5/site-packages/twisted/manhole/_inspectro.py", line 234
+    print repr(command)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/manhole/explorer.py'...
+***   File "./lib/python3.5/site-packages/twisted/manhole/explorer.py", line 540
+    raise TypeError, "Sorry, can only place a watch on Instances."
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/manhole/gladereactor.py'...
+***   File "./lib/python3.5/site-packages/twisted/manhole/gladereactor.py", line 55
+    def listenUNIX(self, address, factory, backlog=50, mode=0666):
+                                                               ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/manhole/telnet.py'...
+***   File "./lib/python3.5/site-packages/twisted/manhole/telnet.py", line 65
+    exec code in self.factory.namespace
+            ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Listing './lib/python3.5/site-packages/twisted/manhole/test'...
+Listing './lib/python3.5/site-packages/twisted/manhole/ui'...
+Compiling './lib/python3.5/site-packages/twisted/manhole/ui/gtk2manhole.py'...
+***   File "./lib/python3.5/site-packages/twisted/manhole/ui/gtk2manhole.py", line 237
+    print ksym
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/twisted/manhole/ui/test'...
+Listing './lib/python3.5/site-packages/twisted/names'...
+Compiling './lib/python3.5/site-packages/twisted/names/authority.py'...
+***   File "./lib/python3.5/site-packages/twisted/names/authority.py", line 27
+    o = os.umask(0177)
+                    ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/names/server.py'...
+***   File "./lib/python3.5/site-packages/twisted/names/server.py", line 98
+    def gotResolverResponse(self, (ans, auth, add), protocol, message, address):
+                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/names/srvconnect.py'...
+***   File "./lib/python3.5/site-packages/twisted/names/srvconnect.py", line 99
+    def _cbGotServers(self, (answers, auth, add)):
+                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/names/test'...
+Listing './lib/python3.5/site-packages/twisted/names/topfiles'...
+Listing './lib/python3.5/site-packages/twisted/news'...
+Compiling './lib/python3.5/site-packages/twisted/news/database.py'...
+***   File "./lib/python3.5/site-packages/twisted/news/database.py", line 1034
+    lambda (index, id, body): (index, id, StringIO.StringIO(body))
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/news/news.py'...
+***   File "./lib/python3.5/site-packages/twisted/news/news.py", line 40
+    print 'Connection failed: ', reason
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/news/nntp.py'...
+***   File "./lib/python3.5/site-packages/twisted/news/nntp.py", line 401
+    def _headerInitial(self, (code, message)):
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/news/tap.py'...
+***   File "./lib/python3.5/site-packages/twisted/news/tap.py", line 132
+    print s
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/twisted/news/test'...
+Listing './lib/python3.5/site-packages/twisted/news/topfiles'...
+Listing './lib/python3.5/site-packages/twisted/pair'...
+Compiling './lib/python3.5/site-packages/twisted/pair/ethernet.py'...
+***   File "./lib/python3.5/site-packages/twisted/pair/ethernet.py", line 42
+    raise TypeError, 'Added protocol must be positive or zero'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/pair/ip.py'...
+***   File "./lib/python3.5/site-packages/twisted/pair/ip.py", line 32
+    MAX_SIZE = 2L**32
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/pair/rawudp.py'...
+***   File "./lib/python3.5/site-packages/twisted/pair/rawudp.py", line 28
+    raise TypeError, 'Added protocol must be an instance of DatagramProtocol'
+                   ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/pair/test'...
+Compiling './lib/python3.5/site-packages/twisted/pair/test/test_ethernet.py'...
+***   File "./lib/python3.5/site-packages/twisted/pair/test/test_ethernet.py", line 185
+    raise AssertionError, 'addProto must raise an exception for bad protocols'
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/pair/test/test_ip.py'...
+***   File "./lib/python3.5/site-packages/twisted/pair/test/test_ip.py", line 376
+    raise AssertionError, 'addProto must raise an exception for bad protocols'
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/pair/test/test_rawudp.py'...
+***   File "./lib/python3.5/site-packages/twisted/pair/test/test_rawudp.py", line 15
+    def datagramReceived(self, data, (host, port)):
+                                     ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/pair/topfiles'...
+Compiling './lib/python3.5/site-packages/twisted/pair/tuntap.py'...
+***   File "./lib/python3.5/site-packages/twisted/pair/tuntap.py", line 76
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/persisted'...
+Compiling './lib/python3.5/site-packages/twisted/persisted/aot.py'...
+***   File "./lib/python3.5/site-packages/twisted/persisted/aot.py", line 259
+    exec stringOrFile.read() in ns
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/persisted/dirdbm.py'...
+***   File "./lib/python3.5/site-packages/twisted/persisted/dirdbm.py", line 158
+    raise KeyError, k
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/persisted/sob.py'...
+***   File "./lib/python3.5/site-packages/twisted/persisted/sob.py", line 208
+    exec data in d, d
+            ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Listing './lib/python3.5/site-packages/twisted/persisted/test'...
+Compiling './lib/python3.5/site-packages/twisted/plugin.py'...
+***   File "./lib/python3.5/site-packages/twisted/plugin.py", line 182
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/plugins'...
+Compiling './lib/python3.5/site-packages/twisted/plugins/cred_file.py'...
+***   File "./lib/python3.5/site-packages/twisted/plugins/cred_file.py", line 53
+    raise ValueError, '%r requires a filename' % self.authType
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/protocols'...
+Compiling './lib/python3.5/site-packages/twisted/protocols/amp.py'...
+***   File "./lib/python3.5/site-packages/twisted/protocols/amp.py", line 672
+    _counter = 0L
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/protocols/ftp.py'...
+***   File "./lib/python3.5/site-packages/twisted/protocols/ftp.py", line 828
+    def _cbLogin((interface, avatar, logout)):
+                 ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/protocols/gps'...
+Compiling './lib/python3.5/site-packages/twisted/protocols/gps/nmea.py'...
+***   File "./lib/python3.5/site-packages/twisted/protocols/gps/nmea.py", line 86
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/protocols/ident.py'...
+***   File "./lib/python3.5/site-packages/twisted/protocols/ident.py", line 103
+    def _cbLookup(self, (sysName, userId), sport, cport):
+                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/protocols/mice'...
+Compiling './lib/python3.5/site-packages/twisted/protocols/shoutcast.py'...
+***   File "./lib/python3.5/site-packages/twisted/protocols/shoutcast.py", line 107
+    raise NotImplementedError, "implement in subclass"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/protocols/sip.py'...
+***   File "./lib/python3.5/site-packages/twisted/protocols/sip.py", line 343
+    raise ValueError, "wrong protocol or version: %r" % value
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/protocols/socks.py'...
+***   File "./lib/python3.5/site-packages/twisted/protocols/socks.py", line 153
+    d.addCallback(lambda (h, p),
+                         ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/protocols/test'...
+Listing './lib/python3.5/site-packages/twisted/python'...
+Compiling './lib/python3.5/site-packages/twisted/python/_release.py'...
+***   File "./lib/python3.5/site-packages/twisted/python/_release.py", line 726
+    reverse.sort(key=lambda (descr, tickets): tickets[0])
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/python/finalize.py'...
+***   File "./lib/python3.5/site-packages/twisted/python/finalize.py", line 27
+    print 'I am _so_ dead.'
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/python/htmlizer.py'...
+***   File "./lib/python3.5/site-packages/twisted/python/htmlizer.py", line 20
+    def printtoken(self, type, token, (srow, scol), (erow, ecol), line):
+                                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/python/lockfile.py'...
+***   File "./lib/python3.5/site-packages/twisted/python/lockfile.py", line 43
+    except pywintypes.error, e:
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/python/logfile.py'...
+***   File "./lib/python3.5/site-packages/twisted/python/logfile.py", line 69
+    oldUmask = os.umask(0777)
+                           ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/python/reflect.py'...
+***   File "./lib/python3.5/site-packages/twisted/python/reflect.py", line 517
+    print 'unknown type', type(start), start
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/python/release.py'...
+***   File "./lib/python3.5/site-packages/twisted/python/release.py", line 46
+    print "--$", command
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/python/shortcut.py'...
+***   File "./lib/python3.5/site-packages/twisted/python/shortcut.py", line 75
+    raise AttributeError, "%s instance has no attribute %s" % \
+                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/python/test'...
+Compiling './lib/python3.5/site-packages/twisted/python/test/test_sendmsg.py'...
+***   File "./lib/python3.5/site-packages/twisted/python/test/test_sendmsg.py", line 340
+    except error, e:
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/python/test/test_shellcomp.py'...
+***   File "./lib/python3.5/site-packages/twisted/python/test/test_shellcomp.py", line 79
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/python/test/test_util.py'...
+***   File "./lib/python3.5/site-packages/twisted/python/test/test_util.py", line 44
+    raise unittest.FailTest, "util.raises didn't raise when it should have"
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/python/usage.py'...
+***   File "./lib/python3.5/site-packages/twisted/python/usage.py", line 55
+    except ValueError, e:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/python/util.py'...
+***   File "./lib/python3.5/site-packages/twisted/python/util.py", line 113
+    raise ValueError, "%d elements is more than %d." % (len(seq), n)
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/python/zsh'...
+Compiling './lib/python3.5/site-packages/twisted/python/zshcomp.py'...
+***   File "./lib/python3.5/site-packages/twisted/python/zshcomp.py", line 164
+    raise usage.UsageError, "Can't have --install and " \
+                          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/runner'...
+Compiling './lib/python3.5/site-packages/twisted/runner/inetdconf.py'...
+***   File "./lib/python3.5/site-packages/twisted/runner/inetdconf.py", line 79
+    raise InvalidInetdConfError, 'Invalid line: ' + repr(line)
+                               ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/runner/test'...
+Listing './lib/python3.5/site-packages/twisted/runner/topfiles'...
+Listing './lib/python3.5/site-packages/twisted/scripts'...
+Compiling './lib/python3.5/site-packages/twisted/scripts/_twistd_unix.py'...
+***   File "./lib/python3.5/site-packages/twisted/scripts/_twistd_unix.py", line 58
+    print 'twistd (the Twisted daemon) %s' % copyright.version
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/scripts/_twistw.py'...
+***   File "./lib/python3.5/site-packages/twisted/scripts/_twistw.py", line 21
+    print 'twistd (the Twisted Windows runner) %s' % copyright.version
+                                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/scripts/htmlizer.py'...
+***   File "./lib/python3.5/site-packages/twisted/scripts/htmlizer.py", line 48
+    except usage.UsageError, e:
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/scripts/manhole.py'...
+***   File "./lib/python3.5/site-packages/twisted/scripts/manhole.py", line 16
+    except usage.UsageError, e:
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/scripts/tap2deb.py'...
+***   File "./lib/python3.5/site-packages/twisted/scripts/tap2deb.py", line 30
+    raise usage.UsageError, "maintainer must be specified."
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/scripts/tap2rpm.py'...
+***   File "./lib/python3.5/site-packages/twisted/scripts/tap2rpm.py", line 235
+    sourceDirInfo.mode = 0755
+                            ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/scripts/tapconvert.py'...
+***   File "./lib/python3.5/site-packages/twisted/scripts/tapconvert.py", line 52
+    except usage.UsageError, e:
+                           ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/scripts/test'...
+Compiling './lib/python3.5/site-packages/twisted/scripts/tkunzip.py'...
+***   File "./lib/python3.5/site-packages/twisted/scripts/tkunzip.py", line 212
+    except usage.UsageError, e:
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/scripts/trial.py'...
+***   File "./lib/python3.5/site-packages/twisted/scripts/trial.py", line 153
+    print "Setting coverage directory to %s." % (result.path,)
+                                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/spread'...
+Compiling './lib/python3.5/site-packages/twisted/spread/pb.py'...
+***   File "./lib/python3.5/site-packages/twisted/spread/pb.py", line 892
+    except Error, e:
+                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/spread/ui'...
+Listing './lib/python3.5/site-packages/twisted/tap'...
+Compiling './lib/python3.5/site-packages/twisted/tap/socks.py'...
+***   File "./lib/python3.5/site-packages/twisted/tap/socks.py", line 31
+    print "WARNING:"
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/twisted/test'...
+Compiling './lib/python3.5/site-packages/twisted/test/iosim.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/iosim.py", line 219
+    print '-- GLUG --'
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/test/process_cmdline.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/process_cmdline.py", line 5
+    print x
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/test/process_linger.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/process_linger.py", line 8
+    print "here is some text"
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/test/process_signal.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/process_signal.py", line 6
+    print 'ok, signal us'
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/test/process_twisted.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/process_twisted.py", line 27
+    print "connection made"
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_adbapi.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_adbapi.py", line 659
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_amp.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_amp.py", line 1686
+    def cbConnsLost(((serverSuccess, serverData),
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_application.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_application.py", line 398
+    raise unittest.SkipTest, "This reactor does not support UNIX domain sockets"
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_banana.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_banana.py", line 16
+    funkylist = range(0,100) + range(1000,1100) + range(1000000,1000100) + [1024 **10l]
+                                                                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_doc.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_doc.py", line 46
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_epoll.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_epoll.py", line 50
+    except socket.error, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_explorer.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_explorer.py", line 146
+    def function_crazy((alpha, beta), c, d=range(4), **kw):
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_ftp.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_ftp.py", line 620
+    def downloadDone((ignored, downloader)):
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_iutils.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_iutils.py", line 118
+    def gotOutputAndValue((out, err, code)):
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_logfile.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_logfile.py", line 27
+    os.chmod(self.dir, 0777)
+                          ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_nmea.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_nmea.py", line 30
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_pb.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_pb.py", line 1193
+    def cbResponse((challenge, challenger)):
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_pbfailure.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_pbfailure.py", line 384
+    except pb.RemoteError, exc:
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_persisted.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_persisted.py", line 318
+    1, 1.0, 100 ** 100l, unittest, aot.AOTJellier, d,
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_plugin.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_plugin.py", line 87
+    except OSError, ose:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_process.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_process.py", line 788
+    if self.verbose: print "closing stdin [%d]" % num
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_rebuild.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_rebuild.py", line 187
+    exec classDefinition in self.m.__dict__
+                       ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_stdio.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_stdio.py", line 196
+    except ValueError, e:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_twistd.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_twistd.py", line 728
+    self.assertEqual(self.mask, 0077)
+                                   ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_unix.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_unix.py", line 71
+    def allConnected((serverProtocol, clientProtocol)):
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/test/test_usage.py'...
+***   File "./lib/python3.5/site-packages/twisted/test/test_usage.py", line 368
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/topfiles'...
+Listing './lib/python3.5/site-packages/twisted/trial'...
+Listing './lib/python3.5/site-packages/twisted/trial/_dist'...
+Listing './lib/python3.5/site-packages/twisted/trial/_dist/test'...
+Compiling './lib/python3.5/site-packages/twisted/trial/_dist/workertrial.py'...
+***   File "./lib/python3.5/site-packages/twisted/trial/_dist/workertrial.py", line 71
+    except IOError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/trial/test'...
+Compiling './lib/python3.5/site-packages/twisted/trial/test/mockdoctest.py'...
+***   File "./lib/python3.5/site-packages/twisted/trial/test/mockdoctest.py", line 41
+    raise ValueError, "sorry, counter got too big"
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/trial/test/test_output.py'...
+***   File "./lib/python3.5/site-packages/twisted/trial/test/test_output.py", line 41
+    print stuff
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/twisted/trial/test/test_reporter.py'...
+***   File "./lib/python3.5/site-packages/twisted/trial/test/test_reporter.py", line 78
+    except RuntimeError, excValue:
+                       ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/web'...
+Listing './lib/python3.5/site-packages/twisted/web/_auth'...
+Compiling './lib/python3.5/site-packages/twisted/web/_auth/wrapper.py'...
+***   File "./lib/python3.5/site-packages/twisted/web/_auth/wrapper.py", line 159
+    def _loginSucceeded(self, (interface, avatar, logout)):
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/web/_flatten.py'...
+***   File "./lib/python3.5/site-packages/twisted/web/_flatten.py", line 215
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/web/_newclient.py'...
+***   File "./lib/python3.5/site-packages/twisted/web/_newclient.py", line 394
+    except ValueError, e:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/web/domhelpers.py'...
+***   File "./lib/python3.5/site-packages/twisted/web/domhelpers.py", line 56
+    raise NodeLookupError, nodeId
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/web/script.py'...
+***   File "./lib/python3.5/site-packages/twisted/web/script.py", line 66
+    except AlreadyCached, ac:
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/web/static.py'...
+***   File "./lib/python3.5/site-packages/twisted/web/static.py", line 441
+    def _doSingleRangeRequest(self, request, (start, end)):
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/web/sux.py'...
+***   File "./lib/python3.5/site-packages/twisted/web/sux.py", line 598
+    print 'begin', name, attributes
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/twisted/web/test'...
+Compiling './lib/python3.5/site-packages/twisted/web/test/test_flatten.py'...
+***   File "./lib/python3.5/site-packages/twisted/web/test/test_flatten.py", line 332
+    except RuntimeError, exc:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/web/test/test_newclient.py'...
+***   File "./lib/python3.5/site-packages/twisted/web/test/test_newclient.py", line 1094
+    def cbAllResponse((response, body)):
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/web/test/test_static.py'...
+***   File "./lib/python3.5/site-packages/twisted/web/test/test_static.py", line 138
+    self.addCleanup(base.chmod, 0700)
+                                   ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/twisted/web/test/test_wsgi.py'...
+***   File "./lib/python3.5/site-packages/twisted/web/test/test_wsgi.py", line 213
+    def assertEnvironKeyEqual((environ, startResponse)):
+                              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/web/topfiles'...
+Compiling './lib/python3.5/site-packages/twisted/web/wsgi.py'...
+***   File "./lib/python3.5/site-packages/twisted/web/wsgi.py", line 257
+    raise excInfo[0], excInfo[1], excInfo[2]
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/web/xmlrpc.py'...
+***   File "./lib/python3.5/site-packages/twisted/web/xmlrpc.py", line 155
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/words'...
+Listing './lib/python3.5/site-packages/twisted/words/im'...
+Compiling './lib/python3.5/site-packages/twisted/words/im/pbsupport.py'...
+***   File "./lib/python3.5/site-packages/twisted/words/im/pbsupport.py", line 47
+    print "result:",result,"text:",text
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/twisted/words/protocols'...
+Compiling './lib/python3.5/site-packages/twisted/words/protocols/irc.py'...
+***   File "./lib/python3.5/site-packages/twisted/words/protocols/irc.py", line 47
+    CR = chr(015)
+               ^
+SyntaxError: invalid token
+
+Listing './lib/python3.5/site-packages/twisted/words/protocols/jabber'...
+Compiling './lib/python3.5/site-packages/twisted/words/protocols/jabber/jid.py'...
+***   File "./lib/python3.5/site-packages/twisted/words/protocols/jabber/jid.py", line 85
+    raise InvalidFormat, "Invalid character in username"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/words/protocols/jabber/sasl.py'...
+***   File "./lib/python3.5/site-packages/twisted/words/protocols/jabber/sasl.py", line 102
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/words/protocols/jabber/xmpp_stringprep.py'...
+***   File "./lib/python3.5/site-packages/twisted/words/protocols/jabber/xmpp_stringprep.py", line 130
+    raise UnicodeError, "Invalid character %s" % repr(c)
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/words/protocols/msn.py'...
+***   File "./lib/python3.5/site-packages/twisted/words/protocols/msn.py", line 143
+    raise MSNProtocolError, error
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/words/protocols/oscar.py'...
+***   File "./lib/python3.5/site-packages/twisted/words/protocols/oscar.py", line 233
+    tlvData = reduce(lambda x,y: x+y, map(lambda (k,v):TLV(k,v), self.tlvs.items()), '\000\000')
+                                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/words/service.py'...
+***   File "./lib/python3.5/site-packages/twisted/words/service.py", line 384
+    def _cbLogin(self, (iface, avatar, logout)):
+                       ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/twisted/words/test'...
+Compiling './lib/python3.5/site-packages/twisted/words/test/test_msn.py'...
+***   File "./lib/python3.5/site-packages/twisted/words/test/test_msn.py", line 34
+    print f
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/twisted/words/topfiles'...
+Listing './lib/python3.5/site-packages/twisted/words/xish'...
+Compiling './lib/python3.5/site-packages/twisted/words/xish/domish.py'...
+***   File "./lib/python3.5/site-packages/twisted/words/xish/domish.py", line 589
+    except sux.ParseError, e:
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/twisted/words/xish/xpathparser.py'...
+***   File "./lib/python3.5/site-packages/twisted/words/xish/xpathparser.py", line 312
+    except SyntaxError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/yaml'...
+Listing './lib/python3.5/site-packages/zope'...
+Listing './lib/python3.5/site-packages/zope/interface'...
+Listing './lib/python3.5/site-packages/zope/interface/common'...
+Listing './lib/python3.5/site-packages/zope/interface/common/tests'...
+Listing './lib/python3.5/site-packages/zope/interface/tests'...
+Listing './lib/python3.5/site-packages/zope.interface-4.4.3.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

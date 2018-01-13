@@ -1,0 +1,381 @@
+Listing '.'...
+Listing './bin'...
+Compiling './bin/start_crawl.py'...
+Compiling './bin/start_server.py'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/Pytomo-3.0.4.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/pytomo'...
+Compiling './lib/python3.5/site-packages/pytomo/as_matching.py'...
+***   File "./lib/python3.5/site-packages/pytomo/as_matching.py", line 112
+    print 'multiple ASes found for this IP: %s' % int2ip(ip_addr)
+                                              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pytomo/dns'...
+Compiling './lib/python3.5/site-packages/pytomo/dns/dnssec.py'...
+***   File "./lib/python3.5/site-packages/pytomo/dns/dnssec.py", line 119
+    raise UnsupportedAlgorithm, 'unsupported algorithm "%s"' % algorithm
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/dns/edns.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (edns.py, line 117)
+Compiling './lib/python3.5/site-packages/pytomo/dns/entropy.py'...
+***   File "./lib/python3.5/site-packages/pytomo/dns/entropy.py", line 104
+    if size > 4294967296L:
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/dns/message.py'...
+***   File "./lib/python3.5/site-packages/pytomo/dns/message.py", line 178
+    return '<DNS message, ID ' + `self.id` + '>'
+                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/dns/name.py'...
+***   File "./lib/python3.5/site-packages/pytomo/dns/name.py", line 172
+    h = 0L
+         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/dns/query.py'...
+***   File "./lib/python3.5/site-packages/pytomo/dns/query.py", line 114
+    except select.error, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/dns/rdataclass.py'...
+***   File "./lib/python3.5/site-packages/pytomo/dns/rdataclass.py", line 105
+    text = 'CLASS' + `value`
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/dns/rdatatype.py'...
+***   File "./lib/python3.5/site-packages/pytomo/dns/rdatatype.py", line 213
+    text = 'TYPE' + `value`
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pytomo/dns/rdtypes'...
+Listing './lib/python3.5/site-packages/pytomo/dns/rdtypes/ANY'...
+Compiling './lib/python3.5/site-packages/pytomo/dns/rdtypes/ANY/LOC.py'...
+***   File "./lib/python3.5/site-packages/pytomo/dns/rdtypes/ANY/LOC.py", line 24
+    _pows = (1L, 10L, 100L, 1000L, 10000L, 100000L, 1000000L, 10000000L,
+              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pytomo/dns/rdtypes/IN'...
+Compiling './lib/python3.5/site-packages/pytomo/dns/renderer.py'...
+***   File "./lib/python3.5/site-packages/pytomo/dns/renderer.py", line 225
+    ednsflags &= 0xFF00FFFFL
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/dns/tokenizer.py'...
+***   File "./lib/python3.5/site-packages/pytomo/dns/tokenizer.py", line 493
+    if value < 0 or value > 4294967296L:
+                                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/dns/tsig.py'...
+***   File "./lib/python3.5/site-packages/pytomo/dns/tsig.py", line 98
+    long_time = time + 0L
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/dns/ttl.py'...
+***   File "./lib/python3.5/site-packages/pytomo/dns/ttl.py", line 41
+    total = 0L
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/dns/zone.py'...
+***   File "./lib/python3.5/site-packages/pytomo/dns/zone.py", line 713
+    except dns_exception.SyntaxError, detail:
+                                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pytomo/flvlib'...
+Compiling './lib/python3.5/site-packages/pytomo/flvlib/helpers.py'...
+***   File "./lib/python3.5/site-packages/pytomo/flvlib/helpers.py", line 161
+    print cls.pformat(val)
+            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pytomo/flvlib/scripts'...
+Compiling './lib/python3.5/site-packages/pytomo/flvlib/scripts/debug_flv.py'...
+***   File "./lib/python3.5/site-packages/pytomo/flvlib/scripts/debug_flv.py", line 22
+    except IOError, (errno, strerror):
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pytomo/fpdf'...
+Compiling './lib/python3.5/site-packages/pytomo/fpdf/fpdf.py'...
+***   File "./lib/python3.5/site-packages/pytomo/fpdf/fpdf.py", line 969
+    print self.buffer
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pytomo/fpdf/html.py'...
+***   File "./lib/python3.5/site-packages/pytomo/fpdf/html.py", line 107
+    if DEBUG: print "td cell", self.pdf.x, w, txt, "*"
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pytomo/fpdf/php.py'...
+***   File "./lib/python3.5/site-packages/pytomo/fpdf/php.py", line 17
+    print "[%s] => %s" % (k, v),
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/fpdf/template.py'...
+***   File "./lib/python3.5/site-packages/pytomo/fpdf/template.py", line 160
+    print "trimming: *%s*" % text
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pytomo/hebexsnmptools.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (hebexsnmptools.py, line 253)
+Listing './lib/python3.5/site-packages/pytomo/kaa_metadata'...
+Listing './lib/python3.5/site-packages/pytomo/kaa_metadata/audio'...
+Compiling './lib/python3.5/site-packages/pytomo/kaa_metadata/core.py'...
+***   File "./lib/python3.5/site-packages/pytomo/kaa_metadata/core.py", line 144
+    except (UnicodeDecodeError, TypeError), e:
+                                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/kaa_metadata/factory.py'...
+***   File "./lib/python3.5/site-packages/pytomo/kaa_metadata/factory.py", line 321
+    except (IOError, OSError), e:
+                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pytomo/kaa_metadata/image'...
+Compiling './lib/python3.5/site-packages/pytomo/kaa_metadata/image/EXIF.py'...
+***   File "./lib/python3.5/site-packages/pytomo/kaa_metadata/image/EXIF.py", line 1000
+    y = 0L
+         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/kaa_metadata/image/core.py'...
+***   File "./lib/python3.5/site-packages/pytomo/kaa_metadata/image/core.py", line 64
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pytomo/kaa_metadata/misc'...
+Listing './lib/python3.5/site-packages/pytomo/kaa_metadata/video'...
+Compiling './lib/python3.5/site-packages/pytomo/kaa_metadata/video/mp4.py'...
+***   File "./lib/python3.5/site-packages/pytomo/kaa_metadata/video/mp4.py", line 277
+    except Exception, _:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/kaa_metadata/video/riff.py'...
+***   File "./lib/python3.5/site-packages/pytomo/kaa_metadata/video/riff.py", line 478
+    except ValueError, e:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/lib_dailymotion_api.py'...
+***   File "./lib/python3.5/site-packages/pytomo/lib_dailymotion_api.py", line 224
+    except urllib2.URLError, mes:
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/lib_dailymotion_download.py'...
+***   File "./lib/python3.5/site-packages/pytomo/lib_dailymotion_download.py", line 102
+    except (urllib2.URLError, httplib.HTTPException, socket.error), err:
+                                                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/lib_data_centralisation.py'...
+***   File "./lib/python3.5/site-packages/pytomo/lib_data_centralisation.py", line 67
+    except ftplib.all_errors, mes:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/lib_database.py'...
+***   File "./lib/python3.5/site-packages/pytomo/lib_database.py", line 206
+    except sqlite3.Error, mes:
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/lib_dns.py'...
+***   File "./lib/python3.5/site-packages/pytomo/lib_dns.py", line 95
+    except dns_exception.DNSException, mes:
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/lib_general_download.py'...
+***   File "./lib/python3.5/site-packages/pytomo/lib_general_download.py", line 74
+    except ParseError, mes:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/lib_io.py'...
+***   File "./lib/python3.5/site-packages/pytomo/lib_io.py", line 675
+    except Error, mes:
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/lib_links_extractor.py'...
+***   File "./lib/python3.5/site-packages/pytomo/lib_links_extractor.py", line 90
+    except urllib2.URLError, mes:
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/lib_plot.py'...
+***   File "./lib/python3.5/site-packages/pytomo/lib_plot.py", line 79
+    print ''.join(("No data in ", column_name))
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/lib_rrdtools.py'...
+***   File "./lib/python3.5/site-packages/pytomo/lib_rrdtools.py", line 308
+    except Error, mes:
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/lib_youtube_download.py'...
+***   File "./lib/python3.5/site-packages/pytomo/lib_youtube_download.py", line 143
+    except (urllib2.URLError, httplib.HTTPException, socket.error), err:
+                                                                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pytomo/rrdtool_win_x86_DLLs'...
+Compiling './lib/python3.5/site-packages/pytomo/start_pytomo.py'...
+***   File "./lib/python3.5/site-packages/pytomo/start_pytomo.py", line 254
+    except Exception, mes:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/translation_cache_url.py'...
+***   File "./lib/python3.5/site-packages/pytomo/translation_cache_url.py", line 122
+    print translate_cache_url(url.strip())
+                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pytomo/web'...
+Compiling './lib/python3.5/site-packages/pytomo/web/application.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/application.py", line 284
+    except web.HTTPError, e:
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/web/browser.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/browser.py", line 49
+    print 'requesting', req.get_method(), req.get_full_url()
+                     ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pytomo/web/contrib'...
+Compiling './lib/python3.5/site-packages/pytomo/web/db.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/db.py", line 81
+    raise UnknownParamstyle, paramstyle
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/web/debugerror.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/debugerror.py", line 283
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/web/form.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/form.py", line 100
+    raise KeyError, i
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/web/httpserver.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/httpserver.py", line 75
+    except socket.error, socket_err:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/web/net.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/net.py", line 71
+    raise ValueError, ':'.join(ip) + ' is not a valid IP address/port'
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/web/python23.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/python23.py", line 17
+    raise AttributeError, name
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/web/session.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/session.py", line 239
+    raise ValueError, "Bad key: %s" % repr(key)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/web/template.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/template.py", line 469
+    raise ParseError, 'Unknown statement: %s' % repr(keyword)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/web/utils.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/utils.py", line 75
+    except KeyError, k:
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/web/webapi.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/webapi.py", line 270
+    raise ValueError, 'invalid characters in header'
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pytomo/web/wsgiserver'...
+Compiling './lib/python3.5/site-packages/pytomo/web/wsgiserver/__init__.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/wsgiserver/__init__.py", line 616
+    except ValueError, ex:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/web/wsgiserver/ssl_builtin.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/wsgiserver/ssl_builtin.py", line 43
+    except ssl.SSLError, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/web/wsgiserver/ssl_pyopenssl.py'...
+***   File "./lib/python3.5/site-packages/pytomo/web/wsgiserver/ssl_pyopenssl.py", line 70
+    except SSL.SysCallError, e:
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pytomo/webpage.py'...
+***   File "./lib/python3.5/site-packages/pytomo/webpage.py", line 113
+    except Error, mes:
+                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

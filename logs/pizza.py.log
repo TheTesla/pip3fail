@@ -1,0 +1,537 @@
+Listing '.'...
+Listing './bin'...
+Compiling './bin/angle_distribute.py'...
+***   File "./bin/angle_distribute.py", line 25
+    raise StandardError, \
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/block.py'...
+***   File "./bin/block.py", line 21
+    raise StandardError, "Syntax: block.py nblocks nskip log.1 log.2 ..."
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/bond_distribute.py'...
+***   File "./bin/bond_distribute.py", line 25
+    raise StandardError, \
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/clogview.py'...
+***   File "./bin/clogview.py", line 23
+    raise StandardError, "Syntax: clogview.py gnu/matlab files  ..."
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/cluster.py'...
+***   File "./bin/cluster.py", line 65
+    raise StandardError,"cluster.py type1 type2 cutoff nbin dump.1 dump.2 ..."
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/density.py'...
+***   File "./bin/density.py", line 22
+    raise StandardError, "Syntax: density.py x/y/z nbin outfile files ..."
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/density2d.py'...
+***   File "./bin/density2d.py", line 26
+    raise StandardError, "Syntax: density.py x/y/z nbin vmin vmax outfile files ..."
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/density_area.py'...
+***   File "./bin/density_area.py", line 24
+    raise StandardError, "Syntax: density.py x/y/z nbin outfile files ..."
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/distance.py'...
+***   File "./bin/distance.py", line 15
+    raise StandardError,"distance.py maxcut dump.file1 dump.file2 ..."
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/dview.py'...
+***   File "./bin/dview.py", line 13
+    raise StandardError, "Syntax: dview.py --n 512 dump.1 ..."
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/dview_standalone.py'...
+***   File "./bin/dview_standalone.py", line 27
+    raise StandardError, "Syntax: dview.py dump.1 ..."
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/flux.py'...
+***   File "./bin/flux.py", line 22
+    raise StandardError, "Syntax: flux.py x/y/z plane outfile files ..."
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/iview.py'...
+***   File "./bin/iview.py", line 19
+    if len(argv) < 2: raise StandardError, "Syntax: iview.py files  ..."
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './bin/logview.py'...
+***   File "./bin/logview.py", line 23
+    raise StandardError, "Syntax: logview.py gnu/matlab files  ..."
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/movie.py'...
+***   File "./bin/movie.py", line 23
+    raise StandardError, "Syntax: movie.py raster/svg theta phi dump.1 ..."
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './bin/plot.py'...
+***   File "./bin/plot.py", line 22
+    raise StandardError, "Syntax: plot.py gnu/matlab file"
+                       ^
+SyntaxError: invalid syntax
+
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/Pizza.py-0.1.0.egg-info'...
+Listing './lib/python3.5/site-packages/numpy'...
+Listing './lib/python3.5/site-packages/numpy/.libs'...
+Listing './lib/python3.5/site-packages/numpy/compat'...
+Listing './lib/python3.5/site-packages/numpy/core'...
+Listing './lib/python3.5/site-packages/numpy/core/include'...
+Listing './lib/python3.5/site-packages/numpy/core/include/numpy'...
+Listing './lib/python3.5/site-packages/numpy/core/lib'...
+Listing './lib/python3.5/site-packages/numpy/core/lib/npy-pkg-config'...
+Listing './lib/python3.5/site-packages/numpy/core/tests'...
+Listing './lib/python3.5/site-packages/numpy/core/tests/data'...
+Listing './lib/python3.5/site-packages/numpy/distutils'...
+Listing './lib/python3.5/site-packages/numpy/distutils/command'...
+Listing './lib/python3.5/site-packages/numpy/distutils/fcompiler'...
+Listing './lib/python3.5/site-packages/numpy/distutils/mingw'...
+Listing './lib/python3.5/site-packages/numpy/distutils/tests'...
+Listing './lib/python3.5/site-packages/numpy/doc'...
+Listing './lib/python3.5/site-packages/numpy/f2py'...
+Listing './lib/python3.5/site-packages/numpy/f2py/src'...
+Listing './lib/python3.5/site-packages/numpy/f2py/tests'...
+Listing './lib/python3.5/site-packages/numpy/f2py/tests/src'...
+Listing './lib/python3.5/site-packages/numpy/f2py/tests/src/array_from_pyobj'...
+Listing './lib/python3.5/site-packages/numpy/f2py/tests/src/assumed_shape'...
+Listing './lib/python3.5/site-packages/numpy/f2py/tests/src/common'...
+Listing './lib/python3.5/site-packages/numpy/f2py/tests/src/kind'...
+Listing './lib/python3.5/site-packages/numpy/f2py/tests/src/mixed'...
+Listing './lib/python3.5/site-packages/numpy/f2py/tests/src/parameter'...
+Listing './lib/python3.5/site-packages/numpy/f2py/tests/src/regression'...
+Listing './lib/python3.5/site-packages/numpy/f2py/tests/src/size'...
+Listing './lib/python3.5/site-packages/numpy/f2py/tests/src/string'...
+Listing './lib/python3.5/site-packages/numpy/fft'...
+Listing './lib/python3.5/site-packages/numpy/fft/tests'...
+Listing './lib/python3.5/site-packages/numpy/lib'...
+Listing './lib/python3.5/site-packages/numpy/lib/tests'...
+Listing './lib/python3.5/site-packages/numpy/lib/tests/data'...
+Listing './lib/python3.5/site-packages/numpy/linalg'...
+Listing './lib/python3.5/site-packages/numpy/linalg/tests'...
+Listing './lib/python3.5/site-packages/numpy/ma'...
+Listing './lib/python3.5/site-packages/numpy/ma/tests'...
+Listing './lib/python3.5/site-packages/numpy/matrixlib'...
+Listing './lib/python3.5/site-packages/numpy/matrixlib/tests'...
+Listing './lib/python3.5/site-packages/numpy/polynomial'...
+Listing './lib/python3.5/site-packages/numpy/polynomial/tests'...
+Listing './lib/python3.5/site-packages/numpy/random'...
+Listing './lib/python3.5/site-packages/numpy/random/tests'...
+Listing './lib/python3.5/site-packages/numpy/testing'...
+Listing './lib/python3.5/site-packages/numpy/testing/nose_tools'...
+Listing './lib/python3.5/site-packages/numpy/testing/tests'...
+Listing './lib/python3.5/site-packages/numpy/tests'...
+Listing './lib/python3.5/site-packages/numpy-1.14.0.dist-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pizza'...
+Compiling './lib/python3.5/site-packages/pizza/animate.py'...
+***   File "./lib/python3.5/site-packages/pizza/animate.py", line 71
+    if self.nframes == 0: raise StandardError, "No files to load"
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/bdump.py'...
+***   File "./lib/python3.5/site-packages/pizza/bdump.py", line 95
+    raise StandardError,"no bdump file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/cdata.py'...
+***   File "./lib/python3.5/site-packages/pizza/cdata.py", line 191
+    raise StandardError,"no data file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/cfg.py'...
+***   File "./lib/python3.5/site-packages/pizza/cfg.py", line 89
+    print time,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/chain.py'...
+***   File "./lib/python3.5/site-packages/pizza/chain.py", line 95
+    print "Simulation box: %g by %g by %g" % (self.xprd,self.yprd,self.zprd)
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/clog.py'...
+***   File "./lib/python3.5/site-packages/pizza/clog.py", line 77
+    raise StandardError,"no log file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/data.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (data.py, line 112)
+Compiling './lib/python3.5/site-packages/pizza/dump.py'...
+***   File "./lib/python3.5/site-packages/pizza/dump.py", line 228
+    raise StandardError,"no dump file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/ensight.py'...
+***   File "./lib/python3.5/site-packages/pizza/ensight.py", line 76
+    raise StandardError,"unrecognized object passed to ensight"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/gl.py'...
+***   File "./lib/python3.5/site-packages/pizza/gl.py", line 151
+    else: raise StandardError,"invalid args to gl tool"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/gnu.py'...
+***   File "./lib/python3.5/site-packages/pizza/gnu.py", line 136
+    if len(vectors) % 2: raise StandardError,"vectors must come in pairs"
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/histo.py'...
+***   File "./lib/python3.5/site-packages/pizza/histo.py", line 46
+    else: raise StandardError,"illegal dim value"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/image.py'...
+***   File "./lib/python3.5/site-packages/pizza/image.py", line 80
+    if len(files) == 0: raise StandardError, "no image files to load"
+                                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/ldump.py'...
+***   File "./lib/python3.5/site-packages/pizza/ldump.py", line 102
+    raise StandardError,"no ldump file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/log.py'...
+***   File "./lib/python3.5/site-packages/pizza/log.py", line 79
+    raise StandardError,"no log file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/matlab.py'...
+***   File "./lib/python3.5/site-packages/pizza/matlab.py", line 143
+    if len(vectors) % 2: raise StandardError,"vectors must come in pairs"
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/mdump.py'...
+***   File "./lib/python3.5/site-packages/pizza/mdump.py", line 163
+    raise StandardError,"no dump file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/pair.py'...
+***   File "./lib/python3.5/site-packages/pizza/pair.py", line 71
+    raise StandardError, "this pair style not yet supported"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/patch.py'...
+***   File "./lib/python3.5/site-packages/pizza/patch.py", line 108
+    exec cmd
+           ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/pizza/pdbfile.py'...
+***   File "./lib/python3.5/site-packages/pizza/pdbfile.py", line 86
+    else: raise StandardError, "invalid args for pdb()"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/pizza.py'...
+***   File "./lib/python3.5/site-packages/pizza/pizza.py", line 63
+    except ImportError, exception:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/plotview.py'...
+***   File "./lib/python3.5/site-packages/pizza/plotview.py", line 151
+    if n == 0: raise StandardError,"no plot selected"
+                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/rasmol.py'...
+***   File "./lib/python3.5/site-packages/pizza/rasmol.py", line 166
+    print time,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/raster.py'...
+***   File "./lib/python3.5/site-packages/pizza/raster.py", line 225
+    print output
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/svg.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (svg.py, line 251)
+Compiling './lib/python3.5/site-packages/pizza/tdump.py'...
+***   File "./lib/python3.5/site-packages/pizza/tdump.py", line 103
+    raise StandardError,"no ldump file specified"
+                       ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pizza/test'...
+Compiling './lib/python3.5/site-packages/pizza/test/group_energy.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/group_energy.py", line 40
+    raise StandardError,"group_energy.py data.file dump.file1 dump.file2 ..."
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_animate.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_animate.py", line 14
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_bdump.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_bdump.py", line 12
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_cdata.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_cdata.py", line 34
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_cfg.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_cfg.py", line 12
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_chain.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_chain.py", line 17
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_clog.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_clog.py", line 7
+    print "# of vectors =",c.nvec
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_data.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_data.py", line 8
+    print "Masses",coeffs
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_dump.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_dump.py", line 30
+    print "Time",d.time()
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_ensight.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_ensight.py", line 11
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_gl.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_gl.py", line 28
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_gnu.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_gnu.py", line 33
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_histo.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_histo.py", line 13
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_image.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_image.py", line 9
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_ldump.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_ldump.py", line 15
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_log.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_log.py", line 7
+    print "# of vectors =",lg.nvec
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_matlab.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_matlab.py", line 33
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_mdump.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_mdump.py", line 15
+    print "Time",m.time()
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_pair.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_pair.py", line 9
+    print "Energies",ev,ec
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_patch.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_patch.py", line 10
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_pdbfile.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_pdbfile.py", line 18
+    print "Incrementally processed %d PDB files" % n
+                                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_plotview.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_plotview.py", line 18
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_rasmol.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_rasmol.py", line 11
+    print "kill image window when ready to contine ..."
+                                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_raster.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_raster.py", line 13
+    print "kill image window when ready to contine ..."
+                                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_svg.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_svg.py", line 13
+    print "kill image window when ready to contine ..."
+                                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_vcr.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_vcr.py", line 16
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_vec.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_vec.py", line 7
+    print "# of vectors =",v.nvec
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_vmd.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_vmd.py", line 11
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_vtk.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_vtk.py", line 11
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/test/test_xyz.py'...
+***   File "./lib/python3.5/site-packages/pizza/test/test_xyz.py", line 11
+    print "all done ... type CTRL-D to exit Pizza.py"
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/vcr.py'...
+***   File "./lib/python3.5/site-packages/pizza/vcr.py", line 91
+    if len(views) == 0: raise StandardError,"must have at least one GL viewer"
+                                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/vec.py'...
+***   File "./lib/python3.5/site-packages/pizza/vec.py", line 66
+    raise StandardError,"lists are not all same length"
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pizza/vmd.py'...
+***   File "./lib/python3.5/site-packages/pizza/vmd.py", line 59
+    print "pexpect from http://pypi.python.org/pypi/pexpect", \
+                                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/vtk.py'...
+***   File "./lib/python3.5/site-packages/pizza/vtk.py", line 58
+    print time,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pizza/xyz.py'...
+***   File "./lib/python3.5/site-packages/pizza/xyz.py", line 65
+    print time,
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './pizza'...
+Listing './pizza/test'...
+Listing './pizza/test/files'...
+Compiling './pizza/test/files/tmp.py'...
+Listing './share'...
+Listing './share/python-wheels'...

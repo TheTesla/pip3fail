@@ -1,0 +1,452 @@
+Listing '.'...
+Listing './bin'...
+Compiling './bin/coord2gamaObs.py'...
+***   File "./bin/coord2gamaObs.py", line 51
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/gama-data-adj.py'...
+***   File "./bin/gama-data-adj.py", line 168
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './bin/gama-data-obs.py'...
+***   File "./bin/gama-data-obs.py", line 326
+    except GamaCoordStatusError, e:
+                               ^
+SyntaxError: invalid syntax
+
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/Gizela-1.0.18.egg-info'...
+Listing './lib/python3.5/site-packages/gizela'...
+Listing './lib/python3.5/site-packages/gizela/corr'...
+Compiling './lib/python3.5/site-packages/gizela/corr/ObsCorrSphere.py'...
+***   File "./lib/python3.5/site-packages/gizela/corr/ObsCorrSphere.py", line 89
+    except Error, e:
+                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/gizela/data'...
+Compiling './lib/python3.5/site-packages/gizela/data/CoordSystemLocal.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/CoordSystemLocal.py", line 178
+    print cs
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/data/CovMat.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/CovMat.py", line 45
+    if dim < 0: raise CovMatError, "dim < 0"
+                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/CovMatApri.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/CovMatApri.py", line 86
+    raise CovMatError, "All elements in covariance matrix are allready appended"
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/EpochPointList.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/EpochPointList.py", line 98
+    raise EpochPointListError, "Method add_joined requres empty list"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/GamaCoordStatus.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/GamaCoordStatus.py", line 129
+    raise GamaCoordStatusError, "Unknown value for attribute fix"
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/GamaLocalData.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/GamaLocalData.py", line 113
+    raise NotImplementedError, "method parse_file not implemented"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/GamaLocalDataAdj.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/GamaLocalDataAdj.py", line 40
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/GamaLocalDataObs.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/GamaLocalDataObs.py", line 53
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/Network.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/Network.py", line 52
+    raise NetworkError, "Coordinate system is not consistent"
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/NetworkAdjList.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/NetworkAdjList.py", line 101
+    raise NetworkAdjListError, "Network instance expected"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/NetworkList.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/NetworkList.py", line 48
+    raise NetworkListError, "CoordSystemLocal* instance expected"
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/NetworkObsList.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/NetworkObsList.py", line 46
+    except TypeError, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/ObsCluster.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/ObsCluster.py", line 117
+    print cl
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/data/ObsClusterBase.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/ObsClusterBase.py", line 53
+    raise ObsClusterBaseError, "TextTable instance expected"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/ObsClusterCoor.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/ObsClusterCoor.py", line 85
+    print cl
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/data/ObsClusterHeightDiff.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/ObsClusterHeightDiff.py", line 60
+    print cl
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/data/ObsClusterList.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/ObsClusterList.py", line 33
+    raise ObsClusterListError, "ObsClusterBase instance expected"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/ObsClusterVector.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/ObsClusterVector.py", line 51
+    raise ObsClusterVectorError, "method transform_2d() works only with one vector in cluster"
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/ObsDirection.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/ObsDirection.py", line 66
+    print dir1.make_gama_xml()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/ObsDistance.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/ObsDistance.py", line 67
+    print dist1
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/data/ObsHeightDiff.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/ObsHeightDiff.py", line 34
+    raise ObsHeightDiffError, "no stdev and no dist set"
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/ObsSDistance.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/ObsSDistance.py", line 79
+    print sdist1
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/data/ObsVector.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/ObsVector.py", line 100
+    raise ObsVectorError,\
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/ObsZAngle.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/ObsZAngle.py", line 62
+    print z1
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/data/PointBase.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/PointBase.py", line 92
+    print p
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/data/PointCart.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/PointCart.py", line 52
+    raise PointCartError, "addition of two points supported"
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/PointCartCovMat.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/PointCartCovMat.py", line 70
+    raise PointCartCovMatError,\
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/PointGeodetic.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/PointGeodetic.py", line 72
+    print c1
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/data/PointList.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/PointList.py", line 57
+    raise PointListError, "TextTable instance expected"
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/PointListCovMat.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/PointListCovMat.py", line 32
+    raise PointListCovMatError, "CovMat instance expected"
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/PointListSimple.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/PointListSimple.py", line 31
+    raise PointListSimpleError, "TextTable instance expected"
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/data/PointLocalGama.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/PointLocalGama.py", line 311
+    print c
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/data/StandardDeviation.py'...
+***   File "./lib/python3.5/site-packages/gizela/data/StandardDeviation.py", line 134
+    raise StandardDeviationError, "unknown use: %s" % use
+                                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/gizela/doc'...
+Listing './lib/python3.5/site-packages/gizela/example'...
+Listing './lib/python3.5/site-packages/gizela/example/hrad'...
+Listing './lib/python3.5/site-packages/gizela/example/text-coordinates'...
+Listing './lib/python3.5/site-packages/gizela/pyplot'...
+Compiling './lib/python3.5/site-packages/gizela/pyplot/FigureLayoutBase.py'...
+***   File "./lib/python3.5/site-packages/gizela/pyplot/FigureLayoutBase.py", line 249
+    raise FigureLayoutBaseError, "Unknown axes orientation %s" % axesOri
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/pyplot/FigureLayoutEpochList2D.py'...
+***   File "./lib/python3.5/site-packages/gizela/pyplot/FigureLayoutEpochList2D.py", line 237
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/pyplot/FigureLayoutErrEll.py'...
+***   File "./lib/python3.5/site-packages/gizela/pyplot/FigureLayoutErrEll.py", line 116
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/pyplot/PlotPoint.py'...
+***   File "./lib/python3.5/site-packages/gizela/pyplot/PlotPoint.py", line 214
+    print p.errEll
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/pyplot/PlotStyle.py'...
+***   File "./lib/python3.5/site-packages/gizela/pyplot/PlotStyle.py", line 40
+    print PlotStyle.lineProp
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/pyplot/PointStyle.py'...
+***   File "./lib/python3.5/site-packages/gizela/pyplot/PointStyle.py", line 72
+    print PointStyle.lineProp["alpha"]
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/pyplot/PointStyleGama.py'...
+***   File "./lib/python3.5/site-packages/gizela/pyplot/PointStyleGama.py", line 70
+    print ps.fix.textProp["fontsize"]
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/gizela/stat'...
+Compiling './lib/python3.5/site-packages/gizela/stat/CompareObs.py'...
+***   File "./lib/python3.5/site-packages/gizela/stat/CompareObs.py", line 391
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/stat/ConfidenceScale.py'...
+***   File "./lib/python3.5/site-packages/gizela/stat/ConfidenceScale.py", line 36
+    raise ConfidenceScaleError, "Zero degrees of freedom"
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/stat/DisplacementTest.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (DisplacementTest.py, line 99)
+Compiling './lib/python3.5/site-packages/gizela/stat/DisplacementTestType.py'...
+***   File "./lib/python3.5/site-packages/gizela/stat/DisplacementTestType.py", line 86
+    print t
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/stat/Epoch.py'...
+***   File "./lib/python3.5/site-packages/gizela/stat/Epoch.py", line 39
+    raise EpochError, "Data not supported"
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/stat/EpochList.py'...
+***   File "./lib/python3.5/site-packages/gizela/stat/EpochList.py", line 125
+    raise EpochListError, "Epoch instance expected"
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/stat/EpochPointList.py'...
+***   File "./lib/python3.5/site-packages/gizela/stat/EpochPointList.py", line 92
+    raise EpochPointListError, "Error compiling regular expression"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/stat/PointDisplBase.py'...
+***   File "./lib/python3.5/site-packages/gizela/stat/PointDisplBase.py", line 42
+    raise PointDisplBaseError, "PointCartCovMat instance expected"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/stat/PointLocalGamaDisplTest.py'...
+***   File "./lib/python3.5/site-packages/gizela/stat/PointLocalGamaDisplTest.py", line 87
+    print p
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/stat/TestResult.py'...
+***   File "./lib/python3.5/site-packages/gizela/stat/TestResult.py", line 85
+    print tr
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/gizela/test'...
+Compiling './lib/python3.5/site-packages/gizela/test/gamalocalcorrtest.py'...
+***   File "./lib/python3.5/site-packages/gizela/test/gamalocalcorrtest.py", line 38
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/gizela/text'...
+Compiling './lib/python3.5/site-packages/gizela/text/TextTable.py'...
+***   File "./lib/python3.5/site-packages/gizela/text/TextTable.py", line 117
+    raise TextTableError, "The Number of labels does not equal to number of rowdatafun functions (%i!=%i)" % \
+                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/gizela/tran'...
+Compiling './lib/python3.5/site-packages/gizela/tran/Tran2D.py'...
+***   File "./lib/python3.5/site-packages/gizela/tran/Tran2D.py", line 49
+    raise Tran2DError, "trnKey with six items expected"
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/tran/Tran3D.py'...
+***   File "./lib/python3.5/site-packages/gizela/tran/Tran3D.py", line 94
+    print tr
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/tran/TranBase.py'...
+***   File "./lib/python3.5/site-packages/gizela/tran/TranBase.py", line 43
+    raise TranBaseError,\
+                       ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/gizela/util'...
+Compiling './lib/python3.5/site-packages/gizela/util/AxesOrientation.py'...
+***   File "./lib/python3.5/site-packages/gizela/util/AxesOrientation.py", line 57
+    raise AxesOrientationError, "Unknown axes orientation %s" % ori
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/util/Converter.py'...
+***   File "./lib/python3.5/site-packages/gizela/util/Converter.py", line 71
+    print "This is Converter class instance"
+                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/util/CoordSystemGlobal.py'...
+***   File "./lib/python3.5/site-packages/gizela/util/CoordSystemGlobal.py", line 75
+    print cs
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gizela/util/CoordSystemLocal2D.py'...
+***   File "./lib/python3.5/site-packages/gizela/util/CoordSystemLocal2D.py", line 72
+    raise NotImplementedError, "Inverse projection not implemented"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/util/CoordSystemLocal3D.py'...
+***   File "./lib/python3.5/site-packages/gizela/util/CoordSystemLocal3D.py", line 82
+    raise NotImplementedError, "Inverse transformation not implemented"
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/util/Ellipsoid.py'...
+***   File "./lib/python3.5/site-packages/gizela/util/Ellipsoid.py", line 47
+    raise EllipsoidError, "Unknown ellipsoid \"%s\"" % code
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/util/gama_data_fun.py'...
+***   File "./lib/python3.5/site-packages/gizela/util/gama_data_fun.py", line 31
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/util/parse_central_point.py'...
+***   File "./lib/python3.5/site-packages/gizela/util/parse_central_point.py", line 29
+    raise ParseCentralPointError, "latitude and longitude not set: %s"%\
+                                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/gizela/xml'...
+Compiling './lib/python3.5/site-packages/gizela/xml/GamaLocalAdjParser.py'...
+***   File "./lib/python3.5/site-packages/gizela/xml/GamaLocalAdjParser.py", line 99
+    raise GamaLocalAdjParserError, "<gama-local-adjustment> root element not found"
+                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gizela/xml/GamaLocalObsParser.py'...
+***   File "./lib/python3.5/site-packages/gizela/xml/GamaLocalObsParser.py", line 104
+    raise GamaLocalObsParserError, "<gama-local> root element not found"
+                                 ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

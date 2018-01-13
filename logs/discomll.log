@@ -1,0 +1,271 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/discomll'...
+Listing './lib/python3.5/site-packages/discomll/classification'...
+Compiling './lib/python3.5/site-packages/discomll/classification/naivebayes.py'...
+***   File "./lib/python3.5/site-packages/discomll/classification/naivebayes.py", line 237
+    print "There is only one class in training data."
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/discomll/clustering'...
+Listing './lib/python3.5/site-packages/discomll/datasets'...
+Listing './lib/python3.5/site-packages/discomll/ensemble'...
+Listing './lib/python3.5/site-packages/discomll/ensemble/core'...
+Compiling './lib/python3.5/site-packages/discomll/ensemble/distributed_random_forest.py'...
+***   File "./lib/python3.5/site-packages/discomll/ensemble/distributed_random_forest.py", line 69
+    print "Warning: Only one class in the subset!"
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/ensemble/distributed_weighted_forest.py'...
+***   File "./lib/python3.5/site-packages/discomll/ensemble/distributed_weighted_forest.py", line 76
+    print "Warning: Only one class in the subset!"
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/ensemble/distributed_weighted_forest_rand.py'...
+***   File "./lib/python3.5/site-packages/discomll/ensemble/distributed_weighted_forest_rand.py", line 107
+    print "Warning: Only one class in the subset!"
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/ensemble/forest_distributed_decision_trees.py'...
+***   File "./lib/python3.5/site-packages/discomll/ensemble/forest_distributed_decision_trees.py", line 60
+    print "Warning: Only one class in the subset!"
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/discomll/examples'...
+Listing './lib/python3.5/site-packages/discomll/examples/big_data'...
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/drf_lymphography.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/drf_lymphography.py", line 28
+    print predict_url
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/drf_segmentation.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/drf_segmentation.py", line 28
+    print predictions
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/dwfr_lymphography.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/dwfr_lymphography.py", line 29
+    print predict_url
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/dwfr_segmentation.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/dwfr_segmentation.py", line 29
+    print predictions
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/fddt_lymphography.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/fddt_lymphography.py", line 29
+    print predict_url
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/fddt_segmentation.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/fddt_segmentation.py", line 29
+    print predict_url
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/kmeans_linear.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/kmeans_linear.py", line 22
+    print predictions
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/kmeans_segmentation.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/kmeans_segmentation.py", line 24
+    print predictions
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/linreg_fraction.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/linreg_fraction.py", line 24
+    print predictions
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/linreg_linear.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/linreg_linear.py", line 24
+    print predictions
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/logreg_ionosphere.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/logreg_ionosphere.py", line 28
+    print predictions
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/logreg_sonar.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/logreg_sonar.py", line 28
+    print predictions
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/lwlr_fraction.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/lwlr_fraction.py", line 21
+    print predictions
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/lwlr_linear.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/lwlr_linear.py", line 21
+    print predictions
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/nb_lymphography.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/nb_lymphography.py", line 26
+    print predictions
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/nb_segmentation.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/nb_segmentation.py", line 26
+    print predictions
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/svm_ionosphere.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/svm_ionosphere.py", line 28
+    print predictions
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/big_data/svm_sonar.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/big_data/svm_sonar.py", line 28
+    print predictions
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/discomll/examples/classification'...
+Compiling './lib/python3.5/site-packages/discomll/examples/classification/linear_svm_ddfs.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/classification/linear_svm_ddfs.py", line 35
+    print model
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/classification/logistic_regression_ddfs.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/classification/logistic_regression_ddfs.py", line 17
+    print model
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/classification/naivebayes_ddfs.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/classification/naivebayes_ddfs.py", line 38
+    print model
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/discomll/examples/clustering'...
+Compiling './lib/python3.5/site-packages/discomll/examples/clustering/kmeans_ddfs.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/clustering/kmeans_ddfs.py", line 27
+    print model
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/discomll/examples/ensemble'...
+Compiling './lib/python3.5/site-packages/discomll/examples/ensemble/drf_breastcancer_url.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/ensemble/drf_breastcancer_url.py", line 19
+    print model_view.output_model(fit_model)
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/discomll/examples/ensemble/dwf_breastcancer_url.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/ensemble/dwf_breastcancer_url.py", line 24
+    print k, v[0]
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/ensemble/dwf_rand_breastcancer_url.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/ensemble/dwf_rand_breastcancer_url.py", line 25
+    print k, v[0]
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/ensemble/fddt_breastcancer_url.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/ensemble/fddt_breastcancer_url.py", line 18
+    print model_view.output_model(fit_model)
+                   ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/discomll/examples/regression'...
+Compiling './lib/python3.5/site-packages/discomll/examples/regression/linear_regression_ddfs.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/regression/linear_regression_ddfs.py", line 25
+    print model
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/examples/regression/locally_weighted_linear_regression_ddfs.py'...
+***   File "./lib/python3.5/site-packages/discomll/examples/regression/locally_weighted_linear_regression_ddfs.py", line 23
+    print k, v
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/discomll/regression'...
+Listing './lib/python3.5/site-packages/discomll/tests'...
+Compiling './lib/python3.5/site-packages/discomll/tests/chunk_testdata.py'...
+***   File "./lib/python3.5/site-packages/discomll/tests/chunk_testdata.py", line 19
+    print f.name
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/tests/locally_weighted_linear_regression.py'...
+***   File "./lib/python3.5/site-packages/discomll/tests/locally_weighted_linear_regression.py", line 41
+    print "tau should be greater than 0."
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/tests/tests_classification.py'...
+***   File "./lib/python3.5/site-packages/discomll/tests/tests_classification.py", line 18
+    print "Chunking test datasets to DDFS..."
+                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/tests/tests_clustering.py'...
+***   File "./lib/python3.5/site-packages/discomll/tests/tests_clustering.py", line 17
+    print "Chunking test datasets to DDFS..."
+                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/discomll/tests/tests_regression.py'...
+***   File "./lib/python3.5/site-packages/discomll/tests/tests_regression.py", line 17
+    print "Chunking test datasets to DDFS..."
+                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/discomll/utils'...
+Listing './lib/python3.5/site-packages/discomll-0.1.4.2.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

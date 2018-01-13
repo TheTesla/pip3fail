@@ -1,0 +1,712 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/FanFicFare-2.20.0.egg-info'...
+Listing './lib/python3.5/site-packages/beautifulsoup4-4.6.0.dist-info'...
+Listing './lib/python3.5/site-packages/bs4'...
+Listing './lib/python3.5/site-packages/bs4/builder'...
+Listing './lib/python3.5/site-packages/bs4/tests'...
+Listing './lib/python3.5/site-packages/chardet'...
+Listing './lib/python3.5/site-packages/chardet/cli'...
+Listing './lib/python3.5/site-packages/chardet-3.0.4.dist-info'...
+Listing './lib/python3.5/site-packages/fanficfare'...
+Listing './lib/python3.5/site-packages/fanficfare/adapters'...
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_adastrafanficcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_adastrafanficcom.py", line 76
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_adultfanfictionorg.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_adultfanfictionorg.py", line 201
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_andromedawebcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_andromedawebcom.py", line 128
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_archiveofourownorg.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_archiveofourownorg.py", line 158
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_archiveskyehawkecom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_archiveskyehawkecom.py", line 83
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_artemisfowlcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_artemisfowlcom.py", line 128
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_asexstoriescom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_asexstoriescom.py", line 87
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_ashwindersycophanthexcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_ashwindersycophanthexcom.py", line 118
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_asianfanficscom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_asianfanficscom.py", line 128
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_asr3slashzoneorg.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_asr3slashzoneorg.py", line 88
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_bdsmlibrarycom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_bdsmlibrarycom.py", line 113
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_bloodtiesfancom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_bloodtiesfancom.py", line 153
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_buffygilescom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_buffygilescom.py", line 126
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_chaossycophanthexcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_chaossycophanthexcom.py", line 91
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_chosentwofanficcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_chosentwofanficcom.py", line 88
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_csiforensicscom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_csiforensicscom.py", line 90
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_deepinmysoulnet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_deepinmysoulnet.py", line 126
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_destinysgatewaycom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_destinysgatewaycom.py", line 91
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_dokugacom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_dokugacom.py", line 129
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_dracoandginnycom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_dracoandginnycom.py", line 125
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_dramioneorg.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_dramioneorg.py", line 125
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_efictionestelielde.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_efictionestelielde.py", line 82
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_efpfanficnet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_efpfanficnet.py", line 113
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_erosnsapphosycophanthexcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_erosnsapphosycophanthexcom.py", line 91
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_fanficauthorsnet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_fanficauthorsnet.py", line 160
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_fanficcastletvnet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_fanficcastletvnet.py", line 141
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_fanfictionjunkiesde.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_fanfictionjunkiesde.py", line 150
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_fanfictionnet.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (adapter_fanfictionnet.py, line 332)
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_fanfiktionde.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_fanfiktionde.py", line 121
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_ficbooknet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_ficbooknet.py", line 80
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_fictionalleyorg.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_fictionalleyorg.py", line 83
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_fictionhuntcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_fictionhuntcom.py", line 71
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_fictionpadcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_fictionpadcom.py", line 126
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_ficwadcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_ficwadcom.py", line 99
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_fimfictionnet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_fimfictionnet.py", line 100
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_fireflyfansnet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_fireflyfansnet.py", line 82
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_fireflypopulliorg.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_fireflypopulliorg.py", line 100
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_gravitytalescom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_gravitytalescom.py", line 97
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_harrypotterfanfictioncom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_harrypotterfanfictioncom.py", line 77
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_hlfictionnet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_hlfictionnet.py", line 81
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_hpfanficarchivecom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_hpfanficarchivecom.py", line 81
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_iketernalnet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_iketernalnet.py", line 124
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_imagineeficcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_imagineeficcom.py", line 125
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_inkbunnynet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_inkbunnynet.py", line 104
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_kiarepositorymujajinet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_kiarepositorymujajinet.py", line 126
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_ksarchivecom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_ksarchivecom.py", line 104
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_lcfanficcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_lcfanficcom.py", line 92
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_lightnovelgatecom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_lightnovelgatecom.py", line 85
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_literotica.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_literotica.py", line 135
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_lotrgficcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_lotrgficcom.py", line 82
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_lumossycophanthexcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_lumossycophanthexcom.py", line 91
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_masseffect2in.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_masseffect2in.py", line 117
+    except urllib2.HTTPError, error:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_mcstoriescom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_mcstoriescom.py", line 89
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_mediaminerorg.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_mediaminerorg.py", line 111
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_merlinficdtwinscouk.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_merlinficdtwinscouk.py", line 125
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_midnightwhispers.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_midnightwhispers.py", line 109
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_nationallibrarynet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_nationallibrarynet.py", line 86
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_ncisficcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_ncisficcom.py", line 85
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_nfacommunitycom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_nfacommunitycom.py", line 104
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_noveltrovecom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_noveltrovecom.py", line 91
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_occlumencysycophanthexcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_occlumencysycophanthexcom.py", line 117
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_phoenixsongnet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_phoenixsongnet.py", line 114
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_ponyfictionarchivenet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_ponyfictionarchivenet.py", line 95
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_potionsandsnitches.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_potionsandsnitches.py", line 68
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_potterficscom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_potterficscom.py", line 147
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_potterheadsanonymouscom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_potterheadsanonymouscom.py", line 125
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_pretendercentrecom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_pretendercentrecom.py", line 94
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_qafficcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_qafficcom.py", line 91
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_royalroadl.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_royalroadl.py", line 114
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_samandjacknet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_samandjacknet.py", line 154
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_scarvesandcoffeenet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_scarvesandcoffeenet.py", line 99
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_sheppardweircom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_sheppardweircom.py", line 149
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_shriftweborgbfa.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_shriftweborgbfa.py", line 100
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_siyecouk.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_siyecouk.py", line 86
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_squidgeorgpeja.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_squidgeorgpeja.py", line 96
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_storiesofardacom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_storiesofardacom.py", line 80
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_storiesonlinenet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_storiesonlinenet.py", line 136
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_sugarquillnet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_sugarquillnet.py", line 92
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_tenhawkpresentscom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_tenhawkpresentscom.py", line 114
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_thealphagatecom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_thealphagatecom.py", line 81
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_themasquenet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_themasquenet.py", line 132
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_thepetulantpoetesscom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_thepetulantpoetesscom.py", line 115
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_tolkienfanfiction.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_tolkienfanfiction.py", line 133
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_tomparisdormcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_tomparisdormcom.py", line 82
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_trekfanfictionnet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_trekfanfictionnet.py", line 94
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_trekiverseorg.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_trekiverseorg.py", line 129
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_tthfanficorg.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_tthfanficorg.py", line 135
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_twilightarchivescom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_twilightarchivescom.py", line 81
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_twilightednet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_twilightednet.py", line 104
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_unknowableroomorg.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_unknowableroomorg.py", line 86
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_walkingtheplankorg.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_walkingtheplankorg.py", line 89
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_webnovelcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_webnovelcom.py", line 112
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_whoficcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_whoficcom.py", line 63
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_wolverineandroguecom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_wolverineandroguecom.py", line 81
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_wraithbaitcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_wraithbaitcom.py", line 90
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_writingwhimsicalwanderingsnet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_writingwhimsicalwanderingsnet.py", line 87
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_wuxiaworldcom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_wuxiaworldcom.py", line 94
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_wwwaneroticstorycom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_wwwaneroticstorycom.py", line 97
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_wwwarea52hkhnet.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_wwwarea52hkhnet.py", line 99
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_wwwlushstoriescom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_wwwlushstoriescom.py", line 123
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/adapter_wwwutopiastoriescom.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/adapter_wwwutopiastoriescom.py", line 98
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/base_adapter.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/base_adapter.py", line 462
+    except AttributeError, ae:
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/base_efiction_adapter.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/base_efiction_adapter.py", line 212
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/adapters/base_xenforoforum_adapter.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/adapters/base_xenforoforum_adapter.py", line 280
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/cli.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/cli.py", line 36
+    print 'This program requires Python 2.5 or newer.'
+                                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/fanficfare/configurable.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/configurable.py", line 77
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/geturls.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/geturls.py", line 110
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/htmlcleanup.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/htmlcleanup.py", line 84
+    except (UnicodeEncodeError,UnicodeDecodeError), e:
+                                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/mobi.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/mobi.py", line 128
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/fanficfare/story.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/story.py", line 1159
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/fanficfare/writers'...
+Compiling './lib/python3.5/site-packages/fanficfare/writers/writer_epub.py'...
+***   File "./lib/python3.5/site-packages/fanficfare/writers/writer_epub.py", line 235
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/html2text'...
+Listing './lib/python3.5/site-packages/html2text-2018.1.9.dist-info'...
+Listing './lib/python3.5/site-packages/html5lib'...
+Listing './lib/python3.5/site-packages/html5lib/_trie'...
+Listing './lib/python3.5/site-packages/html5lib/filters'...
+Listing './lib/python3.5/site-packages/html5lib/treeadapters'...
+Listing './lib/python3.5/site-packages/html5lib/treebuilders'...
+Listing './lib/python3.5/site-packages/html5lib/treewalkers'...
+Listing './lib/python3.5/site-packages/html5lib-1.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './lib/python3.5/site-packages/six-1.11.0.dist-info'...
+Listing './lib/python3.5/site-packages/webencodings'...
+Listing './lib/python3.5/site-packages/webencodings-0.5.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

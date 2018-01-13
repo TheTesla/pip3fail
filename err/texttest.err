@@ -1,0 +1,354 @@
+Listing '.'...
+Listing './bin'...
+Compiling './bin/filter_fpdiff.py'...
+Compiling './bin/filter_rundependent.py'...
+***   File "./bin/filter_rundependent.py", line 29
+    exec "import " + options.module
+                 ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/TextTest-3.29.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './lib/python3.5/site-packages/texttestlib'...
+Listing './lib/python3.5/site-packages/texttestlib/default'...
+Compiling './lib/python3.5/site-packages/texttestlib/default/__init__.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/__init__.py", line 299
+    raise plugins.TextTestError, "Conflicting default interfaces for different applications - " + \
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/actionrunner.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/actionrunner.py", line 283
+    except plugins.TextTestError, e:
+                                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/texttestlib/default/batch'...
+Compiling './lib/python3.5/site-packages/texttestlib/default/batch/HTMLgen.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/batch/HTMLgen.py", line 198
+    if PRINTECHO: print 'wrote: "'+filename+'"'
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/batch/ImageH.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (ImageH.py, line 32)
+Compiling './lib/python3.5/site-packages/texttestlib/default/batch/ImagePaletteH.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (ImagePaletteH.py, line 31)
+Compiling './lib/python3.5/site-packages/texttestlib/default/batch/__init__.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/batch/__init__.py", line 533
+    raise plugins.TextTestError, "ERROR: Cannot run batch tests with run name '" + self.runPostfix + "', name has already been used for a different run\n" + \
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/batch/batchutils.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/batch/batchutils.py", line 11
+    raise plugins.TextTestWarning, "unregistered version '" + badVersion + "' for " + self.batchSession + " session."
+                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/batch/jenkinschanges.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/batch/jenkinschanges.py", line 48
+    print "WARNING: Error while parsing XML file:" + xmlFile
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/batch/resultgraphs.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/batch/resultgraphs.py", line 10
+    raise MatplotlibError, "Could not find the Matplotlib module, which must be present for graphs to be produced."
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/batch/summarypages.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/batch/summarypages.py", line 247
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/batch/testoverview.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/batch/testoverview.py", line 338
+    exec "from " + modName + " import " + className + " as _class"
+               ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Listing './lib/python3.5/site-packages/texttestlib/default/batch/testoverview_javascript'...
+Compiling './lib/python3.5/site-packages/texttestlib/default/comparefile.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/comparefile.py", line 294
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/comparetest.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/comparetest.py", line 563
+    print "Summary : Remove these files!"
+                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/texttestlib/default/gtkgui'...
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/__init__.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/__init__.py", line 15
+    print key + "|" + self.getValue(value) + "|" + docOutput
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/actionholders.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/actionholders.py", line 70
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/controller.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/controller.py", line 13
+    raise TextTestError, "Could not start TextTest " + texttest_version.version + " GUI due to PyGTK GUI library problems :\n" + msg
+                       ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui'...
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/__init__.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/__init__.py", line 17
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/adminactions.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/adminactions.py", line 163
+    raise plugins.TextTestError, "Cannot paste test there, as the copied test and currently selected test have no application/version in common"
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/changeteststate.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/changeteststate.py", line 36
+    except plugins.TextTestError, e:
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/fileproperties.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/fileproperties.py", line 109
+    raise plugins.TextTestError, "Failed to get file properties:\n" + "\n".join(errors)
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/fileviewers.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/fileviewers.py", line 79
+    raise plugins.TextTestError, "No " + self.getToolDescription() + " is defined for files of type '" + \
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/helpdialogs.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/helpdialogs.py", line 200
+    except Exception, e: #pragma : no cover - should never happen
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/housekeeping.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/housekeeping.py", line 187
+    raise plugins.TextTestError, "Cannot save selection - no file name specified"
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/selectandfilter.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/default_gui/selectandfilter.py", line 467
+    except IOError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/guiplugins.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/guiplugins.py", line 285
+    except plugins.TextTestError, e:
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/guiutils.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/guiutils.py", line 193
+    except plugins.AggregationError, e:
+                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/statusviews.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/statusviews.py", line 82
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/texttestlib/default/gtkgui/version_control'...
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/version_control/__init__.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/version_control/__init__.py", line 23
+    exec "from " + module + " import InteractiveActionConfig"
+               ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/version_control/cvs.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/version_control/cvs.py", line 51
+    raise plugins.TextTestError, self.errorMessage
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/gtkgui/version_control/vcs_independent.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/gtkgui/version_control/vcs_independent.py", line 57
+    raise plugins.TextTestError, "Could not run " + self.name + ": make sure you have it installed locally"
+                               ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/texttestlib/default/knownbugs'...
+Compiling './lib/python3.5/site-packages/texttestlib/default/knownbugs/__init__.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/knownbugs/__init__.py", line 67
+    exec "from " + self.bugSystem + " import findBugInfo as _findBugInfo"
+               ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/knownbugs/bugzilla.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/knownbugs/bugzilla.py", line 53
+    except xmlrpclib.Fault, e:
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/knownbugs/bugzillav2.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/knownbugs/bugzillav2.py", line 14
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/knownbugs/jira.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/knownbugs/jira.py", line 110
+    except xmlrpclib.Fault, e:
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/knownbugs/trac.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/knownbugs/trac.py", line 13
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/performance.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/performance.py", line 74
+    raise plugins.TextTestError, "Could not parse time expression '" + timeExpression + "' : all expressions must begin with '<' or '>'."
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/reconnect.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/reconnect.py", line 222
+    raise plugins.TextTestError, self.errorMessage
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/runtest.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/runtest.py", line 264
+    raise plugins.TextTestError, message
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/sandbox.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/sandbox.py", line 61
+    raise plugins.TextTestError, msg
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/scripts.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/scripts.py", line 16
+    print app.description(), "has", count, "tests"
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/default/traffic.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/default/traffic.py", line 67
+    raise plugins.TextTestError, "Test requires CaptureMock to be installed, but the capturemock module could not be found\nSearched in " + repr(sys.path)
+                               ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/texttestlib/doc'...
+Compiling './lib/python3.5/site-packages/texttestlib/engine.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/engine.py", line 121
+    except plugins.TextTestError, e:
+                                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/texttestlib/etc'...
+Listing './lib/python3.5/site-packages/texttestlib/images'...
+Listing './lib/python3.5/site-packages/texttestlib/images/retro'...
+Compiling './lib/python3.5/site-packages/texttestlib/jobprocess.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/jobprocess.py", line 19
+    raise WrongOSException, "JobProcess doesn't work on Windows"
+                          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/texttestlib/libexec'...
+Listing './lib/python3.5/site-packages/texttestlib/log'...
+Compiling './lib/python3.5/site-packages/texttestlib/plugins.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/plugins.py", line 83
+    exec command
+               ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Listing './lib/python3.5/site-packages/texttestlib/queuesystem'...
+Compiling './lib/python3.5/site-packages/texttestlib/queuesystem/__init__.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/queuesystem/__init__.py", line 284
+    raise plugins.TextTestError, "No support currently for running ec2cloud tests at the same time as tests with other queue systems"
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/queuesystem/ec2cloud.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/queuesystem/ec2cloud.py", line 104
+    except plugins.TextTestError, e:
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/queuesystem/local.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/queuesystem/local.py", line 22
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/queuesystem/lsf.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/queuesystem/lsf.py", line 72
+    print "Unexpected output from bsub :", line.strip()
+                                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/queuesystem/masterprocess.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/queuesystem/masterprocess.py", line 76
+    raise plugins.TextTestError, "The queue system module is reporting zero capacity.\nEither you have set 'queue_system_max_capacity' to 0 or something is uninstalled or unavailable. Exiting."
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/queuesystem/sge.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/queuesystem/sge.py", line 86
+    raise TextTestError, "Failed to suspend job using command '" + " ".join(cmdArgs) + \
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/queuesystem/slavejobs.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/queuesystem/slavejobs.py", line 73
+    raise plugins.TextTestError, "Cannot run slave, no server address has been provided to send results to!"
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/texttestlib/testmodel.py'...
+***   File "./lib/python3.5/site-packages/texttestlib/testmodel.py", line 89
+    raise KeyError, "No such value " + key
+                  ^
+SyntaxError: invalid syntax
+
+Listing './share'...
+Listing './share/python-wheels'...

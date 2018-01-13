@@ -1,0 +1,199 @@
+Listing '.'...
+Listing './bin'...
+Compiling './bin/flashstudy.py'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/appdirs-1.4.3.dist-info'...
+Listing './lib/python3.5/site-packages/bin'...
+Listing './lib/python3.5/site-packages/flashCardStudy-1.0.6.egg-info'...
+Listing './lib/python3.5/site-packages/flashcardstudy'...
+Compiling './lib/python3.5/site-packages/flashcardstudy/card.py'...
+***   File "./lib/python3.5/site-packages/flashcardstudy/card.py", line 44
+    print "Error! Invalid command. Select only 'A', 'M', 'D', 'C' or 'Q'"
+                                                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/flashcardstudy/display.py'...
+***   File "./lib/python3.5/site-packages/flashcardstudy/display.py", line 14
+    print "\nElapsed time h:mm:ss  %s" % session.get_time()
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flashcardstudy/errors.py'...
+***   File "./lib/python3.5/site-packages/flashcardstudy/errors.py", line 24
+    print 'Error!', error, print_help
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/flashcardstudy/help.py'...
+***   File "./lib/python3.5/site-packages/flashcardstudy/help.py", line 57
+    print """
+	-h, --help: See this screen
+
+	File-based arguments	
+	--------------------
+
+	-d, --display: Start session in with cards in order. 
+	
+	You always need to pass `-d` or `--display` and stack file(s) (*.stk) to
+	start session, except `-a` (see below).
+
+	Optional arguments:
+	-r, --random: Will display cards in random order.
+	-s, --stack: Next stack will be randomly selected. 
+	-v, --reverse: Shows side two of card(s) first.
+	-w, --wildcard: Jumps between stacks AND cards in randomly. 
+
+		Example: `python flashcard.py mystack.stk -d -r`
+
+		This will launch flashcard with only one stack file
+		named `mystack.stk' and it will display cards
+		in random order. 
+	
+	-a, --all: Automatically passess all stack files in current dir. Use
+		instead of `-d`. You can combine this with optional args.
+	
+		Example: `python flashcard.py -a -w`
+
+		Will display all stacks in current dir in random order, program
+                would be jumping randomly between stacks and cards.
+
+	General arguments	
+	-----------------
+	You can't pass stack files when using these args:
+
+	-n, --new: Create new stack (with cards).
+	-l, --list: List stack(s) in current dir.
+	-o, --order: Only for changing order of stacks in current dir.
+	--author: Author info.
+
+		Example: 'python flashcard.py -n`
+
+		Launches flashCardStudy in a mode that allows you to create
+		new stack and add cards into that stack.
+	
+	Edit argument
+	-------------
+	You can combine `-e` or `--edit` with only single stack file. It is
+	used to edit given stack file.
+
+        GUI mode
+        --------
+        When using arg `--gui`, you will be presented with graphical version
+        of the program. GUI mode keeps all stacks in its own system folder (see
+        `help` in the help menu for more info.)
+"""
+             
+	                           
+
+	                    	
+	                    
+
+	                                                     
+	
+	                                                                        
+	                                       
+
+	                   
+	                                                 
+	                                                   
+	                                               
+	                                                            
+
+		                                                
+
+		                                                   
+		                                             
+		                 
+	
+	                                                                    
+		                                                         
+	
+		                                    
+
+		                                                               
+                                                                   
+
+	                 	
+	                 
+	                                                 
+
+	                                         
+	                                         
+	                                                              
+	                      
+
+		                                 
+
+		                                                           
+		                                        
+	
+	             
+	             
+	                                                                   
+	                              
+
+                
+                
+                                                                            
+                                                                               
+                                               
+  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flashcardstudy/processor.py'...
+***   File "./lib/python3.5/site-packages/flashcardstudy/processor.py", line 35
+    print "Reordered! "
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/flashcardstudy/stack.py'...
+***   File "./lib/python3.5/site-packages/flashcardstudy/stack.py", line 41
+    print "Cannot use blank name. Try again.\n"
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/gui'...
+Compiling './lib/python3.5/site-packages/gui/config.py'...
+***   File "./lib/python3.5/site-packages/gui/config.py", line 19
+    print "data dir does not exist, creating..."
+                                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gui/display.py'...
+***   File "./lib/python3.5/site-packages/gui/display.py", line 45
+    print "Starting session with these cards: ","\n", contents
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/gui/main.py'...
+***   File "./lib/python3.5/site-packages/gui/main.py", line 21
+    print "conf file doesn't exist"
+                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/prettytable-0.7.2.egg-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './lib/python3.5/site-packages/tests'...
+Listing './share'...
+Listing './share/python-wheels'...

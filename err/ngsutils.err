@@ -1,0 +1,551 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/coverage'...
+Listing './lib/python3.5/site-packages/coverage/fullcoverage'...
+Listing './lib/python3.5/site-packages/coverage/htmlfiles'...
+Listing './lib/python3.5/site-packages/coverage-4.4.2.dist-info'...
+Listing './lib/python3.5/site-packages/eta'...
+Listing './lib/python3.5/site-packages/eta-0.9.7.egg-info'...
+Listing './lib/python3.5/site-packages/ngsutils'...
+Listing './lib/python3.5/site-packages/ngsutils/bam'...
+Compiling './lib/python3.5/site-packages/ngsutils/bam/__init__.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/__init__.py", line 625
+    print 'ERROR converting: ', name, fragments
+                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/basecall.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/basecall.py", line 66
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/best.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/best.py", line 21
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/check.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/check.py", line 44
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/cims.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/cims.py", line 27
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/cleancigar.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/cleancigar.py", line 33
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/convertregion.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/convertregion.py", line 38
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/count.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/count.py", line 108
+    print 'Error: %s' % msg
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/export.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/export.py", line 99
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/expressed.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/expressed.py", line 119
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/extract.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/extract.py", line 31
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/filter.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/filter.py", line 121
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/innerdist.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/innerdist.py", line 109
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/junctioncount.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/junctioncount.py", line 60
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/keepbest.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/keepbest.py", line 61
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/merge.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/merge.py", line 35
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/minorallele.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/minorallele.py", line 58
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/pair.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/pair.py", line 28
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/peakheight.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/peakheight.py", line 42
+    print '\t'.join([str(x) for x in cols])
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/removeclipping.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/removeclipping.py", line 96
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/renamepair.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/renamepair.py", line 36
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/split.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/split.py", line 21
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/stats.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/stats.py", line 102
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/tag.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/tag.py", line 162
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/tobed.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/tobed.py", line 27
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/tobedgraph.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/tobedgraph.py", line 122
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bam/tofastq.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bam/tofastq.py", line 88
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/ngsutils/bed'...
+Compiling './lib/python3.5/site-packages/ngsutils/bed/annotate.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/annotate.py", line 19
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/clean.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/clean.py", line 14
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/cleanbg.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/cleanbg.py", line 16
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/extend.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/extend.py", line 15
+    print 'ERROR: %s' % msg
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/frombasecall.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/frombasecall.py", line 35
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/fromprimers.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/fromprimers.py", line 35
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/fromvcf.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/fromvcf.py", line 31
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/overlap.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/overlap.py", line 15
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/reduce.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/reduce.py", line 15
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/refcount.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/refcount.py", line 30
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/sizes.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/sizes.py", line 14
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/stats.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/stats.py", line 19
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/subtract.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/subtract.py", line 14
+    print 'ERROR: %s' % msg
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/tobed3.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/tobed3.py", line 14
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/tobed6.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/tobed6.py", line 14
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/tobedgraph.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/tobedgraph.py", line 73
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/bed/tofasta.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/bed/tofasta.py", line 47
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/ngsutils/fastq'...
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/barcode_split.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/barcode_split.py", line 175
+    print 'Testing tag: %s vs %s' % (str(barcodes[tag]), testseq)
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/bfq.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/bfq.py", line 610
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/convertqual.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/convertqual.py", line 15
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/csencode.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/csencode.py", line 58
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/filter.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/filter.py", line 420
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/fromfasta.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/fromfasta.py", line 24
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/fromqseq.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/fromqseq.py", line 98
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/merge.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/merge.py", line 61
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/names.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/names.py", line 23
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/properpairs.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/properpairs.py", line 91
+    print '%s\n' % msg
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/revcomp.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/revcomp.py", line 29
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/sort.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/sort.py", line 114
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/split.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/split.py", line 72
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/stats.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/stats.py", line 219
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/tag.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/tag.py", line 32
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/tile.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/tile.py", line 68
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/tobam.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/tobam.py", line 59
+    print """Usage: fastqutils tobam {opts} outfile.bam read1.fastq{.gz} {read2.fastq}
+
+Note: If two FASTQ files are given, they are assumed to be paired end reads.
+
+Options:
+  -f    Force overwriting output file
+
+"""
+                                                                                      
+
+                                                                            
+
+        
+                                     
+
+  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/tofasta.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/tofasta.py", line 29
+    print """Usage: fastqutils tofasta {-qual} filename.fastq{.gz}
+Options:
+  -qual    Export the quality values (space separated numbers)
+"""
+                                                                  
+        
+                                                              
+  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/trim.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/trim.py", line 89
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/truncate.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/truncate.py", line 27
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/fastq/unmerge.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/fastq/unmerge.py", line 50
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/ngsutils/gtf'...
+Compiling './lib/python3.5/site-packages/ngsutils/gtf/__init__.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/gtf/__init__.py", line 170
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ngsutils/gtf/add_isoform.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/gtf/add_isoform.py", line 78
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/gtf/add_reflink.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/gtf/add_reflink.py", line 78
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/gtf/add_xref.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/gtf/add_xref.py", line 73
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/gtf/annotate.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/gtf/annotate.py", line 22
+    print '%s\n' % msg
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/gtf/filter.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/gtf/filter.py", line 15
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/gtf/genesize.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/gtf/genesize.py", line 14
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/gtf/junctions.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/gtf/junctions.py", line 175
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/gtf/query.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/gtf/query.py", line 17
+    print '%s\n' % msg
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/gtf/remove_dup.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/gtf/remove_dup.py", line 56
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/gtf/tobed.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/gtf/tobed.py", line 20
+    print '%s\n' % msg
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/ngsutils/ngs'...
+Compiling './lib/python3.5/site-packages/ngsutils/ngs/bgtowig.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/ngs/bgtowig.py", line 14
+    print __doc__
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/ngsutils/support'...
+Compiling './lib/python3.5/site-packages/ngsutils/support/bgzip.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/support/bgzip.py", line 38
+    print "Bad Whence value!: %s" % whence
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/ngsutils/support/dbsnp.py'...
+***   File "./lib/python3.5/site-packages/ngsutils/support/dbsnp.py", line 99
+    print ' ->', op, chrom, pos, base
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/ngsutils-0.5.9.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/pysam'...
+Listing './lib/python3.5/site-packages/pysam/include'...
+Listing './lib/python3.5/site-packages/pysam/include/bcftools'...
+Listing './lib/python3.5/site-packages/pysam/include/htslib'...
+Listing './lib/python3.5/site-packages/pysam/include/htslib/htslib'...
+Listing './lib/python3.5/site-packages/pysam/include/samtools'...
+Listing './lib/python3.5/site-packages/pysam/include/samtools/win32'...
+Listing './lib/python3.5/site-packages/pysam-0.13.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './lib/python3.5/site-packages/swalign'...
+Compiling './lib/python3.5/site-packages/swalign/__init__.py'...
+***   File "./lib/python3.5/site-packages/swalign/__init__.py", line 244
+    print aln
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/swalign-0.3.4.egg-info'...
+Listing './share'...
+Listing './share/python-wheels'...

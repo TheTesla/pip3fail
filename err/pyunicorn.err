@@ -1,0 +1,243 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/pyunicorn'...
+Listing './lib/python3.5/site-packages/pyunicorn/climate'...
+Compiling './lib/python3.5/site-packages/pyunicorn/climate/climate_data.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/climate/climate_data.py", line 313
+    print "Calculating climatological mean values..."
+                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/climate/climate_network.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/climate/climate_network.py", line 98
+    print "Either threshold or link_density have to be prescribed \
+for network construction!"
+                                                                   
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/climate/coupled_climate_network.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/climate/coupled_climate_network.py", line 135
+    print "The two observables (layers) have to have the same number \
+of temporal sampling points!"
+                                                                      
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyunicorn/climate/coupled_tsonis.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/climate/coupled_tsonis.py", line 115
+    print "\nThe two observables (layers) have to have the same \
+number of temporal sampling points!\n"
+                                                                 
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyunicorn/climate/havlin.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/climate/havlin.py", line 83
+    print "Generating a Havlin climate network..."
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/climate/hilbert.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/climate/hilbert.py", line 25
+    print "climate: Package scipy.signal could not be loaded. Some \
+functionality in class HilbertClimateNetwork might not be available!"
+                                                                    
+                                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/climate/map_plots.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/climate/map_plots.py", line 26
+    print "climate: Package Ngl could not be loaded. Some functionality \
+in class MapPlots might not be available!"
+                                                                         
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/climate/mutual_info.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/climate/mutual_info.py", line 84
+    print "Generating a mutual information climate network..."
+                                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/climate/partial_correlation.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/climate/partial_correlation.py", line 72
+    print "Generating a partial correlation climate network..."
+                                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/climate/rainfall.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/climate/rainfall.py", line 88
+    print "Generating a Rainfall climate network..."
+                                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/climate/spearman.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/climate/spearman.py", line 77
+    print "Generating a Spearman climate network..."
+                                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/climate/tsonis.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/climate/tsonis.py", line 80
+    print "Generating a Tsonis climate network..."
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyunicorn/core'...
+Compiling './lib/python3.5/site-packages/pyunicorn/core/data.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/core/data.py", line 26
+    print "pyunicorn: Package netCDF4 could not be loaded. Some \
+functionality in class Data might not be available!"
+                                                                 
+                                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/core/geo_network.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/core/geo_network.py", line 112
+    print "Setting area weights according to type " \
+                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/core/grid.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/core/grid.py", line 31
+    print "An error occurred when importing matplotlib.path! \
+Some functionality in Grid class might not be available."
+                                                              
+                                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/core/interacting_networks.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/core/interacting_networks.py", line 153
+    print "Setting number of cross links according to \
+chosen link density."
+                                                       
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/core/netcdf_dictionary.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/core/netcdf_dictionary.py", line 26
+    print "pyunicorn: Package netCDF4 could not be loaded. \
+Some functionality in class NetCDFDictionary might not be available!"
+                                                            
+                                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/core/network.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/core/network.py", line 67
+    print 'Calculating ' + msg + '...'
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/core/resistive_network.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/core/resistive_network.py", line 64
+    print "Could not import weave. Using fallback Python code instead of C"
+                                                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyunicorn/funcnet'...
+Compiling './lib/python3.5/site-packages/pyunicorn/funcnet/coupling_analysis.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/funcnet/coupling_analysis.py", line 85
+    print "irregular array shape..."
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/funcnet/coupling_analysis_pure_python.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/funcnet/coupling_analysis_pure_python.py", line 83
+    print "irregular array shape..."
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyunicorn/timeseries'...
+Compiling './lib/python3.5/site-packages/pyunicorn/timeseries/cross_recurrence_plot.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/timeseries/cross_recurrence_plot.py", line 160
+    print "Error: Please give either threshold or recurrence_rate \
+to construct the cross recurrence plot!"
+                                                                   
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/timeseries/inter_system_recurrence_network.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/timeseries/inter_system_recurrence_network.py", line 184
+    print "Error: Please give either threshold or recurrence_rate \
+to construct the joint recurrence plot!"
+                                                                   
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/timeseries/joint_recurrence_network.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/timeseries/joint_recurrence_network.py", line 142
+    print "Error: Both time series x and y need to have the same \
+length!"
+                                                                  
+       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/timeseries/joint_recurrence_plot.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/timeseries/joint_recurrence_plot.py", line 184
+    print "Error: Delay value (lag) must not exceed length of \
+time series!"
+                                                               
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pyunicorn/timeseries/recurrence_plot.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/timeseries/recurrence_plot.py", line 207
+    print "Error: Please give either threshold or recurrence_rate \
+to construct the recurrence plot!"
+                                                                   
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/timeseries/surrogates.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/timeseries/surrogates.py", line 58
+    print "Generated an instance of the Surrogates class."
+                                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/timeseries/visibility_graph.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/timeseries/visibility_graph.py", line 104
+    print "Calculating visibility relations..."
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyunicorn/utils'...
+Compiling './lib/python3.5/site-packages/pyunicorn/utils/mpi.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/utils/mpi.py", line 248
+    print "MPI master : assigning call with id", id, "to slave", \
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pyunicorn/utils/navigator.py'...
+***   File "./lib/python3.5/site-packages/pyunicorn/utils/navigator.py", line 232
+    print sum_D
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pyunicorn/utils/progressbar'...
+Listing './lib/python3.5/site-packages/pyunicorn-0.4.1.egg-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

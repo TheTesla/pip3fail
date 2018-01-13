@@ -1,0 +1,131 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/geolucidate'...
+Listing './lib/python3.5/site-packages/geolucidate/links'...
+Compiling './lib/python3.5/site-packages/geolucidate/parser.py'...
+***   File "./lib/python3.5/site-packages/geolucidate/parser.py", line 63
+    parser_re = re.compile(ur"""\b
+    # Latitude direction, first position: one of N, S, NORTH, SOUTH
+    ((?P<latdir>NORTH|SOUTH|[NS])\ ?)?
+    # Latitude degrees: two digits 0-90
+    (?P<latdeg>([0-8][0-9])|90)
+    # Optional space, degree mark, period,
+    # or word separating degrees and minutes
+    (\ |(?P<degmark>\ ?(º|°)\ ?|(?P<degpd>\.)|-|\ DEGREES,\ ))?
+    (?P<latminsec>
+    # Latitude minutes: two digits 0-59
+    (?P<latmin>([0-5]?)[0-9])
+    # If there was a degree mark before, look for punctuation after the minutes
+    (\ |(?(degmark)('|"|\ MINUTES(,\ )?)))?
+    (
+    # Latitude seconds: two digits
+    (
+    ((?(degpd)\.?)(?P<latsec>(\d{1,2})))|
+    # Decimal fraction of minutes
+    (?P<latdecsec>\.\d{1,3}))?)
+    (?(degmark)("|'|\ SECONDS\ )?)
+    )?
+    # Latitude direction, second position, optionally preceded by a space
+    (\ ?(?P<latdir2>(?(latdir)|(NORTH|SOUTH|[NS]))))
+    # Latitude/longitude delimiter: space, forward slash, comma, or none
+    (\ ?[ /]\ ?|,\ )?
+    # Longitude direction, first position: one of E, W, EAST, WEST
+    (?(latdir)((?P<longdir>EAST|WEST|[EW])\ ?))
+    # Longitude degrees: two or three digits
+    (?P<longdeg>((1(([0-7][0-9]|80))|(0?[0-9][0-9]))))
+    # If there was a degree mark before, look for another one here
+    (\ |(?(degmark)(\ ?(º|°)\ ?|\.|-|\ DEGREES,\ )))?
+    (?(latminsec)   #Only look for minutes and seconds in the longitude
+    (?P<longminsec> #if they were there in the latitude
+    # Longitude minutes: two digits
+    (?P<longmin>([0-5]?)[0-9])
+    # If there was a degree mark before, look for punctuation after the minutes
+    (\ |(?(degmark)('|"|\ MINUTES(,\ )?)))?
+    # Longitude seconds: two digits
+    (
+    ((?(degpd)\.?)(?P<longsec>(\d{1,2})))|
+    # Decimal fraction of minutes
+    (?P<longdecsec>\.\d{1,3}))?)
+    (?(degmark)("|'|\ SECONDS\ )?)
+    )
+    #Longitude direction, second position: optionally preceded by a space
+    (?(latdir)|\ ?(?P<longdir2>(EAST|WEST|[EW])))
+    \b
+    """, re.VERBOSE | re.UNICODE | re.IGNORECASE)
+                                  
+                                                                   
+                                      
+                                       
+                               
+                                          
+                                            
+                                                               
+                  
+                                       
+                             
+                                                                               
+                                           
+     
+                                  
+     
+                                         
+                                 
+                               
+                                  
+      
+                                                                         
+                                                    
+                                                                        
+                     
+                                                                  
+                                               
+                                            
+                                                      
+                                                                  
+                                                     
+                                                                       
+                                                       
+                                   
+                              
+                                                                               
+                                           
+                                   
+     
+                                          
+                                 
+                                
+                                  
+     
+                                                                         
+                                                 
+      
+      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/geolucidate/tests'...
+Listing './lib/python3.5/site-packages/geolucidate-0.4.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

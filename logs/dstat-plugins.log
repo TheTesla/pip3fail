@@ -1,0 +1,425 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/PyMySQL-0.8.0.dist-info'...
+Listing './lib/python3.5/site-packages/dstat_plugins'...
+Listing './lib/python3.5/site-packages/dstat_plugins/plugins'...
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_battery.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_battery.py", line 21
+    raise Exception, "No ACPI battery information found."
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_condor_queue.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_condor_queue.py", line 30
+    raise Exception, 'condor_config must be initialized either using a file or config text'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_cpufreq.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_cpufreq.py", line 17
+    raise Exception, 'Cannot access acpi %s frequency information' % os.path.basename(cpu)
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_dbus.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_dbus.py", line 27
+    raise Exception, 'Unable to connect to dbus message bus'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_disk_avgqu.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_disk_avgqu.py", line 28
+    raise Exception, "No suitable block devices found to monitor"
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_disk_avgrq.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_disk_avgrq.py", line 29
+    raise Exception, "No suitable block devices found to monitor"
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_disk_svctm.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_disk_svctm.py", line 32
+    raise Exception, "No suitable block devices found to monitor"
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_disk_tps.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_disk_tps.py", line 28
+    raise Exception, "No suitable block devices found to monitor"
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_disk_util.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_disk_util.py", line 31
+    raise Exception, "No suitable block devices found to monitor"
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_disk_wait.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_disk_wait.py", line 30
+    raise Exception, "No suitable block devices found to monitor"
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_fan.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_fan.py", line 24
+    raise Exception, 'Needs kernel IBM-ACPI support'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_fuse.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_fuse.py", line 20
+    raise Exception, "%s not mounted" % self.fusectl_path
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_gpfs.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_gpfs.py", line 20
+    raise Exception, 'Cannot interface with gpfs mmpmon binary'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_gpfs_ops.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_gpfs_ops.py", line 23
+    raise Exception, 'Cannot interface with gpfs mmpmon binary'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_innodb_buffer.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_innodb_buffer.py", line 17
+    raise Exception, 'Needs MySQL binary'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_innodb_io.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_innodb_io.py", line 20
+    raise Exception, 'Cannot interface with MySQL binary'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_innodb_ops.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_innodb_ops.py", line 20
+    raise Exception, 'Cannot interface with MySQL binary'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_lustre.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_lustre.py", line 9
+    raise Exception, 'Lustre filesystem not found'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_md_status.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_md_status.py", line 26
+    raise Exception, 'Needs kernel md support'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_memcache_hits.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_memcache_hits.py", line 23
+    raise Exception, 'Plugin needs the memcache module'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql5_cmds.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql5_cmds.py", line 26
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql5_conn.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql5_conn.py", line 48
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql5_innodb.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql5_innodb.py", line 62
+    print 'mysql5_innodb using pymysql'
+                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql5_innodb_basic.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql5_innodb_basic.py", line 62
+    print 'mysql5_innodb using pymysql'
+                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql5_innodb_extra.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql5_innodb_extra.py", line 62
+    print 'mysql5_innodb using pymysql'
+                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql5_io.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql5_io.py", line 46
+    raise Exception, 'Cannot interface with MySQL server'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql5_keys.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql5_keys.py", line 49
+    raise Exception, 'Cannot interface with MySQL server'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql_io.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql_io.py", line 12
+    raise Exception, 'Needs MySQL binary'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql_keys.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_mysql_keys.py", line 15
+    raise Exception, 'Needs MySQL binary'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_net_packets.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_net_packets.py", line 43
+    raise Exception, "No suitable network interfaces found to monitor"
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_ntp.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_ntp.py", line 31
+    self.epoch = 2208988800L
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_openstack_rabbitmq.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_openstack_rabbitmq.py", line 65
+    print "Failed to connect to %s (%s)" % (DSTAT_RABBITMQ_API, e)
+                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_postfix.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_postfix.py", line 14
+    raise Exception, 'Cannot access postfix queues'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_power.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_power.py", line 30
+    raise Exception, 'No battery information found, no power usage statistics'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_qmail.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_qmail.py", line 18
+    raise Exception, 'Cannot access qmail queues'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_sendmail.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_sendmail.py", line 15
+    raise Exception, 'Cannot access sendmail queue'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_snmp_cpu.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_snmp_cpu.py", line 18
+    raise Exception, 'Needs pysnmp and pyasn1 modules'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_snmp_load.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_snmp_load.py", line 19
+    raise Exception, 'Needs pysnmp and pyasn1 modules'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_snmp_mem.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_snmp_mem.py", line 16
+    raise Exception, 'Needs pysnmp and pyasn1 modules'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_snmp_net.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_snmp_net.py", line 16
+    raise Exception, 'Needs pysnmp and pyasn1 modules'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_snmp_net_err.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_snmp_net_err.py", line 16
+    raise Exception, 'Needs pysnmp and pyasn1 modules'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_snmp_sys.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_snmp_sys.py", line 19
+    raise Exception, 'Needs pysnmp and pyasn1 modules'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_squid.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_squid.py", line 34
+    raise Exception, 'Needs squidclient binary'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_thermal.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_thermal.py", line 34
+    raise Exception, 'Needs kernel ACPI or IBM-ACPI support'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_bio.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_bio.py", line 19
+    raise Exception, 'Kernel has no per-process I/O accounting [CONFIG_TASK_IO_ACCOUNTING], use at least 2.6.20'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_bio_adv.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_bio_adv.py", line 17
+    raise Exception, 'Kernel has no per-process I/O accounting [CONFIG_TASK_IO_ACCOUNTING], use at least 2.6.20'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_cpu_adv.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_cpu_adv.py", line 17
+    raise Exception, 'Kernel has no per-process I/O accounting [CONFIG_TASK_IO_ACCOUNTING], use at least 2.6.20'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_cputime.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_cputime.py", line 25
+    raise Exception, 'Kernel has no scheduler statistics [CONFIG_SCHEDSTATS], use at least 2.6.12'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_cputime_avg.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_cputime_avg.py", line 26
+    raise Exception, 'Kernel has no scheduler statistics [CONFIG_SCHEDSTATS], use at least 2.6.12'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_io.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_io.py", line 19
+    raise Exception, 'Kernel has no per-process I/O accounting [CONFIG_TASK_IO_ACCOUNTING], use at least 2.6.20'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_io_adv.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_io_adv.py", line 17
+    raise Exception, 'Kernel has no per-process I/O accounting [CONFIG_TASK_IO_ACCOUNTING], use at least 2.6.20'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_latency.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_latency.py", line 26
+    raise Exception, 'Kernel has no scheduler statistics [CONFIG_SCHEDSTATS], use at least 2.6.12'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_latency_avg.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_latency_avg.py", line 20
+    raise Exception, 'Kernel has no scheduler statistics [CONFIG_SCHEDSTATS], use at least 2.6.12'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_oom.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_top_oom.py", line 19
+    raise Exception, 'Kernel does not support /proc/pid/oom_score, use at least 2.6.11.'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_utmp.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_utmp.py", line 17
+    raise Exception, 'Needs python-utmp module'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_vm_cpu.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_vm_cpu.py", line 24
+    raise Exception, 'Needs python-vmguestlib module'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_vm_mem.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_vm_mem.py", line 23
+    raise Exception, 'Needs python-vmguestlib module'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_vm_mem_adv.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_vm_mem_adv.py", line 23
+    raise Exception, 'Needs python-vmguestlib module'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_vmk_hba.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_vmk_hba.py", line 28
+    raise Exception, 'Needs VMware ESX'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_vmk_int.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_vmk_int.py", line 78
+    raise Exception, 'Needs VMware ESX'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_vmk_nic.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_vmk_nic.py", line 25
+    raise Exception, 'Needs VMware ESX'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_vz_io.py'...
+***   File "./lib/python3.5/site-packages/dstat_plugins/plugins/dstat_vz_io.py", line 30
+    raise Exception, 'System does not have OpenVZ support'
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_zfs_arc.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (dstat_zfs_arc.py, line 32)
+Compiling './lib/python3.5/site-packages/dstat_plugins/plugins/dstat_zfs_l2arc.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (dstat_zfs_l2arc.py, line 32)
+Listing './lib/python3.5/site-packages/dstat_plugins/tests'...
+Listing './lib/python3.5/site-packages/dstat_plugins-0.3.0.egg-info'...
+Listing './lib/python3.5/site-packages/pbr'...
+Listing './lib/python3.5/site-packages/pbr/cmd'...
+Listing './lib/python3.5/site-packages/pbr/hooks'...
+Listing './lib/python3.5/site-packages/pbr/tests'...
+Listing './lib/python3.5/site-packages/pbr/tests/testpackage'...
+Listing './lib/python3.5/site-packages/pbr/tests/testpackage/data_files'...
+Listing './lib/python3.5/site-packages/pbr/tests/testpackage/doc'...
+Listing './lib/python3.5/site-packages/pbr/tests/testpackage/doc/source'...
+Listing './lib/python3.5/site-packages/pbr/tests/testpackage/pbr_testpackage'...
+Listing './lib/python3.5/site-packages/pbr/tests/testpackage/pbr_testpackage/package_data'...
+Listing './lib/python3.5/site-packages/pbr/tests/testpackage/src'...
+Listing './lib/python3.5/site-packages/pbr-3.1.1.dist-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/pymysql'...
+Listing './lib/python3.5/site-packages/pymysql/constants'...
+Listing './lib/python3.5/site-packages/pymysql/tests'...
+Listing './lib/python3.5/site-packages/pymysql/tests/thirdparty'...
+Listing './lib/python3.5/site-packages/pymysql/tests/thirdparty/test_MySQLdb'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

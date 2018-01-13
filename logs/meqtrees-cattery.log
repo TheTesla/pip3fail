@@ -1,0 +1,588 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/Cattery'...
+Listing './lib/python3.5/site-packages/Cattery/Calico'...
+Compiling './lib/python3.5/site-packages/Cattery/Calico/Flagger.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/Flagger.py", line 33
+    raise TypeError,"invalid value for '%s' keyword (%s)"%(argname,bins);
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/FunkOps.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/FunkOps.py", line 43
+    raise TypeError,"linear interpolation only available for rank-1 slices";
+                   ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Cattery/Calico/OMS'...
+Listing './lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal'...
+Compiling './lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/DataTiler.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/DataTiler.py", line 78
+    print 'tile_data exception, tiled_shape:',self.tiled_shape,', arg:',getattr(x,'shape',());
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/Gain2x2.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/Gain2x2.py", line 176
+    print "%s%s"%(p,q),"D",[ g[verbose_element] for g in d[0],d[3] ],"M",[ g[verbose_element] for g in m[0],m[3] ];
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/Gain2x2a.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/Gain2x2a.py", line 172
+    print "%s%s"%(p,q),"D",[ g[verbose_element] for g in d[0],d[3] ],"M",[ g[verbose_element] for g in m[0],m[3] ];
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/GainDiag.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/GainDiag.py", line 155
+    print "S%d %s%s:%s%s"%(step,p,q,i,j),"D",d[verbose_element],"MH",m[verbose_element], \
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/GainDiagCommon.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/GainDiagCommon.py", line 186
+    print "S%d %s:%s"%(step,p,i),"G''",g1[p,i],g1[p,i][verbose_element];
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/GainDiagPhase.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/GainDiagPhase.py", line 153
+    print "S%d %s%s:%s%s"%(step,p,q,i,j),"D",d[verbose_element],"MH",m[verbose_element], \
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/GainOpts.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/GainOpts.py", line 276
+    raise ValueError,"%s tiling vector must have the same length as the data shape"%self.name;
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/MatrixOps.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/MatrixOps.py", line 38
+    return [ numpy.conj(A[i]) for i in 0,2,1,3 ];
+                                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/Pyxides'...
+Compiling './lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/Pyxides/stefcal.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/Pyxides/stefcal.py", line 499
+    offs = numpy.array([ getattr(v,attr)+sign*e/4 for v,e in (x,xe),(y,ye)
+                                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/StefCal.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/OMS/StefCal/StefCal.py", line 53
+    print "dumping data/model to",filename;
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/OMS/solvable_jones.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/OMS/solvable_jones.py", line 89
+    rxx,rxy,ryx,ryy = [ q+":r" for q in xx,xy,yx,yy ];
+                                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/OMS/solvable_refraction.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/OMS/solvable_refraction.py", line 24
+    print "Imported measures tool from pyrap_measures";
+                                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/OMS/solvable_sky_jones.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/OMS/solvable_sky_jones.py", line 66
+    axx,axy,ayx,ayy = [ q+":a" for q in xx,xy,yx,yy ];
+                                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/ParmTables.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/ParmTables.py", line 131
+    raise IndexError,"invalid coeff index %s (funklet is scalar)"%coeff;
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/calico-flagger.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/calico-flagger.py", line 220
+    raise RuntimeError,"Flagger not available, perhaps MS was not specified?";
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/calico-generic.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/calico-generic.py", line 255
+    raise RuntimeError,"MS not set";
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/calico-parmgroomer.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/calico-parmgroomer.py", line 98
+    raise RuntimeError,"please select a valid parmtable in compile-time options";
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/calico-stefcal.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/calico-stefcal.py", line 195
+    raise RuntimeError,"MS not set";
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/calico-wsrt-old.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/calico-wsrt-old.py", line 254
+    raise RuntimeError,"MS not set";
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Calico/calico-wsrt-tens.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Calico/calico-wsrt-tens.py", line 255
+    raise RuntimeError,"MS not set";
+                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Cattery/LSM'...
+Compiling './lib/python3.5/site-packages/Cattery/LSM/LSM.py'...
+***   File "./lib/python3.5/site-packages/Cattery/LSM/LSM.py", line 75
+    raise TypeError,"Name must be a string, not %s"  % type(name).__name__
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/LSM/LSM_Sixpack.py'...
+***   File "./lib/python3.5/site-packages/Cattery/LSM/LSM_Sixpack.py", line 237
+    print self.__label
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/LSM/LSM_inner.py'...
+***   File "./lib/python3.5/site-packages/Cattery/LSM/LSM_inner.py", line 62
+    raise TypeError,"Name must be a string, not %s"  % type(name).__name__
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/LSM/common_utils.py'...
+***   File "./lib/python3.5/site-packages/Cattery/LSM/common_utils.py", line 107
+    print "bin search error 1"
+                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Cattery/LSM/test'...
+Compiling './lib/python3.5/site-packages/Cattery/LSM/test/MG_LSM_test.py'...
+***   File "./lib/python3.5/site-packages/Cattery/LSM/test/MG_LSM_test.py", line 83
+    print '\n*******************\n** Local test of:',script_name,':\n'
+                                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/LSM/transform.py'...
+***   File "./lib/python3.5/site-packages/Cattery/LSM/transform.py", line 148
+    print "(%f,%f)-->(%f,%f)-->(%f,%f)"%(rr,dd,l,m,ra,dec)
+                                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Cattery/Lions'...
+Compiling './lib/python3.5/site-packages/Cattery/Lions/MIM_model.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Lions/MIM_model.py", line 27
+    raise TypeError, "sources must be a (list of) Sky/xyz-Component"
+                   ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Cattery/Lions/PiercePoints'...
+Compiling './lib/python3.5/site-packages/Cattery/Lions/PiercePoints/PiercePoints.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Lions/PiercePoints/PiercePoints.py", line 169
+    print "creating file for", nm
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Cattery/Lions/PiercePoints/modules'...
+Listing './lib/python3.5/site-packages/Cattery/Lions/PiercePoints/modules/KL'...
+Compiling './lib/python3.5/site-packages/Cattery/Lions/PiercePoints/modules/KL/KLNode.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Lions/PiercePoints/modules/KL/KLNode.py", line 37
+    raise TypeError, "this is NOT a leaf node, At least 2  children expected!"
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Lions/PiercePoints/modules/KolmogorovNode.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Lions/PiercePoints/modules/KolmogorovNode.py", line 67
+    raise TypeError, "this is NOT a leaf node, At least 1  child with piercepoints expected!"
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Lions/PiercePoints/modules/Kolmogorov_MIM.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Lions/PiercePoints/modules/Kolmogorov_MIM.py", line 46
+    print 'Using longlat'
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Lions/PiercePoints/modules/VLSS_MIM.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Lions/PiercePoints/modules/VLSS_MIM.py", line 62
+    print 'Using longlat'
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Lions/ZJones.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Lions/ZJones.py", line 57
+    print "selected", selname
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Lions/gridded_sky.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Lions/gridded_sky.py", line 128
+    print l_prime
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Cattery/Meow'...
+Compiling './lib/python3.5/site-packages/Cattery/Meow/Bookmarks.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/Bookmarks.py", line 76
+    raise TypeError,"node or node name expected";
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/Context.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/Context.py", line 62
+    raise ValueError,"'array' must be set in global Meow.Context, or supplied explicitly";
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/GaussianSource.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/GaussianSource.py", line 52
+    print "WARNING: using deprecated interface to Meow.GaussianSource.";
+                                                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/IfrArray.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/IfrArray.py", line 139
+    raise TypeError,"WSRT 'stations' argument must be a list of stations, or a number";
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/IfrSet.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/IfrSet.py", line 275
+    raise ValueError,"invalid ifr specification '%s'"%spec;
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/LMApproxDirection.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/LMApproxDirection.py", line 77
+    print 'axes =',axes,', should be in:',['l','m','lm']
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/LSM.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/LSM.py", line 192
+    raise TypeError,"Unknown LSM format '%s'"%format;
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/MSUtils.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/MSUtils.py", line 49
+    raise RuntimeError,"failed to import pyrap.tables. Please install pyrap!";
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/MeqMaker.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/MeqMaker.py", line 172
+    raise RuntimeError,"add_sky_models() may only be called once";
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/Observation.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/Observation.py", line 45
+    raise ValueError,"either circular=True or linerar=True must be specified, not both";
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/OptionTools.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/OptionTools.py", line 48
+    raise ValueError,"illegal %s '%d'"%(self.name,index);
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/Parameterization.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/Parameterization.py", line 75
+    raise TypeError,"Parameter '"+name+"' can only be defined as a constant, a node, or a Meow.Parm";
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/Parm.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/Parm.py", line 59
+    raise TypeError,"'tags' argument should be a string, list or tuple";
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/ParmGroup.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/ParmGroup.py", line 17
+    raise TypeError,"node name or node object expected, got '%s'"%str(type(arg));
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/PointSource.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/PointSource.py", line 97
+    raise ValueError,"st: must be one of 'I','Q','U','V'";
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/Position.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/Position.py", line 62
+    raise ValueError,'Position does not have enough dimensions'
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/ReadVisHeader.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (ReadVisHeader.py, line 47)
+Compiling './lib/python3.5/site-packages/Cattery/Meow/SixpackComponent.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/SixpackComponent.py", line 66
+    raise TypeError,type(self).__name__+".sixpack() not defined";
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/SkyComponent.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/SkyComponent.py", line 43
+    raise TypeError,"direction: Direction object or (ra,dec) tuple expected";
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/SolverControl.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/SolverControl.py", line 11
+    raise TypeError,"node name or node object expected, got '%s'"%str(type(arg));
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/StdTrees.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/StdTrees.py", line 39
+    raise ValueError,"array or observation not specified in global Meow.Context, or in this function call";
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/TensorMeqMaker.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/TensorMeqMaker.py", line 188
+    new_partitions += [ p1 for p1 in overlap,part-overlap if p1 ];
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/Utils.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/Utils.py", line 162
+    print "error reading MS",msname;
+                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/__init__.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/__init__.py", line 45
+    print msg;
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Meow/make_dirty_image.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Meow/make_dirty_image.py", line 70
+    print "Image %s ready. No image viewer selected (see TDL Exec menu)."%filename;
+                                                                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Cattery/Pyxides'...
+Compiling './lib/python3.5/site-packages/Cattery/Pyxides/stefcal.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Pyxides/stefcal.py", line 499
+    offs = numpy.array([ getattr(v,attr)+sign*e/4 for v,e in (x,xe),(y,ye)
+                                                                   ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Cattery/Scripter'...
+Listing './lib/python3.5/site-packages/Cattery/Siamese'...
+Listing './lib/python3.5/site-packages/Cattery/Siamese/AGW'...
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/AGW/PYRMAngle.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/AGW/PYRMAngle.py", line 26
+    print 'Siamese/AGW/PyGetRMAngle albus_filename = ',self.albus_filename
+                                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Cattery/Siamese/MS'...
+Listing './lib/python3.5/site-packages/Cattery/Siamese/MS/VLAAA_ANTENNA'...
+Listing './lib/python3.5/site-packages/Cattery/Siamese/MS/VLAx10_ANTENNA'...
+Listing './lib/python3.5/site-packages/Cattery/Siamese/MS/WSRT_ANTENNA'...
+Listing './lib/python3.5/site-packages/Cattery/Siamese/OMS'...
+Listing './lib/python3.5/site-packages/Cattery/Siamese/OMS/AnalyticBeams'...
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/AnalyticBeams/ClippedSincBeam.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/AnalyticBeams/ClippedSincBeam.py", line 24
+    raise TypeError,"at least one child is expected";
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/CompoundInterpolatedBeams.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/CompoundInterpolatedBeams.py", line 55
+    raise ValueError,"filename_real/filename_imag: two lists of filenames of 2N elements each expected";
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/ErrorGens.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/ErrorGens.py", line 57
+    raise TypeError,"make_node() must be implemented in subclass";
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/InterpolatedBeams.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/InterpolatedBeams.py", line 30
+    raise TypeError,"array must have length 1 along axis %d, it has %d"%(axis,x.shape[axis]);
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/analytic_beams.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/analytic_beams.py", line 81
+    raise RuntimeError,"illegal dish sizes specification";
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/compound_beams.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/compound_beams.py", line 126
+    raise ValueError,"beam number %d not found in offsets file"%beam_number;
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams'...
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams/EMSSVoltageBeam.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams/EMSSVoltageBeam.py", line 56
+    raise TypeError,"%s: phi axis not monotonically increasing"%filename;
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams/FITSVoltageBeam.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams/FITSVoltageBeam.py", line 9
+    print pyfits.formatwarning,warnings.formatwarning
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams/InterpolatedBeams.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams/InterpolatedBeams.py", line 26
+    raise TypeError,"array must have length 1 along axis %d, it has %d"%(axis,x.shape[axis]);
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams/InterpolatedVoltageBeam.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams/InterpolatedVoltageBeam.py", line 24
+    raise TypeError,"array must have length 1 along axis %d, it has %d"%(axis,x.shape[axis]);
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams/compound_beams.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams/compound_beams.py", line 126
+    raise ValueError,"beam number %d not found in offsets file"%beam_number;
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams/emss2fits.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams/emss2fits.py", line 129
+    print "Creating %s voltage beam from %s"%("Y" if options.y else "X"," ".join(patfile2));
+                                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams/emss_polar_beams.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/emss_beams/emss_polar_beams.py", line 320
+    raise TypeError,"expecting a 2/3-vector or an Nx2/3 matrix for child 0 (lm)";
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/feed_angle.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/feed_angle.py", line 55
+    print "Error reading %s/FEED subtable. Feed angles not filled."%Context.mssel.msname;
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/fits_beams0.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/fits_beams0.py", line 92
+    print "Can't find %s, using null"%filename;
+                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/iono_geometry.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/iono_geometry.py", line 101
+    print [src.name for src in source_list];
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/iono_geometry2.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/iono_geometry2.py", line 85
+    print [src.name for src in source_list];
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/paf_beams.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/paf_beams.py", line 155
+    raise ValueError,"beam number %d not found in offsets file"%beam_number;
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/position_shifts.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/position_shifts.py", line 67
+    print shift_type;
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/pybeams_fits.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/pybeams_fits.py", line 118
+    raise RuntimeError,"Can't find beam pattern file %s"%f;
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/rotation.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/rotation.py", line 139
+    print "Error reading %s/FEED subtable. Feed angles not filled."%Context.mssel.msname;
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/OMS/tigger_lsm.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/OMS/tigger_lsm.py", line 15
+    print "Using LSM module from Tigger (%s) %s at %s (in path)"%(Tigger.release_string,
+                                                               ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Cattery/Siamese/SBY'...
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/SBY/lofar_beams.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/SBY/lofar_beams.py", line 171
+    raise RuntimeError,"Cannot find station layout file %s"%filename;
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/batch_sim_example.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/batch_sim_example.py", line 13
+    print "Starting meqserver";
+                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/example-sim.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/example-sim.py", line 80
+    print 'Failure to import TiggerSkyModel module'
+                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/Siamese/turbo-sim.py'...
+***   File "./lib/python3.5/site-packages/Cattery/Siamese/turbo-sim.py", line 81
+    print 'Failure to import TiggerSkyModel module'
+                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Cattery/qt.py'...
+***   File "./lib/python3.5/site-packages/Cattery/qt.py", line 8
+    print "Caught Qt3 import";
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/meqtrees_cattery-1.5.1.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

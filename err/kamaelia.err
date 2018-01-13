@@ -1,0 +1,729 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/Axon'...
+Compiling './lib/python3.5/site-packages/Axon/AdaptiveCommsComponent.py'...
+***   File "./lib/python3.5/site-packages/Axon/AdaptiveCommsComponent.py", line 306
+    print "Tests are separated into test/test_AdaptiveCommsableComponent.py"
+                                                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Axon/Axon.py'...
+***   File "./lib/python3.5/site-packages/Axon/Axon.py", line 74
+    print "foo", self
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Axon/Box.py'...
+***   File "./lib/python3.5/site-packages/Axon/Box.py", line 310
+    print "Discarding Delivery via [", self.tag, "] of ", repr(data)
+                                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Axon/Component.py'...
+***   File "./lib/python3.5/site-packages/Axon/Component.py", line 482
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Axon/CoordinatingAssistantTracker.py'...
+***   File "./lib/python3.5/site-packages/Axon/CoordinatingAssistantTracker.py", line 287
+    print "This code currently has no test code"
+                                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Axon/Handle.py'...
+***   File "./lib/python3.5/site-packages/Axon/Handle.py", line 30
+    print "Polite Notice"
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Axon/Introspector.py'...
+***   File "./lib/python3.5/site-packages/Axon/Introspector.py", line 311
+    print "You should see the Introspector find that it and a consoleEchoer component exist."
+                                                                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Axon/Ipc.py'...
+***   File "./lib/python3.5/site-packages/Axon/Ipc.py", line 327
+    print "This class currently contains no test code."
+                                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Axon/Linkage.py'...
+***   File "./lib/python3.5/site-packages/Axon/Linkage.py", line 106
+    print "Linkage isn't being made correctly - does the following component"
+                                                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Axon/Microprocess.py'...
+***   File "./lib/python3.5/site-packages/Axon/Microprocess.py", line 464
+    print noisydeprecationwarning
+                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Axon/Postoffice.py'...
+***   File "./lib/python3.5/site-packages/Axon/Postoffice.py", line 148
+    except BoxAlreadyLinkedToDestination, e:
+                                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Axon/STM.py'...
+***   File "./lib/python3.5/site-packages/Axon/STM.py", line 366
+    print "DEBUG: Store dump ------------------------------"
+                                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Axon/Scheduler.py'...
+***   File "./lib/python3.5/site-packages/Axon/Scheduler.py", line 551
+    print "This code current has no test code"
+                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Axon/ThreadedComponent.py'...
+***   File "./lib/python3.5/site-packages/Axon/ThreadedComponent.py", line 444
+    raise exception[0], exception[1], exception[2]
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Axon/background.py'...
+***   File "./lib/python3.5/site-packages/Axon/background.py", line 64
+    print "."
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Axon/debug.py'...
+***   File "./lib/python3.5/site-packages/Axon/debug.py", line 256
+    except KeyError, key:
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Axon/debugConfigFile.py'...
+***   File "./lib/python3.5/site-packages/Axon/debugConfigFile.py", line 142
+    print tag,level,location
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Axon/experimental'...
+Compiling './lib/python3.5/site-packages/Axon/experimental/Process.py'...
+***   File "./lib/python3.5/site-packages/Axon/experimental/Process.py", line 111
+    print "WARNING: Data sent to outbox not linked to anywhere. Error?"
+                                                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Axon/experimental/_pprocess_support.py'...
+***   File "./lib/python3.5/site-packages/Axon/experimental/_pprocess_support.py", line 199
+    raise ValueError, "%s %s already exists!" % (direction, boxname) # XXX REVIEW: *direction* doesn't actually exist. If this appeared in any other line besides a "raise..." line this would be a problem.
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Axon/idGen.py'...
+***   File "./lib/python3.5/site-packages/Axon/idGen.py", line 155
+    print newId(foo())
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Axon/util.py'...
+***   File "./lib/python3.5/site-packages/Axon/util.py", line 58
+    except ValueError, reason:
+                     ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia'...
+Listing './lib/python3.5/site-packages/Kamaelia/Apps'...
+Listing './lib/python3.5/site-packages/Kamaelia/Apps/Compose'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Apps/Compose/BuildViewer.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Apps/Compose/BuildViewer.py", line 116
+    def setOffset( self, (left,top) ):
+                         ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/Apps/Compose/GUI'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Apps/Compose/GUI/BuilderControlsGUI.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Apps/Compose/GUI/BuilderControlsGUI.py", line 190
+    print "WARNING: Import Error: ", modname
+                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Apps/Compose/GUI.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Apps/Compose/GUI.py", line 143
+    print self.classes[0]
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/Apps/Games4Kids'...
+Listing './lib/python3.5/site-packages/Kamaelia/Apps/Grey'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Apps/Grey/GreyListingPolicy.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Apps/Grey/GreyListingPolicy.py", line 188
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/Apps/IRCLogger'...
+Listing './lib/python3.5/site-packages/Kamaelia/Apps/Show'...
+Listing './lib/python3.5/site-packages/Kamaelia/Apps/Whiteboard'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Apps/Whiteboard/Canvas.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Apps/Whiteboard/Canvas.py", line 33
+    print "WARNING: Python Imaging Library Not available, defaulting to bmp only mode"
+                                                                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Apps/Whiteboard/Tokenisation.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Apps/Whiteboard/Tokenisation.py", line 98
+    print "."
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/Audio'...
+Listing './lib/python3.5/site-packages/Kamaelia/Audio/Codec'...
+Listing './lib/python3.5/site-packages/Kamaelia/Audio/Codec/PyMedia'...
+Listing './lib/python3.5/site-packages/Kamaelia/Audio/PyMedia'...
+Listing './lib/python3.5/site-packages/Kamaelia/Automata'...
+Listing './lib/python3.5/site-packages/Kamaelia/Chassis'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Chassis/ConnectedServer.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Chassis/ConnectedServer.py", line 154
+    print self.__class__, self.__class__.protocol, self.protocol
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Chassis/Graphline.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Chassis/Graphline.py", line 203
+    print "WARNING, assuming linking outbox to inbox on the graph. This is a poor assumption"
+                                                                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Chassis/Pipeline.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Chassis/Pipeline.py", line 213
+    print "Should output 7 fruit, followed by '<end of list>'.\n"
+                                                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Chassis/Seq.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Chassis/Seq.py", line 114
+    print item
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/Codec'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Codec/Dirac.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Codec/Dirac.py", line 222
+    print "Stream error"
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Codec/Speex.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Codec/Speex.py", line 38
+    print ".",
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Codec/WAV.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Codec/WAV.py", line 545
+    print "Reading in WAV file, parsing it, then writing it out as test.wav ..."
+                                                                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/Device'...
+Listing './lib/python3.5/site-packages/Kamaelia/Device/DVB'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Device/DVB/Core.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Device/DVB/Core.py", line 362
+    print "X"
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Device/DVB/DemuxerService.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Device/DVB/DemuxerService.py", line 278
+    print self.spacing,"Now subscribed to pids:"
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Device/DVB/EIT.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Device/DVB/EIT.py", line 129
+    print "wrong syntax"
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/Device/DVB/Parse'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Device/DVB/Parse/ParseEventInformationTable.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Device/DVB/Parse/ParseEventInformationTable.py", line 511
+    print "pf",event['running_status']
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Device/DVB/Parse/ParseProgramMapTable.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Device/DVB/Parse/ParseProgramMapTable.py", line 237
+    print i,prog_info_end, len(data)
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Device/DVB/Parse/ReassemblePSITables.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Device/DVB/Parse/ReassemblePSITables.py", line 453
+    print "Reassembler",self.id,"starts"
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Device/DVB/Receiver.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Device/DVB/Receiver.py", line 156
+    print self.spacing,"Now subscribed to pids:"
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Device/DVB/SoftDemux.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Device/DVB/SoftDemux.py", line 111
+    print "Timing "+demuxer.__name__+" ..."
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/Experimental'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Experimental/Services.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Experimental/Services.py", line 129
+    except ServiceAlreadyExists, e:
+                               ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/File'...
+Compiling './lib/python3.5/site-packages/Kamaelia/File/BetterReading.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/File/BetterReading.py", line 103
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/File/TriggeredFileReader.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/File/TriggeredFileReader.py", line 59
+    print "readFile(" + filename + ")"
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/File/UnixProcess.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/File/UnixProcess.py", line 83
+    print x.stdout.read()
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/File/UnixProcess2.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/File/UnixProcess2.py", line 513
+    except OSError,IOError:
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/Internet'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Internet/ConnectedSocketAdapter.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Internet/ConnectedSocketAdapter.py", line 124
+    except socket.sslerror, e:
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Internet/Multicast_receiver.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Internet/Multicast_receiver.py", line 106
+    except socket.error, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Internet/Multicast_sender.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Internet/Multicast_sender.py", line 102
+    print "This module is acceptance tested as part of a system."
+                                                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Internet/Multicast_transceiver.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Internet/Multicast_transceiver.py", line 137
+    except socket.error, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Internet/Selector.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Internet/Selector.py", line 300
+    except ValueError, e:
+                     ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/Internet/Simulate'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Internet/TCPClient.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Internet/TCPClient.py", line 225
+    except socket.error, socket.msg:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Internet/TCPServer.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Internet/TCPServer.py", line 212
+    except socket.error, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Internet/ThreadedTCPClient.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Internet/ThreadedTCPClient.py", line 123
+    except socket.error, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Internet/TimeOutCSA.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Internet/TimeOutCSA.py", line 177
+    print "."
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Internet/UDP.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Internet/UDP.py", line 161
+    except socket.error, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Internet/UDP_ng.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Internet/UDP_ng.py", line 224
+    except socket.error, socket.msg:
+                       ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/Protocol'...
+Listing './lib/python3.5/site-packages/Kamaelia/Protocol/AIM'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Protocol/AIM/LoginHandler.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Protocol/AIM/LoginHandler.py", line 214
+    print "odd"
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Protocol/Framing.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Protocol/Framing.py", line 164
+    except ValueError, e:
+                     ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/Protocol/HTTP'...
+Listing './lib/python3.5/site-packages/Kamaelia/Protocol/HTTP/Handlers'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Protocol/HTTP/Handlers/Minimal.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Protocol/HTTP/Handlers/Minimal.py", line 144
+    print "Error 404, " + filename + " is not a file"
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Protocol/HTTP/IcecastClient.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Protocol/HTTP/IcecastClient.py", line 135
+    print "Metadata interval is " + str(metadatainterval)
+                                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/Protocol/IRC'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Protocol/IRC/IRCClient.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Protocol/IRC/IRCClient.py", line 331
+    print "This is some test code/demo harness. There are better demo harnesses in /Examples"
+                                                                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Protocol/MimeRequestComponent.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Protocol/MimeRequestComponent.py", line 173
+    except Kamaelia.Support.Data.requestLine.BadRequest, br:
+                                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Protocol/Packetise.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Protocol/Packetise.py", line 87
+    print "WARNING, incorrect packet size!"
+                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/Protocol/RTP'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Protocol/RTP/RTP.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Protocol/RTP/RTP.py", line 228
+    packet.append( struct.pack(">I",(timestamp + self.timestamp_offset) & 0xffffffffL) )
+                                                                                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Protocol/RecoverOrder.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Protocol/RecoverOrder.py", line 131
+    def __init__(self, bufsize=30, modulo=2L**32L):
+                                           ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/Protocol/Torrent'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Protocol/Torrent/TorrentClient.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Protocol/Torrent/TorrentClient.py", line 217
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Protocol/Torrent/TorrentMaker.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Protocol/Torrent/TorrentMaker.py", line 100
+    except BTFailure, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/SampleTemplateComponent.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/SampleTemplateComponent.py", line 40
+    print "DEBUG:", self.label, "initialiseComponent"
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/Support'...
+Listing './lib/python3.5/site-packages/Kamaelia/Support/DVB'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Support/DVB/CRC.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Support/DVB/CRC.py", line 45
+    def __MakeCRC32(polynomial = 0x4c11db7L,initial=0xffffffffL):
+                                          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/Support/Data'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Support/Data/MimeObject.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Support/Data/MimeObject.py", line 54
+    print "No test harness as yet"
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Support/Data/Repository.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (Repository.py, line 299)
+Compiling './lib/python3.5/site-packages/Kamaelia/Support/Data/bitfieldrec.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Support/Data/bitfieldrec.py", line 149
+    raise "Bad Value", value
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Support/Data/requestLine.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Support/Data/requestLine.py", line 84
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Support/OscarUtil.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Support/OscarUtil.py", line 63
+    print data[:3*8], ' ', data[3*8:3*16]
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/Support/Particles'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Support/Particles/SpatialIndexer.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Support/Particles/SpatialIndexer.py", line 246
+    print x.withinRadius( (0,0), 1.0)
+          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/Support/Protocol'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Support/Protocol/IRC.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Support/Protocol/IRC.py", line 197
+    print "This file currently has no example/integral test code"
+                                                                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/Support/PyMedia'...
+Listing './lib/python3.5/site-packages/Kamaelia/Support/Tk'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Support/Tk/Scrolling.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Support/Tk/Scrolling.py", line 146
+    print "Callback", tag, "args", args
+                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/UI'...
+Listing './lib/python3.5/site-packages/Kamaelia/UI/MH'...
+Compiling './lib/python3.5/site-packages/Kamaelia/UI/MH/PyGameApp.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/UI/MH/PyGameApp.py", line 189
+    print "QUIT"
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/UI/OpenGL'...
+Compiling './lib/python3.5/site-packages/Kamaelia/UI/OpenGL/Intersect.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/UI/OpenGL/Intersect.py", line 55
+    print "pos", str(p)
+              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/UI/Pygame'...
+Compiling './lib/python3.5/site-packages/Kamaelia/UI/Pygame/Display.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/UI/Pygame/Display.py", line 441
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/UI/Pygame/EventHandler.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/UI/Pygame/EventHandler.py", line 110
+    print "QUIT: (", ")"
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/UI/Pygame/Image.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/UI/Pygame/Image.py", line 182
+    print "we do get here..."
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/UI/Tk'...
+Listing './lib/python3.5/site-packages/Kamaelia/Util'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Util/Backplane.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Util/Backplane.py", line 168
+    except Axon.AxonExceptions.ServiceAlreadyExists, e:
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Util/Console.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Util/Console.py", line 165
+    print "This module has no system test"
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Util/Detuple.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Util/Detuple.py", line 85
+    print "WARNING: expected", "hello", "received", data
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Util/Introspector.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Util/Introspector.py", line 131
+    print "You should see the Introspector find that it and a ConsoleEchoer component exist."
+                                                                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Util/MarshallComponent.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Util/MarshallComponent.py", line 105
+    print "no test harness (NASTY)"
+                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Util/NullSink.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Util/NullSink.py", line 46
+    print "This module has no system test"
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Util/NullSinkComponent.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Util/NullSinkComponent.py", line 46
+    print "This module has no system test"
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Util/PassThrough.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Util/PassThrough.py", line 173
+    print "Should output 7 fruit, followed by '<end of list>' then terminate.\n"
+                                                                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Util/RangeFilter.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Util/RangeFilter.py", line 202
+    print "Only items in ranges 1-5 and 8-12 should be output...\n\n"
+                                                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Util/TestResult.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Util/TestResult.py", line 94
+    raise AssertionError, "false value message received by: %s" % self
+                        ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/Util/Tokenisation'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Util/Tokenisation/Simple.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Util/Tokenisation/Simple.py", line 99
+    print "."
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/Video'...
+Listing './lib/python3.5/site-packages/Kamaelia/Visualisation'...
+Listing './lib/python3.5/site-packages/Kamaelia/Visualisation/Axon'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Visualisation/Axon/ExtraWindowFurniture.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Visualisation/Axon/ExtraWindowFurniture.py", line 102
+    def setOffset( self, (x,y) ):
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Visualisation/Axon/PComponent.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Visualisation/Axon/PComponent.py", line 138
+    print factor
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Visualisation/Axon/PPostbox.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Visualisation/Axon/PPostbox.py", line 103
+    def nearest45DegreeStep( (dx,dy) ):
+                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/Visualisation/ER'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Visualisation/ER/ExtraWindowFurniture.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Visualisation/ER/ExtraWindowFurniture.py", line 96
+    def setOffset( self, (x,y) ):
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Visualisation/ER/PAttribute.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Visualisation/ER/PAttribute.py", line 42
+    def nearest45DegreeStep( (dx,dy) ):
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Visualisation/ER/PEntity.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Visualisation/ER/PEntity.py", line 172
+    def setOffset( self, (x,y) ):
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Visualisation/ER/PISA.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Visualisation/ER/PISA.py", line 42
+    def nearest45DegreeStep( (dx,dy) ):
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Visualisation/ER/PRelation.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Visualisation/ER/PRelation.py", line 42
+    def nearest45DegreeStep( (dx,dy) ):
+                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/Kamaelia/Visualisation/PhysicsGraph'...
+Compiling './lib/python3.5/site-packages/Kamaelia/Visualisation/PhysicsGraph/GridRenderer.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Visualisation/PhysicsGraph/GridRenderer.py", line 114
+    def setOffset( self, (left,top) ):
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Visualisation/PhysicsGraph/ParticleDragger.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Visualisation/PhysicsGraph/ParticleDragger.py", line 79
+    inRange = filter(lambda (p, rsquared) : p.radius*p.radius >= rsquared, inRange)
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Visualisation/PhysicsGraph/RenderingParticle.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Visualisation/PhysicsGraph/RenderingParticle.py", line 140
+    def setOffset( self, (left,top) ):
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Visualisation/PhysicsGraph/TopologyViewer.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Visualisation/PhysicsGraph/TopologyViewer.py", line 681
+    def scroll( self, (dx, dy) ):
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/Kamaelia/Visualisation/PhysicsGraph/__init__.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/Visualisation/PhysicsGraph/__init__.py", line 86
+    print "X1", sys.argv
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/Kamaelia/XML'...
+Compiling './lib/python3.5/site-packages/Kamaelia/XML/SimpleXMLParser.py'...
+***   File "./lib/python3.5/site-packages/Kamaelia/XML/SimpleXMLParser.py", line 311
+    print self.recv("inbox")
+             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

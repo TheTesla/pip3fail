@@ -1,0 +1,242 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/depot_tools'...
+Compiling './lib/python3.5/site-packages/depot_tools/PRESUBMIT.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/PRESUBMIT.py", line 102
+    except (OSError, input_api.subprocess.CalledProcessError), e:
+                                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/annotated_gclient.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/annotated_gclient.py", line 34
+    print 'Error cleaning up temp file %s: %s' % (output_file, e)
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/apply_issue.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/apply_issue.py", line 107
+    print 'update.flag file found: bot_update has run and checkout is already '
+                                                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/depot_tools/checkout.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/checkout.py", line 227
+    print p.filename
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/depot_tools/clang_format.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/clang_format.py", line 60
+    except NotFoundError, e:
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/commit_queue.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/commit_queue.py", line 74
+    print obj.set_flag(issue, patchset, 'commit', flag)
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/download_from_google_storage.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/download_from_google_storage.py", line 275
+    print line
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/depot_tools/drover.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/drover.py", line 57
+    print "WARNING: gcl not found beside drover.py. Using system gcl instead..."
+                                                                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/depot_tools/fetch.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/fetch.py", line 62
+    print 'Running: %s' % (' '.join(pipes.quote(x) for x in cmd))
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/fix_encoding.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/fix_encoding.py", line 174
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/gcl.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/gcl.py", line 233
+    print line.strip('\n')
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/gclient.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/gclient.py", line 199
+    print 'Overwriting Var("webkit_trunk") with %s' % new_url
+                                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/gclient_scm.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/gclient_scm.py", line 708
+    except gclient_utils.Error, e:
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/gclient_utils.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/gclient_utils.py", line 242
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/git_cl.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/git_cl.py", line 196
+    print 'Cannot %s with a dirty tree. You must commit locally first.' % cmd
+                                                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/depot_tools/git_freezer.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/git_freezer.py", line 29
+    print ret
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/depot_tools/git_map_branches.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/git_map_branches.py", line 69
+    print color + "  "*depth + branch + suffix
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/depot_tools/git_mark_merge_base.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/git_mark_merge_base.py", line 42
+    print "No merge base currently exists for %s." % cur
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/depot_tools/git_nav_downstream.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/git_nav_downstream.py", line 43
+    print "Please select a downstream branch"
+                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/depot_tools/git_number.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/git_number.py", line 118
+    def leaf_map_fn((pre, tree)):
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/git_rebase_update.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/git_rebase_update.py", line 65
+    print 'Nothing to fetch.'
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/depot_tools/git_try.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/git_try.py", line 68
+    except third_party.upload.ClientLoginError, e:
+                                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/git_upstream_diff.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/git_upstream_diff.py", line 26
+    print 'fatal: Cannot perform git-upstream-diff while not on a branch'
+                                                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/depot_tools/my_activity.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/my_activity.py", line 43
+    print 'python-dateutil package required'
+                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/depot_tools/my_reviews.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/my_reviews.py", line 208
+    print '%7d %10s %3s %14s %-15s  %s' % (
+                                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/owners_finder.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/owners_finder.py", line 351
+    print self.print_indent() + text
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/presubmit_canned_checks.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/presubmit_canned_checks.py", line 1043
+    print "  %s took a long time: %dms" % (snapshot_memory[1], delta_ms)
+                                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/presubmit_support.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/presubmit_support.py", line 1057
+    exec script_text in context
+                   ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/depot_tools/rietveld.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/rietveld.py", line 167
+    except urllib2.HTTPError, e:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/scm.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/scm.py", line 634
+    print "Sleeping %.1f seconds and retrying...." % backoff_time
+                                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/depot_tools/subprocess2.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/subprocess2.py", line 238
+    except OSError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/depot_tools/third_party'...
+Listing './lib/python3.5/site-packages/depot_tools/third_party/colorama'...
+Listing './lib/python3.5/site-packages/depot_tools/third_party/repo'...
+Compiling './lib/python3.5/site-packages/depot_tools/third_party/upload.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/third_party/upload.py", line 191
+    except IOError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/trychange.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/trychange.py", line 88
+    except subprocess2.CalledProcessError, e:
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/upload_to_google_storage.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/upload_to_google_storage.py", line 193
+    print 'Hashing %s files took %1f seconds' % (
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/depot_tools/watchlists.py'...
+***   File "./lib/python3.5/site-packages/depot_tools/watchlists.py", line 62
+    except IOError, e:
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/gclient-0.7.2.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

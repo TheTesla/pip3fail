@@ -1,0 +1,275 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/gozerplugs'...
+Compiling './lib/python3.5/site-packages/gozerplugs/alarm.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/alarm.py", line 181
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/anon.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/anon.py", line 58
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/banner.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/banner.py", line 36
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/bugtracker.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/bugtracker.py", line 97
+    except AssertionError, e:
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/chatlog.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/chatlog.py", line 196
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/cloud.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/cloud.py", line 155
+    except select.error, ex:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/dns.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/dns.py", line 92
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/fans.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/fans.py", line 66
+    except ValueError, e:
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/hex2ip.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/hex2ip.py", line 23
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/hexjoin.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/hexjoin.py", line 26
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/httpwatch.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/httpwatch.py", line 111
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/infoitem.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/infoitem.py", line 59
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/ipcalc.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/ipcalc.py", line 140
+    raise ValueError, "IPv6 subnet size must be between 0 and 128"
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/karma.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/karma.py", line 91
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/lists.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/lists.py", line 112
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/lns.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/lns.py", line 60
+    except Exception,e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/log.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/log.py", line 116
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/mac.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/mac.py", line 1874
+SyntaxError: (unicode error) 'utf-8' codec can't decode byte 0xb7 in position 0: invalid start byte
+
+Compiling './lib/python3.5/site-packages/gozerplugs/mail.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/mail.py", line 80
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/markov.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/markov.py", line 238
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/mpd.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/mpd.py", line 136
+    except socket.error, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/probe.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/probe.py", line 32
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/projecttracker.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (projecttracker.py, line 123)
+Compiling './lib/python3.5/site-packages/gozerplugs/quote.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/quote.py", line 63
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/rss.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/rss.py", line 277
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/search.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/search.py", line 34
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/sed.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/sed.py", line 66
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/shoutcast.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/shoutcast.py", line 57
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/snarf.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/snarf.py", line 60
+    except urllib2.HTTPError, ex:
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/tcp.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/tcp.py", line 116
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/tel.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (tel.py, line 126)
+Compiling './lib/python3.5/site-packages/gozerplugs/tinyurl.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/tinyurl.py", line 71
+    except urllib2.URLError, e:
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/todo.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/todo.py", line 67
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/gozerplugs/tracserver'...
+Compiling './lib/python3.5/site-packages/gozerplugs/tracserver/tserver.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/tracserver/tserver.py", line 203
+    protocol='http', umask=022)
+                             ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/gozerplugs/translate.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/translate.py", line 109
+    except TranslateLanguageException, e:
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/twitter.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/twitter.py", line 1669
+    except (TwitterError, urllib2.HTTPError), e:
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/udp.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/udp.py", line 162
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/urban.py'...
+*** Sorry: TabError: inconsistent use of tabs and spaces in indentation (urban.py, line 34)
+Compiling './lib/python3.5/site-packages/gozerplugs/url.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/url.py", line 81
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/gozerplugs/webserver'...
+Compiling './lib/python3.5/site-packages/gozerplugs/webserver/server.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/webserver/server.py", line 59
+    except Exception, ex:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/whois.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/whois.py", line 34
+    except socket.error, e:
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/wowwiki.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/wowwiki.py", line 25
+    except IOError, ex:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/gozerplugs/yahoo.py'...
+***   File "./lib/python3.5/site-packages/gozerplugs/yahoo.py", line 542
+    except YahooException, e:
+                         ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/gozerplugs-0.9.1.2.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

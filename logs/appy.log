@@ -1,0 +1,346 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/appy'...
+Compiling './lib/python3.5/site-packages/appy/__init__.py'...
+***   File "./lib/python3.5/site-packages/appy/__init__.py", line 144
+    print '%d method(s) patched from %s to %s (%s)' % \
+                                                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/appy/bin'...
+Compiling './lib/python3.5/site-packages/appy/bin/asksap.py'...
+***   File "./lib/python3.5/site-packages/appy/bin/asksap.py", line 79
+    except SapError, se:
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/bin/backup.py'...
+***   File "./lib/python3.5/site-packages/appy/bin/backup.py", line 94
+    except IOError, ioe:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/bin/eggify.py'...
+***   File "./lib/python3.5/site-packages/appy/bin/eggify.py", line 173
+    except EggifierError, ee:
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/bin/generate.py'...
+***   File "./lib/python3.5/site-packages/appy/bin/generate.py", line 74
+    except GeneratorError, ge:
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/bin/job.py'...
+***   File "./lib/python3.5/site-packages/appy/bin/job.py", line 85
+    exec 'targetObject.%s(*args)' % toolMethod
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/bin/new.py'...
+***   File "./lib/python3.5/site-packages/appy/bin/new.py", line 109
+    os.chmod('bin/zopectl', 0744) # Make it executable by owner.
+                               ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/appy/bin/odfwalk.py'...
+***   File "./lib/python3.5/site-packages/appy/bin/odfwalk.py", line 33
+    print 'Walking %s...' % fileName
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/appy/bin/restore.py'...
+***   File "./lib/python3.5/site-packages/appy/bin/restore.py", line 60
+    except OSError, oe:
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/appy/fields'...
+Compiling './lib/python3.5/site-packages/appy/fields/__init__.py'...
+***   File "./lib/python3.5/site-packages/appy/fields/__init__.py", line 806
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/fields/boolean.py'...
+***   File "./lib/python3.5/site-packages/appy/fields/boolean.py", line 131
+    exec 'res = %s' % value
+                  ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/appy/fields/calendar.py'...
+***   File "./lib/python3.5/site-packages/appy/fields/calendar.py", line 568
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/fields/date.py'...
+***   File "./lib/python3.5/site-packages/appy/fields/date.py", line 238
+    except DateTime.DateError, ValueError:
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/fields/file.py'...
+***   File "./lib/python3.5/site-packages/appy/fields/file.py", line 113
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/fields/pod.py'...
+***   File "./lib/python3.5/site-packages/appy/fields/pod.py", line 613
+    exec cmd
+           ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/appy/fields/ref.py'...
+***   File "./lib/python3.5/site-packages/appy/fields/ref.py", line 1524
+    except KeyError, ke:
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/fields/string.py'...
+***   File "./lib/python3.5/site-packages/appy/fields/string.py", line 858
+    exec 'res = obj.%s(*args)' % methodName
+                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/appy/gen'...
+Compiling './lib/python3.5/site-packages/appy/gen/descriptors.py'...
+***   File "./lib/python3.5/site-packages/appy/gen/descriptors.py", line 219
+    exec "self.modelClass.%s = fieldType" % fieldName
+                                        ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/appy/gen/generator.py'...
+***   File "./lib/python3.5/site-packages/appy/gen/generator.py", line 202
+    exec 'moduleElem = module.%s' % name
+                                ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/appy/gen/installer.py'...
+***   File "./lib/python3.5/site-packages/appy/gen/installer.py", line 329
+    exec 'from %s import manage_add%s as ctor' % (module, name)
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/gen/layout.py'...
+***   File "./lib/python3.5/site-packages/appy/gen/layout.py", line 190
+    exec 'self.%s = %s%s' % (param, source, param)
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/gen/mail.py'...
+***   File "./lib/python3.5/site-packages/appy/gen/mail.py", line 131
+    except smtplib.SMTPException, e:
+                                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/appy/gen/mixins'...
+Compiling './lib/python3.5/site-packages/appy/gen/mixins/TestMixin.py'...
+***   File "./lib/python3.5/site-packages/appy/gen/mixins/TestMixin.py", line 16
+    exec 'import %s' % moduleName
+                   ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/appy/gen/mixins/ToolMixin.py'...
+***   File "./lib/python3.5/site-packages/appy/gen/mixins/ToolMixin.py", line 630
+    exec 'from Products.%s.%s import %s as C'% (self.getAppName(),name,name)
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/gen/mixins/__init__.py'...
+***   File "./lib/python3.5/site-packages/appy/gen/mixins/__init__.py", line 606
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/gen/model.py'...
+***   File "./lib/python3.5/site-packages/appy/gen/model.py", line 123
+    exec 'field = klass.%s' % name
+                          ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/appy/gen/navigate.py'...
+***   File "./lib/python3.5/site-packages/appy/gen/navigate.py", line 90
+    exec 'needIt = self.%sNeeded' % urlType
+                                ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Listing './lib/python3.5/site-packages/appy/gen/templates'...
+Listing './lib/python3.5/site-packages/appy/gen/tr'...
+Listing './lib/python3.5/site-packages/appy/gen/ui'...
+Listing './lib/python3.5/site-packages/appy/gen/ui/ckeditor'...
+Listing './lib/python3.5/site-packages/appy/gen/ui/jscalendar'...
+Listing './lib/python3.5/site-packages/appy/gen/ui/jscalendar/lang'...
+Listing './lib/python3.5/site-packages/appy/gen/ui/jscalendar/skins'...
+Listing './lib/python3.5/site-packages/appy/gen/ui/jscalendar/skins/aqua'...
+Listing './lib/python3.5/site-packages/appy/gen/ui/jscalendar/skins/tiger'...
+Compiling './lib/python3.5/site-packages/appy/gen/utils.py'...
+***   File "./lib/python3.5/site-packages/appy/gen/utils.py", line 15
+    exec 'from Products.%s.%s import %s as ZopeClass' % \
+                                                    ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Listing './lib/python3.5/site-packages/appy/gen/wrappers'...
+Compiling './lib/python3.5/site-packages/appy/gen/wrappers/ToolWrapper.py'...
+***   File "./lib/python3.5/site-packages/appy/gen/wrappers/ToolWrapper.py", line 554
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/gen/wrappers/__init__.py'...
+***   File "./lib/python3.5/site-packages/appy/gen/wrappers/__init__.py", line 1039
+    except AttributeError, ae:
+                         ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/appy/pod'...
+Compiling './lib/python3.5/site-packages/appy/pod/actions.py'...
+***   File "./lib/python3.5/site-packages/appy/pod/actions.py", line 124
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/pod/buffers.py'...
+***   File "./lib/python3.5/site-packages/appy/pod/buffers.py", line 246
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/pod/doc_importers.py'...
+***   File "./lib/python3.5/site-packages/appy/pod/doc_importers.py", line 370
+    except ResourceError, re:
+                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/pod/elements.py'...
+***   File "./lib/python3.5/site-packages/appy/pod/elements.py", line 243
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/pod/renderer.py'...
+***   File "./lib/python3.5/site-packages/appy/pod/renderer.py", line 390
+    except OSError, oe:
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/appy/pod/test'...
+Compiling './lib/python3.5/site-packages/appy/pod/test/Tester.py'...
+***   File "./lib/python3.5/site-packages/appy/pod/test/Tester.py", line 117
+    exec 'import %s' % contextPkg
+                   ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Listing './lib/python3.5/site-packages/appy/pod/test/contexts'...
+Listing './lib/python3.5/site-packages/appy/pod/test/images'...
+Listing './lib/python3.5/site-packages/appy/pod/test/results'...
+Listing './lib/python3.5/site-packages/appy/pod/test/templates'...
+Compiling './lib/python3.5/site-packages/appy/pod/xhtml2odt.py'...
+***   File "./lib/python3.5/site-packages/appy/pod/xhtml2odt.py", line 335
+    print res
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/appy/px'...
+Compiling './lib/python3.5/site-packages/appy/px/__init__.py'...
+***   File "./lib/python3.5/site-packages/appy/px/__init__.py", line 86
+    except xml.sax.SAXParseException, spe:
+                                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/appy/shared'...
+Compiling './lib/python3.5/site-packages/appy/shared/csv_parser.py'...
+***   File "./lib/python3.5/site-packages/appy/shared/csv_parser.py", line 113
+    exec 'res = %s' % str(value)
+                  ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/appy/shared/data'...
+Compiling './lib/python3.5/site-packages/appy/shared/dates.py'...
+***   File "./lib/python3.5/site-packages/appy/shared/dates.py", line 83
+    except DateTime.DateError, de:
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/shared/dav.py'...
+***   File "./lib/python3.5/site-packages/appy/shared/dav.py", line 128
+    except SyntaxError, se:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/shared/diff.py'...
+***   File "./lib/python3.5/site-packages/appy/shared/diff.py", line 326
+    exec 'msg = self.%sMsg' % type
+                          ^
+SyntaxError: Missing parentheses in call to 'exec'
+
+Compiling './lib/python3.5/site-packages/appy/shared/google.py'...
+***   File "./lib/python3.5/site-packages/appy/shared/google.py", line 59
+    except Resource.Error, re:
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/shared/ldap_connector.py'...
+***   File "./lib/python3.5/site-packages/appy/shared/ldap_connector.py", line 244
+    exec 'login = login.%s()' % self.loginTransform
+                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/shared/packaging.py'...
+***   File "./lib/python3.5/site-packages/appy/shared/packaging.py", line 181
+    os.chmod(name, 0744) # Make it executable by owner.
+                      ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/appy/shared/sap.py'...
+***   File "./lib/python3.5/site-packages/appy/shared/sap.py", line 94
+    except pysap.BaseSapRfcError, se:
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/shared/tables.py'...
+***   File "./lib/python3.5/site-packages/appy/shared/tables.py", line 140
+    except TypeError, te:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/shared/utils.py'...
+***   File "./lib/python3.5/site-packages/appy/shared/utils.py", line 47
+    except OSError, oe:
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/appy/shared/xml_parser.py'...
+***   File "./lib/python3.5/site-packages/appy/shared/xml_parser.py", line 489
+    except Exception, err:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/appy-0.9.9.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

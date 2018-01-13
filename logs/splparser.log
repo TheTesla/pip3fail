@@ -1,0 +1,449 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './lib/python3.5/site-packages/splparser'...
+Compiling './lib/python3.5/site-packages/splparser/__init__.py'...
+***   File "./lib/python3.5/site-packages/splparser/__init__.py", line 20
+    print parse(sys.argv[1:])
+              ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/splparser/lexers'...
+Compiling './lib/python3.5/site-packages/splparser/lexers/abstractlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/abstractlexer.py", line 232
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/addinfolexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/addinfolexer.py", line 39
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/addtotalslexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/addtotalslexer.py", line 238
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/appendcolslexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/appendcolslexer.py", line 238
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/appendlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/appendlexer.py", line 240
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/auditlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/auditlexer.py", line 38
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/bucketlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/bucketlexer.py", line 232
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/chartlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/chartlexer.py", line 322
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/collectlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/collectlexer.py", line 236
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/convertlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/convertlexer.py", line 248
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/deduplexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/deduplexer.py", line 213
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/deletelexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/deletelexer.py", line 38
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/deltalexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/deltalexer.py", line 136
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/evallexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/evallexer.py", line 268
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/eventstatslexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/eventstatslexer.py", line 285
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/exportlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/exportlexer.py", line 148
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/extractlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/extractlexer.py", line 246
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/fieldformatlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/fieldformatlexer.py", line 269
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/fieldslexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/fieldslexer.py", line 145
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/filldownlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/filldownlexer.py", line 131
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/fillnulllexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/fillnulllexer.py", line 237
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/gaugelexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/gaugelexer.py", line 172
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/headlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/headlexer.py", line 284
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/historylexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/historylexer.py", line 236
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/inputcsvlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/inputcsvlexer.py", line 232
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/inputlookuplexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/inputlookuplexer.py", line 239
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/joinlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/joinlexer.py", line 244
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/loadjoblexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/loadjoblexer.py", line 237
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/localoplexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/localoplexer.py", line 38
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/lookuplexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/lookuplexer.py", line 238
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/makemvlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/makemvlexer.py", line 237
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/metadatalexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/metadatalexer.py", line 231
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/multikvlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/multikvlexer.py", line 241
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/mvcombinelexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/mvcombinelexer.py", line 235
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/mvexpandlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/mvexpandlexer.py", line 220
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/nomvlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/nomvlexer.py", line 164
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/outlierlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/outlierlexer.py", line 237
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/outputcsvlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/outputcsvlexer.py", line 231
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/outputlookuplexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/outputlookuplexer.py", line 231
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/overlaplexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/overlaplexer.py", line 38
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/rarelexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/rarelexer.py", line 243
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/regexlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/regexlexer.py", line 211
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/relevancylexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/relevancylexer.py", line 38
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/renamelexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/renamelexer.py", line 280
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/replacelexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/replacelexer.py", line 241
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/reverselexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/reverselexer.py", line 38
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/rexlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/rexlexer.py", line 225
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/searchlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/searchlexer.py", line 265
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/sortlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/sortlexer.py", line 138
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/spathlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/spathlexer.py", line 231
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/statslexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/statslexer.py", line 286
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/strcatlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/strcatlexer.py", line 243
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/streamstatslexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/streamstatslexer.py", line 285
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/tablelexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/tablelexer.py", line 131
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/tagslexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/tagslexer.py", line 237
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/taillexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/taillexer.py", line 46
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/timechartlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/timechartlexer.py", line 326
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/toplevellexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/toplevellexer.py", line 342
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/toplexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/toplexer.py", line 243
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/transactionlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/transactionlexer.py", line 242
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/transposelexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/transposelexer.py", line 54
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/tstatslexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/tstatslexer.py", line 290
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/typeaheadlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/typeaheadlexer.py", line 231
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/uniqlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/uniqlexer.py", line 38
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/wherelexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/wherelexer.py", line 268
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/xmlkvlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/xmlkvlexer.py", line 236
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/splparser/lexers/xpathlexer.py'...
+***   File "./lib/python3.5/site-packages/splparser/lexers/xpathlexer.py", line 231
+    print tokenize(' '.join(sys.argv[1:]))
+                 ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/splparser/parsetabs'...
+Compiling './lib/python3.5/site-packages/splparser/parsetree.py'...
+***   File "./lib/python3.5/site-packages/splparser/parsetree.py", line 621
+    print self.str_tree(recursive=recursive)
+             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/splparser/regexes'...
+Listing './lib/python3.5/site-packages/splparser/rules'...
+Listing './lib/python3.5/site-packages/splparser/rules/common'...
+Listing './lib/python3.5/site-packages/splparser-0.2.0.egg-info'...
+Listing './lib/python3.5/site-packages/test'...
+Listing './share'...
+Listing './share/python-wheels'...

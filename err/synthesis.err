@@ -1,0 +1,253 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './lib/python3.5/site-packages/synthesis'...
+Compiling './lib/python3.5/site-packages/synthesis/clsexceptions.py'...
+***   File "./lib/python3.5/site-packages/synthesis/clsexceptions.py", line 31
+    print message
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/clsiniutils.py'...
+***   File "./lib/python3.5/site-packages/synthesis/clsiniutils.py", line 69
+    print "clsConfigParser"
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/clspostprocessing.py'...
+***   File "./lib/python3.5/site-packages/synthesis/clspostprocessing.py", line 67
+    if rc <> 0:
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/synthesis/clssecurity.py'...
+***   File "./lib/python3.5/site-packages/synthesis/clssecurity.py", line 12
+    print "Class created: %s" % self.__class__.__name__
+                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/clssocketcomm.py'...
+***   File "./lib/python3.5/site-packages/synthesis/clssocketcomm.py", line 62
+    print "waiting on port", port
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/synthesis/conf'...
+Compiling './lib/python3.5/site-packages/synthesis/conf/settings.py'...
+***   File "./lib/python3.5/site-packages/synthesis/conf/settings.py", line 32
+    print "BASE_PATH is: ", BASE_PATH
+                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/dateutils.py'...
+***   File "./lib/python3.5/site-packages/synthesis/dateutils.py", line 16
+    print "bad date string passed to fixDate: ", inputDate, " so sending back blank date"
+                                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/dbobjects.py'...
+***   File "./lib/python3.5/site-packages/synthesis/dbobjects.py", line 2998
+    print "Base Class created: %s" % self.__class__.__name__
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/dbobjects_unit_test.py'...
+***   File "./lib/python3.5/site-packages/synthesis/dbobjects_unit_test.py", line 16
+    print theExport.export_software_vendor
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/emailprocessor.py'...
+***   File "./lib/python3.5/site-packages/synthesis/emailprocessor.py", line 16
+    if docName <> '':
+                ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/synthesis/errcatalog'...
+Compiling './lib/python3.5/site-packages/synthesis/fileinputwatcher.py'...
+***   File "./lib/python3.5/site-packages/synthesis/fileinputwatcher.py", line 44
+    print 'Could not import win32 modules.'
+                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/filerouter.py'...
+***   File "./lib/python3.5/site-packages/synthesis/filerouter.py", line 12
+    print "moving ", file_name, "to", settings.USEDFILES_PATH
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/fileutils.py'...
+***   File "./lib/python3.5/site-packages/synthesis/fileutils.py", line 35
+    print 'Sleeping for %s' % sleepTime
+                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/hmiscsv30writer.py'...
+***   File "./lib/python3.5/site-packages/synthesis/hmiscsv30writer.py", line 152
+    print "CSV Files to be created in: %s" % outDirectory
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/hmisxml28reader.py'...
+***   File "./lib/python3.5/site-packages/synthesis/hmisxml28reader.py", line 73
+    raise clsexceptions.DuplicateXMLDocumentError, (err[0], err[1], 'process_data()'  )
+                                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/synthesis/hmisxml28writer.py'...
+***   File "./lib/python3.5/site-packages/synthesis/hmisxml28writer.py", line 65
+    print "XML File to be dumped to: %s" % poutDirectory
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/hmisxml30reader.py'...
+***   File "./lib/python3.5/site-packages/synthesis/hmisxml30reader.py", line 3926
+    print "Need to specify the handling"
+                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/hmisxml30writer.py'...
+***   File "./lib/python3.5/site-packages/synthesis/hmisxml30writer.py", line 326
+    print 'Sorry, please see the minimum requirements to run this Application'
+                                                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/interpretpicklist.py'...
+***   File "./lib/python3.5/site-packages/synthesis/interpretpicklist.py", line 28
+    print "started Interpretpicklist"
+                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/jfcsxmlreader.py'...
+***   File "./lib/python3.5/site-packages/synthesis/jfcsxmlreader.py", line 129
+    print "Error: no person index id found!"
+                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/logger.py'...
+***   File "./lib/python3.5/site-packages/synthesis/logger.py", line 34
+    print 'Shutting down logging system...'
+                                          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/lxmlvalidationtest.py'...
+***   File "./lib/python3.5/site-packages/synthesis/lxmlvalidationtest.py", line 14
+    print "Validates"
+                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/mainprocessor.py'...
+***   File "./lib/python3.5/site-packages/synthesis/mainprocessor.py", line 38
+    print "Logs Directory exists:", settings.LOGS
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/nodebuilder.py'...
+***   File "./lib/python3.5/site-packages/synthesis/nodebuilder.py", line 41
+    print "initializing nodebuilder"
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/occhmisxml30reader.py'...
+***   File "./lib/python3.5/site-packages/synthesis/occhmisxml30reader.py", line 440
+    print "Error opening import file"
+                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/parhmisxml30reader.py'...
+***   File "./lib/python3.5/site-packages/synthesis/parhmisxml30reader.py", line 3938
+    print "Source:",self.source_index_id
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/parxmlreader.py'...
+***   File "./lib/python3.5/site-packages/synthesis/parxmlreader.py", line 139
+    raise clsexceptions.DuplicateXMLDocumentError, (err[0], err[1], 'process_data()'  )
+                                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/synthesis/postgresutils.py'...
+***   File "./lib/python3.5/site-packages/synthesis/postgresutils.py", line 29
+    print "postgresutils.Utils inititalized"
+                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/queryobject.py'...
+***   File "./lib/python3.5/site-packages/synthesis/queryobject.py", line 72
+    print options.configID
+                ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/selector.py'...
+***   File "./lib/python3.5/site-packages/synthesis/selector.py", line 40
+    print "Now running the GUI serviceController code"
+                                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/selector_unit_test.py'...
+***   File "./lib/python3.5/site-packages/synthesis/selector_unit_test.py", line 19
+    print result
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/smtplibrary.py'...
+***   File "./lib/python3.5/site-packages/synthesis/smtplibrary.py", line 23
+    print "trying to send message"
+                                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/svcpointxml20writer.py'...
+***   File "./lib/python3.5/site-packages/synthesis/svcpointxml20writer.py", line 43
+    print 'Sorry, please see the minimum requirements to run this Application'
+                                                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/svcpointxml_406_writer.py'...
+***   File "./lib/python3.5/site-packages/synthesis/svcpointxml_406_writer.py", line 47
+    print 'Sorry, please see the minimum requirements to run this Application'
+                                                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/translator.py'...
+***   File "./lib/python3.5/site-packages/synthesis/translator.py", line 52
+    print "there is no map following" + str(item)
+                                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/synthesis/validate_unit_test.py'...
+***   File "./lib/python3.5/site-packages/synthesis/validate_unit_test.py", line 14
+    print '\nHi, thread initting, cleaning up first'
+                                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/synthesis/xmlutilities.py'...
+***   File "./lib/python3.5/site-packages/synthesis/xmlutilities.py", line 33
+    print 'Sorry, please see the minimum requirements to run this Application'
+                                                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/synthesis-1.1061.egg-info'...
+Listing './share'...
+Listing './share/python-wheels'...

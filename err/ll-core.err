@@ -1,0 +1,131 @@
+Listing '.'...
+Listing './bin'...
+Compiling './bin/ucp.py'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/ll'...
+Compiling './lib/python3.5/site-packages/ll/ansistyle.py'...
+***   File "./lib/python3.5/site-packages/ll/ansistyle.py", line 71
+    self._colors = [0070]
+                       ^
+SyntaxError: invalid token
+
+Compiling './lib/python3.5/site-packages/ll/color.py'...
+***   File "./lib/python3.5/site-packages/ll/color.py", line 320
+    def __set__(self, (h, s, v)):
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ll/daemon.py'...
+***   File "./lib/python3.5/site-packages/ll/daemon.py", line 43
+    ur"""
+<p>This module can be used on UNIX to fork a daemon process. It is based
+on <a href="http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/66012">Jürgen Hermann's Cookbook recipe</a>.</p>
+
+<p>An example script might look like this:</p>
+
+<example>
+<prog>
+from ll import daemon
+
+counter = daemon.Daemon(
+	stdin="/dev/null",
+	stdout="/tmp/daemon.log",
+	stderr="/tmp/daemon.log",
+	pidfile="/var/run/counter/counter.pid",
+	user="nobody"
+)
+
+if __name__ == "__main__":
+	if counter.service():
+		import sys, os, time
+		sys.stdout.write("Daemon started with pid %d\n" % os.getpid())
+		sys.stdout.write("Daemon stdout output\n")
+		sys.stderr.write("Daemon stderr output\n")
+		c = 0
+		while True:
+			sys.stdout.write('%d: %s\n' % (c, time.ctime(time.time())))
+			sys.stdout.flush()
+			c += 1
+			time.sleep(1)
+</prog>
+</example>
+"""
+         
+                                                                        
+                                                                                                                    
+
+                                              
+
+         
+      
+                     
+
+                        
+	                  
+	                         
+	                         
+	                                       
+	             
+ 
+
+                          
+	                     
+		                    
+		                                                              
+		                                          
+		                                          
+		     
+		           
+			                                                           
+			                  
+			      
+			             
+       
+          
+  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ll/make.py'...
+***   File "./lib/python3.5/site-packages/ll/make.py", line 139
+    except Exception, exc:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/ll/scripts'...
+Compiling './lib/python3.5/site-packages/ll/sisyphus.py'...
+***   File "./lib/python3.5/site-packages/ll/sisyphus.py", line 291
+    except IOError, exc: # no pid file => the job has been finished without problems
+                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/ll/url.py'...
+***   File "./lib/python3.5/site-packages/ll/url.py", line 394
+    def mkdir(self, url, mode=0777):
+                                 ^
+SyntaxError: invalid token
+
+Listing './lib/python3.5/site-packages/ll_core-1.11.1.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

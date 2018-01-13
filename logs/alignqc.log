@@ -1,0 +1,485 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/AlignQC-2.0.5.egg-info'...
+Listing './lib/python3.5/site-packages/alignqc'...
+Listing './lib/python3.5/site-packages/alignqc/data'...
+Compiling './lib/python3.5/site-packages/alignqc/depth_to_coverage_report.py'...
+***   File "./lib/python3.5/site-packages/alignqc/depth_to_coverage_report.py", line 30
+    print total_len
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/alignqc/dump.py'...
+***   File "./lib/python3.5/site-packages/alignqc/dump.py", line 80
+    print b.get_gpd_line()
+          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/seq_tools-1.0.10.egg-info'...
+Listing './lib/python3.5/site-packages/seqtools'...
+Compiling './lib/python3.5/site-packages/seqtools/align.py'...
+***   File "./lib/python3.5/site-packages/seqtools/align.py", line 296
+    print 'Alignment for Q: '+str(self.alignment_ranges[0][1].chr)
+                            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/seqtools/cli'...
+Listing './lib/python3.5/site-packages/seqtools/cli/legacy'...
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/add_UCSC_URL_to_bed.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/add_UCSC_URL_to_bed.py", line 28
+    print url + "\t" + line.rstrip()
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/annotate_psl_with_gpd.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/annotate_psl_with_gpd.py", line 74
+    print params['args'].closegap
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/background.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/background.py", line 131
+    print cbed.get_range_string()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/background_and_nascent_expression.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/background_and_nascent_expression.py", line 65
+    print "Intergenic results:"
+                              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/bam_to_vcf.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/bam_to_vcf.py", line 56
+    print line.rstrip()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/bed_tools.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/bed_tools.py", line 41
+    print ostr
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/bestannotation_into_rarefraction.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/bestannotation_into_rarefraction.py", line 103
+    print str(entry[0])+"\t"+str(entry[1].get())
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/bio_to_lengths.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/bio_to_lengths.py", line 24
+    print cov
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/bwa_sam_to_gpd.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/bwa_sam_to_gpd.py", line 87
+    print line.rstrip()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/cat_numerical.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/cat_numerical.py", line 21
+    for line in inf:  print line.rstrip()
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/change_UCSC_bed_color.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/change_UCSC_bed_color.py", line 27
+    print line.rstrip()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/combine_splicemap_junction_color_bed.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/combine_splicemap_junction_color_bed.py", line 69
+    print header
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/explode_bam.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/explode_bam.py", line 60
+    print i
+          ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/fastq_quality_profiler.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/fastq_quality_profiler.py", line 55
+    print qp.get_serialized()
+           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/fastq_to_unmapped_sam.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/fastq_to_unmapped_sam.py", line 23
+    print h1
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/filter_sam_junctions.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/filter_sam_junctions.py", line 27
+    print h.rstrip()
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/filter_sam_positional_duplicates.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/filter_sam_positional_duplicates.py", line 28
+    print line.rstrip()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/filter_vcf.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/filter_vcf.py", line 48
+    print line.rstrip()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/filtered_gene_list_from_cufflinks_results.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/filtered_gene_list_from_cufflinks_results.py", line 61
+    print gene + "\t" + ",".join([str(x) for x in sorted(gene_lengths[gene])])
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/find_novel_regions_per_read_depth.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/find_novel_regions_per_read_depth.py", line 102
+    print maxdepth
+                 ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/find_primers.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/find_primers.py", line 76
+    print rankedsets[i][0]+"\t"+str(rankedsets[i][1])
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/fix_psl_stats.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/fix_psl_stats.py", line 45
+    print p.get_line()
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/genepred_to_alignment_lengths.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/genepred_to_alignment_lengths.py", line 15
+    print e.entry['gene_name']+"\t"+e.entry['name']+"\t"+str(e.length())
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/genepred_to_exon_bed.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/genepred_to_exon_bed.py", line 18
+    print e['chrom']+"\t"+str(e['exonStarts'][i])+"\t"+str(e['exonEnds'][i])+"\t"+e['gene_name']+"\t"+e['name']+"\t"+str(i)
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/genepred_to_fake_psl.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/genepred_to_fake_psl.py", line 42
+    print oline
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/genepred_to_loci.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/genepred_to_loci.py", line 34
+    print str(z) + "\t" + member.get_payload()
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/get_chromosome_names_from_fasta.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/get_chromosome_names_from_fasta.py", line 14
+    print 'split_genome_fasta.py <INPUT FILE>'
+                                             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/get_psl_quality.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/get_psl_quality.py", line 17
+    print str(z) + "\t" + p.value('qName') + "\t" + p.value('tName')+"\t"+str(p.get_coverage())+"\t"+str(p.value('qSize'))+"\t"+str(p.get_quality())
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/gff3_to_genepred.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/gff3_to_genepred.py", line 64
+    print gid + "\t" + tx + "\t" + chrom + "\t" + strand + "\t" \
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/gpd_to_bam_read_coverage.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/gpd_to_bam_read_coverage.py", line 23
+    print ml
+           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/gpd_to_nonredundant.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/gpd_to_nonredundant.py", line 355
+    print 'no mutual for '+str(rname)
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/hisat_to_mapping_count.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/hisat_to_mapping_count.py", line 21
+    print entries[0].value('qname')+"\t0"
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/hisat_to_uniquely_mapped.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/hisat_to_uniquely_mapped.py", line 17
+    print line.rstrip()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/list_bam_read_counts.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/list_bam_read_counts.py", line 19
+    print res
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/map_long_reads.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/map_long_reads.py", line 28
+    print sys.argv[0]+' <long reads fasta> <reference genome> <transcriptome genepred>'
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/nudge_psl_junctions_to_reference_output_gpd.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/nudge_psl_junctions_to_reference_output_gpd.py", line 59
+    print new_psl_line
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/optimize_qc.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/optimize_qc.py", line 233
+    print header
+               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/pacbio_concatonate_ccs_and_longest_subreads.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/pacbio_concatonate_ccs_and_longest_subreads.py", line 21
+    print entry['original'].rstrip()
+              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/pacbio_make_ccs90-95_sub75_set.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/pacbio_make_ccs90-95_sub75_set.py", line 22
+    print sys.argv[0] + ' <ccs 95 fasta> <ccs 90 fasta> <subread 75 fasta>'
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/print_psl_alignment.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/print_psl_alignment.py", line 44
+    print p.get_line()
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/psl_to_target_bed.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/psl_to_target_bed.py", line 20
+    print sys.argv[0] + ' <psl filename> <smoothing size (optional)>'
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/psl_to_target_genepred.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/psl_to_target_genepred.py", line 35
+    print genepred_line
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/replace_LSC_corrected_with_full_when_similar_length.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/replace_LSC_corrected_with_full_when_similar_length.py", line 16
+    print sys.argv[0] + ' <full_LR.fa (input)> <corrected_LR.fa (input)> <threshold (i.e. 0.9)> <output fasta> <output list>'
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/run_alignqc.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/run_alignqc.py", line 29
+    print cmd
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/sam_flag_filter.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/sam_flag_filter.py", line 20
+    print 'cat myfile.sam | ./'+sys.argv[0] + ' <hex flag (i.e. 0x800)> <integer 1 for print on 1, 0 for print on 0>'
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/sam_mapped_count.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/sam_mapped_count.py", line 42
+    print aligned_reads
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/sam_to_bed_depth.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/sam_to_bed_depth.py", line 65
+    print ostr
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/sam_to_best_match_count.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/sam_to_best_match_count.py", line 44
+    print name +"\t"+str(best_matches[name])
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/sam_to_best_sam.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/sam_to_best_sam.py", line 22
+    print h.rstrip()
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/sam_to_loci.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/sam_to_loci.py", line 53
+    print line
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/simulate_fusion_genome.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/simulate_fusion_genome.py", line 46
+    print ars.name
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/simulate_transcriptome.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/simulate_transcriptome.py", line 79
+    print "@SRSIM"+str(zi+1)
+                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/smithwaterman.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/smithwaterman.py", line 29
+    print oline
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/smithwatermanNT.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/smithwatermanNT.py", line 29
+    print oline
+              ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/smooth_genepred.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/smooth_genepred.py", line 16
+    print GenePredBasics.entry_to_line(e2)
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/sort_genepred.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/sort_genepred.py", line 14
+    print "do name"
+                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/splicemap_wrapper.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/splicemap_wrapper.py", line 65
+    print line.rstrip()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/stat_mean.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/stat_mean.py", line 8
+    print average(values)
+                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/stat_median.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/stat_median.py", line 8
+    print median(values)
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/stat_standard_deviation.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/stat_standard_deviation.py", line 8
+    print standard_deviation(values)
+                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/stitch_mate_pair_alignments.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/stitch_mate_pair_alignments.py", line 33
+    print h.rstrip()
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/stitch_partial_alignments.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/stitch_partial_alignments.py", line 143
+    print "before: " + str(len(locus_set))
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/stringtie_gtf_to_expression.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/stringtie_gtf_to_expression.py", line 54
+    print transcript+"\t"+str(genes[gene][transcript]['cov'])
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/transcriptome_psl_to_best_alignment_bed.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/transcriptome_psl_to_best_alignment_bed.py", line 32
+    print sys.argv[0] + " <psl filename> <smoothing parameter (default 10)>"
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/transpose_matrix.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/transpose_matrix.py", line 20
+    print v.rstrip("\t")
+          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/legacy/validate_psl.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/legacy/validate_psl.py", line 17
+    if PSLBasics.is_valid(line): print line.rstrip()
+                                          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/seqtools/cli/utilities'...
+Compiling './lib/python3.5/site-packages/seqtools/cli/utilities/gpd_filter.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/utilities/gpd_filter.py", line 69
+    if is_good: print line.rstrip()
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/seqtools/cli/utilities/gpd_to_gtf_exons.py'...
+***   File "./lib/python3.5/site-packages/seqtools/cli/utilities/gpd_to_gtf_exons.py", line 62
+    print line
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/seqtools/errors.py'...
+***   File "./lib/python3.5/site-packages/seqtools/errors.py", line 1078
+    print 'type: '+type+' '+str(cnt)+' '+str(float(total)/float(cnt))
+                 ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/seqtools/format'...
+Listing './lib/python3.5/site-packages/seqtools/format/fasta'...
+Listing './lib/python3.5/site-packages/seqtools/format/sam'...
+Listing './lib/python3.5/site-packages/seqtools/format/sam/bam'...
+Listing './lib/python3.5/site-packages/seqtools/graph'...
+Compiling './lib/python3.5/site-packages/seqtools/old_graph.py'...
+***   File "./lib/python3.5/site-packages/seqtools/old_graph.py", line 150
+    print self
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/seqtools/range'...
+Listing './lib/python3.5/site-packages/seqtools/sequence'...
+Listing './lib/python3.5/site-packages/seqtools/simulation'...
+Listing './lib/python3.5/site-packages/seqtools/statistics'...
+Listing './lib/python3.5/site-packages/seqtools/structure'...
+Listing './lib/python3.5/site-packages/seqtools/structure/transcript'...
+Listing './lib/python3.5/site-packages/seqtools/structure/transcriptome'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

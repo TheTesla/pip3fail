@@ -1,0 +1,217 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/distance'...
+Compiling './lib/python3.5/site-packages/distance/_argtaker.py'...
+***   File "./lib/python3.5/site-packages/distance/_argtaker.py", line 26
+    raise TypeError(f"missing argument: {kwname!r}")
+                                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/_data.py'...
+***   File "./lib/python3.5/site-packages/distance/_data.py", line 71
+    p(f"Properties: {len(self)}")
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/base.py'...
+***   File "./lib/python3.5/site-packages/distance/base.py", line 335
+    p(f"Fragment: Unknown")
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/bytes.py'...
+***   File "./lib/python3.5/site-packages/distance/bytes.py", line 269
+    return f"<{type(self).__name__}{self._repr_detail()}>"
+                                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/constants.py'...
+***   File "./lib/python3.5/site-packages/distance/constants.py", line 107
+    return f"Unknown({toggle}, {value})"
+                                       ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/distance/filter'...
+Compiling './lib/python3.5/site-packages/distance/filter/base.py'...
+***   File "./lib/python3.5/site-packages/distance/filter/base.py", line 83
+    raise TypeError(f'Unknown object type: {type(content).__name__!r}')
+                                                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/filter/goldify.py'...
+***   File "./lib/python3.5/site-packages/distance/filter/goldify.py", line 192
+    p(f"Goldified simples: {self.num_replaced}")
+                                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/filter/remove.py'...
+***   File "./lib/python3.5/site-packages/distance/filter/remove.py", line 28
+    p(f"Candidates: {len(candidates)}")
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/filter/settings.py'...
+***   File "./lib/python3.5/site-packages/distance/filter/settings.py", line 142
+    p(f"Settings applied (version {self.applied_version})")
+                                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/filter/unkill.py'...
+***   File "./lib/python3.5/site-packages/distance/filter/unkill.py", line 96
+    p(f"Replaced kill grids: {self.num_replaced}")
+                                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/filter/visualize.py'...
+***   File "./lib/python3.5/site-packages/distance/filter/visualize.py", line 796
+    objdetail = f"at 0x{main.start_pos:08x}"
+                                           ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/lazy.py'...
+***   File "./lib/python3.5/site-packages/distance/lazy.py", line 84
+    return f"<lazy seq {l!r}{remaining:+}>"
+                                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/leaderboard.py'...
+***   File "./lib/python3.5/site-packages/distance/leaderboard.py", line 36
+    raise ValueError(f"unknown version: {version}")
+                                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/level.py'...
+***   File "./lib/python3.5/site-packages/distance/level.py", line 30
+    name = names.get(flag, f"Unknown({flag})")
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/levelfragments.py'...
+***   File "./lib/python3.5/site-packages/distance/levelfragments.py", line 62
+    p(f"Old properties format")
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/levelinfos.py'...
+***   File "./lib/python3.5/site-packages/distance/levelinfos.py", line 52
+    p(f"Level name: {self.level_name!r}")
+                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/levelobjects.py'...
+***   File "./lib/python3.5/site-packages/distance/levelobjects.py", line 38
+    p(f"Level object: {counters.num_objects}")
+                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/printing.py'...
+***   File "./lib/python3.5/site-packages/distance/printing.py", line 101
+    self(f"Exception start: 0x{exc.start_pos:08x}")
+                                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/prober.py'...
+***   File "./lib/python3.5/site-packages/distance/prober.py", line 47
+    e = RegisterError(f"{sec} is already registered")
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/profileprogress.py'...
+***   File "./lib/python3.5/site-packages/distance/profileprogress.py", line 41
+    return f"{mode_str} {type_str}: {score_str} ({comp_str})"
+                                                            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/replay.py'...
+***   File "./lib/python3.5/site-packages/distance/replay.py", line 75
+    p(f"Version: {self.version}")
+                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance/workshoplevelinfos.py'...
+***   File "./lib/python3.5/site-packages/distance/workshoplevelinfos.py", line 81
+    p(f"Levelinfos: {len(self.levels)}")
+                                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/distance_scripts'...
+Compiling './lib/python3.5/site-packages/distance_scripts/bytes.py'...
+***   File "./lib/python3.5/site-packages/distance_scripts/bytes.py", line 42
+    p(f"File: {fname!r}")
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance_scripts/filterlevel.py'...
+***   File "./lib/python3.5/site-packages/distance_scripts/filterlevel.py", line 87
+    print(f"{parser.prog}: No input file specified.", file=sys.stderr)
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance_scripts/mkcustomobject.py'...
+***   File "./lib/python3.5/site-packages/distance_scripts/mkcustomobject.py", line 60
+    p(f"Candidates: {len(candidates)}")
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance_scripts/mklevelinfos.py'...
+***   File "./lib/python3.5/site-packages/distance_scripts/mklevelinfos.py", line 53
+    print(f"found {count} levels")
+                                ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance_scripts/mktriangles.py'...
+***   File "./lib/python3.5/site-packages/distance_scripts/mktriangles.py", line 74
+    print(f"{n} bytes written")
+                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance_scripts/objtobytes.py'...
+***   File "./lib/python3.5/site-packages/distance_scripts/objtobytes.py", line 125
+    print(f"could not read mtllib: {filename}")
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance_scripts/querymaps.py'...
+***   File "./lib/python3.5/site-packages/distance_scripts/querymaps.py", line 65
+    query = f"SELECT {fields} FROM level"
+                                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance_scripts/searchfrags.py'...
+***   File "./lib/python3.5/site-packages/distance_scripts/searchfrags.py", line 108
+    matches.append(("Offset", pos, f"0x{i:08x} (pos{relative:+}/end{relative-8:+})"))
+                                                                                  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/distance_scripts/teletodot.py'...
+***   File "./lib/python3.5/site-packages/distance_scripts/teletodot.py", line 48
+    label += f"{tele.link_id}"
+                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/distanceutils-0.4.4.dist-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

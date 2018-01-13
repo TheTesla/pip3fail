@@ -1,0 +1,292 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/FLiP-1.2.egg-info'...
+Listing './lib/python3.5/site-packages/flip'...
+Listing './lib/python3.5/site-packages/flip/grail'...
+Listing './lib/python3.5/site-packages/flip/logic'...
+Compiling './lib/python3.5/site-packages/flip/logic/common.py'...
+***   File "./lib/python3.5/site-packages/flip/logic/common.py", line 15
+    raise TypeError, 'argument %s is not a string' % text
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/logic/formula.py'...
+***   File "./lib/python3.5/site-packages/flip/logic/formula.py", line 600
+    raise SyntaxError, '%s requires %d arguments, found %d' % \
+                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/logic/nd.py'...
+***   File "./lib/python3.5/site-packages/flip/logic/nd.py", line 46
+    print pps(line, assumptions, *step)  # print after check updates state
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/logic/tree.py'...
+***   File "./lib/python3.5/site-packages/flip/logic/tree.py", line 26
+    raise SyntaxError, 'path %s does not match [01]*$' % text
+                     ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/flip/poset'...
+Listing './lib/python3.5/site-packages/flip/poset/test'...
+Compiling './lib/python3.5/site-packages/flip/poset/test/contradiction.py'...
+***   File "./lib/python3.5/site-packages/flip/poset/test/contradiction.py", line 10
+    print check_proof(contra_ok1)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/poset/test/exercises.py'...
+***   File "./lib/python3.5/site-packages/flip/poset/test/exercises.py", line 16
+    print check_proof(ex42)
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/flip/test'...
+Compiling './lib/python3.5/site-packages/flip/test/and_or_lr_reversed_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/and_or_lr_reversed_test.py", line 18
+    print check_proof(ex64)  # 'print' prints True or False after all proof steps
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/and_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/and_test.py", line 9
+    print check_proof(ai_ok)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/and_wrong_indices_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/and_wrong_indices_test.py", line 9
+    print check_proof(ai_ok)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/backa_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/backa_test.py", line 7
+    print '-- check_proof ex. 9.16'
+                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/flip/test/command_wrapper.py'...
+***   File "./lib/python3.5/site-packages/flip/test/command_wrapper.py", line 6
+    print 'back(%s)' % n
+                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/contra_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/contra_test.py", line 10
+    print check_proof(contra_ok1)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/count_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/count_test.py", line 3
+    print 'Relation, no count check'
+                                   ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/flip/test/equal_equiv_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/equal_equiv_test.py", line 10
+    print check_proof(eq_refl_ok)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/equal_sub_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/equal_sub_test.py", line 9
+    print check_proof(ex917)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/ex69ref.py'...
+***   File "./lib/python3.5/site-packages/flip/test/ex69ref.py", line 16
+    print check_proof(ex69ref)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/ex914ref.py'...
+***   File "./lib/python3.5/site-packages/flip/test/ex914ref.py", line 13
+    print check_proof(ex914ref)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/flot_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/flot_test.py", line 14
+    print '%s --> %s' % (nota, flotten(nota))
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/fol_apply_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/fol_apply_test.py", line 12
+    print check_proof(ex917)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/free_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/free_test.py", line 3
+    print 'No duplicates'
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/flip/test/hr_ch2_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/hr_ch2_test.py", line 10
+    print check_proof(p111Ae)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/kaye_ch9_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/kaye_ch9_test.py", line 14
+    print check_proof(ex910)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/mismatch_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/mismatch_test.py", line 7
+    print 'Mismatch example from formula.txt'
+                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/flip/test/not_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/not_test.py", line 8
+    print check_proof(not_ok)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/or_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/or_test.py", line 8
+    print check_proof(oil_ok)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/poset_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/poset_test.py", line 18
+    print check_proof(ex42)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/prop_constructive_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/prop_constructive_test.py", line 19
+    print check_proof(ex51a)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/prop_contra_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/prop_contra_test.py", line 9
+    print check_proof(contra_ok1)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/prop_derived_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/prop_derived_test.py", line 22
+    print check_proof(ex111)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/prop_f_or_scope_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/prop_f_or_scope_test.py", line 11
+    print check_proof(f_scope_error)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/prop_ore_scope_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/prop_ore_scope_test.py", line 17
+    print check_proof(ex51a_scramble_subproofs)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/prop_raa_scope_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/prop_raa_scope_test.py", line 12
+    print check_proof(ok)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/prop_raa_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/prop_raa_test.py", line 10
+    print check_proof(ok)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/prop_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/prop_test.py", line 23
+    print check_proof(ex64)  # 'print' prints True or False after all proof steps
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/raa_scope_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/raa_scope_test.py", line 16
+    print check_proof(ex43)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/raa_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/raa_test.py", line 82
+    print "One-line erroneous proof with no comment line"
+                                                        ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/flip/test/simple_q_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/simple_q_test.py", line 8
+    print check_proof(ex91Ei)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/subproof_q_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/subproof_q_test.py", line 18
+    print check_proof(ex912)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/subst_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/subst_test.py", line 13
+    print "One occurence of a at level 1, substitute {a:b} should work"
+                                                                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/flip/test/top_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/top_test.py", line 7
+    print check_proof(top_ok)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/tree_check_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/tree_check_test.py", line 9
+    print 'Path, wrong argument count'
+                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/flip/test/tree_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/tree_test.py", line 15
+    print check_proof(shorten_ok)
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/flip/test/type_test.py'...
+***   File "./lib/python3.5/site-packages/flip/test/type_test.py", line 9
+    print 'Relation, correct argument types'
+                                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

@@ -1,0 +1,401 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/cloudera'...
+Listing './lib/python3.5/site-packages/cloudera/director'...
+Listing './lib/python3.5/site-packages/cloudera/director/common'...
+Listing './lib/python3.5/site-packages/cloudera/director/latest'...
+Listing './lib/python3.5/site-packages/cloudera/director/latest/models'...
+Compiling './lib/python3.5/site-packages/cloudera/director/latest/models/ClusterAdministrationSettings.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/latest/models/ClusterAdministrationSettings.py", line 32
+    self.autoRepairCooldownPeriodInSeconds = kwargs.get('autoRepairCooldownPeriodInSeconds',0L) # long
+                                                                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/latest/models/ClusterUpdateEventSummary.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/latest/models/ClusterUpdateEventSummary.py", line 42
+    self.occurredAt = kwargs.get('occurredAt',0L) # long
+                                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/latest/models/DiagnosticDataSummary.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/latest/models/DiagnosticDataSummary.py", line 37
+    self.collectionTime = kwargs.get('collectionTime',0L) # long
+                                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/latest/models/Health.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/latest/models/Health.py", line 31
+    self.lastReported = kwargs.get('lastReported',0L) # long
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/latest/models/InstanceState.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/latest/models/InstanceState.py", line 32
+    self.lastChecked = kwargs.get('lastChecked',0L) # long
+                                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/latest/models/TimeSeriesAggregateStatistics.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/latest/models/TimeSeriesAggregateStatistics.py", line 40
+    self.count = kwargs.get('count',0L) # long
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/latest/models/TimeSeriesData.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/latest/models/TimeSeriesData.py", line 36
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/latest/models/TimeSeriesMetadata.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/latest/models/TimeSeriesMetadata.py", line 45
+    self.endTime = kwargs.get('endTime',0L) # long
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/latest/models/TimeSeriesRow.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/latest/models/TimeSeriesRow.py", line 38
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/cloudera/director/v1'...
+Listing './lib/python3.5/site-packages/cloudera/director/v1/models'...
+Listing './lib/python3.5/site-packages/cloudera/director/v10'...
+Listing './lib/python3.5/site-packages/cloudera/director/v10/models'...
+Compiling './lib/python3.5/site-packages/cloudera/director/v10/models/ClusterAdministrationSettings.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v10/models/ClusterAdministrationSettings.py", line 32
+    self.autoRepairCooldownPeriodInSeconds = kwargs.get('autoRepairCooldownPeriodInSeconds',0L) # long
+                                                                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v10/models/ClusterUpdateEventSummary.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v10/models/ClusterUpdateEventSummary.py", line 42
+    self.occurredAt = kwargs.get('occurredAt',0L) # long
+                                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v10/models/DiagnosticDataSummary.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v10/models/DiagnosticDataSummary.py", line 37
+    self.collectionTime = kwargs.get('collectionTime',0L) # long
+                                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v10/models/Health.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v10/models/Health.py", line 31
+    self.lastReported = kwargs.get('lastReported',0L) # long
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v10/models/InstanceState.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v10/models/InstanceState.py", line 32
+    self.lastChecked = kwargs.get('lastChecked',0L) # long
+                                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v10/models/TimeSeriesAggregateStatistics.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v10/models/TimeSeriesAggregateStatistics.py", line 40
+    self.count = kwargs.get('count',0L) # long
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v10/models/TimeSeriesData.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v10/models/TimeSeriesData.py", line 36
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v10/models/TimeSeriesMetadata.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v10/models/TimeSeriesMetadata.py", line 45
+    self.endTime = kwargs.get('endTime',0L) # long
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v10/models/TimeSeriesRow.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v10/models/TimeSeriesRow.py", line 38
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/cloudera/director/v2'...
+Listing './lib/python3.5/site-packages/cloudera/director/v2/models'...
+Compiling './lib/python3.5/site-packages/cloudera/director/v2/models/Health.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v2/models/Health.py", line 31
+    self.lastReported = kwargs.get('lastReported',0L) # long
+                                                   ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/cloudera/director/v3'...
+Listing './lib/python3.5/site-packages/cloudera/director/v3/models'...
+Compiling './lib/python3.5/site-packages/cloudera/director/v3/models/Health.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v3/models/Health.py", line 31
+    self.lastReported = kwargs.get('lastReported',0L) # long
+                                                   ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/cloudera/director/v4'...
+Listing './lib/python3.5/site-packages/cloudera/director/v4/models'...
+Compiling './lib/python3.5/site-packages/cloudera/director/v4/models/Health.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v4/models/Health.py", line 31
+    self.lastReported = kwargs.get('lastReported',0L) # long
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v4/models/TimeSeriesAggregateStatistics.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v4/models/TimeSeriesAggregateStatistics.py", line 40
+    self.count = kwargs.get('count',0L) # long
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v4/models/TimeSeriesData.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v4/models/TimeSeriesData.py", line 36
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v4/models/TimeSeriesMetadata.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v4/models/TimeSeriesMetadata.py", line 45
+    self.endTime = kwargs.get('endTime',0L) # long
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v4/models/TimeSeriesRow.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v4/models/TimeSeriesRow.py", line 38
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/cloudera/director/v5'...
+Listing './lib/python3.5/site-packages/cloudera/director/v5/models'...
+Compiling './lib/python3.5/site-packages/cloudera/director/v5/models/Health.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v5/models/Health.py", line 31
+    self.lastReported = kwargs.get('lastReported',0L) # long
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v5/models/TimeSeriesAggregateStatistics.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v5/models/TimeSeriesAggregateStatistics.py", line 40
+    self.count = kwargs.get('count',0L) # long
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v5/models/TimeSeriesData.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v5/models/TimeSeriesData.py", line 36
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v5/models/TimeSeriesMetadata.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v5/models/TimeSeriesMetadata.py", line 45
+    self.endTime = kwargs.get('endTime',0L) # long
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v5/models/TimeSeriesRow.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v5/models/TimeSeriesRow.py", line 38
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/cloudera/director/v6'...
+Listing './lib/python3.5/site-packages/cloudera/director/v6/models'...
+Compiling './lib/python3.5/site-packages/cloudera/director/v6/models/DiagnosticDataSummary.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v6/models/DiagnosticDataSummary.py", line 37
+    self.collectionTime = kwargs.get('collectionTime',0L) # long
+                                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v6/models/Health.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v6/models/Health.py", line 31
+    self.lastReported = kwargs.get('lastReported',0L) # long
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v6/models/TimeSeriesAggregateStatistics.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v6/models/TimeSeriesAggregateStatistics.py", line 40
+    self.count = kwargs.get('count',0L) # long
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v6/models/TimeSeriesData.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v6/models/TimeSeriesData.py", line 36
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v6/models/TimeSeriesMetadata.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v6/models/TimeSeriesMetadata.py", line 45
+    self.endTime = kwargs.get('endTime',0L) # long
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v6/models/TimeSeriesRow.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v6/models/TimeSeriesRow.py", line 38
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/cloudera/director/v7'...
+Listing './lib/python3.5/site-packages/cloudera/director/v7/models'...
+Compiling './lib/python3.5/site-packages/cloudera/director/v7/models/DiagnosticDataSummary.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v7/models/DiagnosticDataSummary.py", line 37
+    self.collectionTime = kwargs.get('collectionTime',0L) # long
+                                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v7/models/Health.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v7/models/Health.py", line 31
+    self.lastReported = kwargs.get('lastReported',0L) # long
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v7/models/TimeSeriesAggregateStatistics.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v7/models/TimeSeriesAggregateStatistics.py", line 40
+    self.count = kwargs.get('count',0L) # long
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v7/models/TimeSeriesData.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v7/models/TimeSeriesData.py", line 36
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v7/models/TimeSeriesMetadata.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v7/models/TimeSeriesMetadata.py", line 45
+    self.endTime = kwargs.get('endTime',0L) # long
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v7/models/TimeSeriesRow.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v7/models/TimeSeriesRow.py", line 38
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/cloudera/director/v8'...
+Listing './lib/python3.5/site-packages/cloudera/director/v8/models'...
+Compiling './lib/python3.5/site-packages/cloudera/director/v8/models/DiagnosticDataSummary.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v8/models/DiagnosticDataSummary.py", line 37
+    self.collectionTime = kwargs.get('collectionTime',0L) # long
+                                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v8/models/Health.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v8/models/Health.py", line 31
+    self.lastReported = kwargs.get('lastReported',0L) # long
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v8/models/InstanceState.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v8/models/InstanceState.py", line 32
+    self.lastChecked = kwargs.get('lastChecked',0L) # long
+                                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v8/models/TimeSeriesAggregateStatistics.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v8/models/TimeSeriesAggregateStatistics.py", line 40
+    self.count = kwargs.get('count',0L) # long
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v8/models/TimeSeriesData.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v8/models/TimeSeriesData.py", line 36
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v8/models/TimeSeriesMetadata.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v8/models/TimeSeriesMetadata.py", line 45
+    self.endTime = kwargs.get('endTime',0L) # long
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v8/models/TimeSeriesRow.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v8/models/TimeSeriesRow.py", line 38
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/cloudera/director/v9'...
+Listing './lib/python3.5/site-packages/cloudera/director/v9/models'...
+Compiling './lib/python3.5/site-packages/cloudera/director/v9/models/ClusterAdministrationSettings.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v9/models/ClusterAdministrationSettings.py", line 32
+    self.autoRepairCooldownPeriodInSeconds = kwargs.get('autoRepairCooldownPeriodInSeconds',0L) # long
+                                                                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v9/models/ClusterUpdateEventSummary.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v9/models/ClusterUpdateEventSummary.py", line 42
+    self.occurredAt = kwargs.get('occurredAt',0L) # long
+                                               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v9/models/DiagnosticDataSummary.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v9/models/DiagnosticDataSummary.py", line 37
+    self.collectionTime = kwargs.get('collectionTime',0L) # long
+                                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v9/models/Health.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v9/models/Health.py", line 31
+    self.lastReported = kwargs.get('lastReported',0L) # long
+                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v9/models/InstanceState.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v9/models/InstanceState.py", line 32
+    self.lastChecked = kwargs.get('lastChecked',0L) # long
+                                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v9/models/TimeSeriesAggregateStatistics.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v9/models/TimeSeriesAggregateStatistics.py", line 40
+    self.count = kwargs.get('count',0L) # long
+                                     ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v9/models/TimeSeriesData.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v9/models/TimeSeriesData.py", line 36
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v9/models/TimeSeriesMetadata.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v9/models/TimeSeriesMetadata.py", line 45
+    self.endTime = kwargs.get('endTime',0L) # long
+                                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/cloudera/director/v9/models/TimeSeriesRow.py'...
+***   File "./lib/python3.5/site-packages/cloudera/director/v9/models/TimeSeriesRow.py", line 38
+    self.timestamp = kwargs.get('timestamp',0L) # long
+                                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/cloudera_director_python_client-2.6.0.egg-info'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...

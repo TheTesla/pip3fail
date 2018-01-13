@@ -1,0 +1,324 @@
+Listing '.'...
+Listing './bin'...
+Compiling './bin/zombieadv.py'...
+***   File "./bin/zombieadv.py", line 11
+    print chr(27) + "[2J"
+            ^
+SyntaxError: invalid syntax
+
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/ZombieAdventure-1.0.5.egg-info'...
+Listing './lib/python3.5/site-packages/bin'...
+Compiling './lib/python3.5/site-packages/bin/zombieadv.py'...
+***   File "./lib/python3.5/site-packages/bin/zombieadv.py", line 11
+    print chr(27) + "[2J"
+            ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './lib/python3.5/site-packages/zombieadventure'...
+Compiling './lib/python3.5/site-packages/zombieadventure/apartment.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/apartment.py", line 9
+    print "\nLocation: ", the_player.location
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/basement.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/basement.py", line 17
+    print "\nYou dive into the junk."
+                                    ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/cherry_tree.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/cherry_tree.py", line 13
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/curling_street.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/curling_street.py", line 13
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/custom_error.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/custom_error.py", line 6
+    print "\nI do not understand\n"
+                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/death.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/death.py", line 23
+    print get_death_type
+                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/ending.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/ending.py", line 9
+    print "\nAs you set sail you feel a peace, finally."
+                                                       ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/fight.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/fight.py", line 34
+    print "\nAvailable weapons:"
+                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/foreman_ave.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/foreman_ave.py", line 13
+    print "You go closer to the containers. There are"
+                                                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/handler.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/handler.py", line 29
+    print "Saved as %s file" % save_file_name
+                           ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/harrington_river.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/harrington_river.py", line 10
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/junction.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/junction.py", line 9
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/kitchen.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/kitchen.py", line 12
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/maintenance_room.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/maintenance_room.py", line 8
+    print "You're at huge wooden workbench with some tools around."
+                                                                  ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/march_street.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/march_street.py", line 10
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/marina.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/marina.py", line 13
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/motor_shop.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/motor_shop.py", line 11
+    print "\n--- Welcome to ShopDB ver. 3.0 ---"
+                                               ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/old_building.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/old_building.py", line 13
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/old_building_1f.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/old_building_1f.py", line 11
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/old_building_2f.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/old_building_2f.py", line 12
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/pirate_house.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/pirate_house.py", line 16
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/player.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/player.py", line 32
+    print chr(27) + "[2J"
+            ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/zombieadventure/prompt.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/prompt.py", line 20
+    print "Inventory:"
+                     ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/restroom.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/restroom.py", line 9
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/score.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/score.py", line 61
+    print "\nYou get %d score points! %d total score.\n" % (calculated_xp, the_player.score)
+                                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/zombieadventure/small_houses.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/small_houses.py", line 9
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/splashscreen.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/splashscreen.py", line 29
+    print """
+                      :::!~!!!!!:.
+                  .xUHWH!! !!?M88WHX:.
+                .X*#M@$!!  !X!M$$$$$$WWx:.
+               :!!!!!!?H! :!$!$$$$$$$$$$8X:
+              !!~  ~:~!! :~!$!#$$$$$$$$$$8X:
+             :!~::!H!<   ~.U$X!?R$$$$$$$$MM!
+             ~!~!!!!~~ .:XW$$$U!!?$$$$$$RMM!
+               !:~~~ .:!M"T#$$$$WX??#MRRMMM!
+               ~?WuxiW*`   `"#$$$$8!!!!??!!!
+             :X- M$$$$       `"T#$T~!8$WUXU~
+            :%`  ~#$$$m:        ~!~ ?$$$$$$
+          :!`.-   ~T$$$$8xx.  .xWW- ~""##*"
+.....   -~~:<` !    ~?T#$$@@W@*?$$      /`
+W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :
+#"~~`.:x%`!!  !H:   !WM$$$$Ti.: .!WUn+!`
+:::~:!!`:X~ .: ?H.!u "$$$B$$$!W:U!T$$M~
+.~~   :X@!.-~   ?@WTWo("*$$$W$TH$! `
+Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
+$R@i.~~ !     :   ~$$$$$B$$en:``
+?MXT@Wx.~    :     ~"##*$$$$M~
+"""
+             
+                                  
+                                      
+                                          
+                                           
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                           
+                                           
+                                          
+                                        
+                                        
+                                       
+                                    
+                                 
+                                
+                              
+  ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/zombieadventure/suburb_1.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/suburb_1.py", line 9
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/suburb_2.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/suburb_2.py", line 9
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/suburb_3.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/suburb_3.py", line 9
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/suburb_4.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/suburb_4.py", line 9
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/suburb_5.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/suburb_5.py", line 9
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/suburb_6.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/suburb_6.py", line 9
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/suburb_junction.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/suburb_junction.py", line 20
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/suburbs.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/suburbs.py", line 9
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/twentysecond_street.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/twentysecond_street.py", line 11
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/very_long_street.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/very_long_street.py", line 9
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/wandas_boat.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/wandas_boat.py", line 15
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/wandas_house.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/wandas_house.py", line 14
+    print "\nLocation:", the_player.location
+                      ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/zombieadventure/warehouse.py'...
+***   File "./lib/python3.5/site-packages/zombieadventure/warehouse.py", line 16
+    print "\nShelves are labeled as:\n%s." % shelves_view
+                                         ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './share'...
+Listing './share/python-wheels'...

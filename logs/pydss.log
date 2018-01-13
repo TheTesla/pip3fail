@@ -1,0 +1,507 @@
+Listing '.'...
+Listing './bin'...
+Listing './include'...
+Listing './lib'...
+Listing './lib/python3.5'...
+Listing './lib/python3.5/site-packages'...
+Listing './lib/python3.5/site-packages/pip'...
+Listing './lib/python3.5/site-packages/pip/_vendor'...
+Listing './lib/python3.5/site-packages/pip/commands'...
+Listing './lib/python3.5/site-packages/pip/compat'...
+Listing './lib/python3.5/site-packages/pip/models'...
+Listing './lib/python3.5/site-packages/pip/operations'...
+Listing './lib/python3.5/site-packages/pip/req'...
+Listing './lib/python3.5/site-packages/pip/utils'...
+Listing './lib/python3.5/site-packages/pip/vcs'...
+Listing './lib/python3.5/site-packages/pip-9.0.1.dist-info'...
+Listing './lib/python3.5/site-packages/pkg_resources'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor'...
+Listing './lib/python3.5/site-packages/pkg_resources/_vendor/packaging'...
+Listing './lib/python3.5/site-packages/pkg_resources/extern'...
+Listing './lib/python3.5/site-packages/pkg_resources-0.0.0.dist-info'...
+Listing './lib/python3.5/site-packages/pydss'...
+Listing './lib/python3.5/site-packages/pydss/common'...
+Compiling './lib/python3.5/site-packages/pydss/common/AutoAddImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/common/AutoAddImpl.py", line 112
+    while # add only unique bus names PDElem is not None:
+                                                        ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/common/CommandLineDSSForms.py'...
+***   File "./lib/python3.5/site-packages/pydss/common/CommandLineDSSForms.py", line 62
+    print msg
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pydss/common/ControlProblem.py'...
+***   File "./lib/python3.5/site-packages/pydss/common/ControlProblem.py", line 4
+    serialVersionUID = 5547353119127786206L
+                                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/common/ControlQueueImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/common/ControlQueueImpl.py", line 211
+    except IOException, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/common/DSSCktElement.py'...
+***   File "./lib/python3.5/site-packages/pydss/common/DSSCktElement.py", line 731
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/common/DSSClassDefs.py'...
+***   File "./lib/python3.5/site-packages/pydss/common/DSSClassDefs.py", line 50
+    CLASSMASK = 4294967288L
+                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/common/DSSGlobals.py'...
+***   File "./lib/python3.5/site-packages/pydss/common/DSSGlobals.py", line 306
+    except IOException, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/common/ExportResults.py'...
+***   File "./lib/python3.5/site-packages/pydss/common/ExportResults.py", line 34
+    print 'Bus,  V1,  p.u.,Base kV, V2, %V2/V1, V0, %V0/V1, Vresidual, %NEMA'
+                                                                            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pydss/common/ShowResults.py'...
+***   File "./lib/python3.5/site-packages/pydss/common/ShowResults.py", line 166
+    print 'ELEMENT = \"' + pElem.getDSSClassName() + '.' + pElem.getName() + '\"'
+                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/common/SolutionAlgs.py'...
+***   File "./lib/python3.5/site-packages/pydss/common/SolutionAlgs.py", line 804
+    except Esolv32Problem, e:
+                         ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/common/SolutionObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/common/SolutionObjImpl.py", line 269
+    except Esolv32Problem, e:
+                         ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pydss/control'...
+Compiling './lib/python3.5/site-packages/pydss/control/CapControlImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/control/CapControlImpl.py", line 47
+    self.propertyHelp[0] = 'Full object name of the circuit element, typically a line or transformer, ' + 'to which the capacitor control's PT and/or CT are connected.' + 'There is no default; must be specified.'
+                                                                                                                                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/control/CapControlObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/control/CapControlObjImpl.py", line 264
+    print '~ ' + self.getParentClass().getPropertyName()[i] + '=' + self.getPropertyValue(i)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/control/GenDispatcherObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/control/GenDispatcherObjImpl.py", line 109
+    print '~ ' + self.getParentClass().getPropertyName()[i] + '=' + self.getPropertyValue(i)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/control/RecloserImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/control/RecloserImpl.py", line 60
+    self.propertyHelp[0] = 'Full object name of the circuit element, typically a line, transformer, load, or generator, ' + 'to which the Recloser's PT and/or CT are connected.' + ' This is the \"monitored\" element. ' + 'There is no default; must be specified.'
+                                                                                                                                                   ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/control/RecloserObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/control/RecloserObjImpl.py", line 367
+    print '~ ' + self.getParentClass().getPropertyName()[i] + '=' + self.getPropertyValue(i)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/control/RegControlImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/control/RegControlImpl.py", line 247
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/control/RegControlObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/control/RegControlObjImpl.py", line 247
+    print '~ ' + self.getParentClass().getPropertyName()[i] + '=' + self.getPropertyValue(i)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/control/RelayImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/control/RelayImpl.py", line 32
+    self.addProperty('MonitoredObj', 0, 'Full object name of the circuit element, typically a line, transformer, load, or generator, ' + 'to which the relay's PT and/or CT are connected.' + ' This is the \"monitored\" element. ' + 'There is no default; must be specified.')
+                                                                                                                                                             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/control/RelayObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/control/RelayObjImpl.py", line 379
+    print '~ ' + self.getParentClass().getPropertyName()[i] + '=' + self.getPropertyValue(self.getParentClass().getPropertyIdxMap()[i])
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/control/StorageControllerObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/control/StorageControllerObjImpl.py", line 476
+    print '~ ' + self.getParentClass().getPropertyName()[i] + '=' + self.getPropertyValue(i)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/control/SwtControlObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/control/SwtControlObjImpl.py", line 161
+    print '~ ' + self.getParentClass().getPropertyName()[i] + '=' + self.getPropertyValue(self.getParentClass().getPropertyIdxMap()[i])
+             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pydss/conversion'...
+Compiling './lib/python3.5/site-packages/pydss/conversion/EquivalentObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/conversion/EquivalentObjImpl.py", line 246
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/conversion/GICLineObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/conversion/GICLineObjImpl.py", line 265
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/conversion/GeneratorImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/conversion/GeneratorImpl.py", line 92
+    self.propertyHelp[Generator.NumPropsThisClass] = 'Name of harmonic voltage or current spectrum for this generator. ' + 'Voltage behind Xd' for machine - default. Current injection for inverter. ' + 'Default value is \"default\", which is defined when the DSS starts.'
+                                                                                                                                                 ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/conversion/GeneratorObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/conversion/GeneratorObjImpl.py", line 697
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/conversion/ISourceObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/conversion/ISourceObjImpl.py", line 80
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/conversion/LoadObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/conversion/LoadObjImpl.py", line 889
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/conversion/PCElementImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/conversion/PCElementImpl.py", line 107
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/conversion/PVSystemImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/conversion/PVSystemImpl.py", line 446
+    except IOException, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/conversion/PVSystemObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/conversion/PVSystemObjImpl.py", line 777
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/conversion/StorageImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/conversion/StorageImpl.py", line 505
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/conversion/StorageObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/conversion/StorageObjImpl.py", line 939
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/conversion/VSourceObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/conversion/VSourceObjImpl.py", line 351
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pydss/delivery'...
+Compiling './lib/python3.5/site-packages/pydss/delivery/CapacitorObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/delivery/CapacitorObjImpl.py", line 260
+    print '~ ' + self.parentClass.getPropertyName()[0] + '=' + self.getFirstBus()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/delivery/FaultObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/delivery/FaultObjImpl.py", line 185
+    print '~ ' + pc.getPropertyName()[0] + '=' + self.getFirstBus()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/delivery/FuseObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/delivery/FuseObjImpl.py", line 279
+    print '~ ' + self.getParentClass().getPropertyName()[i] + '=' + self.getPropertyValue(i)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/delivery/GICTransformerObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/delivery/GICTransformerObjImpl.py", line 165
+    print '~ ' + pc.getPropertyName()[0] + '=' + self.getFirstBus()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/delivery/LineObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/delivery/LineObjImpl.py", line 437
+    print '~ ' + pc.getPropertyName()[0] + '=' + self.getFirstBus()
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/delivery/PDElementImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/delivery/PDElementImpl.py", line 66
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/delivery/ReactorObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/delivery/ReactorObjImpl.py", line 470
+    print ')'
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pydss/delivery/TransformerObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/delivery/TransformerObjImpl.py", line 351
+    while # Trap wdg= and write out array properties instead iProp > 0:
+                                                                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pydss/executive'...
+Compiling './lib/python3.5/site-packages/pydss/executive/DSSExecutive.py'...
+***   File "./lib/python3.5/site-packages/pydss/executive/DSSExecutive.py", line 105
+    except IOException, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/executive/ExecCommands.py'...
+***   File "./lib/python3.5/site-packages/pydss/executive/ExecCommands.py", line 788
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/executive/ExecHelper.py'...
+***   File "./lib/python3.5/site-packages/pydss/executive/ExecHelper.py", line 33
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/executive/ExecOptions.py'...
+***   File "./lib/python3.5/site-packages/pydss/executive/ExecOptions.py", line 1154
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/executive/PlotOptions.py'...
+***   File "./lib/python3.5/site-packages/pydss/executive/PlotOptions.py", line 95
+    while # Interpret Parameterlen(param) > 0:
+                                             ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pydss/general'...
+Compiling './lib/python3.5/site-packages/pydss/general/CNDataObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/CNDataObjImpl.py", line 39
+    print String.format.format('%d', self.kStrand)
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/CableDataObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/CableDataObjImpl.py", line 38
+    print String.format.format('%.3g', self.epsR)
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/ConductorDataObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/ConductorDataObjImpl.py", line 48
+    print String.format.format('%.6g', self.getRDC())
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/DSSObjectImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/DSSObjectImpl.py", line 57
+    print 'new ' + self.getDSSClassName() + '.' + self.getName()
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/GrowthShapeImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/GrowthShapeImpl.py", line 11
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/GrowthShapeObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/GrowthShapeObjImpl.py", line 92
+    print '~ ' + self.parentClass.getPropertyName()[i] + '=(' + self.getPropertyValue(i) + ')'
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/LineCodeObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/LineCodeObjImpl.py", line 216
+    print '~ ' + self.parentClass.getPropertyName()[1] + '=' + self.NPhases
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/LineGeometryImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/LineGeometryImpl.py", line 462
+    except LineGeometryProblem, e:
+                              ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/LineGeometryObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/LineGeometryObjImpl.py", line 22
+    serialVersionUID = -181990921259563478L
+                                          ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/LineSpacingObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/LineSpacingObjImpl.py", line 41
+    print '~ ' + self.parentClass.getPropertyName()[i] + '=' + self.getPropertyValue(i)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/LoadShapeImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/LoadShapeImpl.py", line 11
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/LoadShapeObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/LoadShapeObjImpl.py", line 241
+    print '~ ' + self.parentClass.getPropertyName()[i] + '=(' + self.propertyValue[i] + ')'
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/PriceShapeImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/PriceShapeImpl.py", line 11
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/PriceShapeObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/PriceShapeObjImpl.py", line 164
+    print '~ ' + self.getParentClass().getPropertyName()[i] + '=(' + self.getPropertyValue(i) + ')'
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/SpectrumImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/SpectrumImpl.py", line 11
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/SpectrumObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/SpectrumObjImpl.py", line 56
+    print ')'
+            ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Compiling './lib/python3.5/site-packages/pydss/general/TCC_CurveObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/TCC_CurveObjImpl.py", line 141
+    print '~ ' + self.parentClass.getPropertyName()[i] + '=' + self.propertyValue[i]
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/TSDataObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/TSDataObjImpl.py", line 37
+    print String.format.format('%.6g', self.diaShield)
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/TShapeImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/TShapeImpl.py", line 16
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/TShapeObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/TShapeObjImpl.py", line 164
+    print '~ ' + self.getParentClass().getPropertyName()[i] + '=(' + self.getPropertyValue(i) + ')'
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/WireDataObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/WireDataObjImpl.py", line 29
+    print String.format.format('%.6g', self.getRDC())
+               ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/XYCurveImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/XYCurveImpl.py", line 11
+    except ImportError, e:
+                      ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/XYCurveObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/XYCurveObjImpl.py", line 180
+    print '~ ' + self.getParentClass().getPropertyName()[i] + '=(' + self.getPropertyValue(i) + ')'
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/general/XfmrCodeObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/general/XfmrCodeObjImpl.py", line 188
+    print '~ ' + 'NumWindings=' + self.numWindings
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+
+Listing './lib/python3.5/site-packages/pydss/meter'...
+Compiling './lib/python3.5/site-packages/pydss/meter/EnergyMeterImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/meter/EnergyMeterImpl.py", line 94
+    self.propertyHelp[7] = 'ARRAY of full element names for this meter's zone.  Default is for meter to find it's own zone. ' + 'If specified, DSS uses this list instead.  Can access the names in a single-column text file.  Examples: ' + DSSGlobals.CRLF + DSSGlobals.CRLF + 'zonelist=[line.L1, transformer.T1, Line.L3] ' + DSSGlobals.CRLF + 'zonelist=(file=branchlist.txt)'
+                                                                       ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/meter/EnergyMeterObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/meter/EnergyMeterObjImpl.py", line 306
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/meter/MonitorObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/meter/MonitorObjImpl.py", line 396
+    except Exception, e:
+                    ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/meter/SensorObjImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/meter/SensorObjImpl.py", line 263
+    print '~ ' + self.getParentClass().getPropertyName()[i] + '=' + self.getPropertyValue(i)
+             ^
+SyntaxError: invalid syntax
+
+Compiling './lib/python3.5/site-packages/pydss/meter/SystemMeterImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/meter/SystemMeterImpl.py", line 46
+    except IOException, e:
+                      ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pydss/parser'...
+Compiling './lib/python3.5/site-packages/pydss/parser/ParserProblem.py'...
+***   File "./lib/python3.5/site-packages/pydss/parser/ParserProblem.py", line 4
+    serialVersionUID = 8929100624320889327L
+                                          ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pydss/plot'...
+Listing './lib/python3.5/site-packages/pydss/shared'...
+Compiling './lib/python3.5/site-packages/pydss/shared/HashListImpl.py'...
+***   File "./lib/python3.5/site-packages/pydss/shared/HashListImpl.py", line 241
+    print String.format.format('Number of Hash Lists = %d, Number of Elements = %d', self.numLists, self.numElements)
+               ^
+SyntaxError: invalid syntax
+
+Listing './lib/python3.5/site-packages/pydss-0.1a0.egg-info'...
+Listing './lib/python3.5/site-packages/setuptools'...
+Listing './lib/python3.5/site-packages/setuptools/command'...
+Listing './lib/python3.5/site-packages/setuptools/extern'...
+Listing './lib/python3.5/site-packages/setuptools-32.3.1.dist-info'...
+Listing './share'...
+Listing './share/python-wheels'...
